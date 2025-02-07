@@ -1,0 +1,19 @@
+{
+  "name": "bannerweb-fetch",
+  "version": "1.0.0",
+  "description": "Bannerweb fetcher for Sabanci University",
+  "main": "fetcher.js",
+  "author": "omerrifat",
+  "type": "module",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "async": "^3.2.6",
+    "cheerio": "^1.0.0",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "@types/async": "^3.2.24",
+    "@types/node": "^22.7.5"
+  }
+}
