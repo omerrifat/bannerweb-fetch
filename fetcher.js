@@ -136,6 +136,18 @@ async function fetchCoursesForTerm(term) {
     return courses;
 }
 
-fetchCoursesForTerm("202402").then(async(courses)=>{
-    await writeFileAtomic("202402.json", JSON.stringify(courses));
-});
+/**
+ * @param {string} termCode
+ */
+async function fetchTerm(termCode) {
+    const term = await fetchCoursesForTerm(termCode);
+    await writeFileAtomic(`${termCode}.json`, JSON.stringify(term));
+    await writeFileAtomic(`${termCode}-pretty.json`, JSON.stringify(term, null, 2));
+}
+
+async function main() {
+    await fetchTerm("202401");
+    await fetchTerm("202402");
+}
+
+main();

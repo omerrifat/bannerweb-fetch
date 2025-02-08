@@ -4,7 +4,7 @@ import * as cheerio from "cheerio";
  * @argument {string} relativePath
  */
 function getSuisURL(relativePath) {
-    return new URL(relativePath, "https://suis.sabanciuniv.edu").toString();
+    return new URL(relativePath, "https://suis.sabanciuniv.edu");
 }
 
 /**
@@ -14,7 +14,7 @@ function getSuisURL(relativePath) {
 function parseCourseHeader($, headerElement) {
     const text = $(headerElement).text().trim();
     const a = $(headerElement).find('a')[0];
-    const detailURL = getSuisURL($(a).attr('href'));
+    const detailURL = getSuisURL($(a).attr('href')).toString();
     const match = text.match(/^(.+?) \- ([0-9]*) \- ([A-Z]*) ([0-9]*)([A-Z]*) \- ([A-Z0-9]*)(?:(?:  \[ Syllabus \])?|$)/);
     const obj = {
         name: match[1],
@@ -152,6 +152,65 @@ function trimSuffix(str, suffix) {
 }
 
 /**
+ * @argument {object} obj
+ * @argument {string} title
+ * @argument {string} description
+ */
+function parseSingleLineCourseDetail(obj, title, description) {
+    switch (title) {
+        case "Associated Term:":
+            obj.term = description;
+            break;
+        case "Registration Dates:":
+            obj.registrationDates = description;
+            break;
+        case "Levels:":
+            obj.levels = description.split(", ");
+            break;
+        case "Faculty:":
+            obj.faculty = trimPrefix(description, "Course Offered by ");
+            break;
+        case "Attributes:":
+        default: {
+            let match = description.match(/([0-9]+) ECTS/);
+            if (match != null) {
+                obj.ects = +match[1];
+            }
+            match = description.match(/Lang\. of Instruction: ([a-zA-Z]+)/);
+            if (match != null) {
+                obj.language = match[1];
+            }
+            match = description.match(/Course Offered by ([A-Za-z]+)/);
+            if (match != null) {
+                obj.faculty = match[1];
+            }
+            break;
+        }
+    }
+}
+
+/**
+ * @argument {cheerio.CheerioAPI} $
+ * @argument {object} obj
+ * @argument {string} title
+ * @argument {Element[]} elements
+ */
+function parseMultiLineCourseDetail($, obj, title, elements) {
+    switch (title) {
+        case "Corequisites:":
+        case "Prerequisites:":
+            const arr = obj[title.slice(0, title.length-1).toLowerCase()] = [];
+            for (const elem of elements) {
+                if (elem.type !== 'tag' || elem.tagName !== 'a') {
+                    continue;
+                }
+                arr.push($(elem).text());
+            }
+            break;
+    }
+}
+
+/**
  * @argument {cheerio.CheerioAPI} $
  * @argument {Element} detailsElement
  */
@@ -162,51 +221,33 @@ function parseCourseDetails($, detailsElement) {
         const child = children[i];
         const text = $(child).text().trim();
         if (child.type === 'tag' && child.tagName === 'span') {
-            const detailChild = children[i+1];
-            const brChild = children[i+2];
+            const child1 = children[i+1];
+            const child2 = children[i+2];
             i += 2;
-            if (detailChild?.type !== 'text') {
+            if (child1?.type !== 'text' || child2?.type !== 'tag' ||
+                child2?.tagName !== 'br')
+            {
                 continue;
             }
-            if (brChild?.type !== 'tag' || brChild.tagName !== 'br') {
-                continue;
-            }
-            const detail = $(detailChild).text().trim();
-            switch (text) {
-                case "Associated Term:":
-                    obj.term = detail;
-                    break;
-                case "Registration Dates:":
-                    obj.registrationDates = detail;
-                    break;
-                case "Levels:":
-                    obj.levels = detail.split(", ");
-                    break;
-                case "Faculty:":
-                    obj.faculty = trimPrefix(detail, "Course Offered by ");
-                    break;
-                case "Attributes:":
-                default: {
-                    let match = detail.match(/([0-9]+) ECTS/);
-                    if (match != null) {
-                        obj.ects = +match[1];
-                    }
-                    match = detail.match(/Lang\. of Instruction: ([a-zA-Z]+)/);
-                    if (match != null) {
-                        obj.language = match[1];
-                    }
-                    match = detail.match(/Course Offered by ([A-Za-z]+)/);
-                    if (match != null) {
-                        obj.faculty = match[1];
-                    }
-                    break;
+            if ($(child1).text().trim() === "") {
+                const subChildren = [];
+                while (i < children.length && (children[i].type !== 'tag' ||
+                    children[i].tagName !== 'span'))
+                {
+                    subChildren.push(children[i++]);
                 }
+                parseMultiLineCourseDetail($, obj, text, subChildren);
+            }
+            else {
+                i += 2;
+                const description = $(child1).text().trim();
+                parseSingleLineCourseDetail(obj, text, description);
             }
         }
         else if (child.type === 'tag' && child.tagName === 'a') {
             switch (text) {
                 case "View Catalog Entry":
-                    obj.catalogEntryURL = getSuisURL($(child).attr('href'));
+                    obj.catalogEntryURL = getSuisURL($(child).attr('href')).toString();
                     break;
             }
         }
