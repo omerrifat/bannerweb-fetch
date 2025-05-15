@@ -15,5 +15,5 @@ if [ -z "$(git status --porcelain --untracked-files=no)" ]; then
     echo "No changes to commit"
 else
     git commit -m "$1"
-    git push
+    git push origin gh-pages
 fi
