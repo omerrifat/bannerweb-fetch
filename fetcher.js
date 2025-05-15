@@ -151,6 +151,7 @@ async function fetchTermList() {
     const terms = extractTerms(termsHTML);
     mkdirSync("out", { recursive: true });
     await writeFileAtomic(`out/terms.json`, JSON.stringify(terms));
+    await writeFileAtomic(`out/terms-pretty.json`, JSON.stringify(terms, null, 2));
     return terms;
 }
 
