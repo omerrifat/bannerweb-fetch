@@ -1,7 +1,6 @@
 name: Periodic Fetch
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: '0 1 * * *'
 
@@ -15,8 +14,4 @@ jobs:
       - name: Fetch & Deploy Changes
         run: |
           git fetch origin gh-pages:gh-pages
-          if [[ "${{ github.event_name }}" == "schedule" ]]; then
-            ./workflow-run.sh "Periodic fetch ($(date +'%F %H:%M:%S') UTC)"
-          else
-            ./workflow-run.sh "Manually triggered fetch ($(date +'%F %H:%M:%S') UTC)"
-          fi
+          ./workflow-run.sh "Periodic fetch ($(date +'%F %H:%M:%S') UTC)" fetch-last 3

@@ -1,0 +1,24 @@
+name: Specific Fetch
+
+on:
+  workflow_dispatch:
+    inputs:
+      term:
+        description: 'Term'
+        required: true
+        default: '202402'
+        type: string
+
+jobs:
+  periodic-fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch & Deploy Changes
+        env:
+          BANNERWEB_TERM: ${{ inputs.term }}
+        run: |
+          git fetch origin gh-pages:gh-pages
+          ./workflow-run.sh "Manual fetch for $BANNERWEB_TERM ($(date +'%F %H:%M:%S') UTC)" fetch "$BANNERWEB_TERM"
