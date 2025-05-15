@@ -119,7 +119,7 @@ function *detailFetchersForCourses(courses) {
 async function fetchCoursesForTerm(term) {
     let req = "sel_subj=dummy&sel_day=dummy" +
         "&sel_schd=dummy&sel_insm=dummy&sel_camp=dummy&sel_levl=dummy" +
-        "&sel_sess=dummy&sel_instr=dummy&sel_ptrm=dummy&sel_attr=dummy" +
+        "&sel_sess=dummy&sel_instr=dummy&sel_instr=%25&sel_ptrm=dummy&sel_attr=dummy" +
         "&sel_crse=&sel_title=&sel_from_cred=&sel_to_cred=&begin_hh=0" +
         "&begin_mi=0&begin_ap=a&end_hh=0&end_mi=0&end_ap=a";
     const subjects = await fetchSubjectsForTerm(term);
