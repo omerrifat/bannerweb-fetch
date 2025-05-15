@@ -1,0 +1,3289 @@
+[
+  {
+    "name": "Supply Chain Management",
+    "crn": 30001,
+    "subject": "GSM",
+    "code": 523,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30001",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=GSM&sel_crse_strt=523&sel_crse_end=523&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "1:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 08, 2002",
+          "to": "Jun 08, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "2:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 08, 2002",
+          "to": "Jun 08, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 08, 2002",
+          "to": "Jun 08, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:00 pm",
+          "to": "5:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 08, 2002",
+          "to": "Jun 08, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:00 pm",
+          "to": "6:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 08, 2002",
+          "to": "Jun 08, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "7:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 08, 2002",
+          "to": "Jun 08, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "1:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 29, 2002",
+          "to": "Jul 06, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "2:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 29, 2002",
+          "to": "Jul 06, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 29, 2002",
+          "to": "Jul 06, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:00 pm",
+          "to": "5:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 29, 2002",
+          "to": "Jul 06, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:00 pm",
+          "to": "6:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 29, 2002",
+          "to": "Jul 06, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "7:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 29, 2002",
+          "to": "Jul 06, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "1:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 27, 2002",
+          "to": "Aug 03, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "2:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 27, 2002",
+          "to": "Aug 03, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 27, 2002",
+          "to": "Aug 03, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:00 pm",
+          "to": "5:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 27, 2002",
+          "to": "Aug 03, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:00 pm",
+          "to": "6:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 27, 2002",
+          "to": "Aug 03, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "7:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 27, 2002",
+          "to": "Aug 03, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Erengüç"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 15,
+        "remaining": 3
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Corporate Finance",
+    "crn": 30002,
+    "subject": "GSM",
+    "code": 543,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30002",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=GSM&sel_crse_strt=543&sel_crse_end=543&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:00 pm",
+          "to": "6:50 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "May 31, 2002",
+          "to": "Jun 07, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arman Kösedağ"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "7:50 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "May 31, 2002",
+          "to": "Jun 07, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arman Kösedağ"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:00 pm",
+          "to": "8:50 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "May 31, 2002",
+          "to": "Jun 07, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arman Kösedağ"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "9:50 am"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 01, 2002",
+          "to": "Jun 29, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arman Kösedağ"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:00 am",
+          "to": "10:50 am"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 01, 2002",
+          "to": "Jun 29, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arman Kösedağ"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:00 am",
+          "to": "11:50 am"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 01, 2002",
+          "to": "Jun 29, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arman Kösedağ"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "1:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 01, 2002",
+          "to": "Jun 01, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arman Kösedağ"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "2:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 01, 2002",
+          "to": "Jun 01, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arman Kösedağ"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 01, 2002",
+          "to": "Jun 01, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arman Kösedağ"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "1:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 15, 2002",
+          "to": "Jun 22, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arman Kösedağ"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "2:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 15, 2002",
+          "to": "Jun 22, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arman Kösedağ"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 15, 2002",
+          "to": "Jun 22, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arman Kösedağ"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:00 pm",
+          "to": "6:50 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 28, 2002",
+          "to": "Jun 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arman Kösedağ"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "7:50 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 28, 2002",
+          "to": "Jun 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arman Kösedağ"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:00 pm",
+          "to": "8:50 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 28, 2002",
+          "to": "Jun 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arman Kösedağ"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 14,
+        "remaining": 4
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Strategic Thinking and Action",
+    "crn": 30003,
+    "subject": "GSM",
+    "code": 553,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30003",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR"
+    ],
+    "ects": 6,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=GSM&sel_crse_strt=553&sel_crse_end=553&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:00 pm",
+          "to": "6:50 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 05, 2002",
+          "to": "Jul 26, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "7:50 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 05, 2002",
+          "to": "Jul 26, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:00 pm",
+          "to": "8:50 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 05, 2002",
+          "to": "Jul 26, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "9:50 am"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 06, 2002",
+          "to": "Jul 06, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:00 am",
+          "to": "10:50 am"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 06, 2002",
+          "to": "Jul 06, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:00 am",
+          "to": "11:50 am"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 06, 2002",
+          "to": "Jul 06, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "1:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 13, 2002",
+          "to": "Jul 20, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "2:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 13, 2002",
+          "to": "Jul 20, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 13, 2002",
+          "to": "Jul 20, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:00 pm",
+          "to": "5:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 13, 2002",
+          "to": "Jul 13, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:00 pm",
+          "to": "6:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 13, 2002",
+          "to": "Jul 13, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "7:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 13, 2002",
+          "to": "Jul 13, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "9:50 am"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 20, 2002",
+          "to": "Jul 27, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:00 am",
+          "to": "10:50 am"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 20, 2002",
+          "to": "Jul 27, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:00 am",
+          "to": "11:50 am"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 20, 2002",
+          "to": "Jul 27, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:00 pm",
+          "to": "5:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 10, 2002",
+          "to": "Aug 10, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:00 pm",
+          "to": "6:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 10, 2002",
+          "to": "Aug 10, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "7:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 10, 2002",
+          "to": "Aug 10, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Moshe Farjoun"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 18,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Technology Management",
+    "crn": 30004,
+    "subject": "GSM",
+    "code": 528,
+    "type": null,
+    "section": "SLP",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30004",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=GSM&sel_crse_strt=528&sel_crse_end=528&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:30 am",
+          "to": "12:00 pm"
+        },
+        "days": "W",
+        "where": "FMAN G060",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 16, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dilek Çetindamar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:30 pm",
+          "to": "4:00 pm"
+        },
+        "days": "W",
+        "where": "FMAN G060",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 16, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dilek Çetindamar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:30 pm",
+          "to": "4:00 pm"
+        },
+        "days": "M",
+        "where": "FMAN G060",
+        "dateRange": {
+          "from": "Jul 22, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dilek Çetindamar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:30 pm",
+          "to": "4:00 pm"
+        },
+        "days": "W",
+        "where": "FMAN G060",
+        "dateRange": {
+          "from": "Aug 21, 2002",
+          "to": "Aug 21, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dilek Çetindamar"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 12,
+        "actual": 12,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Marketing Management",
+    "crn": 30005,
+    "subject": "GSM",
+    "code": 532,
+    "type": null,
+    "section": "SLP",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30005",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=GSM&sel_crse_strt=532&sel_crse_end=532&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:30 am",
+          "to": "12:00 pm"
+        },
+        "days": "TR",
+        "where": "FMAN G060",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 02, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Tülin Erdem Öncü"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:30 pm",
+          "to": "4:00 pm"
+        },
+        "days": "TR",
+        "where": "FMAN G060",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 02, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Tülin Erdem Öncü"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 12,
+        "actual": 11,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Project Management",
+    "crn": 30006,
+    "subject": "GSM",
+    "code": 5001,
+    "type": null,
+    "section": "P",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30006",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 4,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Module",
+    "credits": 2,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=GSM&sel_crse_strt=5001&sel_crse_end=5001&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:00 am",
+          "to": "10:50 am"
+        },
+        "days": "MTWRF",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Jul 19, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünver Çınar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:00 am",
+          "to": "11:50 am"
+        },
+        "days": "MTWRF",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Jul 19, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünver Çınar"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 19,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Project Development",
+    "crn": 30007,
+    "subject": "GSM",
+    "code": 5013,
+    "type": null,
+    "section": "P",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30007",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Module",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=GSM&sel_crse_strt=5013&sel_crse_end=5013&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "1:50 pm"
+        },
+        "days": "R",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Jul 19, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Muhittin Oral"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "2:50 pm"
+        },
+        "days": "R",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Jul 19, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Muhittin Oral"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "R",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Jul 19, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Muhittin Oral"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "9:50 am"
+        },
+        "days": "R",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 22, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Muhittin Oral"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:00 am",
+          "to": "10:50 am"
+        },
+        "days": "R",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 22, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Muhittin Oral"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:00 am",
+          "to": "11:50 am"
+        },
+        "days": "R",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 22, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Muhittin Oral"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 19,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "International Marketing Strategy",
+    "crn": 30008,
+    "subject": "GSM",
+    "code": 531,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30008",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=GSM&sel_crse_strt=531&sel_crse_end=531&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "9:50 am"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 03, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Attila Yaprak"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:00 am",
+          "to": "10:50 am"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 03, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Attila Yaprak"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:00 am",
+          "to": "11:50 am"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 03, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Attila Yaprak"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:00 pm",
+          "to": "6:50 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 09, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Attila Yaprak"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "7:50 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 09, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Attila Yaprak"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:00 pm",
+          "to": "8:50 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 09, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Attila Yaprak"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "1:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 10, 2002",
+          "to": "Aug 17, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Attila Yaprak"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "2:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 10, 2002",
+          "to": "Aug 17, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Attila Yaprak"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 10, 2002",
+          "to": "Aug 17, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Attila Yaprak"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 18,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Information Systems",
+    "crn": 30009,
+    "subject": "GSM",
+    "code": 525,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30009",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=GSM&sel_crse_strt=525&sel_crse_end=525&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:00 pm",
+          "to": "6:50 pm"
+        },
+        "days": "TW",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 30, 2002",
+          "to": "Aug 21, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül Toker"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "7:50 pm"
+        },
+        "days": "TW",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 30, 2002",
+          "to": "Aug 21, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül Toker"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:00 pm",
+          "to": "8:50 pm"
+        },
+        "days": "TW",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 30, 2002",
+          "to": "Aug 21, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül Toker"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:00 pm",
+          "to": "6:50 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 02, 2002",
+          "to": "Aug 02, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül Toker"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "7:50 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 02, 2002",
+          "to": "Aug 02, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül Toker"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:00 pm",
+          "to": "8:50 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 02, 2002",
+          "to": "Aug 02, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül Toker"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:00 pm",
+          "to": "5:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 17, 2002",
+          "to": "Aug 17, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül Toker"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:00 pm",
+          "to": "6:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 17, 2002",
+          "to": "Aug 17, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül Toker"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "7:50 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 17, 2002",
+          "to": "Aug 17, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül Toker"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 8,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Summer Project",
+    "crn": 30010,
+    "subject": "PROJ",
+    "code": 302,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30010",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 0,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Internship",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=PROJ&sel_crse_strt=302&sel_crse_end=302&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erhan Budak"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 28,
+        "actual": 28,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Project and Internship",
+    "crn": 30011,
+    "subject": "PROJ",
+    "code": 300,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30011",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Internship",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=PROJ&sel_crse_strt=300&sel_crse_end=300&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İzak Atiyas"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 19,
+        "remaining": 6
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Political Participation",
+    "crn": 30012,
+    "subject": "POLS",
+    "code": 222,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30012",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 0,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=POLS&sel_crse_strt=222&sel_crse_end=222&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "W",
+        "where": "FASS G052",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Güneş Murat Tezcür"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "2:00 pm"
+        },
+        "days": "R",
+        "where": "FASS G052",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Güneş Murat Tezcür"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 3,
+        "remaining": 7
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Games and Strategies",
+    "crn": 30013,
+    "subject": "ECON",
+    "code": 201,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30013",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR"
+    ],
+    "ects": 6,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=ECON&sel_crse_strt=201&sel_crse_end=201&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "M",
+        "where": "FASS G022",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İzak Atiyas",
+          "Özgür Kıbrıs"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "T",
+        "where": "FASS G022",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İzak Atiyas",
+          "Özgür Kıbrıs"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 40,
+        "actual": 8,
+        "remaining": 32
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Games and Strategies - Recitation",
+    "crn": 30014,
+    "subject": "ECON",
+    "code": 201,
+    "type": "R",
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30014",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=ECON&sel_crse_strt=201R&sel_crse_end=201R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "F",
+        "where": "FASS G022",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özgür İnal"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 40,
+        "actual": 8,
+        "remaining": 32
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Macroeconomics",
+    "crn": 30015,
+    "subject": "ECON",
+    "code": 202,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30015",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=ECON&sel_crse_strt=202&sel_crse_end=202&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "M",
+        "where": "FASS G022",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Baç",
+          "Alpay Filiztekin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "5:00 pm"
+        },
+        "days": "T",
+        "where": "FASS G022",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Baç",
+          "Alpay Filiztekin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 5,
+        "remaining": 25
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Macroeconomics - Recitation",
+    "crn": 30016,
+    "subject": "ECON",
+    "code": 202,
+    "type": "R",
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30016",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=ECON&sel_crse_strt=202R&sel_crse_end=202R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "11:00 am"
+        },
+        "days": "W",
+        "where": "FASS G022",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selim Jürgen Ergun"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 5,
+        "remaining": 25
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Multimedia",
+    "crn": 30017,
+    "subject": "VA",
+    "code": 210,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30017",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR"
+    ],
+    "ects": 6,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=VA&sel_crse_strt=210&sel_crse_end=210&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "F",
+        "where": "FASS 2023",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Murat Germen"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "5:00 pm"
+        },
+        "days": "F",
+        "where": "FASS 2023",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Murat Germen"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 15,
+        "actual": 3,
+        "remaining": 12
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Probability and Statistics",
+    "crn": 30018,
+    "subject": "MATH",
+    "code": 203,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30018",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR"
+    ],
+    "ects": 0,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=MATH&sel_crse_strt=203&sel_crse_end=203&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "T",
+        "where": "FENS G032",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yorgo Istefanopulos"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "5:00 pm"
+        },
+        "days": "R",
+        "where": "FENS G032",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yorgo Istefanopulos"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 40,
+        "actual": 3,
+        "remaining": 37
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "prerequisites": [
+      "MATH 101",
+      "MATH 102"
+    ]
+  },
+  {
+    "name": "Introduction to Probability and Statics - Recitation",
+    "crn": 30019,
+    "subject": "MATH",
+    "code": 203,
+    "type": "R",
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30019",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=MATH&sel_crse_strt=203R&sel_crse_end=203R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "F",
+        "where": "FENS G032",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yağmur Mehmet Gök",
+          "Mahmut Çağdaş Arslan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 40,
+        "actual": 3,
+        "remaining": 37
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Computing",
+    "crn": 30020,
+    "subject": "CS",
+    "code": 201,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30020",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 0,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=CS&sel_crse_strt=201&sel_crse_end=201&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:10 pm",
+          "to": "6:00 pm"
+        },
+        "days": "M",
+        "where": "FENS G032",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Albert Levi"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "T",
+        "where": "FENS G032",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Albert Levi"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "1:00 pm"
+        },
+        "days": "W",
+        "where": "FENS G032",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Albert Levi"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 60,
+        "actual": 11,
+        "remaining": 49
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Computing - Recitation",
+    "crn": 30021,
+    "subject": "CS",
+    "code": 201,
+    "type": "R",
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30021",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=CS&sel_crse_strt=201R&sel_crse_end=201R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "11:00 am"
+        },
+        "days": "R",
+        "where": "FENS G032",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İlknur Durgar El-Kahlout",
+          "Aydın Akyol",
+          "Zerrin Sökmen",
+          "Esra Vural"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 60,
+        "actual": 11,
+        "remaining": 49
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Computing - Lab.",
+    "crn": 30022,
+    "subject": "CS",
+    "code": 201,
+    "type": "L",
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30022",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lab",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=CS&sel_crse_strt=201L&sel_crse_end=201L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "R",
+        "where": "FENS G032",
+        "dateRange": {
+          "from": "Jul 15, 2002",
+          "to": "Aug 28, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İlknur Durgar El-Kahlout",
+          "Aydın Akyol",
+          "Zerrin Sökmen",
+          "Esra Vural"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 60,
+        "actual": 11,
+        "remaining": 49
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Upper Intermediate English for FDP",
+    "crn": 30023,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30023",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 12,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=ENG&sel_crse_strt=003&sel_crse_end=003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "MTWR",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayfer Karaca",
+          "Aylin Atikler Yurdacan",
+          "Müge Bilgiç",
+          "Emine Canan Güreli",
+          "Hakan San"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "MTWR",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayfer Karaca",
+          "Aylin Atikler Yurdacan",
+          "Müge Bilgiç",
+          "Emine Canan Güreli",
+          "Hakan San"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "MTWR",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayfer Karaca",
+          "Aylin Atikler Yurdacan",
+          "Müge Bilgiç",
+          "Emine Canan Güreli",
+          "Hakan San"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "MTWR",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayfer Karaca",
+          "Aylin Atikler Yurdacan",
+          "Müge Bilgiç",
+          "Emine Canan Güreli",
+          "Hakan San"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "MTWR",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayfer Karaca",
+          "Aylin Atikler Yurdacan",
+          "Müge Bilgiç",
+          "Emine Canan Güreli",
+          "Hakan San"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 40,
+        "actual": 22,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Upper Intermediate English for FDP",
+    "crn": 30024,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30024",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 12,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=ENG&sel_crse_strt=003&sel_crse_end=003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "MTWR",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hakan San",
+          "Jane Clifford",
+          "Murat Şakir Eroğul",
+          "İrfan İyibil"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "MTWR",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hakan San",
+          "Jane Clifford",
+          "Murat Şakir Eroğul",
+          "İrfan İyibil"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "MTWR",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hakan San",
+          "Jane Clifford",
+          "Murat Şakir Eroğul",
+          "İrfan İyibil"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "MTWR",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hakan San",
+          "Jane Clifford",
+          "Murat Şakir Eroğul",
+          "İrfan İyibil"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "MTWR",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hakan San",
+          "Jane Clifford",
+          "Murat Şakir Eroğul",
+          "İrfan İyibil"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 40,
+        "actual": 21,
+        "remaining": 19
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Upper Intermediate English for FDP",
+    "crn": 30025,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "C",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30025",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 12,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=ENG&sel_crse_strt=003&sel_crse_end=003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "MTWR",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Göksel Göçer",
+          "John Patrick Landers",
+          "Nazan Özçınar",
+          "Richard Spiby"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "MTWR",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Göksel Göçer",
+          "John Patrick Landers",
+          "Nazan Özçınar",
+          "Richard Spiby"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "MTWR",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Göksel Göçer",
+          "John Patrick Landers",
+          "Nazan Özçınar",
+          "Richard Spiby"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "MTWR",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Göksel Göçer",
+          "John Patrick Landers",
+          "Nazan Özçınar",
+          "Richard Spiby"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "MTWR",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Göksel Göçer",
+          "John Patrick Landers",
+          "Nazan Özçınar",
+          "Richard Spiby"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 40,
+        "actual": 21,
+        "remaining": 19
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Turkish for FDP",
+    "crn": 30026,
+    "subject": "TLL",
+    "code": 1,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30026",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 8,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=TLL&sel_crse_strt=001&sel_crse_end=001&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:10 pm",
+          "to": "5:00 pm"
+        },
+        "days": "M",
+        "where": "SL G016",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erol Köroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:10 pm",
+          "to": "5:00 pm"
+        },
+        "days": "W",
+        "where": "SL G016",
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erol Köroğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 17,
+        "actual": 6,
+        "remaining": 11
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Project Course",
+    "crn": 30027,
+    "subject": "EECS",
+    "code": 592,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200103&crn_in=30027",
+    "term": "Summer 2001-2002",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 20,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200103&one_subj=EECS&sel_crse_strt=592&sel_crse_end=592&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Jul 08, 2002",
+          "to": "Aug 23, 2002"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yaşar Gürbüz"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 1,
+        "actual": 1,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  }
+]
