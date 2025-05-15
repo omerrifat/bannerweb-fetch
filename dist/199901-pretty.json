@@ -1,0 +1,7562 @@
+[
+  {
+    "name": "Freshman English I",
+    "crn": 10005,
+    "subject": "ENG",
+    "code": 101,
+    "type": null,
+    "section": "A1",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10005",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR"
+    ],
+    "ects": 0,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=101&sel_crse_end=101&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "TWF",
+        "where": "SL CLASSRM 09",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dilek Tokay"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 16,
+        "remaining": 4
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 5,
+        "actual": 0,
+        "remaining": 5
+      }
+    ]
+  },
+  {
+    "name": "Functions:Discrete and Continuous I",
+    "crn": 10008,
+    "subject": "MATH",
+    "code": 101,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10008",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 0,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=MATH&sel_crse_strt=101&sel_crse_end=101&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 13",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Albert Erkip",
+          "Alev Sıdıka Topuzoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "F",
+        "where": "SL CLASSRM 13",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Albert Erkip",
+          "Alev Sıdıka Topuzoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 100,
+        "actual": 52,
+        "remaining": 48
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Science of Nature I",
+    "crn": 10010,
+    "subject": "NS",
+    "code": 101,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10010",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 0,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=NS&sel_crse_strt=101&sel_crse_end=101&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "M",
+        "where": "SL CLASSRM 13",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Ali Alpar",
+          "Hüveyda Başağa",
+          "Burak Erman",
+          "Zehra Sayers"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 13",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Ali Alpar",
+          "Hüveyda Başağa",
+          "Burak Erman",
+          "Zehra Sayers"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 100,
+        "actual": 53,
+        "remaining": 47
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Humanity and Society I",
+    "crn": 10012,
+    "subject": "SPS",
+    "code": 101,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10012",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=SPS&sel_crse_strt=101&sel_crse_end=101&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "TR",
+        "where": "SL CLASSRM 13",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Halil Berktay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:10 pm",
+          "to": "5:40 pm"
+        },
+        "days": "T",
+        "where": "SL CLASSRM 01",
+        "dateRange": {
+          "from": "Nov 30, 1999",
+          "to": "Nov 30, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Halil Berktay"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 100,
+        "actual": 53,
+        "remaining": 47
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "The Making of Modern Türkiye I",
+    "crn": 10014,
+    "subject": "HIST",
+    "code": 191,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10014",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 0,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=HIST&sel_crse_strt=191&sel_crse_end=191&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "TR",
+        "where": "SL CLASSRM 13",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cemil Hüsnü Koçak"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:10 pm",
+          "to": "5:40 pm"
+        },
+        "days": "F",
+        "where": "SL CLASSRM 13",
+        "dateRange": {
+          "from": "Dec 03, 1999",
+          "to": "Dec 03, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cemil Hüsnü Koçak"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 100,
+        "actual": 53,
+        "remaining": 47
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "crn": 10016,
+    "subject": "TLL",
+    "code": 101,
+    "type": null,
+    "section": "A1",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10016",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 0,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=TLL&sel_crse_strt=101&sel_crse_end=101&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 14",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cemil Hüsnü Koçak"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 17,
+        "remaining": 3
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Science of Nature I - Lab.",
+    "crn": 10054,
+    "subject": "NS",
+    "code": 101,
+    "type": "L",
+    "section": "LA",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10054",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lab",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=NS&sel_crse_strt=101L&sel_crse_end=101L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "T",
+        "where": "Administration Bldg. L007",
+        "dateRange": {
+          "from": "Oct 19, 1999",
+          "to": "Oct 19, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Naci İnci"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "T",
+        "where": "Administration Bldg. L007",
+        "dateRange": {
+          "from": "Nov 16, 1999",
+          "to": "Nov 16, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Naci İnci"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "T",
+        "where": "Administration Bldg. L007",
+        "dateRange": {
+          "from": "Nov 30, 1999",
+          "to": "Nov 30, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Naci İnci"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "T",
+        "where": "Administration Bldg. L007",
+        "dateRange": {
+          "from": "Dec 28, 1999",
+          "to": "Dec 28, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Naci İnci"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 26,
+        "actual": 26,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "NS 101",
+      "NS 101R"
+    ]
+  },
+  {
+    "name": "Science of Nature I - Recitation",
+    "crn": 10055,
+    "subject": "NS",
+    "code": 101,
+    "type": "R",
+    "section": "A1",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10055",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=NS&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "T",
+        "where": "SL CLASSRM 14",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 5,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "NS 101",
+      "NS 101L"
+    ]
+  },
+  {
+    "name": "Humanity and Society I - Discussion",
+    "crn": 10056,
+    "subject": "SPS",
+    "code": 101,
+    "type": "D",
+    "section": "A1",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10056",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=SPS&sel_crse_strt=101D&sel_crse_end=101D&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "F",
+        "where": "SL CLASSRM 14",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayhan Mehmet Akman"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 17,
+        "remaining": 3
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "SPS 101"
+    ]
+  },
+  {
+    "name": "Functions: Discrete and Continuous I - Recitation",
+    "crn": 10057,
+    "subject": "MATH",
+    "code": 101,
+    "type": "R",
+    "section": "A1",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10057",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=MATH&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "M",
+        "where": "SL CLASSRM 09",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Banu Baydil"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 21,
+        "actual": 21,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "MATH 101"
+    ]
+  },
+  {
+    "name": "Science of Nature I - Lab.",
+    "crn": 10061,
+    "subject": "NS",
+    "code": 101,
+    "type": "L",
+    "section": "LC",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10061",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lab",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=NS&sel_crse_strt=101L&sel_crse_end=101L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "R",
+        "where": "Administration Bldg. L007",
+        "dateRange": {
+          "from": "Oct 21, 1999",
+          "to": "Oct 21, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Naci İnci"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "R",
+        "where": "Administration Bldg. L007",
+        "dateRange": {
+          "from": "Nov 18, 1999",
+          "to": "Nov 18, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Naci İnci"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "R",
+        "where": "Administration Bldg. L007",
+        "dateRange": {
+          "from": "Dec 02, 1999",
+          "to": "Dec 02, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Naci İnci"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "R",
+        "where": "Administration Bldg. L007",
+        "dateRange": {
+          "from": "Dec 30, 1999",
+          "to": "Dec 30, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Naci İnci"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 27,
+        "actual": 27,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "NS 101",
+      "NS 101R"
+    ]
+  },
+  {
+    "name": "Freshman English I",
+    "crn": 10088,
+    "subject": "ENG",
+    "code": 101,
+    "type": null,
+    "section": "A2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10088",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR"
+    ],
+    "ects": 0,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=101&sel_crse_end=101&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:10 pm",
+          "to": "5:30 pm"
+        },
+        "days": "M",
+        "where": "SL CLASSRM 06",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Annedith Schneider"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:10 pm",
+          "to": "4:30 pm"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 06",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Annedith Schneider"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 16,
+        "remaining": 4
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 5,
+        "actual": 0,
+        "remaining": 5
+      }
+    ]
+  },
+  {
+    "name": "Freshman English I",
+    "crn": 10089,
+    "subject": "ENG",
+    "code": 101,
+    "type": null,
+    "section": "B1",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10089",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR"
+    ],
+    "ects": 0,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=101&sel_crse_end=101&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:10 pm",
+          "to": "5:00 pm"
+        },
+        "days": "T",
+        "where": "SL CLASSRM 17",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dilek Tokay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "WF",
+        "where": "SL CLASSRM 17",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dilek Tokay"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 15,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 5,
+        "actual": 0,
+        "remaining": 5
+      }
+    ]
+  },
+  {
+    "name": "Freshman English I",
+    "crn": 10090,
+    "subject": "ENG",
+    "code": 101,
+    "type": null,
+    "section": "EX",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10090",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR"
+    ],
+    "ects": 0,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=101&sel_crse_end=101&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 6,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 5,
+        "actual": 0,
+        "remaining": 5
+      }
+    ]
+  },
+  {
+    "name": "Functions: Discrete and Continuous I - Recitation",
+    "crn": 10092,
+    "subject": "MATH",
+    "code": 101,
+    "type": "R",
+    "section": "A2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10092",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=MATH&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "M",
+        "where": "SL MM 05",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mutlu Doğruel"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 18,
+        "remaining": 2
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "MATH 101"
+    ]
+  },
+  {
+    "name": "Functions: Discrete and Continuous I - Recitation",
+    "crn": 10093,
+    "subject": "MATH",
+    "code": 101,
+    "type": "R",
+    "section": "B1",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10093",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=MATH&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "T",
+        "where": "SL MM 05",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mutlu Doğruel"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 13,
+        "remaining": 7
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "MATH 101"
+    ]
+  },
+  {
+    "name": "Humanity and Society I - Discussion",
+    "crn": 10096,
+    "subject": "SPS",
+    "code": 101,
+    "type": "D",
+    "section": "A2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10096",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=SPS&sel_crse_strt=101D&sel_crse_end=101D&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "F",
+        "where": "SL CLASSRM 15",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ekin Burak Arıkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:00 pm",
+          "to": "1:00 pm"
+        },
+        "days": "F",
+        "where": "SL CLASSRM 02",
+        "dateRange": {
+          "from": "Jan 14, 2000",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ekin Burak Arıkan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 18,
+        "remaining": 2
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "SPS 101"
+    ]
+  },
+  {
+    "name": "Humanity and Society I - Discussion",
+    "crn": 10098,
+    "subject": "SPS",
+    "code": 101,
+    "type": "D",
+    "section": "B1",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10098",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=SPS&sel_crse_strt=101D&sel_crse_end=101D&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "F",
+        "where": "SL CLASSRM 10",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Halil Berktay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:01 pm",
+          "to": "4:30 pm"
+        },
+        "days": "F",
+        "where": "SL CLASSRM 11",
+        "dateRange": {
+          "from": "Jan 14, 2000",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Halil Berktay"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 18,
+        "remaining": 2
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "SPS 101"
+    ]
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "crn": 10100,
+    "subject": "TLL",
+    "code": 101,
+    "type": null,
+    "section": "A2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10100",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 0,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=TLL&sel_crse_strt=101&sel_crse_end=101&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 15",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Bülent Kahraman"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 18,
+        "remaining": 2
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "crn": 10102,
+    "subject": "TLL",
+    "code": 101,
+    "type": null,
+    "section": "B1",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10102",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 0,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=TLL&sel_crse_strt=101&sel_crse_end=101&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:10 pm",
+          "to": "5:00 pm"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 14",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ekin Burak Arıkan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 18,
+        "remaining": 2
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Basic English for FDP",
+    "crn": 10110,
+    "subject": "ENG",
+    "code": 1,
+    "type": null,
+    "section": "A1",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10110",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=001&sel_crse_end=001&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "MWF",
+        "where": "SL CLASSRM 08",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Murat Şakir Eroğul"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 06",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Murat Şakir Eroğul"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 06",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Murat Şakir Eroğul"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 06",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Murat Şakir Eroğul"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "TR",
+        "where": "SL CLASSRM 11",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Murat Şakir Eroğul"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "TR",
+        "where": "SL MM 02",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Murat Şakir Eroğul"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "TR",
+        "where": "SL CLASSRM 06",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Murat Şakir Eroğul"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "W",
+        "where": "SL MM 04",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Murat Şakir Eroğul"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 11",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Murat Şakir Eroğul"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 15,
+        "actual": 15,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Basic English for FDP",
+    "crn": 10111,
+    "subject": "ENG",
+    "code": 1,
+    "type": null,
+    "section": "A2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10111",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=001&sel_crse_end=001&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "MWF",
+        "where": "SL CLASSRM 09",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Dec 05, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 05",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 05",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 05",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "TR",
+        "where": "SL CLASSRM 12",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "TR",
+        "where": "SL MM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "TR",
+        "where": "SL CLASSRM 09",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "W",
+        "where": "SL MM 03",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Dec 05, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 12",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Dec 05, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 09",
+        "dateRange": {
+          "from": "Dec 06, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 14",
+        "dateRange": {
+          "from": "Dec 06, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 14",
+        "dateRange": {
+          "from": "Dec 06, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 09",
+        "dateRange": {
+          "from": "Dec 06, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Amy Elizabeth Fenning"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 16,
+        "actual": 16,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Basic English for FDP",
+    "crn": 10113,
+    "subject": "ENG",
+    "code": 1,
+    "type": null,
+    "section": "B1",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10113",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=001&sel_crse_end=001&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "MTWRF",
+        "where": "SL CLASSRM 10",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Robert Vazzo"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "MF",
+        "where": "SL MM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Robert Vazzo"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "M",
+        "where": "SL MM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Robert Vazzo"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "TWR",
+        "where": "SL CLASSRM 06",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Robert Vazzo"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "TWR",
+        "where": "SL CLASSRM 06",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Robert Vazzo"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "TWR",
+        "where": "SL CLASSRM 06",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Robert Vazzo"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "F",
+        "where": "SL CLASSRM 14",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Robert Vazzo"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 10,
+        "remaining": 4
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Basic English for FDP",
+    "crn": 10114,
+    "subject": "ENG",
+    "code": 1,
+    "type": null,
+    "section": "B2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10114",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=001&sel_crse_end=001&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "MTWRF",
+        "where": "SL CLASSRM 11",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Göksel Göçer"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "MF",
+        "where": "SL MM 02",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Göksel Göçer"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "M",
+        "where": "SL CLASSRM 15",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Göksel Göçer"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "TWR",
+        "where": "SL CLASSRM 05",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Göksel Göçer"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "TWR",
+        "where": "SL CLASSRM 05",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Göksel Göçer"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "TWR",
+        "where": "SL CLASSRM 05",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Göksel Göçer"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "F",
+        "where": "SL MM 02",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Göksel Göçer"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 16,
+        "actual": 16,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Intermediate English for FDP",
+    "crn": 10115,
+    "subject": "ENG",
+    "code": 2,
+    "type": null,
+    "section": "A1",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10115",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=002&sel_crse_end=002&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Marisa Nickle"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Marisa Nickle"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Joanne Mary Yanova"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Joanne Mary Yanova"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "T",
+        "where": "SL MM 03",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Joanne Mary Yanova"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "T",
+        "where": "SL MM 03",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Joanne Mary Yanova"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "T",
+        "where": "SL CLASSRM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Joanne Mary Yanova"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Joanne Mary Yanova"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Joanne Mary Yanova"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Marisa Nickle"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Marisa Nickle"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "R",
+        "where": "SL MM 03",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Marisa Nickle"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "R",
+        "where": "SL CLASSRM 04",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Marisa Nickle"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "R",
+        "where": "SL MM 03",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Marisa Nickle"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 13,
+        "actual": 13,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Intermediate English for FDP",
+    "crn": 10119,
+    "subject": "ENG",
+    "code": 2,
+    "type": null,
+    "section": "B1",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10119",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=002&sel_crse_end=002&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:10 pm",
+          "to": "1:00 pm"
+        },
+        "days": "MWF",
+        "where": "SL CLASSRM 05",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "MF",
+        "where": "SL MM 03",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "M",
+        "where": "SL CLASSRM 14",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "TR",
+        "where": "SL CLASSRM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "TR",
+        "where": "SL CLASSRM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "TR",
+        "where": "SL CLASSRM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "T",
+        "where": "SL CLASSRM 05",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 12",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "W",
+        "where": "SL MM 03",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "R",
+        "where": "SL CLASSRM 05",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Nov 16, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "F",
+        "where": "SL CLASSRM 15",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:10 pm",
+          "to": "1:00 pm"
+        },
+        "days": "R",
+        "where": "SL CLASSRM 05",
+        "dateRange": {
+          "from": "Nov 17, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Emine Canan Güreli"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 13,
+        "actual": 12,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Intermediate English for FDP",
+    "crn": 10120,
+    "subject": "ENG",
+    "code": 2,
+    "type": null,
+    "section": "B2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10120",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=002&sel_crse_end=002&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "MWF",
+        "where": "SL MM 04",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fran Daniels"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:10 pm",
+          "to": "1:00 pm"
+        },
+        "days": "MWF",
+        "where": "SL CLASSRM 06",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fran Daniels"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "M",
+        "where": "SL CLASSRM 14",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fran Daniels"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "TR",
+        "where": "SL CLASSRM 02",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fran Daniels"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "TR",
+        "where": "SL CLASSRM 02",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fran Daniels"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "TR",
+        "where": "SL CLASSRM 02",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fran Daniels"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "TR",
+        "where": "SL CLASSRM 06",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fran Daniels"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 11",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fran Daniels"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "F",
+        "where": "SL CLASSRM 14",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fran Daniels"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 13,
+        "actual": 13,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Upper Intermediate English for FDP",
+    "crn": 10122,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "A1",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10122",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=003&sel_crse_end=003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "MTWRF",
+        "where": "SL CLASSRM 12",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayfer Karaca"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 07",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bryan Gilroy"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 07",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayfer Karaca"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 07",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayfer Karaca"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "TW",
+        "where": "SL MM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "TR",
+        "where": "SL CLASSRM 12",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayfer Karaca"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "W",
+        "where": "SL MM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayfer Karaca"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "R",
+        "where": "SL MM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayfer Karaca"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 16,
+        "actual": 16,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Upper Intermediate English for FDP",
+    "crn": 10123,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "A2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10123",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=003&sel_crse_end=003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "MTWRF",
+        "where": "SL CLASSRM 20",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmed Selim"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 08",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmed Selim"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 08",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmed Selim"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 08",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmed Selim"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "TWR",
+        "where": "SL MM 02",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmed Selim"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "TR",
+        "where": "SL CLASSRM 11",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmed Selim"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "W",
+        "where": "SL MM 02",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmed Selim"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 15,
+        "actual": 14,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Turkish for FDP",
+    "crn": 10124,
+    "subject": "TLL",
+    "code": 1,
+    "type": null,
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10124",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 4,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=TLL&sel_crse_strt=001&sel_crse_end=001&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "R",
+        "where": "SL CLASSRM 13",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Nov 15, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erol Köroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "R",
+        "where": "SL CLASSRM 02",
+        "dateRange": {
+          "from": "Nov 16, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erol Köroğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 24,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Turkish for FDP",
+    "crn": 10125,
+    "subject": "TLL",
+    "code": 1,
+    "type": null,
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10125",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 4,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=TLL&sel_crse_strt=001&sel_crse_end=001&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "T",
+        "where": "SL CLASSRM 13",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Başak Tuğ"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 24,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Turkish for FDP",
+    "crn": 10126,
+    "subject": "TLL",
+    "code": 1,
+    "type": null,
+    "section": "C",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10126",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 4,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=TLL&sel_crse_strt=001&sel_crse_end=001&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "T",
+        "where": "SL CLASSRM 13",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Günhan Börekçi"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 24,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Turkish for FDP",
+    "crn": 10127,
+    "subject": "TLL",
+    "code": 1,
+    "type": null,
+    "section": "D",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10127",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 4,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=TLL&sel_crse_strt=001&sel_crse_end=001&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:10 pm",
+          "to": "6:00 pm"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 13",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Nov 16, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erol Köroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:10 pm",
+          "to": "6:00 pm"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 11",
+        "dateRange": {
+          "from": "Nov 17, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erol Köroğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 24,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Turkish for FDP",
+    "crn": 10128,
+    "subject": "TLL",
+    "code": 1,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10128",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 4,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=TLL&sel_crse_strt=001&sel_crse_end=001&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:10 pm",
+          "to": "6:00 pm"
+        },
+        "days": "R",
+        "where": "SL CLASSRM 13",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Nov 16, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erol Köroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:10 pm",
+          "to": "6:00 pm"
+        },
+        "days": "R",
+        "where": "SL CLASSRM 13",
+        "dateRange": {
+          "from": "Nov 17, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erol Köroğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 24,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Globalisation in Practice",
+    "crn": 10133,
+    "subject": "GSM",
+    "code": 501,
+    "type": null,
+    "section": "P",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10133",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR"
+    ],
+    "ects": 6,
+    "campus": "Karaköy Communication Center",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=GSM&sel_crse_strt=501&sel_crse_end=501&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "M",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 18, 1999",
+          "to": "Dec 31, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 19,
+        "remaining": 6
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Competition",
+    "crn": 10135,
+    "subject": "GSM",
+    "code": 503,
+    "type": null,
+    "section": "P",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10135",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Karaköy Communication Center",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=GSM&sel_crse_strt=503&sel_crse_end=503&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "T",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 18, 1999",
+          "to": "Dec 31, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Muhittin Oral"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 19,
+        "remaining": 6
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Business Network and Networking",
+    "crn": 10137,
+    "subject": "GSM",
+    "code": 505,
+    "type": null,
+    "section": "P",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10137",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Karaköy Communication Center",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=GSM&sel_crse_strt=505&sel_crse_end=505&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "11:50 am"
+        },
+        "days": "W",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 18, 1999",
+          "to": "Dec 31, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Behlül Üsdiken"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 19,
+        "remaining": 6
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Concepts of Inquiry",
+    "crn": 10138,
+    "subject": "GSM",
+    "code": 507,
+    "type": null,
+    "section": "P",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10138",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Karaköy Communication Center",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=GSM&sel_crse_strt=507&sel_crse_end=507&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "R",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 18, 1999",
+          "to": "Dec 31, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arzu Syeda Wasti"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 19,
+        "remaining": 6
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Meaning Management",
+    "crn": 10141,
+    "subject": "GSM",
+    "code": 509,
+    "type": null,
+    "section": "P",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10141",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Karaköy Communication Center",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=GSM&sel_crse_strt=509&sel_crse_end=509&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "M",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jan 03, 2000",
+          "to": "Jan 21, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "T",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jan 03, 2000",
+          "to": "Jan 21, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "11:50 am"
+        },
+        "days": "W",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jan 03, 2000",
+          "to": "Jan 21, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "R",
+        "where": "Karaköy Communication Center",
+        "dateRange": {
+          "from": "Jan 03, 2000",
+          "to": "Jan 21, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 19,
+        "remaining": 6
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Practice Development I",
+    "crn": 10143,
+    "subject": "GSM",
+    "code": 511,
+    "type": null,
+    "section": "P",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10143",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "campus": "Karaköy Communication Center",
+    "scheduleType": "Workshop",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=GSM&sel_crse_strt=511&sel_crse_end=511&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "11:50 am"
+        },
+        "days": "R",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 18, 1999",
+          "to": "Jan 21, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 19,
+        "remaining": 6
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Globalisation in Practice",
+    "crn": 10145,
+    "subject": "GSM",
+    "code": 501,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10145",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR"
+    ],
+    "ects": 6,
+    "campus": "Karaköy Communication Center",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=GSM&sel_crse_strt=501&sel_crse_end=501&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:00 pm",
+          "to": "7:50 pm"
+        },
+        "days": "S",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 22, 1999",
+          "to": "Jan 01, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 15,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Competition",
+    "crn": 10147,
+    "subject": "GSM",
+    "code": 503,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10147",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Karaköy Communication Center",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=GSM&sel_crse_strt=503&sel_crse_end=503&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "S",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 22, 1999",
+          "to": "Jan 01, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Muhittin Oral"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 15,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Business Network and Networking",
+    "crn": 10149,
+    "subject": "GSM",
+    "code": 505,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10149",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Karaköy Communication Center",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=GSM&sel_crse_strt=505&sel_crse_end=505&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "11:50 am"
+        },
+        "days": "S",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 22, 1999",
+          "to": "Jan 01, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Behlül Üsdiken"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 15,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Concepts of Inquiry",
+    "crn": 10151,
+    "subject": "GSM",
+    "code": 507,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10151",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Karaköy Communication Center",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=GSM&sel_crse_strt=507&sel_crse_end=507&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "9:50 pm"
+        },
+        "days": "F",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 22, 1999",
+          "to": "Jan 01, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arzu Syeda Wasti"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:00 am",
+          "to": "11:50 am"
+        },
+        "days": "S",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jan 07, 2000",
+          "to": "Feb 05, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arzu Syeda Wasti"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 15,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Meaning Management",
+    "crn": 10153,
+    "subject": "GSM",
+    "code": 509,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10153",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Karaköy Communication Center",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=GSM&sel_crse_strt=509&sel_crse_end=509&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "S",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jan 07, 2000",
+          "to": "Feb 12, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:00 pm",
+          "to": "7:50 pm"
+        },
+        "days": "S",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jan 07, 2000",
+          "to": "Feb 12, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 15,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Practice Development I",
+    "crn": 10157,
+    "subject": "GSM",
+    "code": 511,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10157",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "campus": "Karaköy Communication Center",
+    "scheduleType": "Workshop",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=GSM&sel_crse_strt=511&sel_crse_end=511&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:00 pm",
+          "to": "6:50 pm"
+        },
+        "days": "F",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 22, 1999",
+          "to": "Jan 01, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:00 pm",
+          "to": "9:50 pm"
+        },
+        "days": "F",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jan 07, 2000",
+          "to": "Feb 05, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:00 pm",
+          "to": "8:50 pm"
+        },
+        "days": "F",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Feb 11, 2000",
+          "to": "Feb 12, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "11:50 am"
+        },
+        "days": "S",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Feb 11, 2000",
+          "to": "Feb 12, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 15,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Team Development Projects I",
+    "crn": 10159,
+    "subject": "TDP",
+    "code": 101,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10159",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 0,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=TDP&sel_crse_strt=101&sel_crse_end=101&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:00 pm",
+          "to": "6:00 pm"
+        },
+        "days": "M",
+        "where": "SL CLASSRM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Tara Hopkins"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 260,
+        "actual": 246,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Aspects of Globality",
+    "crn": 10160,
+    "subject": "GSM",
+    "code": 500,
+    "type": "A",
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10160",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "campus": "Karaköy Communication Center",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=GSM&sel_crse_strt=500A&sel_crse_end=500A&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:00 pm",
+          "to": "8:50 pm"
+        },
+        "days": "F",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 15, 1999",
+          "to": "Oct 16, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "11:50 am"
+        },
+        "days": "S",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 15, 1999",
+          "to": "Oct 16, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "S",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 15, 1999",
+          "to": "Oct 16, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:00 pm",
+          "to": "7:50 pm"
+        },
+        "days": "S",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 15, 1999",
+          "to": "Oct 16, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 15,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Aspects of Globality",
+    "crn": 10162,
+    "subject": "GSM",
+    "code": 500,
+    "type": "A",
+    "section": "P",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10162",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "campus": "Karaköy Communication Center",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=GSM&sel_crse_strt=500A&sel_crse_end=500A&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "M",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Oct 15, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "T",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Oct 15, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "11:50 am"
+        },
+        "days": "W",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Oct 15, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "R",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Oct 15, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "11:50 am"
+        },
+        "days": "F",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Oct 15, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 19,
+        "remaining": 6
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Science of Nature I - Recitation",
+    "crn": 10165,
+    "subject": "NS",
+    "code": 101,
+    "type": "R",
+    "section": "A3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10165",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=NS&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "T",
+        "where": "SL CLASSRM 16",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 6,
+        "remaining": 4
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "NS 101",
+      "NS 101L"
+    ]
+  },
+  {
+    "name": "Science of Nature I - Recitation",
+    "crn": 10168,
+    "subject": "NS",
+    "code": 101,
+    "type": "R",
+    "section": "C2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10168",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=NS&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "R",
+        "where": "SL CLASSRM 17",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 6,
+        "remaining": 4
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "NS 101",
+      "NS 101L"
+    ]
+  },
+  {
+    "name": "Science of Nature I - Recitation",
+    "crn": 10169,
+    "subject": "NS",
+    "code": 101,
+    "type": "R",
+    "section": "C3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10169",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=NS&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "R",
+        "where": "SL CLASSRM 18",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 6,
+        "remaining": 4
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "NS 101",
+      "NS 101L"
+    ]
+  },
+  {
+    "name": "Concepts, Structures and Transformations",
+    "crn": 10178,
+    "subject": "POLS",
+    "code": 501,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10178",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=POLS&sel_crse_strt=501&sel_crse_end=501&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "5:00 pm"
+        },
+        "days": "M",
+        "where": "Information Center IC 2004",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşe Gülden Kadıoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 5,
+        "actual": 3,
+        "remaining": 2
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Ethnicity and Nationalism",
+    "crn": 10179,
+    "subject": "POLS",
+    "code": 583,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10179",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=POLS&sel_crse_strt=583&sel_crse_end=583&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "5:00 pm"
+        },
+        "days": "T",
+        "where": "Information Center IC 2004",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Şerif Mardin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 5,
+        "actual": 3,
+        "remaining": 2
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 5,
+        "actual": 5,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Turkish Politics in the Multi-Party Era",
+    "crn": 10180,
+    "subject": "POLS",
+    "code": 593,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10180",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=POLS&sel_crse_strt=593&sel_crse_end=593&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "T",
+        "where": "SL 1007",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Bülent Kahraman"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 1,
+        "actual": 1,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Upper Intermediate English for FDP",
+    "crn": 10184,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "B2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10184",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=003&sel_crse_end=003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "MTWRF",
+        "where": "SL CLASSRM 07",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nancy Ela Karabeyoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "MF",
+        "where": "SL MM 05",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nancy Ela Karabeyoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "M",
+        "where": "SL MM 02",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nancy Ela Karabeyoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "TWR",
+        "where": "SL CLASSRM 07",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nancy Ela Karabeyoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "TWR",
+        "where": "SL CLASSRM 07",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nancy Ela Karabeyoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "TWR",
+        "where": "SL CLASSRM 07",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nancy Ela Karabeyoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "F",
+        "where": "SL CLASSRM 15",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nancy Ela Karabeyoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 15,
+        "actual": 12,
+        "remaining": 3
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Upper Intermediate English for FDP",
+    "crn": 10189,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "B1",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10189",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=003&sel_crse_end=003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "MWF",
+        "where": "SL CLASSRM 08",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Michael Griffin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "MF",
+        "where": "SL MM 04",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Michael Griffin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "M",
+        "where": "SL MM 03",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Michael Griffin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "TWR",
+        "where": "SL CLASSRM 08",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Michael Griffin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "TWR",
+        "where": "SL CLASSRM 08",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Michael Griffin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "TWR",
+        "where": "SL CLASSRM 08",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Michael Griffin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:10 pm",
+          "to": "1:00 pm"
+        },
+        "days": "TR",
+        "where": "SL CLASSRM 08",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Michael Griffin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "F",
+        "where": "SL MM 01",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Michael Griffin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 15,
+        "actual": 14,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Upper Intermediate English for FDP",
+    "crn": 10190,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "B3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10190",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=003&sel_crse_end=003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "MTWRF",
+        "where": "SL CLASSRM 05",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Isabelle Capri"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "MF",
+        "where": "SL MM 05",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Isabelle Capri"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "M",
+        "where": "SL CLASSRM 15",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Isabelle Capri"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "TWR",
+        "where": "SL CLASSRM 03",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Isabelle Capri"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "TWR",
+        "where": "SL CLASSRM 03",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Isabelle Capri"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "TWR",
+        "where": "SL CLASSRM 03",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Isabelle Capri"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "F",
+        "where": "SL MM 03",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Isabelle Capri"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 15,
+        "actual": 12,
+        "remaining": 3
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Upper Intermediate English for FDP",
+    "crn": 10191,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "A3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10191",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=003&sel_crse_end=003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "MTWRF",
+        "where": "SL CLASSRM 03",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dawn Garinger"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 03",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dawn Garinger"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 03",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dawn Garinger"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 03",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dawn Garinger"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "TWR",
+        "where": "SL MM 05",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dawn Garinger"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "TW",
+        "where": "SL CLASSRM 04",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dawn Garinger"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "R",
+        "where": "SL MM 03",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dawn Garinger"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 15,
+        "actual": 15,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Upper Intermediate English for FDP",
+    "crn": 10192,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "A4",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10192",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ENG&sel_crse_strt=003&sel_crse_end=003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "2:00 pm"
+        },
+        "days": "MTWRF",
+        "where": "SL CLASSRM 04",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kevin Schoepp"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:00 am"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 04",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kevin Schoepp"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:10 am",
+          "to": "11:00 am"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 04",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kevin Schoepp"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "MF",
+        "where": "SL CLASSRM 04",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kevin Schoepp"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "10:30 am"
+        },
+        "days": "TWR",
+        "where": "SL CLASSRM 04",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kevin Schoepp"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:00 pm"
+        },
+        "days": "TWR",
+        "where": "SL MM 05",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kevin Schoepp"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 15,
+        "actual": 15,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Science of Nature I - Recitation",
+    "crn": 10194,
+    "subject": "NS",
+    "code": 101,
+    "type": "R",
+    "section": "A2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10194",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=NS&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "T",
+        "where": "SL CLASSRM 15",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 5,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "NS 101",
+      "NS 101L"
+    ]
+  },
+  {
+    "name": "Science of Nature I - Recitation",
+    "crn": 10195,
+    "subject": "NS",
+    "code": 101,
+    "type": "R",
+    "section": "A4",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10195",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=NS&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "T",
+        "where": "SL CLASSRM 18",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 5,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "NS 101",
+      "NS 101L"
+    ]
+  },
+  {
+    "name": "Science of Nature I - Recitation",
+    "crn": 10196,
+    "subject": "NS",
+    "code": 101,
+    "type": "R",
+    "section": "A5",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10196",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=NS&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "T",
+        "where": "SL CLASSRM 19",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 5,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "NS 101",
+      "NS 101L"
+    ]
+  },
+  {
+    "name": "Science of Nature I - Recitation",
+    "crn": 10197,
+    "subject": "NS",
+    "code": 101,
+    "type": "R",
+    "section": "C1",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10197",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=NS&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "R",
+        "where": "SL CLASSRM 14",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 5,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "NS 101",
+      "NS 101L"
+    ]
+  },
+  {
+    "name": "Science of Nature I - Recitation",
+    "crn": 10198,
+    "subject": "NS",
+    "code": 101,
+    "type": "R",
+    "section": "C4",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10198",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=NS&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "R",
+        "where": "SL CLASSRM 15",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 5,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "NS 101",
+      "NS 101L"
+    ]
+  },
+  {
+    "name": "Science of Nature I - Recitation",
+    "crn": 10199,
+    "subject": "NS",
+    "code": 101,
+    "type": "R",
+    "section": "C5",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10199",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=NS&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "R",
+        "where": "SL CLASSRM 16",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 5,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "corequisites": [
+      "NS 101",
+      "NS 101L"
+    ]
+  },
+  {
+    "name": "Sources and Methods for Ottoman History, 1450-1600",
+    "crn": 10200,
+    "subject": "HIST",
+    "code": 561,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10200",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=HIST&sel_crse_strt=561&sel_crse_end=561&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "T",
+        "where": "Information Center IC 2004",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Metin İbrahim Kunt"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 6,
+        "actual": 5,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Revolutions in History",
+    "crn": 10201,
+    "subject": "HIST",
+    "code": 623,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10201",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=HIST&sel_crse_strt=623&sel_crse_end=623&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "W",
+        "where": "Information Center IC 2004",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Halil Berktay"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 6,
+        "actual": 2,
+        "remaining": 4
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Frontier Societies and the Early Ottoman Community",
+    "crn": 10202,
+    "subject": "HIST",
+    "code": 555,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10202",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=HIST&sel_crse_strt=555&sel_crse_end=555&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "R",
+        "where": "Information Center IC 2004",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Metin İbrahim Kunt"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 6,
+        "actual": 2,
+        "remaining": 4
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Trends, Debates, Historians I",
+    "crn": 10203,
+    "subject": "HIST",
+    "code": 511,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10203",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR"
+    ],
+    "ects": 10,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=HIST&sel_crse_strt=511&sel_crse_end=511&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "12:00 pm"
+        },
+        "days": "F",
+        "where": "Information Center IC 2004",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Halil Berktay"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 6,
+        "actual": 3,
+        "remaining": 3
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Sources and Methods for Early Republican History, 1920-1938",
+    "crn": 10205,
+    "subject": "HIST",
+    "code": 591,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10205",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR"
+    ],
+    "ects": 10,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=HIST&sel_crse_strt=591&sel_crse_end=591&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:30 pm",
+          "to": "5:30 pm"
+        },
+        "days": "R",
+        "where": "Information Center IC 2025",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cemil Hüsnü Koçak"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 6,
+        "actual": 1,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 5,
+        "actual": 2,
+        "remaining": 3
+      }
+    ]
+  },
+  {
+    "name": "Early Islamic History: A Survey",
+    "crn": 10206,
+    "subject": "HIST",
+    "code": 531,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10206",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=HIST&sel_crse_strt=531&sel_crse_end=531&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "5:00 pm"
+        },
+        "days": "W",
+        "where": "Information Center IC 2004",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hülya Canbakal"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 6,
+        "actual": 3,
+        "remaining": 3
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Rites of Power",
+    "crn": 10207,
+    "subject": "HIST",
+    "code": 521,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10207",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=HIST&sel_crse_strt=521&sel_crse_end=521&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "5:00 pm"
+        },
+        "days": "R",
+        "where": "Information Center IC 2004",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Tülay Artan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 6,
+        "actual": 3,
+        "remaining": 3
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Readings in Ottoman Material Culture",
+    "crn": 10208,
+    "subject": "HIST",
+    "code": 611,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10208",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=HIST&sel_crse_strt=611&sel_crse_end=611&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "5:00 pm"
+        },
+        "days": "F",
+        "where": "Information Center IC 2004",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Tülay Artan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 6,
+        "actual": 2,
+        "remaining": 4
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Ethnicity and Nationalism",
+    "crn": 10209,
+    "subject": "HIST",
+    "code": 583,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10209",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=HIST&sel_crse_strt=583&sel_crse_end=583&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "5:00 pm"
+        },
+        "days": "T",
+        "where": "Information Center IC 2025",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Şerif Mardin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 6,
+        "actual": 2,
+        "remaining": 4
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 5,
+        "actual": 5,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Sources and Methods for Early Republican History 1920-1938",
+    "crn": 10210,
+    "subject": "POLS",
+    "code": 591,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10210",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=POLS&sel_crse_strt=591&sel_crse_end=591&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:30 pm",
+          "to": "5:30 pm"
+        },
+        "days": "R",
+        "where": "Information Center IC 2025",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cemil Hüsnü Koçak"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 6,
+        "actual": 1,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 5,
+        "actual": 2,
+        "remaining": 3
+      }
+    ]
+  },
+  {
+    "name": "Beginning and Intermediate Ottoman I",
+    "crn": 10211,
+    "subject": "TLL",
+    "code": 501,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10211",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "faculty": "FASS",
+    "campus": "Karaköy Communication Center",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=TLL&sel_crse_strt=501&sel_crse_end=501&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:10 pm",
+          "to": "6:00 pm"
+        },
+        "days": "MT",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Baki Tezcan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:10 pm",
+          "to": "7:00 pm"
+        },
+        "days": "F",
+        "where": "Karaköy Communication Center 1313",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Baki Tezcan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 6,
+        "actual": 2,
+        "remaining": 4
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Turkish for FDP",
+    "crn": 10212,
+    "subject": "TLL",
+    "code": 1,
+    "type": null,
+    "section": "F",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10212",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 4,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=TLL&sel_crse_strt=001&sel_crse_end=001&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "M",
+        "where": "SL CLASSRM 13",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Nov 16, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erol Köroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "M",
+        "where": "SL CLASSRM 11",
+        "dateRange": {
+          "from": "Nov 17, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erol Köroğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 24,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Turkish for FDP",
+    "crn": 10213,
+    "subject": "TLL",
+    "code": 1,
+    "type": null,
+    "section": "G",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10213",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 4,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=TLL&sel_crse_strt=001&sel_crse_end=001&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 13",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Nov 16, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erol Köroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 11",
+        "dateRange": {
+          "from": "Nov 17, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erol Köroğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 24,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Turkish for FDP",
+    "crn": 10214,
+    "subject": "TLL",
+    "code": 1,
+    "type": null,
+    "section": "H",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10214",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 4,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=TLL&sel_crse_strt=001&sel_crse_end=001&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "F",
+        "where": "SL CLASSRM 13",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Nov 16, 1999"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Başak Tuğ"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "4:00 pm"
+        },
+        "days": "R",
+        "where": "SL CLASSRM 11",
+        "dateRange": {
+          "from": "Nov 17, 1999",
+          "to": "Jan 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Başak Tuğ"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 25,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Islam in Türkiye",
+    "crn": 10218,
+    "subject": "ANTH",
+    "code": 591,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10218",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=ANTH&sel_crse_strt=591&sel_crse_end=591&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:10 am",
+          "to": "1:00 pm"
+        },
+        "days": "R",
+        "where": "Information Center IC 2025",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Leyla Neyzi"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:10 pm",
+          "to": "3:00 pm"
+        },
+        "days": "F",
+        "where": null,
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Leyla Neyzi"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 1,
+        "remaining": 19
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Economics of Organization",
+    "crn": 10219,
+    "subject": "GSM",
+    "code": 681,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10219",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 12,
+    "campus": "Karaköy Communication Center",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=GSM&sel_crse_strt=681&sel_crse_end=681&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "F",
+        "where": "Karaköy Communication Center 1313",
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Behlül Üsdiken"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 1,
+        "actual": 1,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Analysis I",
+    "crn": 10220,
+    "subject": "MATH",
+    "code": 501,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10220",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=MATH&sel_crse_strt=501&sel_crse_end=501&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 2,
+        "actual": 2,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Algebra I",
+    "crn": 10221,
+    "subject": "MATH",
+    "code": 511,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199901&crn_in=10221",
+    "term": "Fall 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199901&one_subj=MATH&sel_crse_strt=511&sel_crse_end=511&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Oct 11, 1999",
+          "to": "Jan 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 2,
+        "actual": 2,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  }
+]
