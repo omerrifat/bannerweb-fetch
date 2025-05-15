@@ -1,5 +1,7 @@
 name: Complete Fetch
 
+on: [workflow_dispatch]
+
 jobs:
   do-fetch:
     runs-on: ubuntu-latest
