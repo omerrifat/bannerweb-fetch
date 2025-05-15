@@ -1,8 +1,4 @@
-name: Periodic Fetch
-
-on:
-  schedule:
-    - cron: '0 1 * * *'
+name: Complete Fetch
 
 jobs:
   do-fetch:
@@ -14,4 +10,4 @@ jobs:
       - name: Fetch & Deploy Changes
         run: |
           git fetch origin gh-pages:gh-pages
-          ./workflow-run.sh "Periodic fetch ($(date +'%F %H:%M:%S') UTC)" fetch-last 3
+          ./workflow-fetch-all.sh

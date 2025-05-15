@@ -10,7 +10,7 @@ on:
         type: string
 
 jobs:
-  periodic-fetch:
+  do-fetch:
     runs-on: ubuntu-latest
     permissions:
       contents: write

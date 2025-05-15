@@ -166,8 +166,14 @@ async function main() {
         await fetchTerm(arg1);
     }
     else if (cmd === "list-terms") {
-        for (const term of await fetchTermList()) {
-            console.log(`[${term.term}] ${term.name}`);
+        const terms = await fetchTermList();
+        if (arg1 === "--space-sep") {
+            console.log(terms.map((a) => a.term).join(" "));
+        }
+        else {
+            for (const term of terms) {
+                console.log(`[${term.term}] ${term.name}`);
+            }
         }
     }
     else if (cmd === "fetch-last" && arg1 != null) {
