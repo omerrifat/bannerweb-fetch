@@ -159,6 +159,10 @@ async function main() {
     const cmd = process.argv[2];
     const arg1 = process.argv[3];
     if (cmd === "fetch" && arg1 != null) {
+        const terms = await fetchTermList();
+        if (!terms.some((a) => a.term === arg1)) {
+            throw new Error("Invalid term: " + arg1);
+        }
         await fetchTerm(arg1);
     }
     else if (cmd === "list-terms") {
