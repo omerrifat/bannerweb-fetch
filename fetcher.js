@@ -74,7 +74,7 @@ async function fetchText(url, opts) {
     if (data != null) {
         return data;
     }
-    console.log(opts?.method ?? "GET", url.toString());
+    console.error(opts?.method ?? "GET", url.toString());
     const res = await fetch(url, opts);
     if (!res.ok) {
         throw new Error("Non-OK status code: " + res.status);
