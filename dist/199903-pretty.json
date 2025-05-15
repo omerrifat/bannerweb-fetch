@@ -1,0 +1,615 @@
+[
+  {
+    "name": "Computorial Methods of Managerial Modelling",
+    "crn": 30001,
+    "subject": "GSM",
+    "code": 521,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199903&crn_in=30001",
+    "term": "Summer 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Karaköy Communication Center",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199903&one_subj=GSM&sel_crse_strt=521&sel_crse_end=521&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "1:50 pm"
+        },
+        "days": "RF",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jul 03, 2000",
+          "to": "Jul 07, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ossama Kettani"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "2:50 pm"
+        },
+        "days": "RF",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jul 03, 2000",
+          "to": "Jul 07, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ossama Kettani"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "RF",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jul 03, 2000",
+          "to": "Jul 07, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ossama Kettani"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "1:50 pm"
+        },
+        "days": "MTWF",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jul 10, 2000",
+          "to": "Jul 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ossama Kettani"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "2:50 pm"
+        },
+        "days": "MTWF",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jul 10, 2000",
+          "to": "Jul 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ossama Kettani"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "MTWF",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jul 10, 2000",
+          "to": "Jul 14, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ossama Kettani"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "1:50 pm"
+        },
+        "days": "WF",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jul 24, 2000",
+          "to": "Jul 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ossama Kettani"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "2:50 pm"
+        },
+        "days": "WF",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jul 24, 2000",
+          "to": "Jul 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ossama Kettani"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "WF",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jul 24, 2000",
+          "to": "Jul 28, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ossama Kettani"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "1:50 pm"
+        },
+        "days": "MT",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jul 31, 2000",
+          "to": "Aug 01, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ossama Kettani"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "2:50 pm"
+        },
+        "days": "MT",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jul 31, 2000",
+          "to": "Aug 01, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ossama Kettani"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:00 pm",
+          "to": "3:50 pm"
+        },
+        "days": "MT",
+        "where": "Karaköy Communication Center 205",
+        "dateRange": {
+          "from": "Jul 31, 2000",
+          "to": "Aug 01, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ossama Kettani"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 19,
+        "actual": 19,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Upper Intermediate English for FDP",
+    "crn": 30002,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199903&crn_in=30002",
+    "term": "Summer 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 12,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199903&one_subj=ENG&sel_crse_strt=003&sel_crse_end=003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "1:00 pm"
+        },
+        "days": "M",
+        "where": "SL CLASSRM 15",
+        "dateRange": {
+          "from": "Jun 26, 2000",
+          "to": "Aug 11, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Michael Griffin",
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "3:15 pm"
+        },
+        "days": "M",
+        "where": "SL MM 04",
+        "dateRange": {
+          "from": "Jun 26, 2000",
+          "to": "Aug 11, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Michael Griffin",
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "1:00 pm"
+        },
+        "days": "T",
+        "where": "SL CLASSRM 15",
+        "dateRange": {
+          "from": "Jun 26, 2000",
+          "to": "Aug 11, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Michael Griffin",
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "3:15 pm"
+        },
+        "days": "T",
+        "where": "SL MM 04",
+        "dateRange": {
+          "from": "Jun 26, 2000",
+          "to": "Aug 11, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Michael Griffin",
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:30 am",
+          "to": "1:00 pm"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 15",
+        "dateRange": {
+          "from": "Jun 26, 2000",
+          "to": "Aug 11, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Michael Griffin",
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "3:15 pm"
+        },
+        "days": "W",
+        "where": "SL MM 04",
+        "dateRange": {
+          "from": "Jun 26, 2000",
+          "to": "Aug 11, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Michael Griffin",
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "3:15 pm"
+        },
+        "days": "R",
+        "where": "SL MM 04",
+        "dateRange": {
+          "from": "Jun 26, 2000",
+          "to": "Aug 11, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Michael Griffin",
+          "Amy Elizabeth Fenning"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "F",
+        "where": "SL CLASSRM 15",
+        "dateRange": {
+          "from": "Jun 26, 2000",
+          "to": "Aug 11, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Michael Griffin",
+          "Amy Elizabeth Fenning"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 11,
+        "remaining": 3
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Upper Intermediate English for FDP",
+    "crn": 30003,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=199903&crn_in=30003",
+    "term": "Summer 1999-2000",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 12,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=199903&one_subj=ENG&sel_crse_strt=003&sel_crse_end=003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "1:00 pm"
+        },
+        "days": "M",
+        "where": "SL CLASSRM 11",
+        "dateRange": {
+          "from": "Jun 26, 2000",
+          "to": "Aug 11, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fran Daniels",
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "3:15 pm"
+        },
+        "days": "M",
+        "where": "SL MM 05",
+        "dateRange": {
+          "from": "Jun 26, 2000",
+          "to": "Aug 11, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fran Daniels",
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:10 am",
+          "to": "1:00 pm"
+        },
+        "days": "T",
+        "where": "SL CLASSRM 11",
+        "dateRange": {
+          "from": "Jun 26, 2000",
+          "to": "Aug 11, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fran Daniels",
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "3:15 pm"
+        },
+        "days": "T",
+        "where": "SL MM 05",
+        "dateRange": {
+          "from": "Jun 26, 2000",
+          "to": "Aug 11, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fran Daniels",
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:30 am",
+          "to": "1:00 pm"
+        },
+        "days": "W",
+        "where": "SL CLASSRM 11",
+        "dateRange": {
+          "from": "Jun 26, 2000",
+          "to": "Aug 11, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fran Daniels",
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "3:15 pm"
+        },
+        "days": "W",
+        "where": "SL MM 05",
+        "dateRange": {
+          "from": "Jun 26, 2000",
+          "to": "Aug 11, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fran Daniels",
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "3:15 pm"
+        },
+        "days": "R",
+        "where": "SL MM 05",
+        "dateRange": {
+          "from": "Jun 26, 2000",
+          "to": "Aug 11, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fran Daniels",
+          "Emine Canan Güreli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "F",
+        "where": "SL CLASSRM 11",
+        "dateRange": {
+          "from": "Jun 26, 2000",
+          "to": "Aug 11, 2000"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fran Daniels",
+          "Emine Canan Güreli"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 10,
+        "remaining": 4
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  }
+]
