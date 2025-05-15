@@ -22,4 +22,4 @@ main() {
     git checkout main
 }
 
-main
+main "$@"
