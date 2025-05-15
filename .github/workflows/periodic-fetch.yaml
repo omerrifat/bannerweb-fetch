@@ -1,0 +1,21 @@
+name: Periodic Fetch
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1 * * *'
+
+jobs:
+  periodic-fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch & Deploy Changes
+        run: |
+          if [[ "${{ github.event_name }}" == "schedule" ]]; then
+            ./workflow-run.sh "Periodic fetch ($(date +'%F %H:%M:%S') UTC)"
+          else
+            ./workflow-run.sh "Manually triggered fetch ($(date +'%F %H:%M:%S') UTC)"
+          fi

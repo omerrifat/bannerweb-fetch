@@ -148,7 +148,10 @@ async function fetchTerm(termCode) {
 
 async function fetchTermList() {
     const termsHTML = await fetchText("https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_dyn_sched");
-    return extractTerms(termsHTML);
+    const terms = extractTerms(termsHTML);
+    mkdirSync("out", { recursive: true });
+    await writeFileAtomic(`out/terms.json`, JSON.stringify(terms));
+    return terms;
 }
 
 async function main() {
