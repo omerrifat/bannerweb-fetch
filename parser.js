@@ -310,6 +310,7 @@ export function parseCourses(html) {
         const course = parseCourse($, headerElement, detailsElement);
         courses.push(course);
     }
+    courses.sort((a, b) => a.crn > b.crn ? 1 : -1);
     return courses;
 }
 
@@ -338,4 +339,24 @@ export function extractSubjects(html) {
         });
     }
     return subjects;
+}
+
+export function extractTerms(html) {
+    const $ = cheerio.load(html);
+    const list = $('#term_input_id');
+    const terms = [];
+    for (const optionElem of list.children('option')) {
+        const option = $(optionElem);
+        const term = option.attr('value');
+        if (typeof term !== 'string' || !term.match(/^[0-9]{6}$/)) {
+            continue;
+        }
+        const name = trimSuffix(option.text(), "(View only)").trim();
+        terms.push({
+            name: name,
+            term: term
+        });
+    }
+    terms.sort((a, b) => a.term > b.term ? 1 : -1);
+    return terms;
 }

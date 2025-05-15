@@ -1,6 +1,6 @@
-import { extractSubjects, parseCourseDetailsPage, parseCourses } from "./parser.js";
+import { extractSubjects, extractTerms, parseCourseDetailsPage, parseCourses } from "./parser.js";
 import crypto from "crypto";
-import { existsSync } from "fs";
+import { existsSync, mkdirSync } from "fs";
 import { writeFile, readFile, rename, mkdir } from "fs/promises";
 import path from "path";
 import async from 'async';
@@ -141,13 +141,47 @@ async function fetchCoursesForTerm(term) {
  */
 async function fetchTerm(termCode) {
     const term = await fetchCoursesForTerm(termCode);
-    await writeFileAtomic(`${termCode}.json`, JSON.stringify(term));
-    await writeFileAtomic(`${termCode}-pretty.json`, JSON.stringify(term, null, 2));
+    mkdirSync("out", { recursive: true });
+    await writeFileAtomic(`out/${termCode}.json`, JSON.stringify(term));
+    await writeFileAtomic(`out/${termCode}-pretty.json`, JSON.stringify(term, null, 2));
+}
+
+async function fetchTermList() {
+    const termsHTML = await fetchText("https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_dyn_sched");
+    return extractTerms(termsHTML);
 }
 
 async function main() {
-    await fetchTerm("202401");
-    await fetchTerm("202402");
+    const cmd = process.argv[2];
+    const arg1 = process.argv[3];
+    if (cmd === "fetch" && arg1 != null) {
+        await fetchTerm(arg1);
+    }
+    else if (cmd === "list-terms") {
+        for (const term of await fetchTermList()) {
+            console.log(`[${term.term}] ${term.name}`);
+        }
+    }
+    else if (cmd === "fetch-last" && arg1 != null) {
+        const terms = (await fetchTermList())
+            .reverse().slice(0, +arg1);
+        let i = 0, count = +arg1;
+        if (count > terms.length) {
+            count = terms.length;
+        }
+        for (const term of terms) {
+            console.log(`... Fetching term ${++i} of ${count}: ${term.name} (${term.term})`);
+            await fetchTerm(term.term);
+        }
+    }
+    else {
+        console.error(
+            "Usage:\n" +
+            "  fetcher.js fetch <term>\n" +
+            "  fetcher.js fetch-last <n-terms>\n" +
+            "  fetcher.js list-terms\n");
+        process.exit(1);
+    }
 }
 
 main();

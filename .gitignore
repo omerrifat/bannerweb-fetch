@@ -1,4 +1,3 @@
-*.json
-!package.json
+out
 fetch-cache
 node_modules
