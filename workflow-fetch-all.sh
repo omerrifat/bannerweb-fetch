@@ -7,6 +7,7 @@ main() {
     
     terms="$(node fetcher.js list-terms --space-sep)"
     if [ "$BANNERWEB_SKIP_EXISTING" = 1 ]; then
+        echo "... Will skip existing terms"
         git checkout gh-pages
     fi
     for term in $terms; do
