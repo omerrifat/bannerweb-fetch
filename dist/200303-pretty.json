@@ -1,0 +1,5849 @@
+[
+  {
+    "name": "Project and Internship",
+    "crn": 30001,
+    "subject": "PROJ",
+    "code": 300,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30001",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Internship",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=PROJ&sel_crse_strt=300&sel_crse_end=300&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bahri Yılmaz"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 18,
+        "remaining": 32
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Summer Project",
+    "crn": 30002,
+    "subject": "PROJ",
+    "code": 302,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30002",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 0,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Internship",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=PROJ&sel_crse_strt=302&sel_crse_end=302&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erhan Budak"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 300,
+        "actual": 154,
+        "remaining": 146
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Liberalism and its Critics",
+    "crn": 30003,
+    "subject": "POLS",
+    "code": 372,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30003",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=POLS&sel_crse_strt=372&sel_crse_end=372&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "T",
+        "where": "FASS 1089",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Devrim Sezer"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "R",
+        "where": "FASS 1089",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Devrim Sezer"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 48,
+        "remaining": 2
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Humanity and Society I",
+    "crn": 30004,
+    "subject": "SPS",
+    "code": 101,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30004",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=SPS&sel_crse_strt=101&sel_crse_end=101&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:40 am",
+          "to": "11:30 am"
+        },
+        "days": "M",
+        "where": "FASS 1096",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hülya Canbakal"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:40 am",
+          "to": "11:30 am"
+        },
+        "days": "R",
+        "where": "FASS 1096",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hülya Canbakal"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 40,
+        "actual": 28,
+        "remaining": 12
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Humanity and Society I - Discussion",
+    "crn": 30006,
+    "subject": "SPS",
+    "code": 101,
+    "type": "D",
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30006",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Discussion",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=SPS&sel_crse_strt=101D&sel_crse_end=101D&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "T",
+        "where": "FASS G052",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hülya Canbakal",
+          "Vefa Erginbaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "F",
+        "where": "FASS 1096",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hülya Canbakal",
+          "Vefa Erginbaş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 8,
+        "remaining": 12
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Humanity and Society I - Discussion",
+    "crn": 30007,
+    "subject": "SPS",
+    "code": 101,
+    "type": "D",
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30007",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Discussion",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=SPS&sel_crse_strt=101D&sel_crse_end=101D&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "T",
+        "where": "FENS L065",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hülya Canbakal",
+          "Vefa Erginbaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "F",
+        "where": "FENS L065",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hülya Canbakal",
+          "Vefa Erginbaş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 20,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Macroeconomics",
+    "crn": 30010,
+    "subject": "ECON",
+    "code": 202,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30010",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=ECON&sel_crse_strt=202&sel_crse_end=202&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "T",
+        "where": "FASS 1096",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Murat Taşçı"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "W",
+        "where": "FASS G052",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Murat Taşçı"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 51,
+        "actual": 50,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Macroeconomics - Recitation",
+    "crn": 30011,
+    "subject": "ECON",
+    "code": 202,
+    "type": "R",
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30011",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=ECON&sel_crse_strt=202R&sel_crse_end=202R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "M",
+        "where": "FASS 1089",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Murat Taşçı",
+          "Serkan Ercan",
+          "Emel Yılancı"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 51,
+        "actual": 50,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Sound and Image",
+    "crn": 30012,
+    "subject": "VA",
+    "code": 335,
+    "type": null,
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30012",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=VA&sel_crse_strt=335&sel_crse_end=335&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "4:30 pm"
+        },
+        "days": "M",
+        "where": "FASS 2023",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Hüseyin Artut"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "4:30 pm"
+        },
+        "days": "W",
+        "where": "FASS 2023",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Hüseyin Artut"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 17,
+        "actual": 17,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Microeconomics",
+    "crn": 30013,
+    "subject": "ECON",
+    "code": 204,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30013",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=ECON&sel_crse_strt=204&sel_crse_end=204&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "4:30 pm"
+        },
+        "days": "T",
+        "where": "FASS 1096",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Duygu Yengin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "4:30 pm"
+        },
+        "days": "R",
+        "where": "FASS 1096",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Duygu Yengin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 44,
+        "remaining": 6
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Microeconomics - Recitation",
+    "crn": 30014,
+    "subject": "ECON",
+    "code": 204,
+    "type": "R",
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30014",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=ECON&sel_crse_strt=204R&sel_crse_end=204R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "FENS L063",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Duygu Yengin",
+          "Ayça Özdoğan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 45,
+        "actual": 44,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Functions:Discrete and Continuous I",
+    "crn": 30015,
+    "subject": "MATH",
+    "code": 101,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30015",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 0,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=MATH&sel_crse_strt=101&sel_crse_end=101&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "FASS G052",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ersin Özuğurlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "F",
+        "where": "FASS G052",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ersin Özuğurlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 100,
+        "actual": 42,
+        "remaining": 58
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 75,
+        "remaining": 9924
+      }
+    ],
+    "corequisites": [
+      "MATH 101R"
+    ]
+  },
+  {
+    "name": "Functions: Discrete and Continuous I - Recitation",
+    "crn": 30016,
+    "subject": "MATH",
+    "code": 101,
+    "type": "R",
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30016",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=MATH&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "FASS G052",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ersin Özuğurlu",
+          "Mustafa Çoban"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:40 am",
+          "to": "11:30 am"
+        },
+        "days": "T",
+        "where": "FASS G052",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ersin Özuğurlu",
+          "Mustafa Çoban"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 21,
+        "remaining": 29
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Functions:Discrete and Continuous II",
+    "crn": 30017,
+    "subject": "MATH",
+    "code": 102,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30017",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 0,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=MATH&sel_crse_strt=102&sel_crse_end=102&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "FENS L045",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erdal Karapınar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "F",
+        "where": "FENS L045",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erdal Karapınar"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 100,
+        "actual": 33,
+        "remaining": 67
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 75,
+        "remaining": 9924
+      }
+    ],
+    "corequisites": [
+      "MATH 102R"
+    ]
+  },
+  {
+    "name": "Functions: Discrete and Continuous II - Recitation",
+    "crn": 30018,
+    "subject": "MATH",
+    "code": 102,
+    "type": "R",
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30018",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=MATH&sel_crse_strt=102R&sel_crse_end=102R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "10:30 am"
+        },
+        "days": "W",
+        "where": "FENS L045",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erdal Karapınar",
+          "Burak Yılmaz"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "R",
+        "where": "FENS L045",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erdal Karapınar",
+          "Burak Yılmaz"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 19,
+        "remaining": 31
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Linear Algebra",
+    "crn": 30019,
+    "subject": "MATH",
+    "code": 201,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30019",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=MATH&sel_crse_strt=201&sel_crse_end=201&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "M",
+        "where": "FENS L045",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayça Çeşmelioğlu",
+          "Erdal Karapınar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "R",
+        "where": "FENS L045",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayça Çeşmelioğlu",
+          "Erdal Karapınar"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 100,
+        "actual": 98,
+        "remaining": 2
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Linear Algebra - Recitation",
+    "crn": 30020,
+    "subject": "MATH",
+    "code": 201,
+    "type": "R",
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30020",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=MATH&sel_crse_strt=201R&sel_crse_end=201R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L045",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayça Çeşmelioğlu",
+          "Zeynep Sıdıka Özal"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "10:30 am"
+        },
+        "days": "F",
+        "where": "FENS L045",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayça Çeşmelioğlu",
+          "Zeynep Sıdıka Özal"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 34,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Probability and Statistics",
+    "crn": 30021,
+    "subject": "MATH",
+    "code": 203,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30021",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR"
+    ],
+    "ects": 0,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=MATH&sel_crse_strt=203&sel_crse_end=203&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "T",
+        "where": "FENS G035",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ali Nüvit Veysoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "R",
+        "where": "FENS G035",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ali Nüvit Veysoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 100,
+        "actual": 56,
+        "remaining": 44
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "prerequisites": [
+      "MATH 101",
+      "MATH 102"
+    ]
+  },
+  {
+    "name": "Introduction to Probability and Statics - Recitation",
+    "crn": 30022,
+    "subject": "MATH",
+    "code": 203,
+    "type": "R",
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30022",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=MATH&sel_crse_strt=203R&sel_crse_end=203R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "T",
+        "where": "FENS L062",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ali Nüvit Veysoğlu",
+          "Osman Gökhan Sezer"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "F",
+        "where": "FENS L062",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ali Nüvit Veysoğlu",
+          "Osman Gökhan Sezer"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 30,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Science of Nature I",
+    "crn": 30023,
+    "subject": "NS",
+    "code": 101,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30023",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=NS&sel_crse_strt=101&sel_crse_end=101&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L063",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "T",
+        "where": "FENS L063",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "W",
+        "where": "FENS L063",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "10:30 am"
+        },
+        "days": "F",
+        "where": "FENS L063",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 100,
+        "actual": 58,
+        "remaining": 42
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Science of Nature I - Recitation",
+    "crn": 30024,
+    "subject": "NS",
+    "code": 101,
+    "type": "R",
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30024",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=NS&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L047",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan",
+          "Selim Yannier"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L062",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan",
+          "Selim Yannier"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "W",
+        "where": "FENS L047",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan",
+          "Selim Yannier"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "W",
+        "where": "FENS L062",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan",
+          "Selim Yannier"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 34,
+        "actual": 19,
+        "remaining": 15
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Computing",
+    "crn": 30025,
+    "subject": "CS",
+    "code": 201,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30025",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 0,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=CS&sel_crse_strt=201&sel_crse_end=201&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "T",
+        "where": "FENS G032",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ersin Karabudak"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "F",
+        "where": "FENS G032",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ersin Karabudak"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 61,
+        "actual": 60,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Computing - Recitation",
+    "crn": 30026,
+    "subject": "CS",
+    "code": 201,
+    "type": "R",
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30026",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=CS&sel_crse_strt=201R&sel_crse_end=201R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "M",
+        "where": "FENS G032",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ersin Karabudak",
+          "İlknur Durgar El-Kahlout"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 21,
+        "actual": 20,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Internship",
+    "crn": 30027,
+    "subject": "CONF",
+    "code": 690,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30027",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 5,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Internship",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=CONF&sel_crse_strt=690&sel_crse_end=690&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nimet Beriker"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 15,
+        "actual": 6,
+        "remaining": 9
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Turkish Language and Literature II",
+    "crn": 30029,
+    "subject": "TLL",
+    "code": 102,
+    "type": null,
+    "section": "A2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30029",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Discussion",
+    "credits": 2,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=TLL&sel_crse_strt=102&sel_crse_end=102&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "10:30 am"
+        },
+        "days": "W",
+        "where": "SL G018",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hamdi Can Tuncer"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "R",
+        "where": "SL G018",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hamdi Can Tuncer"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 5,
+        "remaining": 13
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 5,
+        "remaining": 9994
+      }
+    ],
+    "corequisites": [
+      "HIST 192"
+    ]
+  },
+  {
+    "name": "Turkish for FDP",
+    "crn": 30031,
+    "subject": "TLL",
+    "code": 1,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30031",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 8,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=TLL&sel_crse_strt=001&sel_crse_end=001&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL G016",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nadire Banu Gümüştüs",
+          "Seçil Sarıbayır"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL G016",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nadire Banu Gümüştüs",
+          "Seçil Sarıbayır"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 11,
+        "remaining": 7
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Project Management",
+    "crn": 30032,
+    "subject": "GSM",
+    "code": 5001,
+    "type": null,
+    "section": "P",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30032",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 4,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Module",
+    "credits": 2,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=GSM&sel_crse_strt=5001&sel_crse_end=5001&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "W",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Jul 16, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 19, 2004",
+          "to": "Jul 23, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 19, 2004",
+          "to": "Jul 23, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "W",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 26, 2004",
+          "to": "Jul 30, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 02, 2004",
+          "to": "Aug 06, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "T",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 02, 2004",
+          "to": "Aug 06, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 02, 2004",
+          "to": "Aug 06, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 14,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Project Development",
+    "crn": 30033,
+    "subject": "GSM",
+    "code": 5013,
+    "type": null,
+    "section": "P",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30033",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Module",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=GSM&sel_crse_strt=5013&sel_crse_end=5013&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 20, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nakiye Avdan Boyacıgiller"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 14,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Information Systems",
+    "crn": 30034,
+    "subject": "GSM",
+    "code": 525,
+    "type": null,
+    "section": "P",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30034",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=GSM&sel_crse_strt=525&sel_crse_end=525&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Jul 16, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül Toker"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Jul 16, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül Toker"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "T",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 19, 2004",
+          "to": "Jul 23, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül Toker"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "T",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 26, 2004",
+          "to": "Jul 30, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül Toker"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "R",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 26, 2004",
+          "to": "Jul 30, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül Toker"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "T",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 02, 2004",
+          "to": "Aug 06, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül Toker"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "T",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 09, 2004",
+          "to": "Aug 13, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül Toker"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 14,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Strategy and Meaning Management",
+    "crn": 30035,
+    "subject": "GSM",
+    "code": 551,
+    "type": null,
+    "section": "P",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30035",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=GSM&sel_crse_strt=551&sel_crse_end=551&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "R",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Jul 16, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü",
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Jul 16, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü",
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Jul 16, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü",
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "M",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 19, 2004",
+          "to": "Jul 23, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü",
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 26, 2004",
+          "to": "Jul 30, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü",
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 26, 2004",
+          "to": "Jul 30, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü",
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 26, 2004",
+          "to": "Jul 30, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü",
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 26, 2004",
+          "to": "Jul 30, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü",
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "T",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 09, 2004",
+          "to": "Aug 13, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü",
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "W",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 09, 2004",
+          "to": "Aug 13, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü",
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 09, 2004",
+          "to": "Aug 13, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü",
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 16, 2004",
+          "to": "Aug 20, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü",
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "T",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 16, 2004",
+          "to": "Aug 20, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü",
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 16, 2004",
+          "to": "Aug 20, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü",
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 14,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Managerial Skills",
+    "crn": 30036,
+    "subject": "GSM",
+    "code": 593,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30036",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=GSM&sel_crse_strt=593&sel_crse_end=593&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:40 pm",
+          "to": "8:30 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "May 28, 2004",
+          "to": "May 29, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nakiye Avdan Boyacıgiller",
+          "Orly Levy"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "May 28, 2004",
+          "to": "May 29, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nakiye Avdan Boyacıgiller",
+          "Orly Levy"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "May 28, 2004",
+          "to": "May 29, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nakiye Avdan Boyacıgiller",
+          "Orly Levy"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:40 pm",
+          "to": "7:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "May 28, 2004",
+          "to": "May 29, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nakiye Avdan Boyacıgiller",
+          "Orly Levy"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 17,
+        "actual": 17,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Strategic Thinking and Action",
+    "crn": 30037,
+    "subject": "GSM",
+    "code": 553,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30037",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=GSM&sel_crse_strt=553&sel_crse_end=553&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:40 pm",
+          "to": "8:30 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 02, 2004",
+          "to": "Jul 03, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 02, 2004",
+          "to": "Jul 03, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:40 pm",
+          "to": "7:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 02, 2004",
+          "to": "Jul 03, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:40 pm",
+          "to": "8:30 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 16, 2004",
+          "to": "Jul 31, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 16, 2004",
+          "to": "Jul 24, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:40 pm",
+          "to": "7:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 16, 2004",
+          "to": "Jul 31, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Tuğrul Atamer",
+          "Philippe Riot"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 18,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Meaning Management",
+    "crn": 30038,
+    "subject": "GSM",
+    "code": 509,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30038",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=GSM&sel_crse_strt=509&sel_crse_end=509&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 04, 2004",
+          "to": "Jun 19, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:40 pm",
+          "to": "7:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 04, 2004",
+          "to": "Jun 19, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:40 pm",
+          "to": "8:30 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 25, 2004",
+          "to": "Jun 26, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Fazıl Ahmet Öncü"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 17,
+        "actual": 17,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Business Simulation",
+    "crn": 30039,
+    "subject": "GSM",
+    "code": 595,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30039",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=GSM&sel_crse_strt=595&sel_crse_end=595&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "May 28, 2004",
+          "to": "Aug 21, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ed McDonough"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 17,
+        "actual": 17,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "International Marketing Strategy",
+    "crn": 30040,
+    "subject": "GSM",
+    "code": 531,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30040",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=GSM&sel_crse_strt=531&sel_crse_end=531&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:40 pm",
+          "to": "7:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 25, 2004",
+          "to": "Jun 26, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Attila Yaprak"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 02, 2004",
+          "to": "Jul 03, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Attila Yaprak"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:40 pm",
+          "to": "8:30 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 09, 2004",
+          "to": "Jul 10, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Attila Yaprak"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:40 pm",
+          "to": "7:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 09, 2004",
+          "to": "Jul 10, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Attila Yaprak"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 16, 2004",
+          "to": "Aug 21, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Attila Yaprak"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jul 30, 2004",
+          "to": "Jul 31, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Attila Yaprak"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 13, 2004",
+          "to": "Aug 14, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Attila Yaprak"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 17,
+        "actual": 17,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Turkish Economy: Structural Observations, Macroeconomic Assessments",
+    "crn": 30042,
+    "subject": "GSM",
+    "code": 580,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30042",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=GSM&sel_crse_strt=580&sel_crse_end=580&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 18, 2004",
+          "to": "Jun 19, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmet Haşim Köse"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 25, 2004",
+          "to": "Jun 26, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmet Haşim Köse"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Jun 25, 2004",
+          "to": "Jun 26, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmet Haşim Köse"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 06, 2004",
+          "to": "Aug 07, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmet Haşim Köse"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:40 pm",
+          "to": "7:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 06, 2004",
+          "to": "Aug 21, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmet Haşim Köse"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:40 pm",
+          "to": "8:30 pm"
+        },
+        "days": "F",
+        "where": "FMAN G043",
+        "dateRange": {
+          "from": "Aug 13, 2004",
+          "to": "Aug 14, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmet Haşim Köse"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 17,
+        "actual": 17,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Term Project",
+    "crn": 30043,
+    "subject": "GSM",
+    "code": 598,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30043",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=GSM&sel_crse_strt=598&sel_crse_end=598&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "May 28, 2004",
+          "to": "Aug 21, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nakiye Avdan Boyacıgiller"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 17,
+        "actual": 17,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Project Course",
+    "crn": 30045,
+    "subject": "IT",
+    "code": 592,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30045",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 7,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=IT&sel_crse_strt=592&sel_crse_end=592&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Aug 08, 2004",
+          "to": "Aug 21, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İsmail Sabri Büyüksoy"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 24,
+        "actual": 18,
+        "remaining": 6
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Technology Management",
+    "crn": 30047,
+    "subject": "GSM",
+    "code": 528,
+    "type": null,
+    "section": "SLP",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30047",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=GSM&sel_crse_strt=528&sel_crse_end=528&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "FMAN G056",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dilek Çetindamar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
+        "where": "FMAN G056",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dilek Çetindamar"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 9,
+        "actual": 9,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Manufacturing Strategy",
+    "crn": 30048,
+    "subject": "GSM",
+    "code": 529,
+    "type": null,
+    "section": "SLP",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30048",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=GSM&sel_crse_strt=529&sel_crse_end=529&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "FMAN G062",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Jul 23, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sri V Sridharan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "FMAN G062",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Jul 23, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sri V Sridharan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
+        "where": "FMAN G062",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Jul 23, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sri V Sridharan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "FMAN G062",
+        "dateRange": {
+          "from": "Jul 26, 2004",
+          "to": "Jul 30, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sri V Sridharan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "FMAN G062",
+        "dateRange": {
+          "from": "Jul 26, 2004",
+          "to": "Jul 30, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sri V Sridharan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "F",
+        "where": "FMAN G062",
+        "dateRange": {
+          "from": "Jul 26, 2004",
+          "to": "Jul 30, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sri V Sridharan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "FMAN G062",
+        "dateRange": {
+          "from": "Aug 02, 2004",
+          "to": "Aug 13, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sri V Sridharan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "FMAN G062",
+        "dateRange": {
+          "from": "Aug 02, 2004",
+          "to": "Aug 13, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sri V Sridharan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
+        "where": "FMAN G062",
+        "dateRange": {
+          "from": "Aug 02, 2004",
+          "to": "Aug 13, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sri V Sridharan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 11,
+        "actual": 11,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Special Topics in Management",
+    "crn": 30049,
+    "subject": "GSM",
+    "code": 594,
+    "type": null,
+    "section": "SLP",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30049",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=GSM&sel_crse_strt=594&sel_crse_end=594&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "W",
+        "where": "FMAN G062",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmet Haşim Köse"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "11:30 am"
+        },
+        "days": "R",
+        "where": "FMAN G062",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmet Haşim Köse"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 21,
+        "actual": 21,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Enterprise Data and Process Integration Using XML",
+    "crn": 30050,
+    "subject": "IT",
+    "code": 527,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30050",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 7,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=IT&sel_crse_strt=527&sel_crse_end=527&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:40 pm",
+          "to": "9:30 pm"
+        },
+        "days": "T",
+        "where": "FENS L029",
+        "dateRange": {
+          "from": "May 29, 2004",
+          "to": "Jun 19, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İsmail Sabri Büyüksoy"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:40 pm",
+          "to": "9:30 pm"
+        },
+        "days": "R",
+        "where": "FENS L029",
+        "dateRange": {
+          "from": "May 29, 2004",
+          "to": "Jun 19, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İsmail Sabri Büyüksoy"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "3:30 pm"
+        },
+        "days": "S",
+        "where": "FENS L029",
+        "dateRange": {
+          "from": "May 29, 2004",
+          "to": "Jun 19, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İsmail Sabri Büyüksoy"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 24,
+        "actual": 18,
+        "remaining": 6
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Developing Mobile Applications Using the .NET Framework",
+    "crn": 30051,
+    "subject": "IT",
+    "code": 536,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30051",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 7,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=IT&sel_crse_strt=536&sel_crse_end=536&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:40 pm",
+          "to": "9:30 pm"
+        },
+        "days": "T",
+        "where": "FENS L029",
+        "dateRange": {
+          "from": "Jun 22, 2004",
+          "to": "Jul 15, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İsmail Sabri Büyüksoy",
+          "Çağatay Selçuk Uzun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:40 pm",
+          "to": "9:30 pm"
+        },
+        "days": "R",
+        "where": "FENS L029",
+        "dateRange": {
+          "from": "Jun 22, 2004",
+          "to": "Jul 15, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İsmail Sabri Büyüksoy",
+          "Çağatay Selçuk Uzun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "3:30 pm"
+        },
+        "days": "S",
+        "where": "FENS L029",
+        "dateRange": {
+          "from": "Jun 22, 2004",
+          "to": "Jul 15, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İsmail Sabri Büyüksoy",
+          "Çağatay Selçuk Uzun"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 24,
+        "actual": 18,
+        "remaining": 6
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Secure Software Coding",
+    "crn": 30052,
+    "subject": "IT",
+    "code": 539,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30052",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=IT&sel_crse_strt=539&sel_crse_end=539&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:40 pm",
+          "to": "9:30 pm"
+        },
+        "days": "T",
+        "where": "FENS L029",
+        "dateRange": {
+          "from": "Jul 17, 2004",
+          "to": "Aug 07, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İsmail Sabri Büyüksoy",
+          "Çağatay Selçuk Uzun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:40 pm",
+          "to": "9:30 pm"
+        },
+        "days": "R",
+        "where": "FENS L029",
+        "dateRange": {
+          "from": "Jul 17, 2004",
+          "to": "Aug 07, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İsmail Sabri Büyüksoy",
+          "Çağatay Selçuk Uzun"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "3:30 pm"
+        },
+        "days": "S",
+        "where": "FENS L029",
+        "dateRange": {
+          "from": "Jul 17, 2004",
+          "to": "Aug 07, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İsmail Sabri Büyüksoy",
+          "Çağatay Selçuk Uzun"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 24,
+        "actual": 18,
+        "remaining": 6
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Term Project",
+    "crn": 30053,
+    "subject": "POLS",
+    "code": 697,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30053",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 20,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=POLS&sel_crse_strt=697&sel_crse_end=697&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ali Çarkoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 5,
+        "actual": 1,
+        "remaining": 4
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Sound and Image",
+    "crn": 30054,
+    "subject": "VA",
+    "code": 335,
+    "type": null,
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30054",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=VA&sel_crse_strt=335&sel_crse_end=335&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:40 pm",
+          "to": "8:30 pm"
+        },
+        "days": "M",
+        "where": "FASS 2023",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Hüseyin Artut"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:40 pm",
+          "to": "8:30 pm"
+        },
+        "days": "W",
+        "where": "FASS 2023",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Hüseyin Artut"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 12,
+        "actual": 11,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Upper Intermediate English for FDP",
+    "crn": 30055,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30055",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 12,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=ENG&sel_crse_strt=003&sel_crse_end=003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1050",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Jonathan Marcus Garland Smith",
+          "İrfan İyibil",
+          "Ayfer Karaca",
+          "Nazan Özçınar",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "T",
+        "where": "SL 1050",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Jonathan Marcus Garland Smith",
+          "İrfan İyibil",
+          "Ayfer Karaca",
+          "Nazan Özçınar",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1050",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Jonathan Marcus Garland Smith",
+          "İrfan İyibil",
+          "Ayfer Karaca",
+          "Nazan Özçınar",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "R",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Jonathan Marcus Garland Smith",
+          "İrfan İyibil",
+          "Ayfer Karaca",
+          "Nazan Özçınar",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "F",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Jonathan Marcus Garland Smith",
+          "İrfan İyibil",
+          "Ayfer Karaca",
+          "Nazan Özçınar",
+          "Nezaket Özgirin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 12,
+        "actual": 12,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Upper Intermediate English for FDP",
+    "crn": 30056,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30056",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 12,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=ENG&sel_crse_strt=003&sel_crse_end=003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1026A",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aylin Atikler Yurdacan",
+          "Tanju Deveci",
+          "İrfan İyibil",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "T",
+        "where": "SL 1026A",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aylin Atikler Yurdacan",
+          "Tanju Deveci",
+          "İrfan İyibil",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1026A",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aylin Atikler Yurdacan",
+          "Tanju Deveci",
+          "İrfan İyibil",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "R",
+        "where": "SL 1046",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aylin Atikler Yurdacan",
+          "Tanju Deveci",
+          "İrfan İyibil",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "F",
+        "where": "SL 1046",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aylin Atikler Yurdacan",
+          "Tanju Deveci",
+          "İrfan İyibil",
+          "Nezaket Özgirin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 11,
+        "actual": 11,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Upper Intermediate English for FDP",
+    "crn": 30057,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "C",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30057",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 12,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=ENG&sel_crse_strt=003&sel_crse_end=003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayfer Karaca",
+          "Tanju Deveci",
+          "Hülya Görür Atabaş",
+          "Nazan Özçınar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "T",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayfer Karaca",
+          "Tanju Deveci",
+          "Hülya Görür Atabaş",
+          "Nazan Özçınar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayfer Karaca",
+          "Tanju Deveci",
+          "Hülya Görür Atabaş",
+          "Nazan Özçınar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "R",
+        "where": "SL 1050",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayfer Karaca",
+          "Tanju Deveci",
+          "Hülya Görür Atabaş",
+          "Nazan Özçınar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "F",
+        "where": "SL 1050",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayfer Karaca",
+          "Tanju Deveci",
+          "Hülya Görür Atabaş",
+          "Nazan Özçınar"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 12,
+        "actual": 12,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Upper Intermediate English for FDP",
+    "crn": 30058,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "D",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30058",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 12,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=ENG&sel_crse_strt=003&sel_crse_end=003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1046",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hakan San",
+          "Naime Meltem Aygüneş",
+          "Gordon Dobie",
+          "Jonathan Marcus Garland Smith",
+          "Mary Wynn Karatal"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "T",
+        "where": "SL 1046",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hakan San",
+          "Naime Meltem Aygüneş",
+          "Gordon Dobie",
+          "Jonathan Marcus Garland Smith",
+          "Mary Wynn Karatal"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1046",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hakan San",
+          "Naime Meltem Aygüneş",
+          "Gordon Dobie",
+          "Jonathan Marcus Garland Smith",
+          "Mary Wynn Karatal"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "R",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hakan San",
+          "Naime Meltem Aygüneş",
+          "Gordon Dobie",
+          "Jonathan Marcus Garland Smith",
+          "Mary Wynn Karatal"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "F",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hakan San",
+          "Naime Meltem Aygüneş",
+          "Gordon Dobie",
+          "Jonathan Marcus Garland Smith",
+          "Mary Wynn Karatal"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 8,
+        "actual": 8,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Upper Intermediate English for FDP",
+    "crn": 30059,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30059",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 12,
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=ENG&sel_crse_strt=003&sel_crse_end=003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hülya Görür Atabaş",
+          "Naime Meltem Aygüneş",
+          "Gordon Dobie",
+          "Hakan San",
+          "Mary Wynn Karatal"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "T",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hülya Görür Atabaş",
+          "Naime Meltem Aygüneş",
+          "Gordon Dobie",
+          "Hakan San",
+          "Mary Wynn Karatal"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hülya Görür Atabaş",
+          "Naime Meltem Aygüneş",
+          "Gordon Dobie",
+          "Hakan San",
+          "Mary Wynn Karatal"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "R",
+        "where": "SL 1026A",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hülya Görür Atabaş",
+          "Naime Meltem Aygüneş",
+          "Gordon Dobie",
+          "Hakan San",
+          "Mary Wynn Karatal"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "F",
+        "where": "SL 1026A",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hülya Görür Atabaş",
+          "Naime Meltem Aygüneş",
+          "Gordon Dobie",
+          "Hakan San",
+          "Mary Wynn Karatal"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 8,
+        "actual": 8,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Linear Algebra - Recitation",
+    "crn": 30062,
+    "subject": "MATH",
+    "code": 201,
+    "type": "R",
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30062",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=MATH&sel_crse_strt=201R&sel_crse_end=201R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L062",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayça Çeşmelioğlu",
+          "Şafak Özden"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "10:30 am"
+        },
+        "days": "F",
+        "where": "FENS L062",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayça Çeşmelioğlu",
+          "Şafak Özden"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 34,
+        "actual": 33,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Linear Algebra - Recitation",
+    "crn": 30063,
+    "subject": "MATH",
+    "code": 201,
+    "type": "R",
+    "section": "C",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30063",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=MATH&sel_crse_strt=201R&sel_crse_end=201R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L030",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayça Çeşmelioğlu",
+          "Serhan Kalaycı"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "10:30 am"
+        },
+        "days": "F",
+        "where": "FENS L030",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayça Çeşmelioğlu",
+          "Serhan Kalaycı"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 33,
+        "actual": 31,
+        "remaining": 2
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Functions: Discrete and Continuous II - Recitation",
+    "crn": 30064,
+    "subject": "MATH",
+    "code": 102,
+    "type": "R",
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30064",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=MATH&sel_crse_strt=102R&sel_crse_end=102R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "10:30 am"
+        },
+        "days": "W",
+        "where": "FENS L062",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erdal Karapınar",
+          "Burcu Dartan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "R",
+        "where": "FENS L062",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erdal Karapınar",
+          "Burcu Dartan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 14,
+        "remaining": 36
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Functions: Discrete and Continuous I - Recitation",
+    "crn": 30065,
+    "subject": "MATH",
+    "code": 101,
+    "type": "R",
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30065",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=MATH&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L062",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ersin Özuğurlu",
+          "Mehmet Özdemir"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:40 am",
+          "to": "11:30 am"
+        },
+        "days": "T",
+        "where": "FENS L062",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ersin Özuğurlu",
+          "Mehmet Özdemir"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 21,
+        "remaining": 29
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Probability and Statics - Recitation",
+    "crn": 30066,
+    "subject": "MATH",
+    "code": 203,
+    "type": "R",
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30066",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=MATH&sel_crse_strt=203R&sel_crse_end=203R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "T",
+        "where": "FENS L047",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ali Nüvit Veysoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "F",
+        "where": "FENS L047",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ali Nüvit Veysoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 26,
+        "remaining": 24
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Science of Nature I - Recitation",
+    "crn": 30067,
+    "subject": "NS",
+    "code": 101,
+    "type": "R",
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30067",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=NS&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L047",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan",
+          "Burcu Kaplan Türköz"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L063",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan",
+          "Burcu Kaplan Türköz"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "W",
+        "where": "FENS L047",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan",
+          "Burcu Kaplan Türköz"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "W",
+        "where": "FENS L063",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan",
+          "Burcu Kaplan Türköz"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 33,
+        "actual": 19,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Science of Nature I - Recitation",
+    "crn": 30068,
+    "subject": "NS",
+    "code": 101,
+    "type": "R",
+    "section": "C",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30068",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=NS&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L047",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L030",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "W",
+        "where": "FENS L047",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "W",
+        "where": "FENS L030",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 33,
+        "actual": 20,
+        "remaining": 13
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Computing - Recitation",
+    "crn": 30069,
+    "subject": "CS",
+    "code": 201,
+    "type": "R",
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30069",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=CS&sel_crse_strt=201R&sel_crse_end=201R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "M",
+        "where": "FENS G035",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ersin Karabudak",
+          "Alisher Anatolyevich Kholmatov"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 20,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Computing - Recitation",
+    "crn": 30070,
+    "subject": "CS",
+    "code": 201,
+    "type": "R",
+    "section": "C",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=200303&crn_in=30070",
+    "term": "Summer 2003-2004",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=200303&one_subj=CS&sel_crse_strt=201R&sel_crse_end=201R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L045",
+        "dateRange": {
+          "from": "Jul 12, 2004",
+          "to": "Aug 27, 2004"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ersin Karabudak"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 20,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  }
+]
