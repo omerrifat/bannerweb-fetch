@@ -224,7 +224,7 @@ async function main() {
             "Usage:\n" +
             "  fetcher.js fetch <term>\n" +
             "  fetcher.js fetch-last <n-terms>\n" +
-            "  fetcher.js list-terms\n");
+            "  fetcher.js list-terms [--space-sep]");
         process.exit(1);
     }
 }
