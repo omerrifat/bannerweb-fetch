@@ -59,6 +59,37 @@ async function saveCache(cacheKey, text) {
     await writeFileAtomic(paths.data, text);
 }
 
+function sleep(ms) {
+    return new Promise((resolve) => setTimeout(() => resolve(), ms));
+}
+
+async function tryFetch() {
+    let res = null;
+    let attempt = 0;
+    do {
+        try {
+            res = await fetch.apply(null, arguments);
+            if (!res.ok) {
+                throw new Error("Non-OK status code: " + res.status);
+            }
+        }
+        catch (err) {
+            res = null;
+            if (attempt++ < 10) {
+                const sec = attempt * 2;
+                console.error(err);
+                console.error(`...Will retry in ${sec} seconds`);
+                await sleep(sec * 1000);
+            }
+            else {
+                throw err;
+            }
+        }
+    }
+    while (res == null);
+    return res;
+}
+
 /**
  * @argument {string | URL} url
  * @argument {RequestInit?} opts
@@ -75,7 +106,7 @@ async function fetchText(url, opts) {
         return data;
     }
     console.error(opts?.method ?? "GET", url.toString());
-    const res = await fetch(url, opts);
+    const res = await tryFetch(url, opts);
     if (!res.ok) {
         throw new Error("Non-OK status code: " + res.status);
     }
