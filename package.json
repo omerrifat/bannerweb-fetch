@@ -1,11 +1,11 @@
 {
   "name": "bannerweb-fetch",
   "version": "1.0.0",
-  "description": "Bannerweb fetcher for Sabanci University",
+  "description": "Scripts for fetching Sabanci University course details",
   "main": "fetcher.js",
   "author": "omerrifat",
   "type": "module",
-  "license": "UNLICENSED",
+  "license": "AGPL-3.0-or-later",
   "private": true,
   "dependencies": {
     "async": "^3.2.6",
