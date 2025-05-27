@@ -65299,7 +65299,7 @@
     ]
   },
   {
-    "name": "Civic Involvement Projects  ( Hayvan Hakları Odaklı Projeler ) ",
+    "name": "Civic Involvement Projects  ( Afet Farkindaligi ) ",
     "crn": 22042,
     "subject": "CIP",
     "code": 101,
@@ -65323,23 +65323,28 @@
     "schedule": [
       {
         "type": "Class",
-        "time": null,
-        "days": null,
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "T",
         "where": null,
         "dateRange": {
           "from": "Feb 05, 2025",
           "to": "May 23, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Zeynep Bahar"
+        ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 20
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -65350,7 +65355,7 @@
     ]
   },
   {
-    "name": "Civic Involvement Projects  ( Hayvan Hakları Odaklı Projeler ) ",
+    "name": "Civic Involvement Projects  ( Ilkokul Projesi ) ",
     "crn": 22043,
     "subject": "CIP",
     "code": 101,
@@ -65374,23 +65379,28 @@
     "schedule": [
       {
         "type": "Class",
-        "time": null,
-        "days": null,
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "T",
         "where": null,
         "dateRange": {
           "from": "Feb 05, 2025",
           "to": "May 23, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Zeynep Bahar"
+        ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 20
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -65401,7 +65411,7 @@
     ]
   },
   {
-    "name": "Civic Involvement Projects  ( Eğitim Odaklı Projeler ) ",
+    "name": "Civic Involvement Projects  ( Kent ve Cevre ) ",
     "crn": 22044,
     "subject": "CIP",
     "code": 101,
@@ -65425,23 +65435,28 @@
     "schedule": [
       {
         "type": "Class",
-        "time": null,
-        "days": null,
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "T",
         "where": null,
         "dateRange": {
           "from": "Feb 05, 2025",
           "to": "May 23, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Zeynep Bahar"
+        ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 20
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -65452,7 +65467,7 @@
     ]
   },
   {
-    "name": "Civic Involvement Projects  ( Yaşlılara Destek Projeleri ) ",
+    "name": "Civic Involvement Projects  ( Toplumsal Cinsiyet ) ",
     "crn": 22045,
     "subject": "CIP",
     "code": 101,
@@ -65476,23 +65491,28 @@
     "schedule": [
       {
         "type": "Class",
-        "time": null,
-        "days": null,
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "T",
         "where": null,
         "dateRange": {
           "from": "Feb 05, 2025",
           "to": "May 23, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Zeynep Bahar"
+        ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 20
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -65503,7 +65523,7 @@
     ]
   },
   {
-    "name": "Civic Involvement Projects  ( Engelli Bireylere Destek Proje ) ",
+    "name": "Civic Involvement Projects  ( Huzurevi ) ",
     "crn": 22046,
     "subject": "CIP",
     "code": 101,
@@ -65527,23 +65547,28 @@
     "schedule": [
       {
         "type": "Class",
-        "time": null,
-        "days": null,
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
         "where": null,
         "dateRange": {
           "from": "Feb 05, 2025",
           "to": "May 23, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Zeynep Bahar"
+        ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 20
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -65554,7 +65579,7 @@
     ]
   },
   {
-    "name": "Civic Involvement Projects  ( Engelli Bireylere Destek Proje ) ",
+    "name": "Civic Involvement Projects  ( Ilkokul ) ",
     "crn": 22047,
     "subject": "CIP",
     "code": 101,
@@ -65578,23 +65603,28 @@
     "schedule": [
       {
         "type": "Class",
-        "time": null,
-        "days": null,
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
         "where": null,
         "dateRange": {
           "from": "Feb 05, 2025",
           "to": "May 23, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Zeynep Bahar"
+        ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 20
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -65605,7 +65635,7 @@
     ]
   },
   {
-    "name": "Civic Involvement Projects  ( Hayvan Hakları Odaklı Projeler ) ",
+    "name": "Civic Involvement Projects  ( Isaret Dili ) ",
     "crn": 22048,
     "subject": "CIP",
     "code": 101,
@@ -65629,23 +65659,28 @@
     "schedule": [
       {
         "type": "Class",
-        "time": null,
-        "days": null,
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
         "where": null,
         "dateRange": {
           "from": "Feb 05, 2025",
           "to": "May 23, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Zeynep Bahar"
+        ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 20
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -65656,7 +65691,7 @@
     ]
   },
   {
-    "name": "Civic Involvement Projects  ( Toplumsal Cinsiyet Temalı Proj ) ",
+    "name": "Civic Involvement Projects  ( Toplumsal Cinsiyet ) ",
     "crn": 22049,
     "subject": "CIP",
     "code": 101,
@@ -65680,23 +65715,28 @@
     "schedule": [
       {
         "type": "Class",
-        "time": null,
-        "days": null,
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
         "where": null,
         "dateRange": {
           "from": "Feb 05, 2025",
           "to": "May 23, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Zeynep Bahar"
+        ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 20
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -65707,7 +65747,7 @@
     ]
   },
   {
-    "name": "Civic Involvement Projects  ( Eğitim Odaklı Projeler ) ",
+    "name": "Civic Involvement Projects  ( Tuketici Bilinci ) ",
     "crn": 22050,
     "subject": "CIP",
     "code": 101,
@@ -65731,23 +65771,28 @@
     "schedule": [
       {
         "type": "Class",
-        "time": null,
-        "days": null,
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
         "where": null,
         "dateRange": {
           "from": "Feb 05, 2025",
           "to": "May 23, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Zeynep Bahar"
+        ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 20
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -65758,7 +65803,7 @@
     ]
   },
   {
-    "name": "Civic Involvement Projects  ( Eğitim Odaklı Projeler ) ",
+    "name": "Civic Involvement Projects  ( CIP101 Project ) ",
     "crn": 22051,
     "subject": "CIP",
     "code": 101,
@@ -65782,23 +65827,28 @@
     "schedule": [
       {
         "type": "Class",
-        "time": null,
-        "days": null,
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
         "where": null,
         "dateRange": {
           "from": "Feb 05, 2025",
           "to": "May 23, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Zeynep Bahar"
+        ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 20
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -65809,7 +65859,7 @@
     ]
   },
   {
-    "name": "Civic Involvement Projects  ( Yaşlılara Destek Projeleri ) ",
+    "name": "Civic Involvement Projects  ( Afet Farkindaligi ) ",
     "crn": 22052,
     "subject": "CIP",
     "code": 101,
@@ -65833,23 +65883,28 @@
     "schedule": [
       {
         "type": "Class",
-        "time": null,
-        "days": null,
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
         "where": null,
         "dateRange": {
           "from": "Feb 05, 2025",
           "to": "May 23, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Zeynep Bahar"
+        ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 20
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -65860,7 +65915,7 @@
     ]
   },
   {
-    "name": "Civic Involvement Projects  ( Engelli Bireylere Destek Proje ) ",
+    "name": "Civic Involvement Projects  ( Dijital Yurttaslik ) ",
     "crn": 22053,
     "subject": "CIP",
     "code": 101,
@@ -65884,23 +65939,28 @@
     "schedule": [
       {
         "type": "Class",
-        "time": null,
-        "days": null,
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
         "where": null,
         "dateRange": {
           "from": "Feb 05, 2025",
           "to": "May 23, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Zeynep Bahar"
+        ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 20
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -65911,7 +65971,7 @@
     ]
   },
   {
-    "name": "Civic Involvement Projects  ( Engelli Bireylere Destek Proje ) ",
+    "name": "Civic Involvement Projects  ( Ilkokul Projesi ) ",
     "crn": 22054,
     "subject": "CIP",
     "code": 101,
@@ -65935,23 +65995,28 @@
     "schedule": [
       {
         "type": "Class",
-        "time": null,
-        "days": null,
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
         "where": null,
         "dateRange": {
           "from": "Feb 05, 2025",
           "to": "May 23, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Zeynep Bahar"
+        ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 20
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -65962,7 +66027,7 @@
     ]
   },
   {
-    "name": "Civic Involvement Projects  ( Kent ve Çevre Temalı Projeler ) ",
+    "name": "Civic Involvement Projects  ( Insan Haklari ) ",
     "crn": 22055,
     "subject": "CIP",
     "code": 101,
@@ -65986,23 +66051,28 @@
     "schedule": [
       {
         "type": "Class",
-        "time": null,
-        "days": null,
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
         "where": null,
         "dateRange": {
           "from": "Feb 05, 2025",
           "to": "May 23, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Zeynep Bahar"
+        ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 20
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -66013,7 +66083,7 @@
     ]
   },
   {
-    "name": "Civic Involvement Projects  ( Eğitim Odaklı Projeler ) ",
+    "name": "Civic Involvement Projects  ( Toplumsal Cinsiyet ) ",
     "crn": 22056,
     "subject": "CIP",
     "code": 101,
@@ -66037,686 +66107,28 @@
     "schedule": [
       {
         "type": "Class",
-        "time": null,
-        "days": null,
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
         "where": null,
         "dateRange": {
           "from": "Feb 05, 2025",
           "to": "May 23, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Zeynep Bahar"
+        ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Civic Involvement Projects  ( Hayvan Hakları Odaklı Projeler ) ",
-    "crn": 22057,
-    "subject": "CIP",
-    "code": 101,
-    "type": "P",
-    "section": "P17",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202402&crn_in=22057",
-    "term": "Spring 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Foundation Development Year",
-      "Masters",
-      "Special Student"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202402&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Feb 05, 2025",
-          "to": "May 23, 2025"
-        },
-        "scheduleType": null,
-        "instructors": null
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Civic Involvement Projects  ( Hayvan Hakları Odaklı Projeler ) ",
-    "crn": 22058,
-    "subject": "CIP",
-    "code": 101,
-    "type": "P",
-    "section": "P18",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202402&crn_in=22058",
-    "term": "Spring 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Foundation Development Year",
-      "Masters",
-      "Special Student"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202402&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Feb 05, 2025",
-          "to": "May 23, 2025"
-        },
-        "scheduleType": null,
-        "instructors": null
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Civic Involvement Projects  ( Toplumsal Cinsiyet Temalı Proj ) ",
-    "crn": 22059,
-    "subject": "CIP",
-    "code": 101,
-    "type": "P",
-    "section": "P19",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202402&crn_in=22059",
-    "term": "Spring 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Foundation Development Year",
-      "Masters",
-      "Special Student"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202402&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Feb 05, 2025",
-          "to": "May 23, 2025"
-        },
-        "scheduleType": null,
-        "instructors": null
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Civic Involvement Projects  ( Eğitim Odaklı Projeler ) ",
-    "crn": 22060,
-    "subject": "CIP",
-    "code": 101,
-    "type": "P",
-    "section": "P20",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202402&crn_in=22060",
-    "term": "Spring 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Foundation Development Year",
-      "Masters",
-      "Special Student"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202402&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Feb 05, 2025",
-          "to": "May 23, 2025"
-        },
-        "scheduleType": null,
-        "instructors": null
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Civic Involvement Projects  ( Yaşlılara Destek Projeleri ) ",
-    "crn": 22061,
-    "subject": "CIP",
-    "code": 101,
-    "type": "P",
-    "section": "P21",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202402&crn_in=22061",
-    "term": "Spring 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Foundation Development Year",
-      "Masters",
-      "Special Student"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202402&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Feb 05, 2025",
-          "to": "May 23, 2025"
-        },
-        "scheduleType": null,
-        "instructors": null
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Civic Involvement Projects  ( Engelli Bireylere Destek Proje ) ",
-    "crn": 22062,
-    "subject": "CIP",
-    "code": 101,
-    "type": "P",
-    "section": "P22",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202402&crn_in=22062",
-    "term": "Spring 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Foundation Development Year",
-      "Masters",
-      "Special Student"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202402&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Feb 05, 2025",
-          "to": "May 23, 2025"
-        },
-        "scheduleType": null,
-        "instructors": null
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Civic Involvement Projects  ( Engelli Bireylere Destek Proje ) ",
-    "crn": 22063,
-    "subject": "CIP",
-    "code": 101,
-    "type": "P",
-    "section": "P23",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202402&crn_in=22063",
-    "term": "Spring 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Foundation Development Year",
-      "Masters",
-      "Special Student"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202402&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Feb 05, 2025",
-          "to": "May 23, 2025"
-        },
-        "scheduleType": null,
-        "instructors": null
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Civic Involvement Projects  ( Engelli Bireylere Destek Proje ) ",
-    "crn": 22064,
-    "subject": "CIP",
-    "code": 101,
-    "type": "P",
-    "section": "P24",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202402&crn_in=22064",
-    "term": "Spring 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Foundation Development Year",
-      "Masters",
-      "Special Student"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202402&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Feb 05, 2025",
-          "to": "May 23, 2025"
-        },
-        "scheduleType": null,
-        "instructors": null
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Civic Involvement Projects  ( Kent ve Çevre Temalı Projeler ) ",
-    "crn": 22065,
-    "subject": "CIP",
-    "code": 101,
-    "type": "P",
-    "section": "P25",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202402&crn_in=22065",
-    "term": "Spring 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Foundation Development Year",
-      "Masters",
-      "Special Student"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202402&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Feb 05, 2025",
-          "to": "May 23, 2025"
-        },
-        "scheduleType": null,
-        "instructors": null
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Civic Involvement Projects  ( Eğitim Odaklı Projeler ) ",
-    "crn": 22066,
-    "subject": "CIP",
-    "code": 101,
-    "type": "P",
-    "section": "P26",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202402&crn_in=22066",
-    "term": "Spring 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Foundation Development Year",
-      "Masters",
-      "Special Student"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202402&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Feb 05, 2025",
-          "to": "May 23, 2025"
-        },
-        "scheduleType": null,
-        "instructors": null
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Civic Involvement Projects  ( Hayvan Hakları Odaklı Projeler ) ",
-    "crn": 22067,
-    "subject": "CIP",
-    "code": 101,
-    "type": "P",
-    "section": "P27",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202402&crn_in=22067",
-    "term": "Spring 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Foundation Development Year",
-      "Masters",
-      "Special Student"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202402&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Feb 05, 2025",
-          "to": "May 23, 2025"
-        },
-        "scheduleType": null,
-        "instructors": null
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Civic Involvement Projects  ( Engelli Bireylere Destek Proje ) ",
-    "crn": 22068,
-    "subject": "CIP",
-    "code": 101,
-    "type": "P",
-    "section": "P28",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202402&crn_in=22068",
-    "term": "Spring 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Foundation Development Year",
-      "Masters",
-      "Special Student"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202402&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Feb 05, 2025",
-          "to": "May 23, 2025"
-        },
-        "scheduleType": null,
-        "instructors": null
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Civic Involvement Projects  ( Toplumsal Cinsiyet Temalı Proj ) ",
-    "crn": 22069,
-    "subject": "CIP",
-    "code": 101,
-    "type": "P",
-    "section": "P29",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202402&crn_in=22069",
-    "term": "Spring 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Foundation Development Year",
-      "Masters",
-      "Special Student"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202402&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Feb 05, 2025",
-          "to": "May 23, 2025"
-        },
-        "scheduleType": null,
-        "instructors": null
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -79201,8 +78613,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 40,
-        "remaining": 9957
+        "actual": 39,
+        "remaining": 9958
       }
     ],
     "corequisites": [
@@ -79274,8 +78686,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 40,
-        "remaining": 9957
+        "actual": 39,
+        "remaining": 9958
       }
     ],
     "corequisites": [
@@ -88026,8 +87438,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 9,
-        "remaining": 11
+        "actual": 8,
+        "remaining": 12
       },
       {
         "title": "Waitlist Seats",
@@ -88038,8 +87450,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 40,
-        "remaining": 9957
+        "actual": 39,
+        "remaining": 9958
       }
     ],
     "corequisites": [
@@ -88177,8 +87589,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 9,
-        "remaining": 11
+        "actual": 8,
+        "remaining": 12
       },
       {
         "title": "Waitlist Seats",
@@ -88189,8 +87601,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 40,
-        "remaining": 9957
+        "actual": 39,
+        "remaining": 9958
       }
     ]
   },
@@ -99601,6 +99013,62 @@
         "capacity": 1,
         "actual": 0,
         "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( Huzurevi ) ",
+    "crn": 23162,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P02",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202402&crn_in=23162",
+    "term": "Spring 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202402&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "T",
+        "where": null,
+        "dateRange": {
+          "from": "Feb 05, 2025",
+          "to": "May 23, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",

@@ -11423,5 +11423,1165 @@
         "remaining": 0
       }
     ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30183,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4A3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30183",
+    "term": "Summer 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1025",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1025",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1026",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1037",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30184,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4B3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30184",
+    "term": "Summer 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1026",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1026",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1030",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1030",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1025",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30185,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4C3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30185",
+    "term": "Summer 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1030",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1026",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30186,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4D3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30186",
+    "term": "Summer 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1030",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1030",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1050",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30187,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4E3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30187",
+    "term": "Summer 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1037",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1030",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30188,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4F3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30188",
+    "term": "Summer 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1025",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30189,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4G3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30189",
+    "term": "Summer 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1050",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1050",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1026",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30190,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4H3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30190",
+    "term": "Summer 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1050",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1037",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1037",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
   }
 ]
