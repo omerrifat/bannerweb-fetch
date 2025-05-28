@@ -43,8 +43,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 41,
-        "remaining": -1
+        "actual": 42,
+        "remaining": -2
       },
       {
         "title": "Waitlist Seats",
@@ -11965,7 +11965,7 @@
           "to": "12:50 pm"
         },
         "days": "R",
-        "where": "SL 1050",
+        "where": "SL 1046",
         "dateRange": {
           "from": "Jun 23, 2025",
           "to": "Aug 15, 2025"
@@ -12370,7 +12370,7 @@
           "to": "12:50 pm"
         },
         "days": "W",
-        "where": "SL 1050",
+        "where": "SL 1046",
         "dateRange": {
           "from": "Jun 23, 2025",
           "to": "Aug 15, 2025"
@@ -12385,7 +12385,7 @@
           "to": "3:30 pm"
         },
         "days": "W",
-        "where": "SL 1050",
+        "where": "SL 1046",
         "dateRange": {
           "from": "Jun 23, 2025",
           "to": "Aug 15, 2025"
@@ -12500,7 +12500,7 @@
           "to": "12:50 pm"
         },
         "days": "T",
-        "where": "SL 1050",
+        "where": "SL 1046",
         "dateRange": {
           "from": "Jun 23, 2025",
           "to": "Aug 15, 2025"

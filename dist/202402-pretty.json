@@ -55966,8 +55966,8 @@
       {
         "title": "Seats",
         "capacity": 14,
-        "actual": 2,
-        "remaining": 12
+        "actual": 3,
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -56028,8 +56028,8 @@
       {
         "title": "Seats",
         "capacity": 14,
-        "actual": 1,
-        "remaining": 13
+        "actual": 2,
+        "remaining": 12
       },
       {
         "title": "Waitlist Seats",
@@ -99011,8 +99011,8 @@
       {
         "title": "Seats",
         "capacity": 1,
-        "actual": 0,
-        "remaining": 1
+        "actual": 1,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -99069,6 +99069,62 @@
         "capacity": 35,
         "actual": 0,
         "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "crn": 23163,
+    "subject": "EE",
+    "code": 790,
+    "type": null,
+    "section": "12",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202402&crn_in=23163",
+    "term": "Spring 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 180,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202402&one_subj=EE&sel_crse_strt=790&sel_crse_end=790&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Feb 05, 2025",
+          "to": "May 23, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Murat Kaya Yapıcı"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 1,
+        "remaining": 13
       },
       {
         "title": "Waitlist Seats",
