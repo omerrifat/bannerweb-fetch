@@ -27,7 +27,7 @@ main() {
     node fetcher.js "$2" "$3"
     git checkout gh-pages
     mkdir -p dist
-    cp out/*.json dist/
+    cp out/*.json dist/ || true
     git add dist/*
 
     if [ -z "$(git status --porcelain --untracked-files=no)" ]; then
