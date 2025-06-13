@@ -2712,8 +2712,8 @@
       {
         "title": "Seats",
         "capacity": 12,
-        "actual": 12,
-        "remaining": 0
+        "actual": 13,
+        "remaining": -1
       },
       {
         "title": "Waitlist Seats",
@@ -9655,7 +9655,7 @@
           "to": "11:30 am"
         },
         "days": "M",
-        "where": "FENS G077",
+        "where": "FASS G062",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
@@ -9672,7 +9672,7 @@
           "to": "11:30 am"
         },
         "days": "W",
-        "where": "FENS G077",
+        "where": "FASS G062",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
@@ -12561,6 +12561,151 @@
         },
         "days": "F",
         "where": "SL 1048",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30191,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4J3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30191",
+    "term": "Summer 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1038",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1038",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL G025",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1038",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1038",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL G024",
+        "dateRange": {
+          "from": "Jun 23, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL G039",
         "dateRange": {
           "from": "Jun 23, 2025",
           "to": "Aug 15, 2025"
