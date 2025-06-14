@@ -2859,8 +2859,8 @@
       {
         "title": "Seats",
         "capacity": 12,
-        "actual": 12,
-        "remaining": 0
+        "actual": 13,
+        "remaining": -1
       },
       {
         "title": "Waitlist Seats",
@@ -4630,10 +4630,10 @@
       {
         "type": "Class",
         "time": {
-          "from": "5:40 pm",
-          "to": "7:30 pm"
+          "from": "4:40 pm",
+          "to": "6:30 pm"
         },
-        "days": "T",
+        "days": "W",
         "where": "FENS L027",
         "dateRange": {
           "from": "Jul 07, 2025",
@@ -4717,11 +4717,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "5:40 pm",
-          "to": "7:30 pm"
+          "from": "4:40 pm",
+          "to": "6:30 pm"
         },
-        "days": "T",
-        "where": "FENS L029",
+        "days": "W",
+        "where": "FENS L065",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
@@ -4804,11 +4804,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "5:40 pm",
-          "to": "7:30 pm"
+          "from": "4:40 pm",
+          "to": "6:30 pm"
         },
-        "days": "T",
-        "where": "FENS L065",
+        "days": "W",
+        "where": "FENS L067",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
