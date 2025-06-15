@@ -196,13 +196,27 @@ async function fetchTerm(termCode) {
 }
 
 async function fetchTermList() {
-    const termsHTML = await fetchText("https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_dyn_sched");
-    const terms = extractTerms(termsHTML);
-    if (terms.length > 0) {
-        mkdirSync("out", { recursive: true });
-        await writeFileAtomic(`out/terms.json`, JSON.stringify(terms));
-        await writeFileAtomic(`out/terms-pretty.json`, JSON.stringify(terms, null, 2));
+    let attempt = 0;
+    const MAX_ATTEMPTS = 5;
+    let terms;
+    do {
+        const termsHTML = await fetchText("https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_dyn_sched");
+        terms = extractTerms(termsHTML);
+        if (terms.length > 0) {
+            mkdirSync("out", { recursive: true });
+            await writeFileAtomic(`out/terms.json`, JSON.stringify(terms));
+            await writeFileAtomic(`out/terms-pretty.json`, JSON.stringify(terms, null, 2));
+        }
+        else if (attempt !== (MAX_ATTEMPTS - 1)) {
+            const RETRY_DELAY = 60;
+            console.error(`... Failed to fetch term list, trying again in ${RETRY_DELAY} seconds`);
+            await sleep(RETRY_DELAY * 1000);
+        }
+        else {
+            console.error(`... Failed to fetch term list, retry limit reached`);
+        }
     }
+    while (++attempt < 5 && terms.length === 0);
     return terms;
 }
 
