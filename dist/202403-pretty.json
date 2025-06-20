@@ -43,8 +43,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 42,
-        "remaining": -2
+        "actual": 41,
+        "remaining": -1
       },
       {
         "title": "Waitlist Seats",
@@ -153,8 +153,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 33,
-        "remaining": 17
+        "actual": 30,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -262,8 +262,8 @@
       {
         "title": "Seats",
         "capacity": 120,
-        "actual": 55,
-        "remaining": 65
+        "actual": 52,
+        "remaining": 68
       },
       {
         "title": "Waitlist Seats",
@@ -311,8 +311,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 24,
-        "remaining": -1
+        "actual": 22,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -458,8 +458,8 @@
       {
         "title": "Seats",
         "capacity": 5,
-        "actual": 3,
-        "remaining": 2
+        "actual": 2,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -605,8 +605,8 @@
       {
         "title": "Seats",
         "capacity": 5,
-        "actual": 5,
-        "remaining": 0
+        "actual": 4,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -654,8 +654,8 @@
       {
         "title": "Seats",
         "capacity": 5,
-        "actual": 1,
-        "remaining": 4
+        "actual": 0,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -703,8 +703,8 @@
       {
         "title": "Seats",
         "capacity": 7,
-        "actual": 7,
-        "remaining": 0
+        "actual": 6,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -948,8 +948,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 23,
-        "remaining": 0
+        "actual": 22,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -1046,8 +1046,8 @@
       {
         "title": "Seats",
         "capacity": 10,
-        "actual": 10,
-        "remaining": 0
+        "actual": 9,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -1095,8 +1095,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 23,
-        "remaining": -1
+        "actual": 22,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -1144,8 +1144,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 23,
-        "remaining": -1
+        "actual": 21,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -1291,8 +1291,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 24,
-        "remaining": -2
+        "actual": 22,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -1634,8 +1634,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 23,
-        "remaining": -1
+        "actual": 21,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -2320,8 +2320,8 @@
       {
         "title": "Seats",
         "capacity": 12,
-        "actual": 12,
-        "remaining": 0
+        "actual": 11,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -2467,8 +2467,8 @@
       {
         "title": "Seats",
         "capacity": 12,
-        "actual": 14,
-        "remaining": -2
+        "actual": 13,
+        "remaining": -1
       },
       {
         "title": "Waitlist Seats",
@@ -2516,8 +2516,8 @@
       {
         "title": "Seats",
         "capacity": 12,
-        "actual": 13,
-        "remaining": -1
+        "actual": 12,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -2614,8 +2614,8 @@
       {
         "title": "Seats",
         "capacity": 12,
-        "actual": 13,
-        "remaining": -1
+        "actual": 12,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -2859,8 +2859,8 @@
       {
         "title": "Seats",
         "capacity": 12,
-        "actual": 13,
-        "remaining": -1
+        "actual": 12,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -3104,8 +3104,8 @@
       {
         "title": "Seats",
         "capacity": 1,
-        "actual": 2,
-        "remaining": -1
+        "actual": 1,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -3251,8 +3251,8 @@
       {
         "title": "Seats",
         "capacity": 2,
-        "actual": 2,
-        "remaining": 0
+        "actual": 1,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -3545,8 +3545,8 @@
       {
         "title": "Seats",
         "capacity": 7,
-        "actual": 7,
-        "remaining": 0
+        "actual": 6,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -11461,7 +11461,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Melek Didem Beyazoğlu Turan",
+          "Ali Aydın",
+          "Deniz Çiçekoğlu Daryavuz",
+          "Ebru Yamaç"
+        ]
       },
       {
         "type": "Class",
@@ -11476,7 +11482,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Melek Didem Beyazoğlu Turan",
+          "Ali Aydın",
+          "Deniz Çiçekoğlu Daryavuz",
+          "Ebru Yamaç"
+        ]
       },
       {
         "type": "Class",
@@ -11491,7 +11503,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Melek Didem Beyazoğlu Turan",
+          "Ali Aydın",
+          "Deniz Çiçekoğlu Daryavuz",
+          "Ebru Yamaç"
+        ]
       },
       {
         "type": "Class",
@@ -11506,7 +11524,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Melek Didem Beyazoğlu Turan",
+          "Ali Aydın",
+          "Deniz Çiçekoğlu Daryavuz",
+          "Ebru Yamaç"
+        ]
       },
       {
         "type": "Class",
@@ -11521,7 +11545,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Melek Didem Beyazoğlu Turan",
+          "Ali Aydın",
+          "Deniz Çiçekoğlu Daryavuz",
+          "Ebru Yamaç"
+        ]
       },
       {
         "type": "Class",
@@ -11536,7 +11566,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Melek Didem Beyazoğlu Turan",
+          "Ali Aydın",
+          "Deniz Çiçekoğlu Daryavuz",
+          "Ebru Yamaç"
+        ]
       },
       {
         "type": "Class",
@@ -11551,7 +11587,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Melek Didem Beyazoğlu Turan",
+          "Ali Aydın",
+          "Deniz Çiçekoğlu Daryavuz",
+          "Ebru Yamaç"
+        ]
       }
     ],
     "availability": [
@@ -11606,7 +11648,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Melek Didem Beyazoğlu Turan",
+          "Ali Aydın",
+          "Eren Benderli",
+          "Mine Gündüz Kartal",
+          "Ebru Yamaç"
+        ]
       },
       {
         "type": "Class",
@@ -11621,7 +11670,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Melek Didem Beyazoğlu Turan",
+          "Ali Aydın",
+          "Eren Benderli",
+          "Mine Gündüz Kartal",
+          "Ebru Yamaç"
+        ]
       },
       {
         "type": "Class",
@@ -11636,7 +11692,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Melek Didem Beyazoğlu Turan",
+          "Ali Aydın",
+          "Eren Benderli",
+          "Mine Gündüz Kartal",
+          "Ebru Yamaç"
+        ]
       },
       {
         "type": "Class",
@@ -11651,7 +11714,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Melek Didem Beyazoğlu Turan",
+          "Ali Aydın",
+          "Eren Benderli",
+          "Mine Gündüz Kartal",
+          "Ebru Yamaç"
+        ]
       },
       {
         "type": "Class",
@@ -11666,7 +11736,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Melek Didem Beyazoğlu Turan",
+          "Ali Aydın",
+          "Eren Benderli",
+          "Mine Gündüz Kartal",
+          "Ebru Yamaç"
+        ]
       },
       {
         "type": "Class",
@@ -11681,7 +11758,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Melek Didem Beyazoğlu Turan",
+          "Ali Aydın",
+          "Eren Benderli",
+          "Mine Gündüz Kartal",
+          "Ebru Yamaç"
+        ]
       },
       {
         "type": "Class",
@@ -11696,7 +11780,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Melek Didem Beyazoğlu Turan",
+          "Ali Aydın",
+          "Eren Benderli",
+          "Mine Gündüz Kartal",
+          "Ebru Yamaç"
+        ]
       }
     ],
     "availability": [
@@ -11751,7 +11842,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Özlem Yanar",
+          "Eren Benderli",
+          "Kenneth Mark Fıne",
+          "İrem Gedil",
+          "Selin Şenay"
+        ]
       },
       {
         "type": "Class",
@@ -11766,7 +11863,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Özlem Yanar",
+          "Eren Benderli",
+          "Kenneth Mark Fıne",
+          "İrem Gedil",
+          "Selin Şenay"
+        ]
       },
       {
         "type": "Class",
@@ -11781,7 +11884,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Özlem Yanar",
+          "Eren Benderli",
+          "Kenneth Mark Fıne",
+          "İrem Gedil",
+          "Selin Şenay"
+        ]
       },
       {
         "type": "Class",
@@ -11796,7 +11905,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Özlem Yanar",
+          "Eren Benderli",
+          "Kenneth Mark Fıne",
+          "İrem Gedil",
+          "Selin Şenay"
+        ]
       },
       {
         "type": "Class",
@@ -11811,7 +11926,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Özlem Yanar",
+          "Eren Benderli",
+          "Kenneth Mark Fıne",
+          "İrem Gedil",
+          "Selin Şenay"
+        ]
       },
       {
         "type": "Class",
@@ -11826,7 +11947,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Özlem Yanar",
+          "Eren Benderli",
+          "Kenneth Mark Fıne",
+          "İrem Gedil",
+          "Selin Şenay"
+        ]
       },
       {
         "type": "Class",
@@ -11841,7 +11968,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Özlem Yanar",
+          "Eren Benderli",
+          "Kenneth Mark Fıne",
+          "İrem Gedil",
+          "Selin Şenay"
+        ]
       }
     ],
     "availability": [
@@ -11896,7 +12029,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ceyda Gümüş",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Bayram Mustafa Zor"
+        ]
       },
       {
         "type": "Class",
@@ -11911,7 +12050,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ceyda Gümüş",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Bayram Mustafa Zor"
+        ]
       },
       {
         "type": "Class",
@@ -11926,7 +12071,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ceyda Gümüş",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Bayram Mustafa Zor"
+        ]
       },
       {
         "type": "Class",
@@ -11941,7 +12092,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ceyda Gümüş",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Bayram Mustafa Zor"
+        ]
       },
       {
         "type": "Class",
@@ -11956,7 +12113,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ceyda Gümüş",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Bayram Mustafa Zor"
+        ]
       },
       {
         "type": "Class",
@@ -11971,7 +12134,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ceyda Gümüş",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Bayram Mustafa Zor"
+        ]
       },
       {
         "type": "Class",
@@ -11986,7 +12155,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ceyda Gümüş",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Bayram Mustafa Zor"
+        ]
       }
     ],
     "availability": [
@@ -12041,7 +12216,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Gökçen Gök Kaça",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Nezaket Özgirin",
+          "Suant Jane Sezgin",
+          "Bayram Mustafa Zor"
+        ]
       },
       {
         "type": "Class",
@@ -12056,7 +12238,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Gökçen Gök Kaça",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Nezaket Özgirin",
+          "Suant Jane Sezgin",
+          "Bayram Mustafa Zor"
+        ]
       },
       {
         "type": "Class",
@@ -12071,7 +12260,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Gökçen Gök Kaça",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Nezaket Özgirin",
+          "Suant Jane Sezgin",
+          "Bayram Mustafa Zor"
+        ]
       },
       {
         "type": "Class",
@@ -12086,7 +12282,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Gökçen Gök Kaça",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Nezaket Özgirin",
+          "Suant Jane Sezgin",
+          "Bayram Mustafa Zor"
+        ]
       },
       {
         "type": "Class",
@@ -12101,7 +12304,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Gökçen Gök Kaça",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Nezaket Özgirin",
+          "Suant Jane Sezgin",
+          "Bayram Mustafa Zor"
+        ]
       },
       {
         "type": "Class",
@@ -12116,7 +12326,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Gökçen Gök Kaça",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Nezaket Özgirin",
+          "Suant Jane Sezgin",
+          "Bayram Mustafa Zor"
+        ]
       },
       {
         "type": "Class",
@@ -12131,7 +12348,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Gökçen Gök Kaça",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Nezaket Özgirin",
+          "Suant Jane Sezgin",
+          "Bayram Mustafa Zor"
+        ]
       }
     ],
     "availability": [
@@ -12186,7 +12410,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Bünyamin Mengi",
+          "Feyza Sena Avşar",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Celile Gürsu"
+        ]
       },
       {
         "type": "Class",
@@ -12201,7 +12431,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Bünyamin Mengi",
+          "Feyza Sena Avşar",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Celile Gürsu"
+        ]
       },
       {
         "type": "Class",
@@ -12216,7 +12452,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Bünyamin Mengi",
+          "Feyza Sena Avşar",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Celile Gürsu"
+        ]
       },
       {
         "type": "Class",
@@ -12231,7 +12473,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Bünyamin Mengi",
+          "Feyza Sena Avşar",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Celile Gürsu"
+        ]
       },
       {
         "type": "Class",
@@ -12246,7 +12494,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Bünyamin Mengi",
+          "Feyza Sena Avşar",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Celile Gürsu"
+        ]
       },
       {
         "type": "Class",
@@ -12261,7 +12515,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Bünyamin Mengi",
+          "Feyza Sena Avşar",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Celile Gürsu"
+        ]
       },
       {
         "type": "Class",
@@ -12276,7 +12536,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Bünyamin Mengi",
+          "Feyza Sena Avşar",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Celile Gürsu"
+        ]
       }
     ],
     "availability": [
@@ -12331,7 +12597,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ahmed Elmahi",
+          "Feyza Sena Avşar",
+          "Arda Bayraktaroğlu",
+          "Celile Gürsu",
+          "Bünyamin Mengi",
+          "Nezaket Özgirin"
+        ]
       },
       {
         "type": "Class",
@@ -12346,7 +12619,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ahmed Elmahi",
+          "Feyza Sena Avşar",
+          "Arda Bayraktaroğlu",
+          "Celile Gürsu",
+          "Bünyamin Mengi",
+          "Nezaket Özgirin"
+        ]
       },
       {
         "type": "Class",
@@ -12361,7 +12641,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ahmed Elmahi",
+          "Feyza Sena Avşar",
+          "Arda Bayraktaroğlu",
+          "Celile Gürsu",
+          "Bünyamin Mengi",
+          "Nezaket Özgirin"
+        ]
       },
       {
         "type": "Class",
@@ -12376,7 +12663,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ahmed Elmahi",
+          "Feyza Sena Avşar",
+          "Arda Bayraktaroğlu",
+          "Celile Gürsu",
+          "Bünyamin Mengi",
+          "Nezaket Özgirin"
+        ]
       },
       {
         "type": "Class",
@@ -12391,7 +12685,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ahmed Elmahi",
+          "Feyza Sena Avşar",
+          "Arda Bayraktaroğlu",
+          "Celile Gürsu",
+          "Bünyamin Mengi",
+          "Nezaket Özgirin"
+        ]
       },
       {
         "type": "Class",
@@ -12406,7 +12707,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ahmed Elmahi",
+          "Feyza Sena Avşar",
+          "Arda Bayraktaroğlu",
+          "Celile Gürsu",
+          "Bünyamin Mengi",
+          "Nezaket Özgirin"
+        ]
       },
       {
         "type": "Class",
@@ -12421,7 +12729,14 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ahmed Elmahi",
+          "Feyza Sena Avşar",
+          "Arda Bayraktaroğlu",
+          "Celile Gürsu",
+          "Bünyamin Mengi",
+          "Nezaket Özgirin"
+        ]
       }
     ],
     "availability": [
@@ -12476,7 +12791,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Adam Michael Rackham",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
       },
       {
         "type": "Class",
@@ -12491,7 +12812,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Adam Michael Rackham",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
       },
       {
         "type": "Class",
@@ -12506,7 +12833,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Adam Michael Rackham",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
       },
       {
         "type": "Class",
@@ -12521,7 +12854,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Adam Michael Rackham",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
       },
       {
         "type": "Class",
@@ -12536,7 +12875,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Adam Michael Rackham",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
       },
       {
         "type": "Class",
@@ -12551,7 +12896,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Adam Michael Rackham",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
       },
       {
         "type": "Class",
@@ -12566,7 +12917,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Adam Michael Rackham",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
       }
     ],
     "availability": [
@@ -12621,7 +12978,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
       },
       {
         "type": "Class",
@@ -12636,7 +12999,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
       },
       {
         "type": "Class",
@@ -12651,7 +13020,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
       },
       {
         "type": "Class",
@@ -12666,7 +13041,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
       },
       {
         "type": "Class",
@@ -12681,7 +13062,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
       },
       {
         "type": "Class",
@@ -12696,7 +13083,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
       },
       {
         "type": "Class",
@@ -12711,7 +13104,13 @@
           "to": "Aug 15, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
       }
     ],
     "availability": [
