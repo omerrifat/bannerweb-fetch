@@ -11600,8 +11600,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 0,
-        "remaining": 18
+        "actual": 15,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -11794,8 +11794,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 0,
-        "remaining": 18
+        "actual": 14,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -11981,8 +11981,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 0,
-        "remaining": 18
+        "actual": 15,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -12168,8 +12168,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 0,
-        "remaining": 18
+        "actual": 15,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -12362,8 +12362,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 0,
-        "remaining": 18
+        "actual": 15,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -12549,8 +12549,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 0,
-        "remaining": 18
+        "actual": 15,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -12743,8 +12743,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 0,
-        "remaining": 18
+        "actual": 14,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -12930,8 +12930,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 0,
-        "remaining": 18
+        "actual": 14,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -13117,8 +13117,398 @@
       {
         "title": "Seats",
         "capacity": 18,
+        "actual": 14,
+        "remaining": 4
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
         "actual": 0,
-        "remaining": 18
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Causal Data Science",
+    "crn": 30192,
+    "subject": "DA",
+    "code": 519,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30192",
+    "term": "Summer 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=DA&sel_crse_strt=519&sel_crse_end=519&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus G08",
+        "dateRange": {
+          "from": "Jun 28, 2025",
+          "to": "Aug 16, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özgür Asar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus G09",
+        "dateRange": {
+          "from": "Jun 28, 2025",
+          "to": "Aug 16, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özgür Asar"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 60,
+        "actual": 0,
+        "remaining": 60
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Deep Learning",
+    "crn": 30193,
+    "subject": "DA",
+    "code": 520,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30193",
+    "term": "Summer 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=DA&sel_crse_strt=520&sel_crse_end=520&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "M",
+        "where": "Altunizade Campus G08",
+        "dateRange": {
+          "from": "Jun 28, 2025",
+          "to": "Aug 16, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmet Onur Durahim"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus",
+        "dateRange": {
+          "from": "Jun 28, 2025",
+          "to": "Aug 16, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmet Onur Durahim"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 60,
+        "actual": 0,
+        "remaining": 60
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Information Law and Data Ethics",
+    "crn": 30194,
+    "subject": "DA",
+    "code": 522,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30194",
+    "term": "Summer 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=DA&sel_crse_strt=522&sel_crse_end=522&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "W",
+        "where": "Altunizade Campus G08",
+        "dateRange": {
+          "from": "Jul 02, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Sait Ölmez"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus G08",
+        "dateRange": {
+          "from": "Jul 02, 2025",
+          "to": "Aug 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Sait Ölmez"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 60,
+        "actual": 0,
+        "remaining": 60
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Project Management and Business Communication",
+    "crn": 30195,
+    "subject": "DA",
+    "code": 525,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30195",
+    "term": "Summer 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=DA&sel_crse_strt=525&sel_crse_end=525&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus G08",
+        "dateRange": {
+          "from": "Jul 01, 2025",
+          "to": "Aug 14, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Sait Ölmez"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus G09",
+        "dateRange": {
+          "from": "Jul 01, 2025",
+          "to": "Aug 14, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Sait Ölmez"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 60,
+        "actual": 0,
+        "remaining": 60
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Term Project",
+    "crn": 30196,
+    "subject": "DA",
+    "code": 592,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30196",
+    "term": "Summer 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 30,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=DA&sel_crse_strt=592&sel_crse_end=592&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Jun 28, 2025",
+          "to": "Aug 23, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Sait Ölmez"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 60,
+        "actual": 0,
+        "remaining": 60
       },
       {
         "title": "Waitlist Seats",
