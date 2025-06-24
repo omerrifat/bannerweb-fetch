@@ -5786,7 +5786,9 @@
           "to": "Aug 22, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Kaan Bilge"
+        ]
       },
       {
         "type": "Class",
@@ -5801,7 +5803,9 @@
           "to": "Aug 22, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Kaan Bilge"
+        ]
       }
     ],
     "availability": [
@@ -5864,7 +5868,9 @@
           "to": "Aug 22, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Kaan Bilge"
+        ]
       }
     ],
     "availability": [
@@ -11794,8 +11800,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 14,
-        "remaining": 4
+        "actual": 15,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -12168,8 +12174,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 15,
-        "remaining": 3
+        "actual": 16,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -12362,8 +12368,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 15,
-        "remaining": 3
+        "actual": 14,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -13117,8 +13123,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 14,
-        "remaining": 4
+        "actual": 15,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -13509,6 +13515,232 @@
         "capacity": 60,
         "actual": 0,
         "remaining": 60
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Cyber Security Planning and Management",
+    "crn": 30197,
+    "subject": "SEC",
+    "code": 511,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30197",
+    "term": "Summer 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=SEC&sel_crse_strt=511&sel_crse_end=511&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "M",
+        "where": "Altunizade Campus 104",
+        "dateRange": {
+          "from": "Jun 28, 2025",
+          "to": "Aug 16, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orçun Çetin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 104",
+        "dateRange": {
+          "from": "Jun 28, 2025",
+          "to": "Aug 16, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orçun Çetin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 16,
+        "actual": 0,
+        "remaining": 16
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Advanced Malware and Code Analysis",
+    "crn": 30198,
+    "subject": "SEC",
+    "code": 512,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30198",
+    "term": "Summer 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=SEC&sel_crse_strt=512&sel_crse_end=512&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "W",
+        "where": "Altunizade Campus 104",
+        "dateRange": {
+          "from": "Jun 28, 2025",
+          "to": "Aug 13, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orçun Çetin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 104",
+        "dateRange": {
+          "from": "Jun 28, 2025",
+          "to": "Aug 13, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orçun Çetin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 16,
+        "actual": 0,
+        "remaining": 16
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Project Course",
+    "crn": 30199,
+    "subject": "SEC",
+    "code": 592,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30199",
+    "term": "Summer 2024-2025",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 30,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=SEC&sel_crse_strt=592&sel_crse_end=592&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Jun 28, 2025",
+          "to": "Aug 23, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orçun Çetin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 16,
+        "actual": 0,
+        "remaining": 16
       },
       {
         "title": "Waitlist Seats",
