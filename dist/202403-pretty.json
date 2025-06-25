@@ -1389,8 +1389,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 23,
-        "remaining": -1
+        "actual": 22,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -1732,8 +1732,8 @@
       {
         "title": "Seats",
         "capacity": 3,
-        "actual": 3,
-        "remaining": 0
+        "actual": 2,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -2173,8 +2173,8 @@
       {
         "title": "Seats",
         "capacity": 12,
-        "actual": 13,
-        "remaining": -1
+        "actual": 12,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -10510,26 +10510,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "10:40 am",
-          "to": "1:30 pm"
+          "from": "2:40 pm",
+          "to": "4:30 pm"
         },
-        "days": "R",
-        "where": "FMAN 2137",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": null
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "9:40 am",
-          "to": "12:30 pm"
-        },
-        "days": "F",
-        "where": "FMAN 2137",
+        "days": "T",
+        "where": "FMAN L018",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
