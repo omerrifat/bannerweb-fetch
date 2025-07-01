@@ -311,8 +311,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 22,
-        "remaining": 1
+        "actual": 21,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -1340,8 +1340,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 23,
-        "remaining": -1
+        "actual": 24,
+        "remaining": -2
       },
       {
         "title": "Waitlist Seats",
@@ -1389,8 +1389,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 22,
-        "remaining": 0
+        "actual": 21,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -2761,8 +2761,8 @@
       {
         "title": "Seats",
         "capacity": 12,
-        "actual": 12,
-        "remaining": 0
+        "actual": 13,
+        "remaining": -1
       },
       {
         "title": "Waitlist Seats",
@@ -8039,7 +8039,8 @@
         "actual": 0,
         "remaining": 0
       }
-    ]
+    ],
+    "prerequisites": []
   },
   {
     "name": "Calculus I - Recitation",
@@ -8812,7 +8813,8 @@
         "actual": 0,
         "remaining": 0
       }
-    ]
+    ],
+    "prerequisites": []
   },
   {
     "name": "Computational Approaches to Problem Solving – Recitation",
@@ -10153,7 +10155,8 @@
         "actual": 0,
         "remaining": 0
       }
-    ]
+    ],
+    "prerequisites": []
   },
   {
     "name": "Science of Nature I - Recitation",
@@ -10314,9 +10317,7 @@
         "remaining": 0
       }
     ],
-    "prerequisites": [
-      "NS 101"
-    ]
+    "prerequisites": []
   },
   {
     "name": "Science of Nature II - Recitation",
@@ -10782,7 +10783,8 @@
         "actual": 0,
         "remaining": 0
       }
-    ]
+    ],
+    "prerequisites": []
   },
   {
     "name": "Humanity and Society I - Discussion",
@@ -12353,8 +12355,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 14,
-        "remaining": 4
+        "actual": 15,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
