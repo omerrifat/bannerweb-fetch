@@ -43,8 +43,8 @@
       {
         "title": "Seats",
         "capacity": 41,
-        "actual": 42,
-        "remaining": -1
+        "actual": 43,
+        "remaining": -2
       },
       {
         "title": "Waitlist Seats",
@@ -262,8 +262,8 @@
       {
         "title": "Seats",
         "capacity": 120,
-        "actual": 52,
-        "remaining": 68
+        "actual": 53,
+        "remaining": 67
       },
       {
         "title": "Waitlist Seats",
@@ -948,8 +948,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 21,
-        "remaining": 2
+        "actual": 22,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -3839,8 +3839,8 @@
       {
         "title": "Seats",
         "capacity": 4,
-        "actual": 4,
-        "remaining": 0
+        "actual": 5,
+        "remaining": -1
       },
       {
         "title": "Waitlist Seats",
@@ -6551,8 +6551,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 25,
-        "remaining": 25
+        "actual": 26,
+        "remaining": 24
       },
       {
         "title": "Waitlist Seats",
@@ -6614,8 +6614,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 25,
-        "remaining": 25
+        "actual": 26,
+        "remaining": 24
       },
       {
         "title": "Waitlist Seats",
@@ -8560,7 +8560,7 @@
     "subject": "MATH",
     "code": 201,
     "type": "R",
-    "section": "A1",
+    "section": "0",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30145",
     "term": "Summer 2024-2025",
     "levels": [
@@ -8612,156 +8612,7 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 17,
-        "remaining": 9982
       }
-    ],
-    "corequisites": [
-      "MATH 201"
-    ]
-  },
-  {
-    "name": "Linear Algebra - Recitation",
-    "crn": 30146,
-    "subject": "MATH",
-    "code": 201,
-    "type": "R",
-    "section": "A2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30146",
-    "term": "Summer 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=MATH&sel_crse_strt=201R&sel_crse_end=201R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "3:40 pm",
-          "to": "5:30 pm"
-        },
-        "days": "R",
-        "where": "FENS L027",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Aslı Tuğcuoğlu Musapaşaoğlu"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 17,
-        "remaining": 9982
-      }
-    ],
-    "corequisites": [
-      "MATH 201"
-    ]
-  },
-  {
-    "name": "Linear Algebra - Recitation",
-    "crn": 30147,
-    "subject": "MATH",
-    "code": 201,
-    "type": "R",
-    "section": "A3",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30147",
-    "term": "Summer 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=MATH&sel_crse_strt=201R&sel_crse_end=201R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "3:40 pm",
-          "to": "5:30 pm"
-        },
-        "days": "R",
-        "where": "FENS L067",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Aslı Tuğcuoğlu Musapaşaoğlu"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 17,
-        "remaining": 9982
-      }
-    ],
-    "corequisites": [
-      "MATH 201"
     ]
   },
   {
