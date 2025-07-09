@@ -153,8 +153,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 30,
-        "remaining": 20
+        "actual": 31,
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -1144,8 +1144,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 21,
-        "remaining": 1
+        "actual": 20,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -2467,8 +2467,8 @@
       {
         "title": "Seats",
         "capacity": 13,
-        "actual": 11,
-        "remaining": 2
+        "actual": 10,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -4192,84 +4192,6 @@
     ]
   },
   {
-    "name": "Academic Literacies",
-    "crn": 30089,
-    "subject": "AL",
-    "code": 102,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30089",
-    "term": "Summer 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 5,
-    "language": "English",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "method": "TR",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=AL&sel_crse_strt=102&sel_crse_end=102&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "11:30 am"
-        },
-        "days": "M",
-        "where": "SL 1050",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Ali Nihat Eken"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "11:30 am"
-        },
-        "days": "W",
-        "where": "SL 1050",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Ali Nihat Eken"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 1,
-        "remaining": 19
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
     "name": "Programming Fundamentals",
     "crn": 30090,
     "subject": "CS",
@@ -4314,8 +4236,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Albert Levi",
-          "Ahmed Mohamed Mahmoud Elmoselhy Salem"
+          "Albert Levi"
         ]
       },
       {
@@ -4332,8 +4253,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Albert Levi",
-          "Ahmed Mohamed Mahmoud Elmoselhy Salem"
+          "Albert Levi"
         ]
       }
     ],
@@ -4397,8 +4317,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Albert Levi",
-          "Ahmed Mohamed Mahmoud Elmoselhy Salem"
+          "Albert Levi"
         ]
       },
       {
@@ -4415,8 +4334,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Albert Levi",
-          "Ahmed Mohamed Mahmoud Elmoselhy Salem"
+          "Albert Levi"
         ]
       }
     ],
@@ -4477,8 +4395,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Albert Levi",
-          "Ahmed Mohamed Mahmoud Elmoselhy Salem"
+          "Albert Levi"
         ]
       },
       {
@@ -4495,8 +4412,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Albert Levi",
-          "Ahmed Mohamed Mahmoud Elmoselhy Salem"
+          "Albert Levi"
         ]
       }
     ],
@@ -4753,8 +4669,8 @@
       {
         "title": "Seats",
         "capacity": 33,
-        "actual": 23,
-        "remaining": 10
+        "actual": 27,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -4779,7 +4695,7 @@
     "subject": "CS",
     "code": 204,
     "type": "L",
-    "section": "A3",
+    "section": "B",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30096",
     "term": "Summer 2024-2025",
     "levels": [
@@ -4804,10 +4720,10 @@
       {
         "type": "Class",
         "time": {
-          "from": "4:40 pm",
-          "to": "6:30 pm"
+          "from": "5:40 pm",
+          "to": "7:30 pm"
         },
-        "days": "W",
+        "days": "T",
         "where": "FENS L067",
         "dateRange": {
           "from": "Jul 07, 2025",
@@ -4821,10 +4737,10 @@
       {
         "type": "Class",
         "time": {
-          "from": "5:40 pm",
-          "to": "7:30 pm"
+          "from": "4:40 pm",
+          "to": "6:30 pm"
         },
-        "days": "F",
+        "days": "W",
         "where": "FENS L067",
         "dateRange": {
           "from": "Jul 07, 2025",
@@ -4840,8 +4756,8 @@
       {
         "title": "Seats",
         "capacity": 33,
-        "actual": 4,
-        "remaining": 29
+        "actual": 0,
+        "remaining": 33
       },
       {
         "title": "Waitlist Seats",
@@ -6096,246 +6012,6 @@
     ]
   },
   {
-    "name": "Introduction to Computer Aided Drafting and Solid Modeling",
-    "crn": 30114,
-    "subject": "ENS",
-    "code": 209,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30114",
-    "term": "Summer 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 6,
-    "language": "English",
-    "faculty": "FENS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "method": "TR",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=ENS&sel_crse_strt=209&sel_crse_end=209&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "11:30 am"
-        },
-        "days": "T",
-        "where": "FENS L065",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Utku Seven"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "11:30 am"
-        },
-        "days": "W",
-        "where": "FENS L067",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Utku Seven"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 25,
-        "actual": 2,
-        "remaining": 23
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Introduction to Computer Aided Drafting and Solid Modeling - Lab.",
-    "crn": 30115,
-    "subject": "ENS",
-    "code": 209,
-    "type": "L",
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30115",
-    "term": "Summer 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "method": "TR",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=ENS&sel_crse_strt=209L&sel_crse_end=209L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "1:40 pm",
-          "to": "3:30 pm"
-        },
-        "days": "R",
-        "where": "FENS L065",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Utku Seven"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "9:40 am",
-          "to": "11:30 am"
-        },
-        "days": "F",
-        "where": "FENS L029",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Utku Seven"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 25,
-        "actual": 2,
-        "remaining": 23
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Introduction to Computer Aided Drafting and Solid Modeling - Recitation",
-    "crn": 30116,
-    "subject": "ENS",
-    "code": 209,
-    "type": "R",
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30116",
-    "term": "Summer 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "method": "TR",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=ENS&sel_crse_strt=209R&sel_crse_end=209R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "3:40 pm",
-          "to": "4:30 pm"
-        },
-        "days": "R",
-        "where": "FENS L065",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Utku Seven"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "11:40 am",
-          "to": "12:30 pm"
-        },
-        "days": "F",
-        "where": "FENS L029",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Utku Seven"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 25,
-        "actual": 2,
-        "remaining": 23
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
     "name": "Signals",
     "crn": 30117,
     "subject": "ENS",
@@ -6626,86 +6302,6 @@
     ]
   },
   {
-    "name": "Gender and Sexuality in Türkiye",
-    "crn": 30121,
-    "subject": "GEN",
-    "code": 444,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30121",
-    "term": "Summer 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 6,
-    "language": "English",
-    "faculty": "FASS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "method": "TR",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=GEN&sel_crse_strt=444&sel_crse_end=444&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "11:40 am",
-          "to": "2:30 pm"
-        },
-        "days": "M",
-        "where": "FASS G043",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "İlkan Can İpekçi"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "11:40 am",
-          "to": "2:30 pm"
-        },
-        "days": "W",
-        "where": "FASS G043",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "İlkan Can İpekçi"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 30,
-        "actual": 8,
-        "remaining": 22
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
     "name": "Leonardo and Michelangelo: Heroes of the Renaissance",
     "crn": 30122,
     "subject": "HART",
@@ -6776,81 +6372,6 @@
         "capacity": 30,
         "actual": 6,
         "remaining": 24
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Principles of Atatürk and the History of the Turkish Revolution I",
-    "crn": 30123,
-    "subject": "HIST",
-    "code": 191,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30123",
-    "term": "Summer 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student"
-    ],
-    "ects": 3,
-    "faculty": "FASS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "method": "TR",
-    "credits": 2,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=HIST&sel_crse_strt=191&sel_crse_end=191&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
-        },
-        "days": "T",
-        "where": "FASS 1080",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Atacan Atakan"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "3:40 pm",
-          "to": "5:30 pm"
-        },
-        "days": "R",
-        "where": "FASS 1080",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Atacan Atakan"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 25,
-        "actual": 3,
-        "remaining": 22
       },
       {
         "title": "Waitlist Seats",
@@ -8279,8 +7800,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 25,
-        "remaining": 0
+        "actual": 27,
+        "remaining": -2
       },
       {
         "title": "Waitlist Seats",
@@ -8366,95 +7887,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 24,
-        "remaining": 1
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 53,
-        "remaining": 9946
-      }
-    ],
-    "corequisites": [
-      "MATH 102"
-    ]
-  },
-  {
-    "name": "Calculus II - Recitation",
-    "crn": 30143,
-    "subject": "MATH",
-    "code": 102,
-    "type": "R",
-    "section": "A3",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30143",
-    "term": "Summer 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=MATH&sel_crse_strt=102R&sel_crse_end=102R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "11:40 am",
-          "to": "1:30 pm"
-        },
-        "days": "R",
-        "where": "FENS L048",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Burçin Güneş"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "4:40 pm",
-          "to": "6:30 pm"
-        },
-        "days": "F",
-        "where": "FENS L061",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Burçin Güneş"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 25,
-        "actual": 4,
-        "remaining": 21
+        "actual": 26,
+        "remaining": -1
       },
       {
         "title": "Waitlist Seats",
@@ -9352,8 +8786,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 25,
-        "remaining": 0
+        "actual": 16,
+        "remaining": 9
       },
       {
         "title": "Waitlist Seats",
@@ -9422,78 +8856,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 6,
-        "remaining": 19
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 32,
-        "remaining": 9967
-      }
-    ],
-    "corequisites": [
-      "MATH 204"
-    ]
-  },
-  {
-    "name": "Discrete Mathematics - Recitation",
-    "crn": 30159,
-    "subject": "MATH",
-    "code": 204,
-    "type": "R",
-    "section": "A3",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30159",
-    "term": "Summer 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=MATH&sel_crse_strt=204R&sel_crse_end=204R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "3:40 pm",
-          "to": "5:30 pm"
-        },
-        "days": "F",
-        "where": "FENS 2019",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Aslı Tuğcuoğlu Musapaşaoğlu"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 25,
-        "actual": 1,
-        "remaining": 24
+        "actual": 16,
+        "remaining": 9
       },
       {
         "title": "Waitlist Seats",
@@ -10588,178 +9952,6 @@
         "capacity": 40,
         "actual": 8,
         "remaining": 32
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Humanity and Society I",
-    "crn": 30174,
-    "subject": "SPS",
-    "code": 101,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30174",
-    "term": "Summer 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 6,
-    "faculty": "FASS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=SPS&sel_crse_strt=101&sel_crse_end=101&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
-        },
-        "days": "M",
-        "where": "FASS 1081",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Marloes Cornelissen Aydemir",
-          "Ateş Ali Altınordu",
-          "Gizem Damla Çakmak",
-          "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
-        },
-        "days": "T",
-        "where": "FASS 1081",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Marloes Cornelissen Aydemir",
-          "Ateş Ali Altınordu",
-          "Gizem Damla Çakmak",
-          "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 35,
-        "actual": 9,
-        "remaining": 26
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ],
-    "prerequisites": []
-  },
-  {
-    "name": "Humanity and Society I - Discussion",
-    "crn": 30175,
-    "subject": "SPS",
-    "code": 101,
-    "type": "D",
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30175",
-    "term": "Summer 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Discussion",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=SPS&sel_crse_strt=101D&sel_crse_end=101D&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "10:40 am",
-          "to": "12:30 pm"
-        },
-        "days": "T",
-        "where": "FASS 1081",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Marloes Cornelissen Aydemir",
-          "Ateş Ali Altınordu",
-          "Gizem Damla Çakmak",
-          "Elif Çam",
-          "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "9:40 am",
-          "to": "11:30 am"
-        },
-        "days": "F",
-        "where": "FASS 1081",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Marloes Cornelissen Aydemir",
-          "Ateş Ali Altınordu",
-          "Gizem Damla Çakmak",
-          "Elif Çam",
-          "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 35,
-        "actual": 9,
-        "remaining": 26
       },
       {
         "title": "Waitlist Seats",
