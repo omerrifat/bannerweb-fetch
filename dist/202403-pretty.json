@@ -42,9 +42,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 41,
-        "actual": 43,
-        "remaining": -2
+        "capacity": 42,
+        "actual": 42,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -1094,9 +1094,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 23,
         "actual": 23,
-        "remaining": -1
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -1487,8 +1487,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 23,
-        "remaining": 0
+        "actual": 22,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -2172,9 +2172,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 12,
+        "capacity": 13,
         "actual": 13,
-        "remaining": -1
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -3838,9 +3838,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 4,
+        "capacity": 5,
         "actual": 5,
-        "remaining": -1
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -4469,7 +4469,7 @@
           "to": "5:30 pm"
         },
         "days": "T",
-        "where": "FENS L045",
+        "where": "FASS G062",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
@@ -4737,10 +4737,10 @@
       {
         "type": "Class",
         "time": {
-          "from": "4:40 pm",
-          "to": "6:30 pm"
+          "from": "5:40 pm",
+          "to": "7:30 pm"
         },
-        "days": "W",
+        "days": "F",
         "where": "FENS L067",
         "dateRange": {
           "from": "Jul 07, 2025",
@@ -4764,16 +4764,7 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 60,
-        "remaining": 9939
       }
-    ],
-    "corequisites": [
-      "CS 204"
     ]
   },
   {
@@ -6049,7 +6040,7 @@
           "to": "11:30 am"
         },
         "days": "T",
-        "where": "FENS G025",
+        "where": "FENS L065",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
@@ -6066,7 +6057,7 @@
           "to": "11:30 am"
         },
         "days": "F",
-        "where": "FENS G025",
+        "where": "FENS L065",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
@@ -6430,7 +6421,7 @@
           "to": "11:30 am"
         },
         "days": "R",
-        "where": "FASS 1080",
+        "where": "FENS G015",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
@@ -7531,7 +7522,7 @@
           "to": "11:30 am"
         },
         "days": "W",
-        "where": "FENS G015",
+        "where": "FASS 1102",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
@@ -7548,7 +7539,7 @@
           "to": "2:30 pm"
         },
         "days": "F",
-        "where": "FENS G015",
+        "where": "FASS 1102",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
@@ -7610,7 +7601,7 @@
           "to": "3:30 pm"
         },
         "days": "W",
-        "where": "FENS G015",
+        "where": "FASS 1102",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
@@ -7627,7 +7618,7 @@
           "to": "6:30 pm"
         },
         "days": "F",
-        "where": "FENS G015",
+        "where": "FASS 1102",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
@@ -7799,9 +7790,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 38,
         "actual": 27,
-        "remaining": -2
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -7886,9 +7877,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 37,
         "actual": 26,
-        "remaining": -1
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -8037,9 +8028,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 60,
         "actual": 17,
-        "remaining": 3
+        "remaining": 43
       },
       {
         "title": "Waitlist Seats",
@@ -8785,9 +8776,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 38,
         "actual": 16,
-        "remaining": 9
+        "remaining": 22
       },
       {
         "title": "Waitlist Seats",
@@ -8855,9 +8846,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 37,
         "actual": 16,
-        "remaining": 9
+        "remaining": 21
       },
       {
         "title": "Waitlist Seats",
