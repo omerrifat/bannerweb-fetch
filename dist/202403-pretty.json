@@ -2712,8 +2712,8 @@
       {
         "title": "Seats",
         "capacity": 13,
-        "actual": 13,
-        "remaining": 0
+        "actual": 12,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -4550,7 +4550,7 @@
           "to": "6:30 pm"
         },
         "days": "W",
-        "where": "FENS L027",
+        "where": "FASS G049",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
@@ -4567,7 +4567,7 @@
           "to": "7:30 pm"
         },
         "days": "F",
-        "where": "FENS L058",
+        "where": "FASS G049",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
@@ -4637,7 +4637,7 @@
           "to": "6:30 pm"
         },
         "days": "W",
-        "where": "FENS L065",
+        "where": "FASS G056",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
@@ -4654,7 +4654,7 @@
           "to": "7:30 pm"
         },
         "days": "F",
-        "where": "FENS L065",
+        "where": "FASS G056",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
@@ -4724,7 +4724,7 @@
           "to": "7:30 pm"
         },
         "days": "T",
-        "where": "FENS L067",
+        "where": "FASS G056",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
@@ -4741,7 +4741,7 @@
           "to": "7:30 pm"
         },
         "days": "F",
-        "where": "FENS L067",
+        "where": "FASS G056",
         "dateRange": {
           "from": "Jul 07, 2025",
           "to": "Aug 22, 2025"
@@ -4838,8 +4838,8 @@
       {
         "title": "Seats",
         "capacity": 60,
-        "actual": 29,
-        "remaining": 31
+        "actual": 30,
+        "remaining": 30
       },
       {
         "title": "Waitlist Seats",
@@ -4902,8 +4902,8 @@
       {
         "title": "Seats",
         "capacity": 60,
-        "actual": 29,
-        "remaining": 31
+        "actual": 30,
+        "remaining": 30
       },
       {
         "title": "Waitlist Seats",
@@ -5619,10 +5619,10 @@
       {
         "type": "Class",
         "time": {
-          "from": "9:40 am",
-          "to": "11:30 am"
+          "from": "6:40 pm",
+          "to": "8:30 pm"
         },
-        "days": "F",
+        "days": "M",
         "where": "FENS L027",
         "dateRange": {
           "from": "Jul 07, 2025",
@@ -6436,8 +6436,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 10,
-        "remaining": 15
+        "actual": 9,
+        "remaining": 16
       },
       {
         "title": "Waitlist Seats",
@@ -8332,78 +8332,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 12,
-        "remaining": 18
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
         "actual": 14,
-        "remaining": 9985
-      }
-    ],
-    "corequisites": [
-      "MATH 202"
-    ]
-  },
-  {
-    "name": "Differential Equations - Recitation",
-    "crn": 30152,
-    "subject": "MATH",
-    "code": 202,
-    "type": "R",
-    "section": "A2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202403&crn_in=30152",
-    "term": "Summer 2024-2025",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202403&one_subj=MATH&sel_crse_strt=202R&sel_crse_end=202R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
-        },
-        "days": "F",
-        "where": "FENS L065",
-        "dateRange": {
-          "from": "Jul 07, 2025",
-          "to": "Aug 22, 2025"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Umutcan Erdur"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 30,
-        "actual": 2,
-        "remaining": 28
+        "remaining": 16
       },
       {
         "title": "Waitlist Seats",
@@ -8937,8 +8867,8 @@
       {
         "title": "Seats",
         "capacity": 160,
-        "actual": 100,
-        "remaining": 60
+        "actual": 102,
+        "remaining": 58
       },
       {
         "title": "Waitlist Seats",
@@ -9001,8 +8931,8 @@
       {
         "title": "Seats",
         "capacity": 54,
-        "actual": 54,
-        "remaining": 0
+        "actual": 31,
+        "remaining": 23
       },
       {
         "title": "Waitlist Seats",
@@ -9013,8 +8943,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 100,
-        "remaining": 9899
+        "actual": 102,
+        "remaining": 9897
       }
     ],
     "corequisites": [
@@ -9071,8 +9001,8 @@
       {
         "title": "Seats",
         "capacity": 53,
-        "actual": 40,
-        "remaining": 13
+        "actual": 41,
+        "remaining": 12
       },
       {
         "title": "Waitlist Seats",
@@ -9083,8 +9013,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 100,
-        "remaining": 9899
+        "actual": 102,
+        "remaining": 9897
       }
     ],
     "corequisites": [
@@ -9141,8 +9071,8 @@
       {
         "title": "Seats",
         "capacity": 53,
-        "actual": 6,
-        "remaining": 47
+        "actual": 30,
+        "remaining": 23
       },
       {
         "title": "Waitlist Seats",
@@ -9153,8 +9083,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 100,
-        "remaining": 9899
+        "actual": 102,
+        "remaining": 9897
       }
     ],
     "corequisites": [
@@ -9231,8 +9161,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 20,
-        "remaining": 30
+        "actual": 19,
+        "remaining": 31
       },
       {
         "title": "Waitlist Seats",
@@ -9312,8 +9242,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 11,
-        "remaining": 39
+        "actual": 12,
+        "remaining": 38
       },
       {
         "title": "Waitlist Seats",
