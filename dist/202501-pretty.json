@@ -20699,7 +20699,7 @@
           "to": "11:30 am"
         },
         "days": "R",
-        "where": "FASS 1097",
+        "where": "FASS 1001",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -20841,7 +20841,7 @@
           "to": "12:30 pm"
         },
         "days": "R",
-        "where": "FASS G006",
+        "where": "FASS 1001",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -20912,7 +20912,7 @@
           "to": "12:30 pm"
         },
         "days": "R",
-        "where": "FASS G022",
+        "where": "FASS 2023",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -21880,7 +21880,7 @@
           "to": "3:30 pm"
         },
         "days": "R",
-        "where": "FASS 1089",
+        "where": "FASS 1097",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -22566,8 +22566,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "11:40 am",
-          "to": "12:30 pm"
+          "from": "10:40 am",
+          "to": "11:30 am"
         },
         "days": "R",
         "where": "FASS 1080",
@@ -22627,6 +22627,21 @@
     "credits": 3,
     "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=HUM&sel_crse_strt=312&sel_crse_end=312&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
     "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "W",
+        "where": "FASS 2023",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
       {
         "type": "Class",
         "time": {
@@ -34791,10 +34806,10 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
+          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Ozan Tekin"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
@@ -35084,7 +35099,6 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "İlkem Kayıcan",
           "Melike Ayşe Kocacık Şenol"
         ]
       }
@@ -35155,10 +35169,10 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
+          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Ozan Tekin"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
@@ -35230,8 +35244,7 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Burçin Şenyurt"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
@@ -35447,10 +35460,10 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
+          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Ozan Tekin"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
@@ -35594,9 +35607,9 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Elif Çam",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Engin Onuk"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
@@ -35885,9 +35898,9 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Elif Çam",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Engin Onuk"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
@@ -36103,10 +36116,10 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
+          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Ozan Tekin"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
@@ -36177,9 +36190,9 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
-          "Elif Çam",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Burçin Şenyurt"
         ]
       }
     ],
@@ -36251,7 +36264,6 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "İlkem Kayıcan",
           "Melike Ayşe Kocacık Şenol"
         ]
       }
@@ -36397,8 +36409,7 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Engin Onuk"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
@@ -36679,8 +36690,7 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Fatma Berna Uysal"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
@@ -36753,9 +36763,9 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
-          "Dan Goldenberg",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Ozan Tekin"
         ]
       }
     ],
@@ -36990,10 +37000,10 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
-          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Engin Onuk"
         ]
       }
     ],
@@ -37130,10 +37140,10 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
-          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Engin Onuk"
         ]
       }
     ],
@@ -37206,9 +37216,9 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
-          "Dan Goldenberg",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Ozan Tekin"
         ]
       }
     ],
@@ -37282,8 +37292,7 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Fatma Berna Uysal"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
@@ -37507,7 +37516,6 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "İlkem Kayıcan",
           "Melike Ayşe Kocacık Şenol"
         ]
       }
@@ -37807,8 +37815,7 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Fatma Berna Uysal"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
@@ -46105,7 +46112,6 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "İlkem Kayıcan",
           "Melike Ayşe Kocacık Şenol"
         ]
       }
@@ -46178,8 +46184,7 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Engin Onuk"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
@@ -46250,9 +46255,9 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
-          "Elif Çam",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Burçin Şenyurt"
         ]
       }
     ],
@@ -50849,10 +50854,10 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
-          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Engin Onuk"
         ]
       }
     ],
@@ -56082,7 +56087,6 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
-          "Dan Goldenberg",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol"
         ]
@@ -80674,25 +80678,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "9:40 am",
-          "to": "10:30 am"
-        },
-        "days": "T",
-        "where": "FASS G018",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Mehmet Ali Alpar"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "10:30 am"
+          "from": "2:40 pm",
+          "to": "3:30 pm"
         },
         "days": "R",
         "where": "FASS G018",
@@ -80702,16 +80689,35 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Mehmet Ali Alpar"
+          "Mehmet Ali Alpar",
+          "Yuki Kaneko Göğüş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "2:30 pm"
+        },
+        "days": "F",
+        "where": "FASS G018",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Ali Alpar",
+          "Yuki Kaneko Göğüş"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 100,
+        "capacity": 80,
         "actual": 0,
-        "remaining": 100
+        "remaining": 80
       },
       {
         "title": "Waitlist Seats",
@@ -83168,7 +83174,7 @@
           "to": "3:30 pm"
         },
         "days": "R",
-        "where": "FASS G048",
+        "where": "FASS 1011",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -83239,7 +83245,7 @@
           "to": "3:30 pm"
         },
         "days": "R",
-        "where": "FASS G006",
+        "where": "FASS 2023",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -83310,7 +83316,7 @@
           "to": "4:30 pm"
         },
         "days": "R",
-        "where": "FASS 1097",
+        "where": "FASS 1011",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -83380,7 +83386,7 @@
           "to": "4:30 pm"
         },
         "days": "R",
-        "where": "FASS 1089",
+        "where": "FASS 2023",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -83452,7 +83458,7 @@
           "to": "4:30 pm"
         },
         "days": "R",
-        "where": "FASS G048",
+        "where": "FASS 1075",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -83524,7 +83530,7 @@
           "to": "4:30 pm"
         },
         "days": "R",
-        "where": "FASS 1075",
+        "where": "FASS 1097",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -83701,6 +83707,254 @@
     ],
     "corequisites": [
       "SPS 101"
+    ]
+  },
+  {
+    "name": "Basic Concepts of Physics for Scientists and Engineers Lab.",
+    "crn": 13119,
+    "subject": "PHYS",
+    "code": 113,
+    "type": "L",
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13119",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lab",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=PHYS&sel_crse_strt=113L&sel_crse_end=113L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "2:30 pm"
+        },
+        "days": "T",
+        "where": "FENS G055",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yuki Kaneko Göğüş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Basic Concepts of Physics for Scientists and Engineers Lab.",
+    "crn": 13120,
+    "subject": "PHYS",
+    "code": 113,
+    "type": "L",
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13120",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lab",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=PHYS&sel_crse_strt=113L&sel_crse_end=113L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "2:30 pm"
+        },
+        "days": "T",
+        "where": "FENS G059",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yuki Kaneko Göğüş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Basic Concepts of Physics for Scientists and Engineers Lab.",
+    "crn": 13121,
+    "subject": "PHYS",
+    "code": 113,
+    "type": "L",
+    "section": "C",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13121",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lab",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=PHYS&sel_crse_strt=113L&sel_crse_end=113L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:40 pm",
+          "to": "4:30 pm"
+        },
+        "days": "T",
+        "where": "FENS G055",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yuki Kaneko Göğüş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Basic Concepts of Physics for Scientists and Engineers Lab.",
+    "crn": 13122,
+    "subject": "PHYS",
+    "code": 113,
+    "type": "L",
+    "section": "D",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13122",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lab",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=PHYS&sel_crse_strt=113L&sel_crse_end=113L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:40 pm",
+          "to": "4:30 pm"
+        },
+        "days": "T",
+        "where": "FENS G059",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yuki Kaneko Göğüş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
     ]
   }
 ]
