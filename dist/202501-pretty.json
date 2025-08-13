@@ -4968,8 +4968,8 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay",
-          "Erkay Savaş"
+          "Erkay Savaş",
+          "Atıl Utku Ay"
         ]
       },
       {
@@ -4986,8 +4986,8 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay",
-          "Erkay Savaş"
+          "Erkay Savaş",
+          "Atıl Utku Ay"
         ]
       }
     ],
@@ -5060,8 +5060,8 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay",
-          "Erkay Savaş"
+          "Erkay Savaş",
+          "Atıl Utku Ay"
         ]
       },
       {
@@ -5078,8 +5078,8 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay",
-          "Erkay Savaş"
+          "Erkay Savaş",
+          "Atıl Utku Ay"
         ]
       }
     ],
@@ -19108,9 +19108,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 100,
         "actual": 0,
-        "remaining": 50
+        "remaining": 100
       },
       {
         "title": "Waitlist Seats",
@@ -21290,7 +21290,7 @@
           "to": "6:30 pm"
         },
         "days": "W",
-        "where": "FMAN G060",
+        "where": "FASS 1050",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -21304,9 +21304,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 90,
         "actual": 0,
-        "remaining": 50
+        "remaining": 90
       },
       {
         "title": "Waitlist Seats",
@@ -23008,8 +23008,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
+          "from": "3:40 pm",
+          "to": "5:30 pm"
         },
         "days": "R",
         "where": "FMAN G013",
@@ -83759,9 +83759,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 28,
         "actual": 0,
-        "remaining": 20
+        "remaining": 28
       },
       {
         "title": "Waitlist Seats",
@@ -83883,9 +83883,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 28,
         "actual": 0,
-        "remaining": 20
+        "remaining": 28
       },
       {
         "title": "Waitlist Seats",
@@ -83948,6 +83948,69 @@
         "capacity": 20,
         "actual": 0,
         "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Quantum Programming I",
+    "crn": 13123,
+    "subject": "CS",
+    "code": 435,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13123",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CS&sel_crse_strt=435&sel_crse_end=435&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "F",
+        "where": "FENS L035",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
