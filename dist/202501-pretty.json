@@ -71668,11 +71668,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "4:40 pm",
-          "to": "7:30 pm"
+          "from": "11:40 am",
+          "to": "2:30 pm"
         },
         "days": "T",
-        "where": "FASS G050",
+        "where": "FASS 2031",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -80615,10 +80615,10 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "3:30 pm"
+          "from": "8:40 am",
+          "to": "11:30 am"
         },
-        "days": "T",
+        "days": "R",
         "where": "FMAN G013",
         "dateRange": {
           "from": "Sep 29, 2025",
@@ -84011,6 +84011,58 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Communication Skills in Turkish",
+    "crn": 13124,
+    "subject": "TLL",
+    "code": 1,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13124",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Foundation Development Year"
+    ],
+    "ects": 8,
+    "language": "Turkish",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=TLL&sel_crse_strt=001&sel_crse_end=001&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Online",
+        "time": {
+          "from": "8:40 pm",
+          "to": "10:30 pm"
+        },
+        "days": "W",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İsmail Erkan Irmak"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
       },
       {
         "title": "Waitlist Seats",
