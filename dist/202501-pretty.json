@@ -33,28 +33,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "10:40 am",
-          "to": "12:30 pm"
+          "from": "2:40 pm",
+          "to": "5:30 pm"
         },
-        "days": "T",
-        "where": "FASS G049",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Turgay Sakin"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "9:30 am"
-        },
-        "days": "W",
-        "where": "FMAN G060",
+        "days": "F",
+        "where": "FASS G048",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -4750,28 +4733,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "9:40 am",
+          "from": "8:40 am",
           "to": "11:30 am"
         },
-        "days": "M",
-        "where": "FMAN L018",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Turgay Sakin"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "3:30 pm"
-        },
-        "days": "T",
-        "where": "FMAN L018",
+        "days": "F",
+        "where": "FENS L035",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -18119,13 +18085,13 @@
       "Exchange - Erasmus Mundus DR",
       "Exchange - Erasmus Mundus UG"
     ],
-    "ects": 6,
+    "ects": 7,
     "language": "English",
     "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
-    "credits": 3,
+    "credits": 4,
     "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ME&sel_crse_strt=425&sel_crse_end=425&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
     "schedule": [
       {
@@ -52763,7 +52729,7 @@
           "to": "12:30 pm"
         },
         "days": "R",
-        "where": "Information Center IC 2023",
+        "where": "FASS 2080",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -52895,7 +52861,7 @@
           "to": "12:30 pm"
         },
         "days": "T",
-        "where": "Information Center IC 2023",
+        "where": "FASS 2101",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -84069,6 +84035,254 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Plant Pathology",
+    "crn": 13125,
+    "subject": "BIO",
+    "code": 503,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13125",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=BIO&sel_crse_strt=503&sel_crse_end=503&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:40 pm",
+          "to": "4:30 pm"
+        },
+        "days": "T",
+        "where": "FENS G025",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zaeema Khan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "FENS G025",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zaeema Khan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Special Topics in CS: Evolution and Biology for Artificial Intelligence",
+    "crn": 13126,
+    "subject": "CS",
+    "code": 48011,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13126",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CS&sel_crse_strt=48011&sel_crse_end=48011&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "2:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L055",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:40 am",
+          "to": "11:30 am"
+        },
+        "days": "W",
+        "where": "FENS L056",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
+      }
+    ]
+  },
+  {
+    "name": "Special Topics in CS: Evolution and Biology for Artificial Intelligence",
+    "crn": 13127,
+    "subject": "CS",
+    "code": 58011,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13127",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CS&sel_crse_strt=58011&sel_crse_end=58011&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "2:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L055",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:40 am",
+          "to": "11:30 am"
+        },
+        "days": "W",
+        "where": "FENS L056",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
       }
     ]
   }
