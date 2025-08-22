@@ -206,11 +206,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
+          "from": "12:40 pm",
+          "to": "1:30 pm"
         },
-        "days": "W",
-        "where": "FENS G015",
+        "days": "T",
+        "where": "FENS L061",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -223,11 +223,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "1:30 pm"
+          "from": "8:40 am",
+          "to": "10:30 am"
         },
         "days": "R",
-        "where": "FENS 2019",
+        "where": "FENS G015",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -287,8 +287,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "4:30 pm"
+          "from": "11:40 am",
+          "to": "2:30 pm"
         },
         "days": "R",
         "where": "FENS G049/G050",
@@ -34510,6 +34510,7 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
+          "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol"
         ]
       }
@@ -34574,6 +34575,7 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
+          "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol"
         ]
       }
@@ -34638,6 +34640,7 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
+          "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol"
         ]
       }
@@ -36521,6 +36524,7 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
+          "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol"
         ]
       }
@@ -36588,6 +36592,7 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
+          "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol"
         ]
       }
@@ -42676,10 +42681,10 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "4:30 pm"
+          "from": "2:40 pm",
+          "to": "5:30 pm"
         },
-        "days": "M",
+        "days": "F",
         "where": "FENS G049/G050",
         "dateRange": {
           "from": "Sep 29, 2025",
