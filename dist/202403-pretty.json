@@ -2221,9 +2221,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 13,
+        "capacity": 14,
         "actual": 14,
-        "remaining": -1
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -2417,9 +2417,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 13,
+        "capacity": 14,
         "actual": 14,
-        "remaining": -1
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -3740,9 +3740,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 2,
+        "capacity": 3,
         "actual": 3,
-        "remaining": -1
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
