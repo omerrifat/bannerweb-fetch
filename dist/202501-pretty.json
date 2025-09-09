@@ -5429,7 +5429,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Polat Göktaş"
+        ]
       },
       {
         "type": "Class",
@@ -5444,7 +5446,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Polat Göktaş"
+        ]
       }
     ],
     "availability": [
@@ -5726,7 +5730,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Polat Göktaş"
+        ]
       },
       {
         "type": "Class",
@@ -5741,7 +5747,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Polat Göktaş"
+        ]
       }
     ],
     "availability": [
@@ -14706,7 +14714,7 @@
     ]
   },
   {
-    "name": "Gender and Society Discussion",
+    "name": "Gender and Society",
     "crn": 10443,
     "subject": "GEN",
     "code": 341,
@@ -18766,11 +18774,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "3:40 pm",
-          "to": "6:30 pm"
+          "from": "12:40 pm",
+          "to": "3:30 pm"
         },
         "days": "T",
-        "where": "FASS G025",
+        "where": "FASS 1089",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -41847,6 +41855,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
+    "language": "English",
     "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Studio",
