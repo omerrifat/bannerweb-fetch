@@ -2819,7 +2819,7 @@
     "subject": "CS",
     "code": 303,
     "type": "L",
-    "section": "D1",
+    "section": "C1",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=10122",
     "term": "Fall 2025-2026",
     "levels": [
@@ -2961,7 +2961,7 @@
     "subject": "CS",
     "code": 303,
     "type": "L",
-    "section": "E1",
+    "section": "D1",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=10127",
     "term": "Fall 2025-2026",
     "levels": [
@@ -3174,7 +3174,7 @@
     "subject": "CS",
     "code": 303,
     "type": "L",
-    "section": "C1",
+    "section": "E1",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=10131",
     "term": "Fall 2025-2026",
     "levels": [
@@ -3245,7 +3245,7 @@
     "subject": "CS",
     "code": 303,
     "type": "L",
-    "section": "C2",
+    "section": "E2",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=10133",
     "term": "Fall 2025-2026",
     "levels": [
@@ -20101,7 +20101,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Abdullah Daşcı"
+          "Altuğ Tanaltay"
         ]
       },
       {
@@ -20118,7 +20118,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Abdullah Daşcı"
+          "Altuğ Tanaltay"
         ]
       }
     ],
@@ -20183,7 +20183,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Abdullah Daşcı"
+          "Altuğ Tanaltay"
         ]
       }
     ],
@@ -44216,7 +44216,6 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ahmet Barış Balcıoğlu",
           "Adnan Kefal"
         ]
       }
@@ -44224,9 +44223,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 12,
+        "capacity": 50,
         "actual": 0,
-        "remaining": 12
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
@@ -44764,17 +44763,16 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Duygu Taş Küten",
-          "Adnan Kefal"
+          "Duygu Taş Küten"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 10,
+        "capacity": 50,
         "actual": 0,
-        "remaining": 10
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
@@ -44825,17 +44823,16 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Burcu Saner Okan",
-          "Adnan Kefal"
+          "İhsan Sadati"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 6,
+        "capacity": 50,
         "actual": 0,
-        "remaining": 6
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
@@ -44886,17 +44883,16 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Kamer Kaya",
-          "Adnan Kefal"
+          "Kamer Kaya"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 9,
+        "capacity": 50,
         "actual": 0,
-        "remaining": 9
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
@@ -44947,17 +44943,16 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Volkan Patoğlu",
-          "Adnan Kefal"
+          "Volkan Patoğlu"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 1,
+        "capacity": 50,
         "actual": 0,
-        "remaining": 1
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
@@ -61413,7 +61408,7 @@
     "subject": "CS",
     "code": 303,
     "type": "L",
-    "section": "E2",
+    "section": "D2",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12543",
     "term": "Fall 2025-2026",
     "levels": [
@@ -61484,7 +61479,7 @@
     "subject": "CS",
     "code": 303,
     "type": "L",
-    "section": "D2",
+    "section": "C2",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12544",
     "term": "Fall 2025-2026",
     "levels": [
@@ -71621,68 +71616,6 @@
         "capacity": 9999,
         "actual": 0,
         "remaining": 9999
-      }
-    ]
-  },
-  {
-    "name": "Modernism/Postmodernism",
-    "crn": 12942,
-    "subject": "CULT",
-    "code": 432,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12942",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 6,
-    "language": "English",
-    "faculty": "FASS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CULT&sel_crse_strt=432&sel_crse_end=432&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "11:40 am",
-          "to": "2:30 pm"
-        },
-        "days": "T",
-        "where": "FASS 2031",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Didem Pekün"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
       }
     ]
   },
@@ -84223,6 +84156,290 @@
         "capacity": 16,
         "actual": 0,
         "remaining": 16
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Manufacturing Metrology",
+    "crn": 13131,
+    "subject": "MFG",
+    "code": 511,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13131",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MFG&sel_crse_strt=511&sel_crse_end=511&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "F",
+        "where": "FMAN G062",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "AI in Business",
+    "crn": 13132,
+    "subject": "OPIM",
+    "code": 413,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13132",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=OPIM&sel_crse_strt=413&sel_crse_end=413&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "T",
+        "where": "FMAN G041",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Enes Eryarsoy"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "R",
+        "where": "FASS 1080",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Enes Eryarsoy"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "AI in Business",
+    "crn": 13133,
+    "subject": "OPIM",
+    "code": 413,
+    "type": "R",
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13133",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=OPIM&sel_crse_strt=413R&sel_crse_end=413R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "F",
+        "where": "FMAN G041",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Enes Eryarsoy"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "NGO Management and Impact: Organizational Design, Positioning, and Sustainable Futures",
+    "crn": 13134,
+    "subject": "MGMT",
+    "code": 309,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13134",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MGMT&sel_crse_strt=309&sel_crse_end=309&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:40 am",
+          "to": "10:30 am"
+        },
+        "days": "T",
+        "where": "FASS G052",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "F",
+        "where": "FASS 1089",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
