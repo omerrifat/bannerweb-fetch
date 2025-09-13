@@ -4217,9 +4217,6 @@
         "actual": 0,
         "remaining": 0
       }
-    ],
-    "prerequisites": [
-      "CS 204"
     ]
   },
   {
@@ -15851,11 +15848,6 @@
         "actual": 0,
         "remaining": 0
       }
-    ],
-    "prerequisites": [
-      "MS 301",
-      "IE 301",
-      "IE 311"
     ]
   },
   {
@@ -16149,11 +16141,6 @@
         "actual": 0,
         "remaining": 0
       }
-    ],
-    "prerequisites": [
-      "MS 301",
-      "IE 301",
-      "IE 311"
     ]
   },
   {
@@ -18066,12 +18053,6 @@
         "actual": 0,
         "remaining": 0
       }
-    ],
-    "prerequisites": [
-      "CS 201",
-      "ENS 203",
-      "ME 301",
-      "ME 303"
     ]
   },
   {
@@ -45237,7 +45218,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Duygu Taş Küten"
+          "Nikolaos Koltsaklis"
         ]
       }
     ],
@@ -45410,7 +45391,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Tuğçe Yüksel"
+          "Güllü Kızıltaş Şendur"
         ]
       }
     ],
@@ -45466,7 +45447,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Tuğçe Yüksel"
+          "Güllü Kızıltaş Şendur"
         ]
       }
     ],
@@ -45521,7 +45502,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Burç Mısırlıoğlu"
+          "Ali Rana Atılgan"
         ]
       }
     ],
@@ -45576,7 +45557,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Burç Mısırlıoğlu"
+          "Ali Rana Atılgan"
         ]
       }
     ],
@@ -45631,7 +45612,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ferruh Özbudak"
+          "Ayesha Asloob Qureshi"
         ]
       }
     ],
@@ -46028,7 +46009,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "İsmet İnönü Kaya"
+          "İnanç Adagideli"
         ]
       }
     ],
@@ -48356,7 +48337,7 @@
     "subject": "BIO",
     "code": 590,
     "type": null,
-    "section": "13",
+    "section": "07",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=11481",
     "term": "Fall 2025-2026",
     "levels": [
@@ -48386,7 +48367,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Cavit Ağca"
+          "Duygu Kuzuoğlu Öztürk"
         ]
       }
     ],
@@ -48411,7 +48392,7 @@
     "subject": "BIO",
     "code": 590,
     "type": null,
-    "section": "17",
+    "section": "04",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=11485",
     "term": "Fall 2025-2026",
     "levels": [
@@ -48466,7 +48447,7 @@
     "subject": "BIO",
     "code": 790,
     "type": null,
-    "section": "05",
+    "section": "01",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=11492",
     "term": "Fall 2025-2026",
     "levels": [
@@ -48496,7 +48477,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Feray Bakan Mısırlıoğlu"
+          "Alex Lyakhovich"
         ]
       }
     ],
@@ -48521,7 +48502,7 @@
     "subject": "BIO",
     "code": 790,
     "type": null,
-    "section": "12",
+    "section": "02",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=11500",
     "term": "Fall 2025-2026",
     "levels": [
@@ -49272,7 +49253,7 @@
     "subject": "EE",
     "code": 790,
     "type": null,
-    "section": "10",
+    "section": "06",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=11571",
     "term": "Fall 2025-2026",
     "levels": [
@@ -49303,7 +49284,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Selim Saffet Balcısoy"
+          "Korkut Kaan Tokgöz"
         ]
       }
     ],
@@ -49358,7 +49339,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Erhan Budak"
+          "Sinan Yıldırım"
         ]
       }
     ],
@@ -49383,7 +49364,7 @@
     "subject": "IE",
     "code": 590,
     "type": null,
-    "section": "12",
+    "section": "01",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=11589",
     "term": "Fall 2025-2026",
     "levels": [
@@ -49438,7 +49419,7 @@
     "subject": "IE",
     "code": 790,
     "type": null,
-    "section": "08",
+    "section": "02",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=11605",
     "term": "Fall 2025-2026",
     "levels": [
@@ -49468,7 +49449,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Sinan Yıldırım"
+          "Ezgi Karabulut Türkseven"
         ]
       }
     ],
@@ -49493,7 +49474,7 @@
     "subject": "IE",
     "code": 790,
     "type": null,
-    "section": "13",
+    "section": "03",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=11610",
     "term": "Fall 2025-2026",
     "levels": [
@@ -51755,7 +51736,7 @@
     "subject": "SEC",
     "code": 790,
     "type": null,
-    "section": "01",
+    "section": "0",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=11781",
     "term": "Fall 2025-2026",
     "levels": [
@@ -56540,7 +56521,16 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
       }
+    ],
+    "corequisites": [
+      "MATH 301"
     ]
   },
   {
@@ -58085,7 +58075,7 @@
     "subject": "BIO",
     "code": 590,
     "type": null,
-    "section": "04",
+    "section": "06",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12220",
     "term": "Fall 2025-2026",
     "levels": [
@@ -58115,7 +58105,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Selim Çetiner"
+          "Ali Rıza Umut Şahin"
         ]
       }
     ],
@@ -58432,7 +58422,7 @@
     "subject": "IE",
     "code": 790,
     "type": null,
-    "section": "07",
+    "section": "01",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12285",
     "term": "Fall 2025-2026",
     "levels": [
@@ -60088,7 +60078,7 @@
     "subject": "CS",
     "code": 590,
     "type": null,
-    "section": "18",
+    "section": "16",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12419",
     "term": "Fall 2025-2026",
     "levels": [
@@ -60200,7 +60190,7 @@
     "subject": "CS",
     "code": 590,
     "type": null,
-    "section": "19",
+    "section": "07",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12423",
     "term": "Fall 2025-2026",
     "levels": [
@@ -60231,7 +60221,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Süha Orhun Mutluergil"
+          "Mohaned Chariti"
         ]
       }
     ],
@@ -61135,7 +61125,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Alexander Rodivilov"
+        ]
       },
       {
         "type": "Class",
@@ -61150,7 +61142,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Alexander Rodivilov"
+        ]
       }
     ],
     "availability": [
@@ -61213,7 +61207,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Alexander Rodivilov"
+        ]
       }
     ],
     "availability": [
@@ -69156,7 +69152,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Duygu Taş Küten"
+          "Nikolaos Koltsaklis"
         ]
       }
     ],
@@ -69212,7 +69208,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Duygu Taş Küten"
+          "Nikolaos Koltsaklis"
         ]
       }
     ],
@@ -69268,7 +69264,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Duygu Taş Küten"
+          "Nikolaos Koltsaklis"
         ]
       }
     ],
@@ -69380,7 +69376,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "İsmet İnönü Kaya"
+          "İnanç Adagideli"
         ]
       }
     ],
@@ -69435,7 +69431,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ferruh Özbudak"
+          "Ayesha Asloob Qureshi"
         ]
       }
     ],
@@ -71146,61 +71142,6 @@
   },
   {
     "name": "Master Thesis",
-    "crn": 12770,
-    "subject": "BIO",
-    "code": 590,
-    "type": null,
-    "section": "03",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12770",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student"
-    ],
-    "ects": 50,
-    "language": "English",
-    "faculty": "FENS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Thesis",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=BIO&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Canan Atılgan"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 14,
-        "actual": 0,
-        "remaining": 14
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Master Thesis",
     "crn": 12774,
     "subject": "BIO",
     "code": 590,
@@ -71235,7 +71176,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Meltem Elitaş"
+          "Levent Öztürk"
         ]
       }
     ],
@@ -71260,7 +71201,7 @@
     "subject": "BIO",
     "code": 590,
     "type": null,
-    "section": "10",
+    "section": "01",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12776",
     "term": "Fall 2025-2026",
     "levels": [
@@ -71315,7 +71256,7 @@
     "subject": "BIO",
     "code": 590,
     "type": null,
-    "section": "11",
+    "section": "02",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12777",
     "term": "Fall 2025-2026",
     "levels": [
@@ -71370,7 +71311,7 @@
     "subject": "BIO",
     "code": 590,
     "type": null,
-    "section": "18",
+    "section": "03",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12779",
     "term": "Fall 2025-2026",
     "levels": [
@@ -71425,7 +71366,7 @@
     "subject": "BIO",
     "code": 590,
     "type": null,
-    "section": "19",
+    "section": "05",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12780",
     "term": "Fall 2025-2026",
     "levels": [
@@ -71623,7 +71564,69 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Kürşat Çağıltay"
+          "Esra Erdem"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 12787,
+    "subject": "DS",
+    "code": 590,
+    "type": null,
+    "section": "02",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12787",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=DS&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dilara Keküllüoğlu"
         ]
       }
     ],
@@ -71685,7 +71688,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Enes Eryarsoy"
+          "Erchan Aptoula"
         ]
       }
     ],
@@ -71852,7 +71855,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Bülent Çatay"
+          "Murat Kaya"
         ]
       }
     ],
@@ -72845,7 +72848,7 @@
     "subject": "BIO",
     "code": 790,
     "type": null,
-    "section": "17",
+    "section": "03",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12871",
     "term": "Fall 2025-2026",
     "levels": [
@@ -72900,7 +72903,7 @@
     "subject": "BIO",
     "code": 790,
     "type": null,
-    "section": "19",
+    "section": "04",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12873",
     "term": "Fall 2025-2026",
     "levels": [
@@ -72955,7 +72958,7 @@
     "subject": "BIO",
     "code": 790,
     "type": null,
-    "section": "20",
+    "section": "05",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12874",
     "term": "Fall 2025-2026",
     "levels": [
@@ -73010,7 +73013,7 @@
     "subject": "BIO",
     "code": 790,
     "type": null,
-    "section": "21",
+    "section": "06",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12875",
     "term": "Fall 2025-2026",
     "levels": [
@@ -73065,7 +73068,7 @@
     "subject": "BIO",
     "code": 790,
     "type": null,
-    "section": "22",
+    "section": "07",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12876",
     "term": "Fall 2025-2026",
     "levels": [
@@ -73232,7 +73235,7 @@
     "subject": "CS",
     "code": 790,
     "type": null,
-    "section": "13",
+    "section": "03",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12880",
     "term": "Fall 2025-2026",
     "levels": [
@@ -73288,7 +73291,7 @@
     "subject": "CS",
     "code": 790,
     "type": null,
-    "section": "16",
+    "section": "06",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12883",
     "term": "Fall 2025-2026",
     "levels": [
@@ -73543,7 +73546,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Mehmet Yıldız"
+          "Özgür Gürbüz"
         ]
       }
     ],
@@ -73568,7 +73571,7 @@
     "subject": "BIO",
     "code": 590,
     "type": null,
-    "section": "20",
+    "section": "09",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12889",
     "term": "Fall 2025-2026",
     "levels": [
@@ -73655,65 +73658,6 @@
         "scheduleType": null,
         "instructors": [
           "Ersin Göğüş"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 14,
-        "actual": 0,
-        "remaining": 14
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "PhD Dissertation",
-    "crn": 12895,
-    "subject": "SEC",
-    "code": 790,
-    "type": null,
-    "section": "02",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12895",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR"
-    ],
-    "ects": 180,
-    "language": "English",
-    "faculty": "FENS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Thesis",
-    "method": "TR",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=SEC&sel_crse_strt=790&sel_crse_end=790&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Albert Levi"
         ]
       }
     ],
@@ -74761,7 +74705,7 @@
     "subject": "BIO",
     "code": 790,
     "type": null,
-    "section": "30",
+    "section": "08",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12934",
     "term": "Fall 2025-2026",
     "levels": [
@@ -74791,16 +74735,16 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Cavit Ağca"
+          "Morteza Ghorbani"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 2,
+        "capacity": 14,
         "actual": 0,
-        "remaining": 2
+        "remaining": 14
       },
       {
         "title": "Waitlist Seats",
@@ -76075,8 +76019,8 @@
         "remaining": 9999
       }
     ],
-    "corequisites": [
-      "MAT 401L"
+    "prerequisites": [
+      "NS 218"
     ]
   },
   {
@@ -79342,10 +79286,6 @@
         "actual": 0,
         "remaining": 0
       }
-    ],
-    "prerequisites": [
-      "IE 311",
-      "IE 303"
     ]
   },
   {
@@ -80744,7 +80684,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Kenan Sharpe"
+        ]
       },
       {
         "type": "Class",
@@ -80759,7 +80701,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Kenan Sharpe"
+        ]
       }
     ],
     "availability": [
@@ -84471,7 +84415,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Muhammet Tahir Kılavuz"
+        ]
       },
       {
         "type": "Class",
@@ -84486,7 +84432,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Muhammet Tahir Kılavuz"
+        ]
       }
     ],
     "availability": [
@@ -84617,7 +84565,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Muhammet Tahir Kılavuz"
+        ]
       },
       {
         "type": "Class",
@@ -84632,7 +84582,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Muhammet Tahir Kılavuz"
+        ]
       }
     ],
     "availability": [
@@ -87203,71 +87155,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 28,
+        "capacity": 40,
         "actual": 0,
-        "remaining": 28
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Basic Concepts of Physics for Scientists and Engineers Lab.",
-    "crn": 13120,
-    "subject": "PHYS",
-    "code": 113,
-    "type": "L",
-    "section": "B",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13120",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "method": "TR",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=PHYS&sel_crse_strt=113L&sel_crse_end=113L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "11:40 am",
-          "to": "1:30 pm"
-        },
-        "days": "T",
-        "where": "FENS G059",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Yuki Kaneko Göğüş"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "remaining": 40
       },
       {
         "title": "Waitlist Seats",
@@ -87283,7 +87173,7 @@
     "subject": "PHYS",
     "code": 113,
     "type": "L",
-    "section": "C",
+    "section": "B",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13121",
     "term": "Fall 2025-2026",
     "levels": [
@@ -87327,71 +87217,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 28,
+        "capacity": 40,
         "actual": 0,
-        "remaining": 28
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Basic Concepts of Physics for Scientists and Engineers Lab.",
-    "crn": 13122,
-    "subject": "PHYS",
-    "code": 113,
-    "type": "L",
-    "section": "D",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13122",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "method": "TR",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=PHYS&sel_crse_strt=113L&sel_crse_end=113L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
-        },
-        "days": "T",
-        "where": "FENS G059",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Yuki Kaneko Göğüş"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "remaining": 40
       },
       {
         "title": "Waitlist Seats",
@@ -89127,7 +88955,9 @@
           "to": "Jan 14, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Onuralp Armağan"
+        ]
       }
     ],
     "availability": [
@@ -89855,6 +89685,4561 @@
         "capacity": 25,
         "actual": 0,
         "remaining": 25
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13161,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "29",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13161",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Güllü Kızıltaş Şendur"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13162,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "31",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13162",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Lütfi Taner Tunç"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13163,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "32",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13163",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Ali Gülgün"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13164,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "39",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13164",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Zafer Gedik"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13165,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "41",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13165",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Murat Fadıloğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13166,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "43",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13166",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Melih Türkseven"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13167,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "46",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13167",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mohammad Sadek"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13168,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "47",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13168",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mohaned Chariti"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13169,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "50",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13169",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Murat Kaya Yapıcı"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13170,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "55",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13170",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nihat Gökhan Göğüş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13171,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "57",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13171",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nikolaos Koltsaklis"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13172,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "61",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13172",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ogün Adebali"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13173,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "64",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13173",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ongun Özçelik"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13174,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "69",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13174",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özge Akbulut"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13175,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "71",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13175",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özgür Erçetin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13176,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "74",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13176",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Öznur Taştan Okan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Managerial Skills Development",
+    "crn": 13177,
+    "subject": "MGMT",
+    "code": 596,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13177",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 3,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Workshop",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MGMT&sel_crse_strt=596&sel_crse_end=596&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Sep 30, 2025",
+          "to": "Nov 18, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yusuf Soner"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Trade & B2B Marketing",
+    "crn": 13178,
+    "subject": "MKTG",
+    "code": 519,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13178",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 3,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MKTG&sel_crse_strt=519&sel_crse_end=519&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 25, 2025",
+          "to": "Jan 06, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yusuf Soner"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Personal Branding",
+    "crn": 13179,
+    "subject": "MGMT",
+    "code": 578,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13179",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MGMT&sel_crse_strt=578&sel_crse_end=578&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Oct 02, 2025",
+          "to": "Nov 13, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Technology Management",
+    "crn": 13180,
+    "subject": "MGMT",
+    "code": 551,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13180",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 3,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MGMT&sel_crse_strt=551&sel_crse_end=551&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 20, 2025",
+          "to": "Dec 25, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aras Can Aktan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13181,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "75",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13181",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selmiye Alkan Gürsel"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13182,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "78",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13182",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Semih Onur Sezer"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13183,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "82",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13183",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Serkan Ünal"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13184,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "83",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13184",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Turgay Bayraktar"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13185,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "86",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13185",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13186,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "87",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13186",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hayriye Ünal"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13187,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "88",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13187",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Melik Yazıcı"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13188,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "89",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13188",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Morteza Ghorbani"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13189,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "90",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13189",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Serap Hayat Soytaş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13190,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "95",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13190",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sibel Çetinel"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13191,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "96",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13191",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yuki Kaneko Göğüş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13192,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "97",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13192",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeki Doruk Erden"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project: Case Study Session",
+    "crn": 13193,
+    "subject": "ENS",
+    "code": 491,
+    "type": "R",
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13193",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491R&sel_crse_end=491R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "W",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Adnan Kefal",
+          "Mahmut Hüdayi Bilgin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 200,
+        "actual": 0,
+        "remaining": 200
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project: Case Study Session",
+    "crn": 13194,
+    "subject": "ENS",
+    "code": 491,
+    "type": "R",
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13194",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491R&sel_crse_end=491R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:40 pm",
+          "to": "7:30 pm"
+        },
+        "days": "W",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Adnan Kefal",
+          "Mahmut Hüdayi Bilgin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 200,
+        "actual": 0,
+        "remaining": 200
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project: Case Study Session",
+    "crn": 13195,
+    "subject": "ENS",
+    "code": 491,
+    "type": "R",
+    "section": "C",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13195",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491R&sel_crse_end=491R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:40 pm",
+          "to": "7:30 pm"
+        },
+        "days": "R",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Adnan Kefal",
+          "Mahmut Hüdayi Bilgin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 200,
+        "actual": 0,
+        "remaining": 200
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project: Case Study Session",
+    "crn": 13196,
+    "subject": "ENS",
+    "code": 491,
+    "type": "R",
+    "section": "D",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13196",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491R&sel_crse_end=491R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "F",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Adnan Kefal",
+          "Mahmut Hüdayi Bilgin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 200,
+        "actual": 0,
+        "remaining": 200
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13197,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "100",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13197",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gündüz Ahmet Ulusoy"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Entrepreneurial Skills Workshop I",
+    "crn": 13198,
+    "subject": "MGMT",
+    "code": 495,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13198",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Workshop",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MGMT&sel_crse_strt=495&sel_crse_end=495&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "4:30 pm"
+        },
+        "days": "T",
+        "where": "FASS 2080",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Berna Beyhan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 3,
+        "actual": 0,
+        "remaining": 3
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduate Seminar I",
+    "crn": 13199,
+    "subject": "MFE",
+    "code": 552,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13199",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 1,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Seminar",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MFE&sel_crse_strt=552&sel_crse_end=552&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bahattin Koç"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduate Seminar II",
+    "crn": 13200,
+    "subject": "MFE",
+    "code": 752,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13200",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 1,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Seminar",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MFE&sel_crse_strt=752&sel_crse_end=752&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bahattin Koç"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduate Seminar II",
+    "crn": 13201,
+    "subject": "EE",
+    "code": 552,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13201",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 1,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Seminar",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=EE&sel_crse_strt=552&sel_crse_end=552&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Çağlar Tunç"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduate Seminar II",
+    "crn": 13202,
+    "subject": "BIO",
+    "code": 752,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13202",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 1,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Seminar",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=BIO&sel_crse_strt=752&sel_crse_end=752&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nur Mustafaoğlu Varol"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduate Seminar II",
+    "crn": 13203,
+    "subject": "DS",
+    "code": 552,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13203",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 1,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Seminar",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=DS&sel_crse_strt=552&sel_crse_end=552&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dilara Keküllüoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduate Seminar II",
+    "crn": 13204,
+    "subject": "SEC",
+    "code": 552,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13204",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 1,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Seminar",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=SEC&sel_crse_strt=552&sel_crse_end=552&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dilara Keküllüoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduate Seminar I",
+    "crn": 13205,
+    "subject": "ETM",
+    "code": 551,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13205",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR"
+    ],
+    "ects": 1,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Seminar",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ETM&sel_crse_strt=551&sel_crse_end=551&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Güllü Kızıltaş Şendur"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13206,
+    "subject": "CS",
+    "code": 590,
+    "type": null,
+    "section": "11",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13206",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CS&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özcan Öztürk"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13207,
+    "subject": "CS",
+    "code": 590,
+    "type": null,
+    "section": "12",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13207",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CS&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Altuğ Tanaltay"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13208,
+    "subject": "CS",
+    "code": 590,
+    "type": null,
+    "section": "14",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13208",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CS&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Süha Orhun Mutluergil"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13209,
+    "subject": "CS",
+    "code": 590,
+    "type": null,
+    "section": "15",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13209",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CS&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dilara Keküllüoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "crn": 13210,
+    "subject": "CS",
+    "code": 790,
+    "type": null,
+    "section": "08",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13210",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 180,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CS&sel_crse_strt=790&sel_crse_end=790&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Albert Levi"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "crn": 13211,
+    "subject": "CS",
+    "code": 790,
+    "type": null,
+    "section": "04",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13211",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 180,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CS&sel_crse_strt=790&sel_crse_end=790&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Öznur Taştan Okan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "crn": 13212,
+    "subject": "CS",
+    "code": 790,
+    "type": null,
+    "section": "05",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13212",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 180,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CS&sel_crse_strt=790&sel_crse_end=790&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selim Saffet Balcısoy"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "crn": 13213,
+    "subject": "CS",
+    "code": 790,
+    "type": null,
+    "section": "07",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13213",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 180,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CS&sel_crse_strt=790&sel_crse_end=790&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Onur Varol"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13214,
+    "subject": "DS",
+    "code": 590,
+    "type": null,
+    "section": "07",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13214",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=DS&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Duygu Taş Küten"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13215,
+    "subject": "DS",
+    "code": 590,
+    "type": null,
+    "section": "10",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13215",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=DS&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ogün Adebali"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13216,
+    "subject": "DS",
+    "code": 590,
+    "type": null,
+    "section": "11",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13216",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=DS&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sinan Yıldırım"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13217,
+    "subject": "EE",
+    "code": 590,
+    "type": null,
+    "section": "02",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13217",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=EE&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özgür Erçetin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13218,
+    "subject": "EE",
+    "code": 590,
+    "type": null,
+    "section": "04",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13218",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=EE&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özgür Gürbüz"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13219,
+    "subject": "EE",
+    "code": 590,
+    "type": null,
+    "section": "05",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13219",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=EE&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yusuf Leblebici"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13220,
+    "subject": "EE",
+    "code": 590,
+    "type": null,
+    "section": "08",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13220",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=EE&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mohaned Chariti"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13221,
+    "subject": "EE",
+    "code": 590,
+    "type": null,
+    "section": "09",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13221",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=EE&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özcan Öztürk"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13222,
+    "subject": "ETM",
+    "code": 590,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13222",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ETM&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nikolaos Koltsaklis"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13223,
+    "subject": "IE",
+    "code": 590,
+    "type": null,
+    "section": "04",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13223",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=IE&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Esra Koca"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13224,
+    "subject": "IE",
+    "code": 590,
+    "type": null,
+    "section": "05",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13224",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=IE&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ezgi Karabulut Türkseven"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Mathematical Analysis",
+    "crn": 13225,
+    "subject": "MATH",
+    "code": 571,
+    "type": "R",
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13225",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MATH&sel_crse_strt=571R&sel_crse_end=571R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "T",
+        "where": "FENS G032",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nihat Gökhan Göğüş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 0,
+        "remaining": 25
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
+      }
+    ],
+    "corequisites": [
+      "MATH 571"
+    ]
+  },
+  {
+    "name": "Financial Management-Recitation",
+    "crn": 13226,
+    "subject": "FIN",
+    "code": 301,
+    "type": "R",
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13226",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=FIN&sel_crse_strt=301R&sel_crse_end=301R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "4:30 pm"
+        },
+        "days": "R",
+        "where": "FENS L045",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 110,
+        "actual": 0,
+        "remaining": 110
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13227,
+    "subject": "IE",
+    "code": 590,
+    "type": null,
+    "section": "07",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13227",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=IE&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Duygu Taş Küten"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13228,
+    "subject": "IE",
+    "code": 590,
+    "type": null,
+    "section": "08",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13228",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=IE&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İhsan Sadati"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13229,
+    "subject": "SEC",
+    "code": 590,
+    "type": null,
+    "section": "01",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13229",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=SEC&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Süha Orhun Mutluergil"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Computational Tools and IT for Analytics",
+    "crn": 13230,
+    "subject": "BAN",
+    "code": 835,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13230",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=BAN&sel_crse_strt=835&sel_crse_end=835&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 105",
+        "dateRange": {
+          "from": "Sep 30, 2025",
+          "to": "Oct 21, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Altuğ Tanaltay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:30 am",
+          "to": "12:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 105",
+        "dateRange": {
+          "from": "Oct 04, 2025",
+          "to": "Nov 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Altuğ Tanaltay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 105",
+        "dateRange": {
+          "from": "Nov 04, 2025",
+          "to": "Nov 18, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Altuğ Tanaltay"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Descriptive Analytics",
+    "crn": 13231,
+    "subject": "BAN",
+    "code": 827,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13231",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=BAN&sel_crse_strt=827&sel_crse_end=827&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 105",
+        "dateRange": {
+          "from": "Oct 02, 2025",
+          "to": "Nov 13, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Abdullah Daşcı"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:30 pm",
+          "to": "4:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 105",
+        "dateRange": {
+          "from": "Oct 04, 2025",
+          "to": "Nov 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Abdullah Daşcı"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Predictive Analytics",
+    "crn": 13232,
+    "subject": "BAN",
+    "code": 805,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13232",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=BAN&sel_crse_strt=805&sel_crse_end=805&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 105",
+        "dateRange": {
+          "from": "Nov 25, 2025",
+          "to": "Dec 23, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Altuğ Tanaltay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:30 am",
+          "to": "12:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 105",
+        "dateRange": {
+          "from": "Nov 27, 2025",
+          "to": "Dec 25, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Altuğ Tanaltay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 105",
+        "dateRange": {
+          "from": "Jan 06, 2026",
+          "to": "Jan 13, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Altuğ Tanaltay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:30 am",
+          "to": "12:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 105",
+        "dateRange": {
+          "from": "Jan 10, 2026",
+          "to": "Jan 17, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Altuğ Tanaltay"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Data Warehousing and Business Intelligence",
+    "crn": 13233,
+    "subject": "BAN",
+    "code": 831,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13233",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=BAN&sel_crse_strt=831&sel_crse_end=831&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 105",
+        "dateRange": {
+          "from": "Nov 27, 2025",
+          "to": "Dec 25, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:30 pm",
+          "to": "4:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 105",
+        "dateRange": {
+          "from": "Nov 29, 2025",
+          "to": "Dec 27, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 105",
+        "dateRange": {
+          "from": "Jan 08, 2026",
+          "to": "Jan 15, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:30 pm",
+          "to": "4:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 105",
+        "dateRange": {
+          "from": "Jan 10, 2026",
+          "to": "Jan 17, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
       },
       {
         "title": "Waitlist Seats",
