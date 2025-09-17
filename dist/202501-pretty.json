@@ -11959,11 +11959,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "1:30 pm"
+          "from": "4:40 pm",
+          "to": "5:30 pm"
         },
         "days": "M",
-        "where": "FASS 1079",
+        "where": "FENS L061",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -11976,11 +11976,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "8:40 am",
-          "to": "10:30 am"
+          "from": "3:40 pm",
+          "to": "5:30 pm"
         },
         "days": "R",
-        "where": "FENS L030",
+        "where": "FENS L061",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -12044,8 +12044,8 @@
           "from": "4:40 pm",
           "to": "6:30 pm"
         },
-        "days": "R",
-        "where": "FASS G022",
+        "days": "F",
+        "where": "FENS L065",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -75309,8 +75309,6 @@
       "Masters",
       "Special Student",
       "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
       "Exchange - Erasmus Mundus DR",
       "Exchange - Erasmus Mundus UG"
@@ -77046,8 +77044,6 @@
       "Masters",
       "Special Student",
       "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
       "Exchange - Erasmus Mundus DR",
       "Exchange - Erasmus Mundus UG"
@@ -77915,8 +77911,6 @@
       "Masters",
       "Special Student",
       "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
       "Exchange - Erasmus Mundus DR",
       "Exchange - Erasmus Mundus UG"
@@ -83377,8 +83371,6 @@
       "Masters",
       "Special Student",
       "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
       "Exchange - Erasmus Mundus DR",
       "Exchange - Erasmus Mundus UG"
@@ -87390,7 +87382,7 @@
         "type": "Class",
         "time": {
           "from": "11:40 am",
-          "to": "12:30 pm"
+          "to": "1:30 pm"
         },
         "days": "R",
         "where": "FASS 1080",
@@ -87452,8 +87444,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "1:30 pm"
+          "from": "1:40 pm",
+          "to": "2:30 pm"
         },
         "days": "R",
         "where": "FASS 1080",
@@ -90284,6 +90276,12 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
       }
     ]
   },
@@ -90342,6 +90340,12 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
       }
     ]
   },
@@ -90362,8 +90366,6 @@
       "Masters",
       "Special Student",
       "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
       "Exchange - Erasmus Mundus DR",
       "Exchange - Erasmus Mundus UG"
@@ -90390,7 +90392,9 @@
           "to": "Nov 13, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Şule Yalçın"
+        ]
       }
     ],
     "availability": [
@@ -90405,6 +90409,12 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
       }
     ]
   },
@@ -90462,6 +90472,12 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
       }
     ]
   },
@@ -95075,7 +95091,7 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
+          "from": "5:40 pm",
           "to": "6:30 pm"
         },
         "days": "W",
@@ -95096,6 +95112,3313 @@
         "capacity": 15,
         "actual": 0,
         "remaining": 15
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Technology Management",
+    "crn": 13257,
+    "subject": "MGMT",
+    "code": 942,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13257",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 4,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MGMT&sel_crse_strt=942&sel_crse_end=942&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 20, 2025",
+          "to": "Dec 25, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aras Can Aktan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Jan 08, 2026",
+          "to": "Jan 08, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aras Can Aktan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
+      }
+    ]
+  },
+  {
+    "name": "Strategic Management",
+    "crn": 13258,
+    "subject": "MGMT",
+    "code": 910,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13258",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 9,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MGMT&sel_crse_strt=910&sel_crse_end=910&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Sep 26, 2025",
+          "to": "Sep 26, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Timothy Scott Kiessling"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Sep 27, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Timothy Scott Kiessling"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Oct 04, 2025",
+          "to": "Oct 04, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Timothy Scott Kiessling"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Oct 10, 2025",
+          "to": "Oct 10, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Timothy Scott Kiessling"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Oct 11, 2025",
+          "to": "Oct 11, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Timothy Scott Kiessling"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN",
+        "dateRange": {
+          "from": "Oct 18, 2025",
+          "to": "Oct 18, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Timothy Scott Kiessling"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Oct 24, 2025",
+          "to": "Oct 24, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Timothy Scott Kiessling"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "7:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Oct 25, 2025",
+          "to": "Oct 25, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Timothy Scott Kiessling"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Nov 01, 2025",
+          "to": "Nov 01, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Timothy Scott Kiessling"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 07, 2025",
+          "to": "Nov 07, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Timothy Scott Kiessling"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "7:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 08, 2025",
+          "to": "Nov 08, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Timothy Scott Kiessling"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 55,
+        "actual": 0,
+        "remaining": 55
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Marketing Management",
+    "crn": 13259,
+    "subject": "MKTG",
+    "code": 901,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13259",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 9,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MKTG&sel_crse_strt=901&sel_crse_end=901&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Sep 27, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Oct 03, 2025",
+          "to": "Oct 03, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Oct 04, 2025",
+          "to": "Oct 04, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Oct 11, 2025",
+          "to": "Oct 11, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Oct 17, 2025",
+          "to": "Oct 17, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "7:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN",
+        "dateRange": {
+          "from": "Oct 18, 2025",
+          "to": "Oct 18, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Oct 25, 2025",
+          "to": "Oct 25, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Oct 31, 2025",
+          "to": "Oct 31, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "7:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Nov 01, 2025",
+          "to": "Nov 01, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 08, 2025",
+          "to": "Nov 08, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Nov 14, 2025",
+          "to": "Nov 14, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 55,
+        "actual": 0,
+        "remaining": 55
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Data Driven Decision Making",
+    "crn": 13260,
+    "subject": "BAN",
+    "code": 900,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13260",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 5,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 2,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=BAN&sel_crse_strt=900&sel_crse_end=900&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Nov 15, 2025",
+          "to": "Nov 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 21, 2025",
+          "to": "Nov 21, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "7:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 22, 2025",
+          "to": "Nov 22, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Nov 29, 2025",
+          "to": "Nov 29, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "7:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Dec 06, 2025",
+          "to": "Dec 06, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Dec 12, 2025",
+          "to": "Dec 12, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Dec 13, 2025",
+          "to": "Dec 13, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 55,
+        "actual": 0,
+        "remaining": 55
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Ethics in Business",
+    "crn": 13261,
+    "subject": "MGMT",
+    "code": 905,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13261",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 4,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MGMT&sel_crse_strt=905&sel_crse_end=905&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Nov 15, 2025",
+          "to": "Nov 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ozan Duygulu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 22, 2025",
+          "to": "Nov 22, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ozan Duygulu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Nov 28, 2025",
+          "to": "Nov 28, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ozan Duygulu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "5:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Nov 29, 2025",
+          "to": "Nov 29, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ozan Duygulu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Dec 05, 2025",
+          "to": "Dec 05, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ozan Duygulu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Dec 06, 2025",
+          "to": "Dec 06, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ozan Duygulu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 55,
+        "actual": 0,
+        "remaining": 55
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Economics for Managers",
+    "crn": 13262,
+    "subject": "MGMT",
+    "code": 814,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13262",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MGMT&sel_crse_strt=814&sel_crse_end=814&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Sep 26, 2025",
+          "to": "Sep 26, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orhan Erem Ateşağaoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Sep 27, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orhan Erem Ateşağaoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "5:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Oct 04, 2025",
+          "to": "Oct 04, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orhan Erem Ateşağaoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Oct 10, 2025",
+          "to": "Oct 10, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orhan Erem Ateşağaoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Oct 11, 2025",
+          "to": "Oct 11, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orhan Erem Ateşağaoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "5:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Oct 18, 2025",
+          "to": "Oct 18, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orhan Erem Ateşağaoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 43,
+        "actual": 0,
+        "remaining": 43
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Data Driven Decision Making",
+    "crn": 13263,
+    "subject": "BAN",
+    "code": 800,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13263",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=BAN&sel_crse_strt=800&sel_crse_end=800&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "5:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Sep 27, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Oct 03, 2025",
+          "to": "Oct 03, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Oct 04, 2025",
+          "to": "Oct 04, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "5:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Oct 11, 2025",
+          "to": "Oct 11, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Oct 17, 2025",
+          "to": "Oct 17, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Oct 18, 2025",
+          "to": "Oct 18, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Can Akkan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 43,
+        "actual": 0,
+        "remaining": 43
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Financial Reporting and Statement Analysis",
+    "crn": 13264,
+    "subject": "ACC",
+    "code": 801,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13264",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ACC&sel_crse_strt=801&sel_crse_end=801&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Oct 31, 2025",
+          "to": "Oct 31, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Onuralp Armağan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 01, 2025",
+          "to": "Nov 01, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Onuralp Armağan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "5:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 01, 2025",
+          "to": "Nov 01, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Onuralp Armağan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Nov 07, 2025",
+          "to": "Nov 07, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Onuralp Armağan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Nov 08, 2025",
+          "to": "Nov 08, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Onuralp Armağan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "5:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Nov 08, 2025",
+          "to": "Nov 08, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Onuralp Armağan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 14, 2025",
+          "to": "Nov 14, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Onuralp Armağan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 15, 2025",
+          "to": "Nov 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Onuralp Armağan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "5:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 15, 2025",
+          "to": "Nov 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Onuralp Armağan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Nov 21, 2025",
+          "to": "Nov 21, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Onuralp Armağan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Nov 22, 2025",
+          "to": "Nov 22, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Onuralp Armağan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "5:30 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Nov 22, 2025",
+          "to": "Nov 22, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Onuralp Armağan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 43,
+        "actual": 0,
+        "remaining": 43
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Marketing Management",
+    "crn": 13265,
+    "subject": "MKTG",
+    "code": 801,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13265",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MKTG&sel_crse_strt=801&sel_crse_end=801&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 29, 2025",
+          "to": "Nov 29, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:15 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 29, 2025",
+          "to": "Nov 29, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Dec 05, 2025",
+          "to": "Dec 05, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Dec 06, 2025",
+          "to": "Dec 06, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:15 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Dec 06, 2025",
+          "to": "Dec 06, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus",
+        "dateRange": {
+          "from": "Dec 12, 2025",
+          "to": "Dec 12, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus",
+        "dateRange": {
+          "from": "Dec 13, 2025",
+          "to": "Dec 13, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:15 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Dec 13, 2025",
+          "to": "Dec 13, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Dec 19, 2025",
+          "to": "Dec 19, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Dec 20, 2025",
+          "to": "Dec 20, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:15 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Dec 20, 2025",
+          "to": "Dec 20, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Cenk Koçaş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 43,
+        "actual": 0,
+        "remaining": 43
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Operations and Supply Chain Management",
+    "crn": 13266,
+    "subject": "OPIM",
+    "code": 801,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13266",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=OPIM&sel_crse_strt=801&sel_crse_end=801&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Dec 27, 2025",
+          "to": "Dec 27, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Raha Akhavan Tabatabaei"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:15 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Dec 27, 2025",
+          "to": "Dec 27, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Raha Akhavan Tabatabaei"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Jan 02, 2026",
+          "to": "Jan 02, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Raha Akhavan Tabatabaei"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN",
+        "dateRange": {
+          "from": "Jan 03, 2026",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Raha Akhavan Tabatabaei"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:15 pm"
+        },
+        "days": "S",
+        "where": "FMAN",
+        "dateRange": {
+          "from": "Jan 03, 2026",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Raha Akhavan Tabatabaei"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Jan 09, 2026",
+          "to": "Jan 09, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Raha Akhavan Tabatabaei"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Jan 10, 2026",
+          "to": "Jan 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Raha Akhavan Tabatabaei"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:15 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Jan 10, 2026",
+          "to": "Jan 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Raha Akhavan Tabatabaei"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Jan 16, 2026",
+          "to": "Jan 16, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Raha Akhavan Tabatabaei"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Jan 17, 2026",
+          "to": "Jan 17, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Raha Akhavan Tabatabaei"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:15 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Jan 17, 2026",
+          "to": "Jan 17, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Raha Akhavan Tabatabaei"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 43,
+        "actual": 0,
+        "remaining": 43
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Financial Reporting",
+    "crn": 13267,
+    "subject": "ACC",
+    "code": 901,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13267",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 4,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ACC&sel_crse_strt=901&sel_crse_end=901&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Dec 20, 2025",
+          "to": "Dec 20, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nur İrem Nuhoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "7:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Dec 20, 2025",
+          "to": "Dec 20, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nur İrem Nuhoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Dec 27, 2025",
+          "to": "Dec 27, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nur İrem Nuhoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Jan 03, 2026",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nur İrem Nuhoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Jan 10, 2026",
+          "to": "Jan 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nur İrem Nuhoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 55,
+        "actual": 0,
+        "remaining": 55
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Managerial Skills Development",
+    "crn": 13268,
+    "subject": "MGMT",
+    "code": 896,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13268",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MGMT&sel_crse_strt=896&sel_crse_end=896&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Sep 30, 2025",
+          "to": "Nov 18, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yusuf Soner"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
+      }
+    ]
+  },
+  {
+    "name": "Personal Branding",
+    "crn": 13269,
+    "subject": "MGMT",
+    "code": 878,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13269",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MGMT&sel_crse_strt=878&sel_crse_end=878&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Oct 02, 2025",
+          "to": "Nov 13, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Şule Yalçın"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
+      }
+    ]
+  },
+  {
+    "name": "Financial Statement Analysis",
+    "crn": 13270,
+    "subject": "ACC",
+    "code": 910,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13270",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ACC&sel_crse_strt=910&sel_crse_end=910&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Dec 27, 2025",
+          "to": "Dec 27, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nur İrem Nuhoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus",
+        "dateRange": {
+          "from": "Jan 03, 2026",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nur İrem Nuhoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "7:00 pm"
+        },
+        "days": "S",
+        "where": "FMAN G013",
+        "dateRange": {
+          "from": "Jan 10, 2026",
+          "to": "Jan 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nur İrem Nuhoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus",
+        "dateRange": {
+          "from": "Jan 17, 2026",
+          "to": "Jan 17, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nur İrem Nuhoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus",
+        "dateRange": {
+          "from": "Jan 17, 2026",
+          "to": "Jan 17, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nur İrem Nuhoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 55,
+        "actual": 0,
+        "remaining": 55
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Trade & B2B Marketing",
+    "crn": 13271,
+    "subject": "MKTG",
+    "code": 819,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13271",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MKTG&sel_crse_strt=819&sel_crse_end=819&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 25, 2025",
+          "to": "Dec 23, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yusuf Soner"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Jan 06, 2026",
+          "to": "Jan 13, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yusuf Soner"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
+      }
+    ]
+  },
+  {
+    "name": "Managerial Skills Development",
+    "crn": 13272,
+    "subject": "MGMT",
+    "code": 996,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13272",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MGMT&sel_crse_strt=996&sel_crse_end=996&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Sep 30, 2025",
+          "to": "Oct 21, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yusuf Soner"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 04, 2025",
+          "to": "Nov 18, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yusuf Soner"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
+      }
+    ]
+  },
+  {
+    "name": "Technology Management",
+    "crn": 13273,
+    "subject": "MGMT",
+    "code": 842,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13273",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MGMT&sel_crse_strt=842&sel_crse_end=842&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 20, 2025",
+          "to": "Dec 25, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aras Can Aktan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Jan 08, 2026",
+          "to": "Jan 08, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aras Can Aktan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
+      }
+    ]
+  },
+  {
+    "name": "Trade & B2B Marketing",
+    "crn": 13274,
+    "subject": "MKTG",
+    "code": 919,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13274",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MKTG&sel_crse_strt=919&sel_crse_end=919&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 25, 2025",
+          "to": "Dec 23, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yusuf Soner"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Jan 06, 2026",
+          "to": "Jan 13, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yusuf Soner"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
+      }
+    ]
+  },
+  {
+    "name": "Accounting & Financial Statement Analysis",
+    "crn": 13275,
+    "subject": "MFIN",
+    "code": 850,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13275",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR"
+    ],
+    "ects": 10,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MFIN&sel_crse_strt=850&sel_crse_end=850&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 205",
+        "dateRange": {
+          "from": "Sep 26, 2025",
+          "to": "Oct 17, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nur İrem Nuhoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 205",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Oct 18, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nur İrem Nuhoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "5:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 205",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Oct 18, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nur İrem Nuhoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Corporate Finance",
+    "crn": 13276,
+    "subject": "MFIN",
+    "code": 851,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13276",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR"
+    ],
+    "ects": 10,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MFIN&sel_crse_strt=851&sel_crse_end=851&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 205",
+        "dateRange": {
+          "from": "Oct 25, 2025",
+          "to": "Nov 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Evrim Akdoğu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:15 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 205",
+        "dateRange": {
+          "from": "Oct 25, 2025",
+          "to": "Nov 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Evrim Akdoğu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 205",
+        "dateRange": {
+          "from": "Oct 31, 2025",
+          "to": "Oct 31, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Evrim Akdoğu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Economics for Managers",
+    "crn": 13277,
+    "subject": "MFIN",
+    "code": 859,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13277",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MFIN&sel_crse_strt=859&sel_crse_end=859&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 205",
+        "dateRange": {
+          "from": "Nov 22, 2025",
+          "to": "Dec 13, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:15 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 205",
+        "dateRange": {
+          "from": "Nov 22, 2025",
+          "to": "Dec 13, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 205",
+        "dateRange": {
+          "from": "Nov 28, 2025",
+          "to": "Dec 12, 2025"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Quantitative Methods",
+    "crn": 13278,
+    "subject": "MFIN",
+    "code": 860,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13278",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR"
+    ],
+    "ects": 10,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MFIN&sel_crse_strt=860&sel_crse_end=860&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "1:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 205",
+        "dateRange": {
+          "from": "Dec 20, 2025",
+          "to": "Jan 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bünyamin Önal"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:00 pm",
+          "to": "6:15 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 205",
+        "dateRange": {
+          "from": "Dec 20, 2025",
+          "to": "Jan 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bünyamin Önal"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:00 pm",
+          "to": "9:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 205",
+        "dateRange": {
+          "from": "Dec 26, 2025",
+          "to": "Jan 09, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bünyamin Önal"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Personal Branding",
+    "crn": 13279,
+    "subject": "MIM",
+    "code": 878,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13279",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MIM&sel_crse_strt=878&sel_crse_end=878&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Oct 02, 2025",
+          "to": "Nov 13, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Şule Yalçın"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 16,
+        "actual": 0,
+        "remaining": 16
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
+      }
+    ]
+  },
+  {
+    "name": "Trade & B2B Marketing",
+    "crn": 13280,
+    "subject": "MIM",
+    "code": 819,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13280",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MIM&sel_crse_strt=819&sel_crse_end=819&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Nov 25, 2025",
+          "to": "Dec 23, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yusuf Soner"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 202",
+        "dateRange": {
+          "from": "Jan 06, 2026",
+          "to": "Jan 13, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yusuf Soner"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 16,
+        "actual": 0,
+        "remaining": 16
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
+      }
+    ]
+  },
+  {
+    "name": "Data Insights for Marketing",
+    "crn": 13281,
+    "subject": "MIM",
+    "code": 810,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13281",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MIM&sel_crse_strt=810&sel_crse_end=810&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "M",
+        "where": "Altunizade Campus 112",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Sep 29, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Vahid Karimi Motahhar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:30 pm",
+          "to": "4:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 112",
+        "dateRange": {
+          "from": "Oct 04, 2025",
+          "to": "Nov 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Vahid Karimi Motahhar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "M",
+        "where": "Altunizade Campus 112",
+        "dateRange": {
+          "from": "Oct 13, 2025",
+          "to": "Oct 13, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Vahid Karimi Motahhar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:30 am",
+          "to": "12:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 112",
+        "dateRange": {
+          "from": "Oct 18, 2025",
+          "to": "Oct 25, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Vahid Karimi Motahhar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "M",
+        "where": "Altunizade Campus 112",
+        "dateRange": {
+          "from": "Oct 27, 2025",
+          "to": "Nov 03, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Vahid Karimi Motahhar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "W",
+        "where": "Altunizade Campus 112",
+        "dateRange": {
+          "from": "Nov 12, 2025",
+          "to": "Nov 12, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Vahid Karimi Motahhar"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 16,
+        "actual": 0,
+        "remaining": 16
       },
       {
         "title": "Waitlist Seats",
