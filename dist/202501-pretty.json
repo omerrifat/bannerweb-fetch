@@ -8566,7 +8566,7 @@
           "to": "11:30 am"
         },
         "days": "M",
-        "where": "FASS 1101",
+        "where": "FMAN G050",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -8902,7 +8902,7 @@
           "to": "10:30 am"
         },
         "days": "W",
-        "where": "FASS 1096",
+        "where": "FMAN G041",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -9255,7 +9255,7 @@
           "to": "10:30 am"
         },
         "days": "R",
-        "where": "FENS L062",
+        "where": "FMAN G056",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -9574,7 +9574,7 @@
           "to": "2:30 pm"
         },
         "days": "W",
-        "where": "FENS G029",
+        "where": "FMAN G065",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -20283,9 +20283,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 330,
+        "capacity": 300,
         "actual": 265,
-        "remaining": 65
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -20342,9 +20342,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 330,
+        "capacity": 300,
         "actual": 267,
-        "remaining": 63
+        "remaining": 33
       },
       {
         "title": "Waitlist Seats",
@@ -23980,9 +23980,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 320,
+        "capacity": 310,
         "actual": 292,
-        "remaining": 28
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -24123,9 +24123,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 320,
+        "capacity": 310,
         "actual": 292,
-        "remaining": 28
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -24373,9 +24373,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 38,
+        "capacity": 36,
         "actual": 35,
-        "remaining": 3
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -24508,9 +24508,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 33,
         "actual": 32,
-        "remaining": 3
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -24580,9 +24580,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 38,
+        "capacity": 36,
         "actual": 34,
-        "remaining": 4
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -24652,9 +24652,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 34,
         "actual": 34,
-        "remaining": 1
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -24724,9 +24724,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 38,
+        "capacity": 36,
         "actual": 35,
-        "remaining": 3
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -24796,9 +24796,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 33,
         "actual": 32,
-        "remaining": 3
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -24923,9 +24923,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 38,
+        "capacity": 36,
         "actual": 35,
-        "remaining": 3
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -24995,9 +24995,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 33,
         "actual": 32,
-        "remaining": 3
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -25067,9 +25067,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 38,
+        "capacity": 36,
         "actual": 35,
-        "remaining": 3
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -25139,9 +25139,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 33,
         "actual": 32,
-        "remaining": 3
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -25211,9 +25211,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 38,
+        "capacity": 36,
         "actual": 35,
-        "remaining": 3
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -25283,9 +25283,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 33,
         "actual": 32,
-        "remaining": 3
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -25410,9 +25410,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 38,
+        "capacity": 36,
         "actual": 35,
-        "remaining": 3
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -25482,9 +25482,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 33,
         "actual": 32,
-        "remaining": 3
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -25554,9 +25554,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 38,
+        "capacity": 36,
         "actual": 36,
-        "remaining": 2
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -25681,9 +25681,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 33,
         "actual": 32,
-        "remaining": 3
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -25753,9 +25753,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 38,
+        "capacity": 36,
         "actual": 35,
-        "remaining": 3
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -25880,9 +25880,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 33,
         "actual": 32,
-        "remaining": 3
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -25952,9 +25952,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 38,
+        "capacity": 36,
         "actual": 34,
-        "remaining": 4
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -26024,9 +26024,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 33,
         "actual": 32,
-        "remaining": 3
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -26313,9 +26313,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 280,
+        "capacity": 270,
         "actual": 249,
-        "remaining": 31
+        "remaining": 21
       },
       {
         "title": "Waitlist Seats",
@@ -26392,9 +26392,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 180,
+        "capacity": 170,
         "actual": 161,
-        "remaining": 19
+        "remaining": 9
       },
       {
         "title": "Waitlist Seats",
@@ -26471,9 +26471,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 280,
+        "capacity": 270,
         "actual": 249,
-        "remaining": 31
+        "remaining": 21
       },
       {
         "title": "Waitlist Seats",
@@ -26533,9 +26533,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 29,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -26604,9 +26604,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 30,
-        "remaining": 1
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -26675,9 +26675,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 29,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -26746,9 +26746,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 28,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -26817,9 +26817,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 28,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -26888,9 +26888,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 28,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -26959,9 +26959,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 29,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27030,9 +27030,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 29,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27101,9 +27101,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 29,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27172,9 +27172,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 29,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27243,9 +27243,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 29,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27314,9 +27314,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 29,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27385,9 +27385,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 27,
-        "remaining": 4
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -27456,9 +27456,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 29,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27527,9 +27527,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 29,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27598,9 +27598,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 28,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -27669,9 +27669,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 29,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27740,9 +27740,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 29,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27811,9 +27811,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 28,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -27882,9 +27882,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 29,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -32354,9 +32354,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 105,
+        "capacity": 100,
         "actual": 95,
-        "remaining": 10
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -32417,9 +32417,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 83,
+        "capacity": 80,
         "actual": 74,
-        "remaining": 9
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -32480,9 +32480,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 105,
+        "capacity": 100,
         "actual": 94,
-        "remaining": 11
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -32542,9 +32542,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 83,
+        "capacity": 80,
         "actual": 76,
-        "remaining": 7
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -32604,9 +32604,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 105,
+        "capacity": 100,
         "actual": 95,
-        "remaining": 10
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -32667,9 +32667,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 83,
+        "capacity": 80,
         "actual": 75,
-        "remaining": 8
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -32730,9 +32730,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 105,
+        "capacity": 100,
         "actual": 95,
-        "remaining": 10
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -32792,9 +32792,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 83,
+        "capacity": 80,
         "actual": 75,
-        "remaining": 8
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -32853,9 +32853,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 105,
+        "capacity": 100,
         "actual": 96,
-        "remaining": 9
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -32923,9 +32923,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 105,
+        "capacity": 100,
         "actual": 94,
-        "remaining": 11
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -33063,9 +33063,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 105,
+        "capacity": 100,
         "actual": 95,
-        "remaining": 10
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -33133,9 +33133,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 83,
+        "capacity": 80,
         "actual": 75,
-        "remaining": 8
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -33203,9 +33203,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 105,
+        "capacity": 100,
         "actual": 93,
-        "remaining": 12
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -33273,9 +33273,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 83,
+        "capacity": 80,
         "actual": 75,
-        "remaining": 8
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -33661,9 +33661,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 242,
+        "capacity": 231,
         "actual": 215,
-        "remaining": 27
+        "remaining": 16
       },
       {
         "title": "Waitlist Seats",
@@ -33726,9 +33726,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 286,
+        "capacity": 273,
         "actual": 259,
-        "remaining": 27
+        "remaining": 14
       },
       {
         "title": "Waitlist Seats",
@@ -33791,9 +33791,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 220,
+        "capacity": 210,
         "actual": 200,
-        "remaining": 20
+        "remaining": 10
       },
       {
         "title": "Waitlist Seats",
@@ -33855,9 +33855,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -33928,9 +33928,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 19,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -34001,9 +34001,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 19,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -34073,9 +34073,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 19,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -34146,9 +34146,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -34218,9 +34218,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -34291,9 +34291,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -34363,9 +34363,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -34436,9 +34436,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 19,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -34509,9 +34509,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 19,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -34582,9 +34582,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -34655,9 +34655,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 21,
-        "remaining": 1
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -34728,9 +34728,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -34801,9 +34801,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -34874,9 +34874,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -34946,9 +34946,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -35019,9 +35019,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -35092,9 +35092,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -35165,9 +35165,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -35238,9 +35238,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -35311,9 +35311,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -35383,9 +35383,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -35456,9 +35456,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 21,
-        "remaining": 1
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -35528,9 +35528,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 19,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -35601,9 +35601,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -38212,9 +38212,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 19,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -38279,9 +38279,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 18,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -38346,9 +38346,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 19,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -38480,9 +38480,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 18,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -38547,9 +38547,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 19,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -38614,9 +38614,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 19,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -38748,9 +38748,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 19,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -38815,9 +38815,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 19,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -38882,9 +38882,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 19,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -38949,9 +38949,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 19,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -39016,9 +39016,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 18,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -39083,9 +39083,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 19,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -39150,9 +39150,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 20,
-        "remaining": 1
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -39217,9 +39217,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 18,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -39351,9 +39351,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 19,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -39418,9 +39418,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 19,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -39552,9 +39552,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 18,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -39619,9 +39619,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 19,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -39896,9 +39896,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 26,
         "actual": 24,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -40036,9 +40036,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 26,
         "actual": 23,
-        "remaining": 1
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -45584,9 +45584,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -45656,9 +45656,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -45729,9 +45729,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -45801,9 +45801,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 38,
+        "capacity": 36,
         "actual": 36,
-        "remaining": 2
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -45873,9 +45873,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 33,
         "actual": 33,
-        "remaining": 2
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -46487,9 +46487,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 18,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -46615,9 +46615,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 18,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -50411,68 +50411,6 @@
     ]
   },
   {
-    "name": "Graduation Project (Design)",
-    "crn": 11811,
-    "subject": "ENS",
-    "code": 491,
-    "type": null,
-    "section": "77",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=11811",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 2,
-    "language": "English",
-    "faculty": "FENS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Project",
-    "method": "TR",
-    "credits": 1,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Atıl Utku Ay"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 50,
-        "actual": 0,
-        "remaining": 50
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
     "name": "Master Thesis",
     "crn": 11812,
     "subject": "CS",
@@ -52411,8 +52349,8 @@
           "from": "9:40 am",
           "to": "12:30 pm"
         },
-        "days": "R",
-        "where": "FASS 2080",
+        "days": "M",
+        "where": "FMAN G056",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -52480,7 +52418,7 @@
           "to": "3:30 pm"
         },
         "days": "T",
-        "where": "FASS 2080",
+        "where": "FMAN G065",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -52605,8 +52543,8 @@
           "from": "1:40 pm",
           "to": "3:30 pm"
         },
-        "days": "R",
-        "where": "FASS 2080",
+        "days": "M",
+        "where": "FMAN G056",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -53286,9 +53224,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 29,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -55845,9 +55783,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 19,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -62052,9 +61990,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 28,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -65324,7 +65262,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay"
+          "Erkay Savaş"
         ]
       }
     ],
@@ -67747,9 +67685,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 30,
         "actual": 28,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -67820,9 +67758,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -67893,9 +67831,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -68018,9 +67956,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 19,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -75881,7 +75819,7 @@
         "type": "Class",
         "time": {
           "from": "12:40 pm",
-          "to": "2:30 pm"
+          "to": "1:30 pm"
         },
         "days": "M",
         "where": "FASS 1101",
@@ -75898,7 +75836,7 @@
         "type": "Class",
         "time": {
           "from": "2:40 pm",
-          "to": "3:30 pm"
+          "to": "4:30 pm"
         },
         "days": "W",
         "where": "FASS 1075",
@@ -77037,11 +76975,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "8:40 am",
-          "to": "9:30 am"
+          "from": "9:40 am",
+          "to": "11:30 am"
         },
         "days": "M",
-        "where": "FASS G056",
+        "where": "FASS G052",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -77054,7 +76992,7 @@
       {
         "type": "Class",
         "time": {
-          "from": "3:40 pm",
+          "from": "4:40 pm",
           "to": "5:30 pm"
         },
         "days": "W",
@@ -77189,11 +77127,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "8:40 am",
-          "to": "9:30 am"
+          "from": "9:40 am",
+          "to": "11:30 am"
         },
         "days": "M",
-        "where": "FASS G056",
+        "where": "FASS G052",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -77206,7 +77144,7 @@
       {
         "type": "Class",
         "time": {
-          "from": "3:40 pm",
+          "from": "4:40 pm",
           "to": "5:30 pm"
         },
         "days": "W",
@@ -77866,9 +77804,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 83,
+        "capacity": 80,
         "actual": 75,
-        "remaining": 8
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -77991,7 +77929,7 @@
           "from": "4:40 pm",
           "to": "6:30 pm"
         },
-        "days": "R",
+        "days": "F",
         "where": "FENS L067",
         "dateRange": {
           "from": "Sep 29, 2025",
@@ -80288,7 +80226,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Erkut Baloğlu"
+        ]
       }
     ],
     "availability": [
@@ -83374,9 +83314,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 19,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -96197,9 +96137,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -96270,9 +96210,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 20,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -96343,9 +96283,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 21,
         "actual": 19,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -96413,9 +96353,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 19,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -96480,9 +96420,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 19,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -96547,9 +96487,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 18,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -96614,9 +96554,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 20,
         "actual": 19,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -97244,6 +97184,1714 @@
         "capacity": 20,
         "actual": 0,
         "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Data Analytics",
+    "crn": 13307,
+    "subject": "DA",
+    "code": 501,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13307",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=DA&sel_crse_strt=501&sel_crse_end=501&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "W",
+        "where": "Altunizade Campus G08",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Nov 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İnanç Arın"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Nov 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İnanç Arın"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 40,
+        "actual": 0,
+        "remaining": 40
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Data Modeling and Processing",
+    "crn": 13308,
+    "subject": "DA",
+    "code": 505,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13308",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=DA&sel_crse_strt=505&sel_crse_end=505&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "M",
+        "where": "Altunizade Campus G08",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Nov 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yücel Saygın"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Nov 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yücel Saygın"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 40,
+        "actual": 0,
+        "remaining": 40
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Applied Statistics",
+    "crn": 13309,
+    "subject": "DA",
+    "code": 503,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13309",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=DA&sel_crse_strt=503&sel_crse_end=503&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "M",
+        "where": "Altunizade Campus G08",
+        "dateRange": {
+          "from": "Nov 17, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Sait Ölmez"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus G08",
+        "dateRange": {
+          "from": "Nov 17, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Sait Ölmez"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 40,
+        "actual": 0,
+        "remaining": 40
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Modeling and Optimization",
+    "crn": 13310,
+    "subject": "DA",
+    "code": 507,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13310",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=DA&sel_crse_strt=507&sel_crse_end=507&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "W",
+        "where": "Altunizade Campus G08",
+        "dateRange": {
+          "from": "Nov 19, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İhsan Sadati"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus G08",
+        "dateRange": {
+          "from": "Nov 19, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İhsan Sadati"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 40,
+        "actual": 0,
+        "remaining": 40
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Term Project",
+    "crn": 13311,
+    "subject": "DA",
+    "code": 592,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13311",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 30,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=DA&sel_crse_strt=592&sel_crse_end=592&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Sait Ölmez"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 4,
+        "actual": 0,
+        "remaining": 4
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Computer Programming",
+    "crn": 13312,
+    "subject": "IT",
+    "code": 501,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13312",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=IT&sel_crse_strt=501&sel_crse_end=501&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 111",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Nov 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmet Demirelli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 111",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Nov 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmet Demirelli"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Database Design, Management and Administration",
+    "crn": 13313,
+    "subject": "IT",
+    "code": 553,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13313",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=IT&sel_crse_strt=553&sel_crse_end=553&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 111",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Nov 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yücel Saygın"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 111",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Nov 15, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yücel Saygın"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Fundamentals of Data Communications and TCP/IP Networking",
+    "crn": 13314,
+    "subject": "IT",
+    "code": 511,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13314",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=IT&sel_crse_strt=511&sel_crse_end=511&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 111",
+        "dateRange": {
+          "from": "Nov 20, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Sait Ölmez"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 111",
+        "dateRange": {
+          "from": "Nov 20, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Sait Ölmez"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Programming with Java",
+    "crn": 13315,
+    "subject": "IT",
+    "code": 524,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13315",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR"
+    ],
+    "ects": 7,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=IT&sel_crse_strt=524&sel_crse_end=524&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 111",
+        "dateRange": {
+          "from": "Nov 18, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmet Demirelli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 111",
+        "dateRange": {
+          "from": "Nov 18, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmet Demirelli"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "PhD Thesis",
+    "crn": 13316,
+    "subject": "GEN",
+    "code": 699,
+    "type": null,
+    "section": "C",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13316",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 162,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=GEN&sel_crse_strt=699&sel_crse_end=699&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sibel Irzık"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 5,
+        "actual": 0,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13317,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "77",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13317",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Polat Göktaş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13318,
+    "subject": "ECON",
+    "code": 699,
+    "type": null,
+    "section": "G",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13318",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 35,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ECON&sel_crse_strt=699&sel_crse_end=699&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Emrehan Aktuğ"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 12,
+        "actual": 0,
+        "remaining": 12
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master's Thesis",
+    "crn": 13319,
+    "subject": "CULT",
+    "code": 599,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13319",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 55,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CULT&sel_crse_strt=599&sel_crse_end=599&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kristen Sarah Biehl Öztuzcu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 7,
+        "actual": 0,
+        "remaining": 7
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Term Project",
+    "crn": 13320,
+    "subject": "VA",
+    "code": 597,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13320",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 20,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=VA&sel_crse_strt=597&sel_crse_end=597&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selçuk Hüseyin Artut"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 5,
+        "actual": 0,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13321,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "101",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13321",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erhan Budak"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Basic Arabic I",
+    "crn": 13322,
+    "subject": "ARA",
+    "code": 510,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13322",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "Arabic",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ARA&sel_crse_strt=510&sel_crse_end=510&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "W",
+        "where": "FASS 2101",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Muhammed Fatih Büyükkörükcü"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Intermediate Arabic I",
+    "crn": 13323,
+    "subject": "ARA",
+    "code": 530,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13323",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "Arabic",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ARA&sel_crse_strt=530&sel_crse_end=530&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "4:30 pm"
+        },
+        "days": "W",
+        "where": "FASS 2031",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Muhammed Fatih Büyükkörükcü"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ],
+    "prerequisites": [
+      "ARA 520",
+      "ARA 520",
+      "ARA 502",
+      "ARA 502"
+    ]
+  },
+  {
+    "name": "Basic Arabic I Discussion",
+    "crn": 13324,
+    "subject": "ARA",
+    "code": 510,
+    "type": "D",
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13324",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "language": "Arabic",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Discussion",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ARA&sel_crse_strt=510D&sel_crse_end=510D&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "2:30 pm"
+        },
+        "days": "R",
+        "where": "FASS 2080",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Muhammed Fatih Büyükkörükcü"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Intermediate Arabic I Discussion",
+    "crn": 13325,
+    "subject": "ARA",
+    "code": 530,
+    "type": "D",
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13325",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "language": "Arabic",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Discussion",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ARA&sel_crse_strt=530D&sel_crse_end=530D&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "R",
+        "where": "FASS 2080",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Muhammed Fatih Büyükkörükcü"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Fundamentals of Computing",
+    "crn": 13326,
+    "subject": "SEC",
+    "code": 500,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13326",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=SEC&sel_crse_strt=500&sel_crse_end=500&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 104",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Nov 13, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Albert Levi"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 104",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Nov 13, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Albert Levi"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Cryptography and Security Protocols",
+    "crn": 13327,
+    "subject": "SEC",
+    "code": 501,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13327",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=SEC&sel_crse_strt=501&sel_crse_end=501&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "M",
+        "where": "Altunizade Campus 111",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Nov 10, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erkay Savaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 104",
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Nov 10, 2025"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erkay Savaş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Network Security",
+    "crn": 13328,
+    "subject": "SEC",
+    "code": 502,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13328",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=SEC&sel_crse_strt=502&sel_crse_end=502&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "W",
+        "where": "Altunizade Campus 104",
+        "dateRange": {
+          "from": "Nov 15, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orçun Çetin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 104",
+        "dateRange": {
+          "from": "Nov 15, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orçun Çetin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Malware Analysis and Detection",
+    "crn": 13329,
+    "subject": "SEC",
+    "code": 503,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13329",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=SEC&sel_crse_strt=503&sel_crse_end=503&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "M",
+        "where": "Altunizade Campus 111",
+        "dateRange": {
+          "from": "Nov 15, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orçun Çetin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 104",
+        "dateRange": {
+          "from": "Nov 15, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orçun Çetin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Project Course",
+    "crn": 13330,
+    "subject": "SEC",
+    "code": 592,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13330",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 30,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=SEC&sel_crse_strt=592&sel_crse_end=592&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orçun Çetin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 4,
+        "actual": 0,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
