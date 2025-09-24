@@ -4182,7 +4182,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Saima Gül"
+        ]
       },
       {
         "type": "Class",
@@ -4197,7 +4199,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Saima Gül"
+        ]
       }
     ],
     "availability": [
@@ -5249,7 +5253,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Saima Gül"
+        ]
       },
       {
         "type": "Class",
@@ -5264,7 +5270,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Saima Gül"
+        ]
       }
     ],
     "availability": [
@@ -5329,7 +5337,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Saima Gül"
+        ]
       },
       {
         "type": "Class",
@@ -5344,7 +5354,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Saima Gül"
+        ]
       }
     ],
     "availability": [
@@ -5497,7 +5509,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Saima Gül"
+        ]
       }
     ],
     "availability": [
@@ -5565,7 +5579,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Saima Gül"
+        ]
       }
     ],
     "availability": [
@@ -5633,7 +5649,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Saima Gül"
+        ]
       }
     ],
     "availability": [
@@ -5789,7 +5807,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Saima Gül"
+        ]
       }
     ],
     "availability": [
@@ -5948,7 +5968,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Saima Gül"
+        ]
       }
     ],
     "availability": [
@@ -6016,7 +6038,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Saima Gül"
+        ]
       }
     ],
     "availability": [
@@ -6084,7 +6108,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Saima Gül"
+        ]
       }
     ],
     "availability": [
@@ -6143,7 +6169,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Saima Gül"
+        ]
       }
     ],
     "availability": [
@@ -6211,7 +6239,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Saima Gül"
+        ]
       }
     ],
     "availability": [
@@ -6360,7 +6390,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Saima Gül"
+        ]
       }
     ],
     "availability": [
@@ -20402,8 +20434,8 @@
       {
         "title": "Seats",
         "capacity": 150,
-        "actual": 109,
-        "remaining": 41
+        "actual": 108,
+        "remaining": 42
       },
       {
         "title": "Waitlist Seats",
@@ -23981,8 +24013,8 @@
       {
         "title": "Seats",
         "capacity": 310,
-        "actual": 292,
-        "remaining": 18
+        "actual": 291,
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -26314,8 +26346,8 @@
       {
         "title": "Seats",
         "capacity": 270,
-        "actual": 249,
-        "remaining": 21
+        "actual": 248,
+        "remaining": 22
       },
       {
         "title": "Waitlist Seats",
@@ -27043,8 +27075,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 201,
-        "remaining": 9798
+        "actual": 200,
+        "remaining": 9799
       }
     ],
     "corequisites": [
@@ -27114,8 +27146,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 201,
-        "remaining": 9798
+        "actual": 200,
+        "remaining": 9799
       }
     ],
     "corequisites": [
@@ -27173,8 +27205,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 29,
-        "remaining": 1
+        "actual": 28,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -27185,8 +27217,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 201,
-        "remaining": 9798
+        "actual": 200,
+        "remaining": 9799
       }
     ],
     "corequisites": [
@@ -27256,8 +27288,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 201,
-        "remaining": 9798
+        "actual": 200,
+        "remaining": 9799
       }
     ],
     "corequisites": [
@@ -27327,8 +27359,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 201,
-        "remaining": 9798
+        "actual": 200,
+        "remaining": 9799
       }
     ],
     "corequisites": [
@@ -27398,8 +27430,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 201,
-        "remaining": 9798
+        "actual": 200,
+        "remaining": 9799
       }
     ],
     "corequisites": [
@@ -27469,8 +27501,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 201,
-        "remaining": 9798
+        "actual": 200,
+        "remaining": 9799
       }
     ],
     "corequisites": [
@@ -32543,8 +32575,8 @@
       {
         "title": "Seats",
         "capacity": 80,
-        "actual": 76,
-        "remaining": 4
+        "actual": 75,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -33204,8 +33236,8 @@
       {
         "title": "Seats",
         "capacity": 100,
-        "actual": 93,
-        "remaining": 7
+        "actual": 92,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -33216,8 +33248,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 168,
-        "remaining": 9831
+        "actual": 167,
+        "remaining": 9832
       }
     ],
     "corequisites": [
@@ -33286,8 +33318,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 168,
-        "remaining": 9831
+        "actual": 167,
+        "remaining": 9832
       }
     ],
     "corequisites": [
@@ -33649,12 +33681,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Emre Erol",
+          "Melike Ayşe Kocacık Şenol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Emre Erol",
           "Aslı İkizoğlu Erensü",
-          "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Burhan İzgin"
         ]
       }
     ],
@@ -33662,8 +33694,8 @@
       {
         "title": "Seats",
         "capacity": 231,
-        "actual": 215,
-        "remaining": 16
+        "actual": 214,
+        "remaining": 17
       },
       {
         "title": "Waitlist Seats",
@@ -33714,12 +33746,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Emre Erol",
+          "Melike Ayşe Kocacık Şenol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Emre Erol",
           "Aslı İkizoğlu Erensü",
-          "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Burhan İzgin"
         ]
       }
     ],
@@ -33779,12 +33811,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Emre Erol",
+          "Melike Ayşe Kocacık Şenol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Emre Erol",
           "Aslı İkizoğlu Erensü",
-          "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Burhan İzgin"
         ]
       }
     ],
@@ -33868,8 +33900,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 117,
-        "remaining": 9882
+        "actual": 116,
+        "remaining": 9883
       }
     ],
     "corequisites": [
@@ -33941,8 +33973,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 117,
-        "remaining": 9882
+        "actual": 116,
+        "remaining": 9883
       }
     ],
     "corequisites": [
@@ -34002,8 +34034,8 @@
       {
         "title": "Seats",
         "capacity": 21,
-        "actual": 19,
-        "remaining": 2
+        "actual": 18,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -34014,8 +34046,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 117,
-        "remaining": 9882
+        "actual": 116,
+        "remaining": 9883
       }
     ],
     "corequisites": [
@@ -34086,8 +34118,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 117,
-        "remaining": 9882
+        "actual": 116,
+        "remaining": 9883
       }
     ],
     "corequisites": [
@@ -34159,8 +34191,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 117,
-        "remaining": 9882
+        "actual": 116,
+        "remaining": 9883
       }
     ],
     "corequisites": [
@@ -34231,8 +34263,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 117,
-        "remaining": 9882
+        "actual": 116,
+        "remaining": 9883
       }
     ],
     "corequisites": [
@@ -35663,12 +35695,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Emre Erol",
+          "Melike Ayşe Kocacık Şenol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Emre Erol",
           "Aslı İkizoğlu Erensü",
-          "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Burhan İzgin"
         ]
       }
     ],
@@ -35731,12 +35763,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Emre Erol",
+          "Melike Ayşe Kocacık Şenol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Emre Erol",
           "Aslı İkizoğlu Erensü",
-          "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Burhan İzgin"
         ]
       }
     ],
@@ -38012,8 +38044,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 18,
-        "remaining": 2
+        "actual": 17,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -38024,8 +38056,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 37,
-        "remaining": 9962
+        "actual": 36,
+        "remaining": 9963
       }
     ]
   },
@@ -38091,8 +38123,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 37,
-        "remaining": 9962
+        "actual": 36,
+        "remaining": 9963
       }
     ]
   },
@@ -45802,8 +45834,8 @@
       {
         "title": "Seats",
         "capacity": 36,
-        "actual": 36,
-        "remaining": 0
+        "actual": 35,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -45814,8 +45846,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 69,
-        "remaining": 9930
+        "actual": 68,
+        "remaining": 9931
       }
     ],
     "corequisites": [
@@ -45886,8 +45918,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 69,
-        "remaining": 9930
+        "actual": 68,
+        "remaining": 9931
       }
     ],
     "corequisites": [
@@ -52350,7 +52382,7 @@
           "to": "12:30 pm"
         },
         "days": "M",
-        "where": "FMAN G056",
+        "where": "FENS L029",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -55136,8 +55168,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 26,
-        "remaining": 4
+        "actual": 25,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -74936,7 +74968,7 @@
     "subject": "ENRG",
     "code": 424,
     "type": "L",
-    "section": "A1",
+    "section": "0",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12980",
     "term": "Fall 2025-2026",
     "levels": [
@@ -74968,7 +75000,7 @@
           "to": "1:30 pm"
         },
         "days": "W",
-        "where": "FENS L048",
+        "where": "FENS 2053",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -74983,25 +75015,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 15,
+        "capacity": 30,
         "actual": 0,
-        "remaining": 15
+        "remaining": 30
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
       }
-    ],
-    "corequisites": [
-      "ENRG 424"
     ]
   },
   {
@@ -75074,80 +75097,6 @@
     "prerequisites": [
       "SPS 101",
       "SPS 102"
-    ]
-  },
-  {
-    "name": "Cell Design, Modelling and Battery Pack Development",
-    "crn": 12982,
-    "subject": "ENRG",
-    "code": 424,
-    "type": "L",
-    "section": "A2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12982",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "language": "English",
-    "faculty": "FENS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "method": "TR",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENRG&sel_crse_strt=424L&sel_crse_end=424L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "10:40 am",
-          "to": "1:30 pm"
-        },
-        "days": "W",
-        "where": "FENS L061",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Selmiye Alkan Gürsel",
-          "Alp Yürüm"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 15,
-        "actual": 0,
-        "remaining": 15
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
-      }
-    ],
-    "corequisites": [
-      "ENRG 424"
     ]
   },
   {
@@ -84216,7 +84165,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Nuri Zafer Yenal"
+        ]
       },
       {
         "type": "Class",
@@ -84231,7 +84182,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Nuri Zafer Yenal"
+        ]
       }
     ],
     "availability": [
@@ -90444,7 +90397,9 @@
           "to": "Dec 25, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Enes Eryarsoy"
+        ]
       },
       {
         "type": "Class",
@@ -90459,7 +90414,9 @@
           "to": "Dec 27, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Enes Eryarsoy"
+        ]
       },
       {
         "type": "Class",
@@ -90474,7 +90431,9 @@
           "to": "Jan 15, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Enes Eryarsoy"
+        ]
       },
       {
         "type": "Class",
@@ -90489,7 +90448,9 @@
           "to": "Jan 17, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Enes Eryarsoy"
+        ]
       }
     ],
     "availability": [
@@ -94676,7 +94637,9 @@
           "to": "Dec 13, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Orhan Erem Ateşağaoğlu"
+        ]
       },
       {
         "type": "Class",
@@ -94691,7 +94654,9 @@
           "to": "Dec 13, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Orhan Erem Ateşağaoğlu"
+        ]
       },
       {
         "type": "Class",
@@ -94706,7 +94671,9 @@
           "to": "Dec 12, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Orhan Erem Ateşağaoğlu"
+        ]
       }
     ],
     "availability": [
@@ -95691,8 +95658,8 @@
       {
         "title": "Seats",
         "capacity": 75,
-        "actual": 67,
-        "remaining": 8
+        "actual": 68,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -95888,8 +95855,8 @@
       {
         "title": "Seats",
         "capacity": 80,
-        "actual": 73,
-        "remaining": 7
+        "actual": 74,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -96844,7 +96811,9 @@
           "to": "Oct 22, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Selen Kars Ünlüoğlu"
+        ]
       },
       {
         "type": "Class",
@@ -96859,7 +96828,9 @@
           "to": "Dec 24, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Selen Kars Ünlüoğlu"
+        ]
       },
       {
         "type": "Class",
@@ -96874,7 +96845,9 @@
           "to": "Jan 14, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Selen Kars Ünlüoğlu"
+        ]
       }
     ],
     "availability": [
@@ -97067,7 +97040,9 @@
           "to": "Oct 25, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
       },
       {
         "type": "Class",
@@ -97082,7 +97057,9 @@
           "to": "Dec 06, 2025"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
       },
       {
         "type": "Class",
@@ -97097,7 +97074,9 @@
           "to": "Jan 31, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
       },
       {
         "type": "Class",
@@ -97112,7 +97091,9 @@
           "to": "Jan 31, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
       }
     ],
     "availability": [
@@ -97175,7 +97156,9 @@
           "to": "Jan 19, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
       }
     ],
     "availability": [
@@ -98291,7 +98274,7 @@
           "to": "1:30 pm"
         },
         "days": "W",
-        "where": "FASS 2101",
+        "where": "FENS L063",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -98892,6 +98875,193 @@
         "capacity": 4,
         "actual": 0,
         "remaining": 4
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Directed Research in Psychological Science",
+    "crn": 13331,
+    "subject": "PSY",
+    "code": 620,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13331",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=PSY&sel_crse_strt=620&sel_crse_end=620&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nebi Sümer"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 5,
+        "actual": 0,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Turkish Studies and History: Debates and Topics",
+    "crn": 13332,
+    "subject": "TS",
+    "code": 551,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13332",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=TS&sel_crse_strt=551&sel_crse_end=551&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:40 pm",
+          "to": "7:30 pm"
+        },
+        "days": "M",
+        "where": "FASS 2080",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Kuru"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13333,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "102",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13333",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erhun Kundakçıoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
