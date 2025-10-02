@@ -10839,7 +10839,7 @@
           "to": "11:30 am"
         },
         "days": "T",
-        "where": "FASS G043",
+        "where": "FASS 1001",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -10856,7 +10856,7 @@
           "to": "1:30 pm"
         },
         "days": "W",
-        "where": "FASS G043",
+        "where": "FASS 1001",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -19649,7 +19649,7 @@
           "to": "2:30 pm"
         },
         "days": "M",
-        "where": "FASS 1076",
+        "where": "FMAN G060",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -20294,8 +20294,8 @@
       {
         "title": "Seats",
         "capacity": 150,
-        "actual": 92,
-        "remaining": 58
+        "actual": 91,
+        "remaining": 59
       },
       {
         "title": "Waitlist Seats",
@@ -21113,7 +21113,7 @@
           "to": "6:30 pm"
         },
         "days": "W",
-        "where": "FASS 1050",
+        "where": "FENS L063",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -24016,8 +24016,8 @@
       {
         "title": "Seats",
         "capacity": 310,
-        "actual": 287,
-        "remaining": 23
+        "actual": 286,
+        "remaining": 24
       },
       {
         "title": "Waitlist Seats",
@@ -24828,8 +24828,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 66,
-        "remaining": 9933
+        "actual": 65,
+        "remaining": 9934
       }
     ],
     "corequisites": [
@@ -24888,8 +24888,8 @@
       {
         "title": "Seats",
         "capacity": 33,
-        "actual": 31,
-        "remaining": 2
+        "actual": 30,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -24900,8 +24900,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 66,
-        "remaining": 9933
+        "actual": 65,
+        "remaining": 9934
       }
     ],
     "corequisites": [
@@ -26364,8 +26364,8 @@
       {
         "title": "Seats",
         "capacity": 270,
-        "actual": 247,
-        "remaining": 23
+        "actual": 246,
+        "remaining": 24
       },
       {
         "title": "Waitlist Seats",
@@ -26935,8 +26935,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 197,
-        "remaining": 9802
+        "actual": 196,
+        "remaining": 9803
       }
     ],
     "corequisites": [
@@ -26994,8 +26994,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 28,
-        "remaining": 2
+        "actual": 27,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -27006,8 +27006,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 197,
-        "remaining": 9802
+        "actual": 196,
+        "remaining": 9803
       }
     ],
     "corequisites": [
@@ -27077,8 +27077,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 197,
-        "remaining": 9802
+        "actual": 196,
+        "remaining": 9803
       }
     ],
     "corequisites": [
@@ -27148,8 +27148,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 197,
-        "remaining": 9802
+        "actual": 196,
+        "remaining": 9803
       }
     ],
     "corequisites": [
@@ -27219,8 +27219,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 197,
-        "remaining": 9802
+        "actual": 196,
+        "remaining": 9803
       }
     ],
     "corequisites": [
@@ -27290,8 +27290,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 197,
-        "remaining": 9802
+        "actual": 196,
+        "remaining": 9803
       }
     ],
     "corequisites": [
@@ -27361,8 +27361,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 197,
-        "remaining": 9802
+        "actual": 196,
+        "remaining": 9803
       }
     ],
     "corequisites": [
@@ -32247,8 +32247,8 @@
       {
         "title": "Seats",
         "capacity": 100,
-        "actual": 93,
-        "remaining": 7
+        "actual": 92,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -32758,8 +32758,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 168,
-        "remaining": 9831
+        "actual": 167,
+        "remaining": 9832
       }
     ],
     "corequisites": [
@@ -33684,8 +33684,8 @@
       {
         "title": "Seats",
         "capacity": 210,
-        "actual": 204,
-        "remaining": 6
+        "actual": 203,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -34019,7 +34019,7 @@
           "to": "4:30 pm"
         },
         "days": "T",
-        "where": "FMAN G050",
+        "where": "FASS 1080",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -35690,7 +35690,7 @@
           "to": "4:30 pm"
         },
         "days": "T",
-        "where": "FASS 1081",
+        "where": "FASS 1075",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -36068,7 +36068,7 @@
           "to": "6:30 pm"
         },
         "days": "T",
-        "where": "FASS 1081",
+        "where": "FASS 1075",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -38315,8 +38315,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 15,
-        "remaining": 5
+        "actual": 14,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -38327,8 +38327,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 88,
-        "remaining": 9911
+        "actual": 87,
+        "remaining": 9912
       }
     ]
   },
@@ -38394,8 +38394,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 88,
-        "remaining": 9911
+        "actual": 87,
+        "remaining": 9912
       }
     ]
   },
@@ -38461,8 +38461,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 88,
-        "remaining": 9911
+        "actual": 87,
+        "remaining": 9912
       }
     ]
   },
@@ -38528,8 +38528,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 88,
-        "remaining": 9911
+        "actual": 87,
+        "remaining": 9912
       }
     ]
   },
@@ -38903,7 +38903,7 @@
           "to": "2:30 pm"
         },
         "days": "W",
-        "where": "FENS L056",
+        "where": "FENS G029",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -40274,7 +40274,7 @@
           "to": "11:30 am"
         },
         "days": "M",
-        "where": "Art and Research Center G012",
+        "where": "Art and Research Center 1012",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -40291,7 +40291,7 @@
           "to": "12:30 pm"
         },
         "days": "T",
-        "where": "Art and Research Center G012",
+        "where": "Art and Research Center 1012",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -40506,7 +40506,7 @@
           "to": "3:30 pm"
         },
         "days": "M",
-        "where": "FASS 1015",
+        "where": "FASS 1014",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -42472,7 +42472,7 @@
           "to": "11:30 am"
         },
         "days": "T",
-        "where": "FASS 1010",
+        "where": "FASS G022",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -45501,8 +45501,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 102,
-        "remaining": 9897
+        "actual": 101,
+        "remaining": 9898
       }
     ],
     "corequisites": [
@@ -45562,8 +45562,8 @@
       {
         "title": "Seats",
         "capacity": 21,
-        "actual": 21,
-        "remaining": 0
+        "actual": 20,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -45574,8 +45574,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 102,
-        "remaining": 9897
+        "actual": 101,
+        "remaining": 9898
       }
     ],
     "corequisites": [
@@ -45647,8 +45647,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 102,
-        "remaining": 9897
+        "actual": 101,
+        "remaining": 9898
       }
     ],
     "corequisites": [
@@ -51560,7 +51560,7 @@
           "to": "2:30 pm"
         },
         "days": "T",
-        "where": "FMAN 2141",
+        "where": "FASS 2080",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -53549,7 +53549,7 @@
           "to": "4:30 pm"
         },
         "days": "W",
-        "where": "FENS L063",
+        "where": "FASS 1050",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -54935,8 +54935,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 21,
-        "remaining": 9
+        "actual": 20,
+        "remaining": 10
       },
       {
         "title": "Waitlist Seats",
@@ -67644,7 +67644,7 @@
           "to": "6:30 pm"
         },
         "days": "T",
-        "where": "FMAN G050",
+        "where": "FASS 1080",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -67749,8 +67749,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 102,
-        "remaining": 9897
+        "actual": 101,
+        "remaining": 9898
       }
     ],
     "corequisites": [
@@ -73267,7 +73267,7 @@
           "to": "10:30 am"
         },
         "days": "M",
-        "where": "FENS 2019",
+        "where": "FENS G059",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -73284,7 +73284,7 @@
           "to": "1:30 pm"
         },
         "days": "T",
-        "where": "FENS G015",
+        "where": "FENS G059",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -74323,11 +74323,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "1:30 pm"
+          "from": "8:40 am",
+          "to": "9:30 am"
         },
-        "days": "W",
-        "where": "FENS L035",
+        "days": "T",
+        "where": "FENS L029",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -77645,8 +77645,8 @@
       {
         "title": "Seats",
         "capacity": 80,
-        "actual": 74,
-        "remaining": 6
+        "actual": 73,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -77657,8 +77657,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 168,
-        "remaining": 9831
+        "actual": 167,
+        "remaining": 9832
       }
     ],
     "corequisites": [
@@ -84442,8 +84442,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 11,
-        "remaining": 39
+        "actual": 12,
+        "remaining": 38
       },
       {
         "title": "Waitlist Seats",
@@ -96008,8 +96008,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 102,
-        "remaining": 9897
+        "actual": 101,
+        "remaining": 9898
       }
     ],
     "corequisites": [
@@ -96224,8 +96224,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 88,
-        "remaining": 9911
+        "actual": 87,
+        "remaining": 9912
       }
     ]
   },
@@ -109134,6 +109134,577 @@
         "capacity": 1,
         "actual": 0,
         "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13383,
+    "subject": "MAT",
+    "code": 590,
+    "type": null,
+    "section": "20",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13383",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MAT&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Canan Atılgan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "crn": 13384,
+    "subject": "MAT",
+    "code": 790,
+    "type": null,
+    "section": "21",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13384",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 180,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MAT&sel_crse_strt=790&sel_crse_end=790&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Canan Atılgan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "crn": 13385,
+    "subject": "BIO",
+    "code": 790,
+    "type": null,
+    "section": "09",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13385",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 180,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=BIO&sel_crse_strt=790&sel_crse_end=790&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Canan Atılgan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "PHD Dissertation",
+    "crn": 13386,
+    "subject": "MFE",
+    "code": 790,
+    "type": null,
+    "section": "06",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13386",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 180,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MFE&sel_crse_strt=790&sel_crse_end=790&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Lütfi Taner Tunç"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13387,
+    "subject": "MFE",
+    "code": 590,
+    "type": null,
+    "section": "05",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13387",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MFE&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Burcu Saner Okan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13388,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "105",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13388",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Duygu Karaoğlan Altop"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Project and Internship",
+    "crn": 13389,
+    "subject": "PSIR",
+    "code": 300,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13389",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 5,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Internship",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=PSIR&sel_crse_strt=300&sel_crse_end=300&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mert Moral"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Project and Internship",
+    "crn": 13390,
+    "subject": "PSY",
+    "code": 300,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13390",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 5,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Internship",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=PSY&sel_crse_strt=300&sel_crse_end=300&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gül Günaydın"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Project and Internship",
+    "crn": 13391,
+    "subject": "VA",
+    "code": 300,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13391",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 5,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Internship",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=VA&sel_crse_strt=300&sel_crse_end=300&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Christopher Çolak"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Project and Internship",
+    "crn": 13392,
+    "subject": "ECON",
+    "code": 300,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13392",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 5,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Internship",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ECON&sel_crse_strt=300&sel_crse_end=300&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erdal Aydın"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
       },
       {
         "title": "Waitlist Seats",
