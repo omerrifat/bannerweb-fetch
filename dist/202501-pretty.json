@@ -197,7 +197,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -341,7 +341,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -567,7 +567,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -647,7 +647,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -2617,7 +2617,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -3671,7 +3671,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -4770,7 +4770,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -4947,7 +4947,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -7848,7 +7848,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -9849,7 +9849,7 @@
       "Undergraduate"
     ],
     "ects": 2,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 0,
@@ -10826,6 +10826,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -10870,9 +10871,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 30,
         "actual": 24,
-        "remaining": 0
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -10906,6 +10907,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -11131,7 +11133,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -12401,7 +12403,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -14251,9 +14253,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 110,
+        "capacity": 120,
         "actual": 110,
-        "remaining": 0
+        "remaining": 10
       },
       {
         "title": "Waitlist Seats",
@@ -14482,9 +14484,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 60,
         "actual": 50,
-        "remaining": 0
+        "remaining": 10
       },
       {
         "title": "Waitlist Seats",
@@ -16360,7 +16362,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -16440,7 +16442,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -17863,7 +17865,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -18702,9 +18704,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 56,
         "actual": 50,
-        "remaining": 0
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -19231,7 +19233,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -19311,7 +19313,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -19826,9 +19828,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -19888,9 +19890,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -20146,7 +20148,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 2,
@@ -20205,7 +20207,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 2,
@@ -20264,7 +20266,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 2,
@@ -20323,7 +20325,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 2,
@@ -20382,7 +20384,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 2,
@@ -20446,7 +20448,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -21410,7 +21412,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -22362,7 +22364,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -22443,7 +22445,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -22810,7 +22812,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -23573,7 +23575,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -26157,7 +26159,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -26238,7 +26240,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -26317,7 +26319,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -27816,7 +27818,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -27898,7 +27900,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -31972,9 +31974,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -32035,9 +32037,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -33521,7 +33523,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -33586,7 +33588,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -33651,7 +33653,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -35540,7 +35542,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -35608,7 +35610,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -36657,7 +36659,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -36721,7 +36723,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -37884,7 +37886,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -37951,7 +37953,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -38018,7 +38020,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -38085,7 +38087,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -38152,7 +38154,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -38219,7 +38221,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -38286,7 +38288,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -38353,7 +38355,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -38420,7 +38422,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -38487,7 +38489,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -38554,7 +38556,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -38621,7 +38623,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -38688,7 +38690,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -38755,7 +38757,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -38822,7 +38824,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -38889,7 +38891,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -38956,7 +38958,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -39023,7 +39025,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -39090,7 +39092,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -39157,7 +39159,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -39224,7 +39226,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -39291,7 +39293,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -39358,7 +39360,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -39425,7 +39427,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -39492,7 +39494,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -39559,7 +39561,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -39629,7 +39631,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -39699,7 +39701,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -39769,7 +39771,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -39839,7 +39841,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -39909,7 +39911,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -39979,7 +39981,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -40049,7 +40051,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -40119,7 +40121,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -40189,7 +40191,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -40413,7 +40415,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Studio",
     "credits": 3,
@@ -41010,7 +41012,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -42458,7 +42460,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -42602,7 +42604,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -42662,7 +42664,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -42722,7 +42724,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -42782,7 +42784,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -42842,7 +42844,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -42902,7 +42904,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -42962,7 +42964,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -43022,7 +43024,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -43082,7 +43084,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -43142,7 +43144,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -43202,7 +43204,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -43262,7 +43264,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -43322,7 +43324,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -43382,7 +43384,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -43442,7 +43444,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -43502,7 +43504,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -43562,7 +43564,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -46364,7 +46366,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -46431,7 +46433,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -46492,7 +46494,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -50683,7 +50685,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -52117,7 +52119,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Studio",
     "credits": 3,
@@ -52178,7 +52180,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Studio",
     "credits": 4,
@@ -53022,7 +53024,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -55660,7 +55662,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -57611,7 +57613,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -57963,7 +57965,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -58196,7 +58198,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -59121,7 +59123,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -60332,7 +60334,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Studio",
     "credits": 4,
@@ -61085,7 +61087,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -62147,6 +62149,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 4,
+    "language": "German",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -62210,6 +62213,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 4,
+    "language": "German",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -62397,6 +62401,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 4,
+    "language": "German",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -63175,7 +63180,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -63235,7 +63240,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -63295,7 +63300,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -63355,7 +63360,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -63415,7 +63420,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -63475,7 +63480,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -63535,7 +63540,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -63595,7 +63600,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -64666,7 +64671,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -65150,7 +65155,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -66964,7 +66969,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -67833,7 +67838,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -67900,7 +67905,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -67970,7 +67975,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -68040,7 +68045,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -70640,7 +70645,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -70817,7 +70822,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -70939,7 +70944,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -71185,7 +71190,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -71245,7 +71250,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -71485,7 +71490,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -72371,8 +72376,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 3,
-        "remaining": 27
+        "actual": 1,
+        "remaining": 29
       },
       {
         "title": "Waitlist Seats",
@@ -75395,9 +75400,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -75712,6 +75717,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 4,
+    "language": "German",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -80057,9 +80063,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 54,
         "actual": 50,
-        "remaining": 0
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -84100,7 +84106,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -84160,7 +84166,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -84220,7 +84226,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -84280,7 +84286,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -84340,7 +84346,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -84400,7 +84406,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -86856,9 +86862,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 10,
+        "capacity": 13,
         "actual": 10,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -86986,9 +86992,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 10,
+        "capacity": 13,
         "actual": 10,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -88118,9 +88124,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 3,
+        "capacity": 5,
         "actual": 3,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -89748,9 +89754,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 110,
+        "capacity": 120,
         "actual": 109,
-        "remaining": 1
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -93704,9 +93710,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 25,
         "actual": 19,
-        "remaining": 1
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -94359,9 +94365,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 14,
+        "capacity": 22,
         "actual": 14,
-        "remaining": 0
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -94455,9 +94461,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 14,
+        "capacity": 22,
         "actual": 14,
-        "remaining": 0
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -94553,9 +94559,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 14,
+        "capacity": 22,
         "actual": 14,
-        "remaining": 0
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -94649,9 +94655,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 14,
+        "capacity": 22,
         "actual": 11,
-        "remaining": 3
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -96166,7 +96172,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -96233,7 +96239,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -96300,7 +96306,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -96367,7 +96373,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -96434,7 +96440,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -100755,8 +100761,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 18,
-        "remaining": 2
+        "actual": 19,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -102105,8 +102111,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 16,
-        "remaining": 4
+        "actual": 17,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -104625,8 +104631,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 17,
-        "remaining": 3
+        "actual": 18,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -109090,6 +109096,7 @@
       "Special Student"
     ],
     "ects": 5,
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "method": "TR",
@@ -109495,7 +109502,7 @@
       "Special Student"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "method": "TR",
@@ -109550,7 +109557,7 @@
       "Special Student"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "method": "TR",
@@ -109605,7 +109612,7 @@
       "Special Student"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "method": "TR",
@@ -109660,7 +109667,7 @@
       "Special Student"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "method": "TR",
