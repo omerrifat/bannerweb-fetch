@@ -660,7 +660,7 @@
           "to": "3:30 pm"
         },
         "days": "M",
-        "where": "FENS L035",
+        "where": "FASS 1080",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -2449,9 +2449,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 110,
+        "capacity": 125,
         "actual": 110,
-        "remaining": 0
+        "remaining": 15
       },
       {
         "title": "Waitlist Seats",
@@ -2581,9 +2581,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 110,
+        "capacity": 125,
         "actual": 110,
-        "remaining": 0
+        "remaining": 15
       },
       {
         "title": "Waitlist Seats",
@@ -4992,9 +4992,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 250,
+        "capacity": 275,
         "actual": 250,
-        "remaining": 0
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -5057,9 +5057,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 250,
+        "capacity": 275,
         "actual": 250,
-        "remaining": 0
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -5307,9 +5307,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 100,
+        "capacity": 120,
         "actual": 100,
-        "remaining": 0
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -6483,8 +6483,8 @@
       {
         "title": "Seats",
         "capacity": 33,
-        "actual": 27,
-        "remaining": 6
+        "actual": 47,
+        "remaining": -14
       },
       {
         "title": "Waitlist Seats",
@@ -6623,8 +6623,8 @@
       {
         "title": "Seats",
         "capacity": 33,
-        "actual": 12,
-        "remaining": 21
+        "actual": 16,
+        "remaining": 17
       },
       {
         "title": "Waitlist Seats",
@@ -6763,8 +6763,8 @@
       {
         "title": "Seats",
         "capacity": 33,
-        "actual": 10,
-        "remaining": 23
+        "actual": 19,
+        "remaining": 14
       },
       {
         "title": "Waitlist Seats",
@@ -6777,76 +6777,6 @@
         "capacity": 9999,
         "actual": 50,
         "remaining": 9949
-      }
-    ],
-    "corequisites": [
-      "CS 204"
-    ]
-  },
-  {
-    "name": "Advanced Programming Lab",
-    "crn": 10228,
-    "subject": "CS",
-    "code": 204,
-    "type": "L",
-    "section": "A3",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=10228",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CS&sel_crse_strt=204L&sel_crse_end=204L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "10:40 am",
-          "to": "12:30 pm"
-        },
-        "days": "F",
-        "where": "FENS L067",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Kamer Kaya"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 33,
-        "actual": 20,
-        "remaining": 13
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 78,
-        "remaining": 9921
       }
     ],
     "corequisites": [
@@ -9940,8 +9870,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 20,
-        "remaining": 10
+        "actual": 21,
+        "remaining": 9
       },
       {
         "title": "Waitlist Seats",
@@ -10001,8 +9931,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 20,
-        "remaining": 10
+        "actual": 21,
+        "remaining": 9
       },
       {
         "title": "Waitlist Seats",
@@ -11177,9 +11107,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 100,
+        "capacity": 120,
         "actual": 100,
-        "remaining": 0
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -11241,9 +11171,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 30,
         "actual": 25,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -11311,9 +11241,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 30,
         "actual": 25,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -11381,9 +11311,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 30,
         "actual": 25,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -11451,9 +11381,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 30,
         "actual": 25,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -12829,9 +12759,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 110,
+        "capacity": 114,
         "actual": 90,
-        "remaining": 20
+        "remaining": 24
       },
       {
         "title": "Waitlist Seats",
@@ -13119,9 +13049,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 113,
+        "capacity": 114,
         "actual": 90,
-        "remaining": 23
+        "remaining": 24
       },
       {
         "title": "Waitlist Seats",
@@ -13180,9 +13110,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 113,
+        "capacity": 116,
         "actual": 90,
-        "remaining": 23
+        "remaining": 26
       },
       {
         "title": "Waitlist Seats",
@@ -15071,8 +15001,8 @@
       {
         "title": "Seats",
         "capacity": 10,
-        "actual": 1,
-        "remaining": 9
+        "actual": 2,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -22767,9 +22697,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 30,
+        "capacity": 32,
         "actual": 30,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -24340,8 +24270,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 7,
-        "remaining": 13
+        "actual": 8,
+        "remaining": 12
       },
       {
         "title": "Waitlist Seats",
@@ -28821,9 +28751,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 200,
+        "capacity": 210,
         "actual": 200,
-        "remaining": 0
+        "remaining": 10
       },
       {
         "title": "Waitlist Seats",
@@ -28882,9 +28812,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 33,
+        "capacity": 34,
         "actual": 33,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -28952,9 +28882,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 33,
+        "capacity": 34,
         "actual": 33,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29022,9 +28952,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 33,
+        "capacity": 34,
         "actual": 33,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29092,9 +29022,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 33,
+        "capacity": 34,
         "actual": 33,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29162,9 +29092,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 33,
+        "capacity": 34,
         "actual": 33,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29232,9 +29162,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 33,
+        "capacity": 34,
         "actual": 33,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29302,9 +29232,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 33,
+        "capacity": 34,
         "actual": 33,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29372,9 +29302,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 33,
+        "capacity": 34,
         "actual": 33,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29932,9 +29862,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 30,
+        "capacity": 32,
         "actual": 30,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -30170,9 +30100,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 39,
         "actual": 31,
-        "remaining": 0
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -30226,7 +30156,7 @@
           "to": "1:30 pm"
         },
         "days": "T",
-        "where": "FMAN G065",
+        "where": "FENS L061",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -30240,9 +30170,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
-        "actual": 30,
-        "remaining": 1
+        "capacity": 39,
+        "actual": 32,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -30296,7 +30226,7 @@
           "to": "10:30 am"
         },
         "days": "M",
-        "where": "FASS 1080",
+        "where": "FENS L061",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -30310,9 +30240,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
-        "actual": 30,
-        "remaining": 1
+        "capacity": 39,
+        "actual": 34,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -30366,7 +30296,7 @@
           "to": "10:30 am"
         },
         "days": "M",
-        "where": "FMAN G045",
+        "where": "FENS L030",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -30380,9 +30310,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
-        "actual": 27,
-        "remaining": 4
+        "capacity": 39,
+        "actual": 34,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -30436,7 +30366,7 @@
           "to": "2:30 pm"
         },
         "days": "M",
-        "where": "FASS 1080",
+        "where": "FENS L027",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -30450,9 +30380,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
-        "actual": 31,
-        "remaining": 0
+        "capacity": 39,
+        "actual": 35,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -30506,7 +30436,7 @@
           "to": "5:30 pm"
         },
         "days": "M",
-        "where": "FMAN G045",
+        "where": "FENS G015",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -30520,9 +30450,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 38,
         "actual": 31,
-        "remaining": 0
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -30610,9 +30540,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 252,
+        "capacity": 282,
         "actual": 252,
-        "remaining": 0
+        "remaining": 30
       },
       {
         "title": "Waitlist Seats",
@@ -30671,9 +30601,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 28,
+        "capacity": 32,
         "actual": 28,
-        "remaining": 0
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -30741,9 +30671,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 28,
+        "capacity": 32,
         "actual": 28,
-        "remaining": 0
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -30811,9 +30741,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 28,
+        "capacity": 32,
         "actual": 28,
-        "remaining": 0
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -30881,9 +30811,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 28,
+        "capacity": 31,
         "actual": 28,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -30951,9 +30881,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 28,
+        "capacity": 31,
         "actual": 28,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -31021,9 +30951,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 28,
+        "capacity": 31,
         "actual": 28,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -31091,9 +31021,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 28,
+        "capacity": 31,
         "actual": 28,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -31161,9 +31091,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 28,
+        "capacity": 31,
         "actual": 28,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -31231,9 +31161,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 28,
+        "capacity": 31,
         "actual": 28,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -37148,7 +37078,7 @@
           "to": "2:30 pm"
         },
         "days": "F",
-        "where": "FASS G052",
+        "where": "FASS 1097",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -37568,7 +37498,7 @@
           "to": "3:30 pm"
         },
         "days": "F",
-        "where": "FASS G052",
+        "where": "FASS 1097",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -38570,7 +38500,7 @@
           "to": "2:30 pm"
         },
         "days": "M",
-        "where": "FENS G029",
+        "where": "FENS L029",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -40778,7 +40708,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ali Rıza Kaylan"
+        ]
       }
     ],
     "availability": [
@@ -40802,7 +40734,7 @@
     "subject": "ME",
     "code": 301,
     "type": "R",
-    "section": "A1",
+    "section": "0",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=11145",
     "term": "Fall 2025-2026",
     "levels": [
@@ -40846,24 +40778,15 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 30,
-        "remaining": 0
+        "actual": 43,
+        "remaining": -13
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 43,
-        "remaining": 9956
       }
-    ],
-    "corequisites": [
-      "ME 301"
     ]
   },
   {
@@ -41377,9 +41300,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 33,
+        "capacity": 34,
         "actual": 33,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -53201,9 +53124,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 33,
+        "capacity": 34,
         "actual": 33,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -53271,9 +53194,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 30,
-        "actual": 30,
-        "remaining": 0
+        "capacity": 39,
+        "actual": 36,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -53327,7 +53250,7 @@
           "to": "2:30 pm"
         },
         "days": "M",
-        "where": "FENS L048",
+        "where": "FASS 1099",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -53341,9 +53264,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
-        "actual": 30,
-        "remaining": 1
+        "capacity": 39,
+        "actual": 36,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -53360,76 +53283,6 @@
     ],
     "corequisites": [
       "MATH 203"
-    ]
-  },
-  {
-    "name": "Mechanical Systems I - Recitation",
-    "crn": 12078,
-    "subject": "ME",
-    "code": 301,
-    "type": "R",
-    "section": "A2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12078",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ME&sel_crse_strt=301R&sel_crse_end=301R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "4:40 pm",
-          "to": "5:30 pm"
-        },
-        "days": "R",
-        "where": "FENS 2019",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Güllü Kızıltaş Şendur"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 30,
-        "actual": 13,
-        "remaining": 17
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 43,
-        "remaining": 9956
-      }
-    ],
-    "corequisites": [
-      "ME 301"
     ]
   },
   {
@@ -54107,8 +53960,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 12,
-        "remaining": 18
+        "actual": 13,
+        "remaining": 17
       },
       {
         "title": "Waitlist Seats",
@@ -54474,9 +54327,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 10,
+        "capacity": 13,
         "actual": 10,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -54616,9 +54469,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 10,
+        "capacity": 13,
         "actual": 10,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -57328,8 +57181,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 23,
-        "remaining": 27
+        "actual": 25,
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -58389,9 +58242,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 250,
+        "capacity": 300,
         "actual": 250,
-        "remaining": 0
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
@@ -59332,9 +59185,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 15,
+        "capacity": 17,
         "actual": 15,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -60837,76 +60690,6 @@
     ]
   },
   {
-    "name": "Advanced Programming Lab",
-    "crn": 12535,
-    "subject": "CS",
-    "code": 204,
-    "type": "L",
-    "section": "B3",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12535",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CS&sel_crse_strt=204L&sel_crse_end=204L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
-        },
-        "days": "F",
-        "where": "FENS L067",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Kamer Kaya"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 33,
-        "actual": 4,
-        "remaining": 29
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 43,
-        "remaining": 9956
-      }
-    ],
-    "corequisites": [
-      "CS 204"
-    ]
-  },
-  {
     "name": "Data Structures",
     "crn": 12538,
     "subject": "CS",
@@ -62131,7 +61914,7 @@
     "subject": "GER",
     "code": 110,
     "type": null,
-    "section": "A",
+    "section": "0",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12581",
     "term": "Fall 2025-2026",
     "levels": [
@@ -62180,70 +61963,6 @@
         "capacity": 20,
         "actual": 11,
         "remaining": 9
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Basic German I",
-    "crn": 12583,
-    "subject": "GER",
-    "code": 110,
-    "type": null,
-    "section": "B",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12583",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 4,
-    "language": "German",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "method": "TR",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=GER&sel_crse_strt=110&sel_crse_end=110&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "11:30 am"
-        },
-        "days": "F",
-        "where": "FASS 1089",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Ömür Kafa"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 1,
-        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -62304,8 +62023,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 7,
-        "remaining": 13
+        "actual": 6,
+        "remaining": 14
       },
       {
         "title": "Waitlist Seats",
@@ -62368,136 +62087,6 @@
         "capacity": 20,
         "actual": 5,
         "remaining": 15
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Basic German II",
-    "crn": 12586,
-    "subject": "GER",
-    "code": 120,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12586",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 4,
-    "language": "German",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "method": "TR",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=GER&sel_crse_strt=120&sel_crse_end=120&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "11:30 am"
-        },
-        "days": "W",
-        "where": "FASS 1011",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Ömür Kafa"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ],
-    "prerequisites": [
-      "GER 110",
-      "GER 102"
-    ]
-  },
-  {
-    "name": "Basic German II Discussion",
-    "crn": 12588,
-    "subject": "GER",
-    "code": 120,
-    "type": "D",
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12588",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "language": "German",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Discussion",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=GER&sel_crse_strt=120D&sel_crse_end=120D&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
-        },
-        "days": "M",
-        "where": "FASS 1099",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Ömür Kafa"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -62723,9 +62312,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 90,
+        "capacity": 95,
         "actual": 70,
-        "remaining": 20
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -63144,9 +62733,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 25,
         "actual": 19,
-        "remaining": 1
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -64507,82 +64096,11 @@
   },
   {
     "name": "Advanced Programming for Data Science -Recitation",
-    "crn": 12645,
-    "subject": "DSA",
-    "code": 201,
-    "type": "R",
-    "section": "B1",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12645",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "method": "TR",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=DSA&sel_crse_strt=201R&sel_crse_end=201R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "4:40 pm",
-          "to": "6:30 pm"
-        },
-        "days": "F",
-        "where": "FASS G049",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "İnanç Arın"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 40,
-        "actual": 15,
-        "remaining": 25
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 37,
-        "remaining": 9962
-      }
-    ],
-    "corequisites": [
-      "DSA 201"
-    ]
-  },
-  {
-    "name": "Advanced Programming for Data Science -Recitation",
     "crn": 12647,
     "subject": "DSA",
     "code": 201,
     "type": "R",
-    "section": "B2",
+    "section": "B",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12647",
     "term": "Fall 2025-2026",
     "levels": [
@@ -64627,24 +64145,15 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 22,
-        "remaining": 18
+        "actual": 37,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 37,
-        "remaining": 9962
       }
-    ],
-    "corequisites": [
-      "DSA 201"
     ]
   },
   {
@@ -71409,67 +70918,6 @@
     ]
   },
   {
-    "name": "Literature Survey : Ottoman History, 17th and 18th centuries",
-    "crn": 12916,
-    "subject": "HIST",
-    "code": 771,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12916",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 10,
-    "language": "English",
-    "faculty": "FASS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Independent Study",
-    "method": "NT",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=HIST&sel_crse_strt=771&sel_crse_end=771&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Abdurrahman Atçıl"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 5,
-        "actual": 0,
-        "remaining": 5
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
     "name": "Calculus I",
     "crn": 12923,
     "subject": "MATH",
@@ -71981,9 +71429,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 150,
+        "capacity": 172,
         "actual": 150,
-        "remaining": 0
+        "remaining": 22
       },
       {
         "title": "Waitlist Seats",
@@ -72309,85 +71757,6 @@
     ]
   },
   {
-    "name": "Applied Macroeconomics",
-    "crn": 12944,
-    "subject": "ECON",
-    "code": 414,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12944",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 6,
-    "language": "English",
-    "faculty": "FASS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ECON&sel_crse_strt=414&sel_crse_end=414&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "4:40 pm",
-          "to": "6:30 pm"
-        },
-        "days": "M",
-        "where": "FASS 1075",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Riccardo Franceschin"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "4:40 pm",
-          "to": "5:30 pm"
-        },
-        "days": "W",
-        "where": "FASS 1080",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Riccardo Franceschin"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 30,
-        "actual": 1,
-        "remaining": 29
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
     "name": "Sustainability and Circularity in Materials",
     "crn": 12945,
     "subject": "IF",
@@ -72426,7 +71795,7 @@
           "to": "2:30 pm"
         },
         "days": "M",
-        "where": "FENS L045",
+        "where": "FENS G029",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -73306,88 +72675,6 @@
         "capacity": 20,
         "actual": 4,
         "remaining": 16
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Special Topics in MATH: Special Topic in Algebra: Graded Syzygies",
-    "crn": 12958,
-    "subject": "MATH",
-    "code": 68004,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12958",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 10,
-    "language": "English",
-    "faculty": "FENS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "method": "TR",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MATH&sel_crse_strt=68004&sel_crse_end=68004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "9:40 am",
-          "to": "11:30 am"
-        },
-        "days": "T",
-        "where": "FENS L048",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Ayesha Asloob Qureshi"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "10:40 am",
-          "to": "11:30 am"
-        },
-        "days": "W",
-        "where": "FENS L058",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Ayesha Asloob Qureshi"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 1,
-        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -75120,77 +74407,6 @@
     ]
   },
   {
-    "name": "Experimental Methods in Nanoscience II",
-    "crn": 12985,
-    "subject": "ENS",
-    "code": 414,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12985",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 6,
-    "language": "English",
-    "faculty": "FENS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "method": "TR",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=414&sel_crse_end=414&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "11:30 am"
-        },
-        "days": "F",
-        "where": "FENS L048",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "İsmet İnönü Kaya"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 8,
-        "actual": 0,
-        "remaining": 8
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 3,
-        "remaining": 9996
-      }
-    ]
-  },
-  {
     "name": "European Union: Politics, Policies and Governance",
     "crn": 12986,
     "subject": "POLS",
@@ -75256,77 +74472,6 @@
         "capacity": 9999,
         "actual": 26,
         "remaining": 9973
-      }
-    ]
-  },
-  {
-    "name": "Experimental Methods in Nanoscience II",
-    "crn": 12987,
-    "subject": "ENS",
-    "code": 514,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12987",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 10,
-    "language": "English",
-    "faculty": "FENS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "method": "TR",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=514&sel_crse_end=514&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "11:30 am"
-        },
-        "days": "F",
-        "where": "FENS L048",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "İsmet İnönü Kaya"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 8,
-        "actual": 3,
-        "remaining": 5
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 3,
-        "remaining": 9996
       }
     ]
   },
@@ -75694,136 +74839,6 @@
     ]
   },
   {
-    "name": "Intermediate German I",
-    "crn": 12994,
-    "subject": "GER",
-    "code": 130,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12994",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 4,
-    "language": "German",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "method": "TR",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=GER&sel_crse_strt=130&sel_crse_end=130&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "12:40 pm",
-          "to": "3:30 pm"
-        },
-        "days": "F",
-        "where": "FMAN G062",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Ömür Kafa"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ],
-    "prerequisites": [
-      "GER 120",
-      "GER 201"
-    ]
-  },
-  {
-    "name": "Intermediate German I Discussion",
-    "crn": 12995,
-    "subject": "GER",
-    "code": 130,
-    "type": "D",
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12995",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "language": "German",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Discussion",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=GER&sel_crse_strt=130D&sel_crse_end=130D&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
-        },
-        "days": "M",
-        "where": "FMAN G062",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Ömür Kafa"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
     "name": "Politics and Society  in Ottoman Cities, 16th -18th centuries",
     "crn": 12997,
     "subject": "HIST",
@@ -75873,128 +74888,6 @@
         "capacity": 10,
         "actual": 10,
         "remaining": 0
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Literature Survey: From the Age of Revolution",
-    "crn": 12998,
-    "subject": "HIST",
-    "code": 715,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12998",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 10,
-    "language": "English",
-    "faculty": "FASS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Independent Study",
-    "method": "NT",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=HIST&sel_crse_strt=715&sel_crse_end=715&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Ayşe Ozil"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 5,
-        "actual": 0,
-        "remaining": 5
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Literature Survey : Ottoman History, 1300-1600",
-    "crn": 12999,
-    "subject": "HIST",
-    "code": 762,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12999",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 10,
-    "language": "English",
-    "faculty": "FASS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Independent Study",
-    "method": "NT",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=HIST&sel_crse_strt=762&sel_crse_end=762&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Abdurrahman Atçıl"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 5,
-        "actual": 0,
-        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -76074,9 +74967,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 80,
+        "capacity": 86,
         "actual": 80,
-        "remaining": 0
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -77655,76 +76548,6 @@
     ]
   },
   {
-    "name": "Advanced Programming Lab",
-    "crn": 13028,
-    "subject": "CS",
-    "code": 204,
-    "type": "L",
-    "section": "C3",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13028",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CS&sel_crse_strt=204L&sel_crse_end=204L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
-        },
-        "days": "F",
-        "where": "FENS L029",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Kamer Kaya"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 33,
-        "actual": 9,
-        "remaining": 24
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 50,
-        "remaining": 9949
-      }
-    ],
-    "corequisites": [
-      "CS 204"
-    ]
-  },
-  {
     "name": "Analog Integrated Circuits - Recitation",
     "crn": 13029,
     "subject": "EE",
@@ -78656,7 +77479,7 @@
           "to": "1:30 pm"
         },
         "days": "T",
-        "where": "FENS L058",
+        "where": "FENS L047",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -78670,9 +77493,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
-        "actual": 28,
-        "remaining": 3
+        "capacity": 39,
+        "actual": 32,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -78726,7 +77549,7 @@
           "to": "1:30 pm"
         },
         "days": "T",
-        "where": "FMAN G045",
+        "where": "FENS G015",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -78740,9 +77563,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 30,
-        "actual": 20,
-        "remaining": 10
+        "capacity": 39,
+        "actual": 32,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -78820,76 +77643,6 @@
         "actual": 0,
         "remaining": 0
       }
-    ]
-  },
-  {
-    "name": "Introduction to Probability - Recitation",
-    "crn": 13047,
-    "subject": "MATH",
-    "code": 203,
-    "type": "R",
-    "section": "A5",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13047",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MATH&sel_crse_strt=203R&sel_crse_end=203R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "12:40 pm",
-          "to": "1:30 pm"
-        },
-        "days": "T",
-        "where": "FMAN G042",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Turgay Bayraktar"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 30,
-        "actual": 18,
-        "remaining": 12
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 127,
-        "remaining": 9872
-      }
-    ],
-    "corequisites": [
-      "MATH 203"
     ]
   },
   {
@@ -78988,7 +77741,7 @@
           "to": "10:30 am"
         },
         "days": "M",
-        "where": "FENS L058",
+        "where": "FENS L047",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -79002,9 +77755,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
-        "actual": 29,
-        "remaining": 2
+        "capacity": 39,
+        "actual": 34,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -79119,7 +77872,7 @@
           "to": "10:30 am"
         },
         "days": "M",
-        "where": "FMAN G042",
+        "where": "FENS G015",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -79133,79 +77886,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 30,
-        "actual": 28,
-        "remaining": 2
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 136,
-        "remaining": 9863
-      }
-    ],
-    "corequisites": [
-      "MATH 203"
-    ]
-  },
-  {
-    "name": "Introduction to Probability - Recitation",
-    "crn": 13055,
-    "subject": "MATH",
-    "code": 203,
-    "type": "R",
-    "section": "B5",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13055",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MATH&sel_crse_strt=203R&sel_crse_end=203R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "9:40 am",
-          "to": "10:30 am"
-        },
-        "days": "M",
-        "where": "FMAN G041",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Turgay Bayraktar"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 30,
-        "actual": 22,
-        "remaining": 8
+        "capacity": 39,
+        "actual": 34,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -79259,7 +77942,7 @@
           "to": "2:30 pm"
         },
         "days": "M",
-        "where": "FMAN G045",
+        "where": "FENS L035",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -79273,79 +77956,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 30,
-        "actual": 28,
-        "remaining": 2
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 143,
-        "remaining": 9856
-      }
-    ],
-    "corequisites": [
-      "MATH 203"
-    ]
-  },
-  {
-    "name": "Introduction to Probability - Recitation",
-    "crn": 13057,
-    "subject": "MATH",
-    "code": 203,
-    "type": "R",
-    "section": "C5",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13057",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MATH&sel_crse_strt=203R&sel_crse_end=203R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
-        },
-        "days": "M",
-        "where": "FMAN G042",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Gökalp Alpan"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 30,
-        "actual": 24,
-        "remaining": 6
+        "capacity": 39,
+        "actual": 36,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -79399,7 +78012,7 @@
           "to": "5:30 pm"
         },
         "days": "M",
-        "where": "FENS L058",
+        "where": "FENS L047",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -79413,9 +78026,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 31,
+        "capacity": 38,
         "actual": 23,
-        "remaining": 8
+        "remaining": 15
       },
       {
         "title": "Waitlist Seats",
@@ -79469,7 +78082,7 @@
           "to": "5:30 pm"
         },
         "days": "M",
-        "where": "FMAN G042",
+        "where": "FENS L027",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -79483,79 +78096,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 30,
-        "actual": 19,
-        "remaining": 11
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 100,
-        "remaining": 9899
-      }
-    ],
-    "corequisites": [
-      "MATH 203"
-    ]
-  },
-  {
-    "name": "Introduction to Probability - Recitation",
-    "crn": 13060,
-    "subject": "MATH",
-    "code": 203,
-    "type": "R",
-    "section": "D4",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13060",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MATH&sel_crse_strt=203R&sel_crse_end=203R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "4:40 pm",
-          "to": "5:30 pm"
-        },
-        "days": "M",
-        "where": "FMAN G041",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Gökalp Alpan"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 30,
-        "actual": 6,
-        "remaining": 24
+        "capacity": 38,
+        "actual": 23,
+        "remaining": 15
       },
       {
         "title": "Waitlist Seats",
@@ -79580,7 +78123,7 @@
     "subject": "MATH",
     "code": 203,
     "type": "R",
-    "section": "D5",
+    "section": "D4",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13061",
     "term": "Fall 2025-2026",
     "levels": [
@@ -79609,7 +78152,7 @@
           "to": "5:30 pm"
         },
         "days": "M",
-        "where": "FENS L067",
+        "where": "FENS L035",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -79623,9 +78166,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 30,
-        "actual": 21,
-        "remaining": 9
+        "capacity": 38,
+        "actual": 23,
+        "remaining": 15
       },
       {
         "title": "Waitlist Seats",
@@ -79847,9 +78390,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 30,
+        "capacity": 32,
         "actual": 30,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -81567,8 +80110,8 @@
       {
         "title": "Seats",
         "capacity": 5,
-        "actual": 0,
-        "remaining": 5
+        "actual": 1,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -83327,7 +81870,7 @@
           "to": "3:30 pm"
         },
         "days": "F",
-        "where": "FENS L035",
+        "where": "FASS G052",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -83524,7 +82067,7 @@
           "to": "2:30 pm"
         },
         "days": "M",
-        "where": "FENS L055",
+        "where": "FASS G018",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -83541,7 +82084,7 @@
           "to": "11:30 am"
         },
         "days": "W",
-        "where": "FENS L056",
+        "where": "FENS G015",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -83555,9 +82098,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 30,
+        "capacity": 35,
         "actual": 30,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -83612,7 +82155,7 @@
           "to": "2:30 pm"
         },
         "days": "M",
-        "where": "FENS L055",
+        "where": "FASS G018",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -83629,7 +82172,7 @@
           "to": "11:30 am"
         },
         "days": "W",
-        "where": "FENS L056",
+        "where": "FENS G015",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -83643,9 +82186,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 25,
         "actual": 20,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -83658,74 +82201,6 @@
         "capacity": 9999,
         "actual": 50,
         "remaining": 9949
-      }
-    ]
-  },
-  {
-    "name": "Scientific Investigations into Artworks",
-    "crn": 13128,
-    "subject": "IF",
-    "code": 405,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13128",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 6,
-    "language": "English",
-    "faculty": "FENS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "method": "TR",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=IF&sel_crse_strt=405&sel_crse_end=405&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "10:40 am",
-          "to": "1:30 pm"
-        },
-        "days": "R",
-        "where": "FENS L029",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Feray Bakan Mısırlıoğlu",
-          "Selçuk Hüseyin Artut",
-          "Büşra Tuğba Çamiç",
-          "Nurçin Kural"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 25,
-        "actual": 1,
-        "remaining": 24
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
       }
     ]
   },
@@ -104500,7 +102975,7 @@
           "to": "12:50 pm"
         },
         "days": "R",
-        "where": "SL G042",
+        "where": "SL G000",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Nov 21, 2025"
@@ -109122,8 +107597,8 @@
       {
         "title": "Seats",
         "capacity": 1,
-        "actual": 0,
-        "remaining": 1
+        "actual": 1,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -111570,7 +110045,7 @@
     "subject": "ME",
     "code": 591,
     "type": null,
-    "section": "0",
+    "section": "01",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13423",
     "term": "Fall 2025-2026",
     "levels": [
@@ -111794,6 +110269,191 @@
         "scheduleType": null,
         "instructors": [
           "Erhan Budak"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Directed Research",
+    "crn": 13427,
+    "subject": "ME",
+    "code": 591,
+    "type": null,
+    "section": "02",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13427",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "NT",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ME&sel_crse_strt=591&sel_crse_end=591&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Korkut Kaan Tokgöz"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Readings and Research in Political Science: Political Theory",
+    "crn": 13428,
+    "subject": "POLS",
+    "code": 700,
+    "type": "T",
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13428",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=POLS&sel_crse_strt=700T&sel_crse_end=700T&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Faik Kurtulmuş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 5,
+        "actual": 0,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Directed Research",
+    "crn": 13429,
+    "subject": "DS",
+    "code": 591,
+    "type": null,
+    "section": "03",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13429",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "NT",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=DS&sel_crse_strt=591&sel_crse_end=591&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erchan Aptoula"
         ]
       }
     ],
