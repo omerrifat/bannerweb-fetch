@@ -7823,8 +7823,8 @@
       {
         "title": "Seats",
         "capacity": 55,
-        "actual": 43,
-        "remaining": 12
+        "actual": 44,
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -7886,8 +7886,8 @@
       {
         "title": "Seats",
         "capacity": 55,
-        "actual": 43,
-        "remaining": 12
+        "actual": 44,
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -10668,8 +10668,8 @@
       {
         "title": "Seats",
         "capacity": 150,
-        "actual": 131,
-        "remaining": 19
+        "actual": 132,
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -40125,7 +40125,7 @@
           "to": "11:30 am"
         },
         "days": "M",
-        "where": "Art and Research Center 1012",
+        "where": "SUSAM 1012",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -40142,7 +40142,7 @@
           "to": "12:30 pm"
         },
         "days": "T",
-        "where": "Art and Research Center 1012",
+        "where": "SUSAM 1012",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -40201,7 +40201,7 @@
           "to": "3:30 pm"
         },
         "days": "T",
-        "where": "Art and Research Center 1010",
+        "where": "SUSAM 1010",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -40218,7 +40218,7 @@
           "to": "4:30 pm"
         },
         "days": "W",
-        "where": "Art and Research Center 1010",
+        "where": "SUSAM 1010",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -40277,7 +40277,7 @@
           "to": "11:30 am"
         },
         "days": "M",
-        "where": "Art and Research Center 1001",
+        "where": "SUSAM 1001",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -40294,7 +40294,7 @@
           "to": "11:30 am"
         },
         "days": "R",
-        "where": "Art and Research Center 1001",
+        "where": "SUSAM 1001",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -40419,7 +40419,7 @@
           "to": "5:30 pm"
         },
         "days": "W",
-        "where": "Art and Research Center 1008",
+        "where": "SUSAM 1008",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -52035,7 +52035,7 @@
           "to": "4:30 pm"
         },
         "days": "M",
-        "where": "Art and Research Center 1008",
+        "where": "SUSAM 1008",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -52163,10 +52163,10 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "3:30 pm"
+          "from": "11:40 am",
+          "to": "1:30 pm"
         },
-        "days": "T",
+        "days": "R",
         "where": "FMAN G065",
         "dateRange": {
           "from": "Sep 29, 2025",
@@ -54815,8 +54815,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 22,
-        "remaining": 8
+        "actual": 21,
+        "remaining": 9
       },
       {
         "title": "Waitlist Seats",
@@ -60119,7 +60119,7 @@
           "to": "3:30 pm"
         },
         "days": "M",
-        "where": "Art and Research Center 1001",
+        "where": "SUSAM 1001",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -60136,7 +60136,7 @@
           "to": "3:30 pm"
         },
         "days": "R",
-        "where": "Art and Research Center 1001",
+        "where": "SUSAM 1001",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -70874,16 +70874,16 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Matteo Paganin"
+          "Gamze Kuruk"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 0,
+        "capacity": 4,
         "actual": 0,
-        "remaining": 0
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -70940,9 +70940,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 0,
+        "capacity": 7,
         "actual": 0,
-        "remaining": 0
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -107344,8 +107344,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 16,
-        "remaining": 4
+        "actual": 17,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -110097,7 +110097,7 @@
     "subject": "MFE",
     "code": 591,
     "type": null,
-    "section": "0",
+    "section": "01",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13425",
     "term": "Fall 2025-2026",
     "levels": [
@@ -110546,6 +110546,130 @@
         "capacity": 9999,
         "actual": 4,
         "remaining": 9995
+      }
+    ]
+  },
+  {
+    "name": "Directed Research",
+    "crn": 13432,
+    "subject": "MFE",
+    "code": 591,
+    "type": null,
+    "section": "02",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13432",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "NT",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=MFE&sel_crse_strt=591&sel_crse_end=591&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Korkut Kaan Tokgöz"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Directed Research I",
+    "crn": 13433,
+    "subject": "CS",
+    "code": 791,
+    "type": null,
+    "section": "03",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13433",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "NT",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CS&sel_crse_strt=791&sel_crse_end=791&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selim Saffet Balcısoy"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
       }
     ]
   }
