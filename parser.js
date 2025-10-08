@@ -91,6 +91,7 @@ function shortenFacultyName(text) {
         [ "Sabancı Business School", "FMAN" ],
         [ "Fac. of Engin. and Nat. Sci.", "FENS" ],
         [ "School of Languages Building", "SL" ],
+        [ "Art and Research Center", "SUSAM" ],
         [ "University Center", "UC" ]
     ]
     for (const replacement of replacements) {
