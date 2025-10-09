@@ -2,7 +2,7 @@ name: Registration Period Action
 
 on:
   schedule:
-    - cron: '0 5,9,21 25,26 9 *'
+    - cron: '0 5,9,21 9,10 10 *'
 
 jobs:
   do-fetch:
