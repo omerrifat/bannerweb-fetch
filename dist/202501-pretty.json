@@ -2637,7 +2637,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay"
+          "Özcan Öztürk"
         ]
       },
       {
@@ -2654,7 +2654,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay"
+          "Özcan Öztürk"
         ]
       }
     ],
@@ -2715,7 +2715,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay"
+          "Özcan Öztürk"
         ]
       }
     ],
@@ -2786,7 +2786,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay"
+          "Özcan Öztürk"
         ]
       }
     ],
@@ -2857,7 +2857,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay"
+          "Özcan Öztürk"
         ]
       }
     ],
@@ -2928,7 +2928,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay"
+          "Özcan Öztürk"
         ]
       }
     ],
@@ -2999,7 +2999,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay"
+          "Özcan Öztürk"
         ]
       }
     ],
@@ -3070,7 +3070,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay"
+          "Özcan Öztürk"
         ]
       }
     ],
@@ -3141,7 +3141,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay"
+          "Özcan Öztürk"
         ]
       }
     ],
@@ -3212,7 +3212,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay"
+          "Özcan Öztürk"
         ]
       }
     ],
@@ -6198,8 +6198,8 @@
       {
         "title": "Seats",
         "capacity": 65,
-        "actual": 53,
-        "remaining": 12
+        "actual": 52,
+        "remaining": 13
       },
       {
         "title": "Waitlist Seats",
@@ -7287,8 +7287,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 50,
-        "remaining": 0
+        "actual": 49,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -7467,8 +7467,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 50,
-        "remaining": 0
+        "actual": 49,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -11749,7 +11749,7 @@
           "to": "5:30 pm"
         },
         "days": "M",
-        "where": "FENS L061",
+        "where": "FENS L062",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -11766,7 +11766,7 @@
           "to": "5:30 pm"
         },
         "days": "R",
-        "where": "FENS L061",
+        "where": "FENS L047",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -13507,7 +13507,7 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
+          "from": "1:40 pm",
           "to": "2:30 pm"
         },
         "days": "W",
@@ -13525,10 +13525,10 @@
         "type": "Class",
         "time": {
           "from": "12:40 pm",
-          "to": "1:30 pm"
+          "to": "2:30 pm"
         },
         "days": "R",
-        "where": "FENS L058",
+        "where": "FENS L047",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -18213,8 +18213,8 @@
       {
         "title": "Seats",
         "capacity": 15,
-        "actual": 4,
-        "remaining": 11
+        "actual": 3,
+        "remaining": 12
       },
       {
         "title": "Waitlist Seats",
@@ -18277,8 +18277,8 @@
       {
         "title": "Seats",
         "capacity": 15,
-        "actual": 4,
-        "remaining": 11
+        "actual": 3,
+        "remaining": 12
       },
       {
         "title": "Waitlist Seats",
@@ -26213,8 +26213,8 @@
       {
         "title": "Seats",
         "capacity": 270,
-        "actual": 270,
-        "remaining": 0
+        "actual": 269,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -26784,8 +26784,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 210,
-        "remaining": 9789
+        "actual": 209,
+        "remaining": 9790
       }
     ],
     "corequisites": [
@@ -26855,8 +26855,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 210,
-        "remaining": 9789
+        "actual": 209,
+        "remaining": 9790
       }
     ],
     "corequisites": [
@@ -26926,8 +26926,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 210,
-        "remaining": 9789
+        "actual": 209,
+        "remaining": 9790
       }
     ],
     "corequisites": [
@@ -26997,8 +26997,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 210,
-        "remaining": 9789
+        "actual": 209,
+        "remaining": 9790
       }
     ],
     "corequisites": [
@@ -27068,8 +27068,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 210,
-        "remaining": 9789
+        "actual": 209,
+        "remaining": 9790
       }
     ],
     "corequisites": [
@@ -27127,8 +27127,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 30,
-        "remaining": 0
+        "actual": 29,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27139,8 +27139,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 210,
-        "remaining": 9789
+        "actual": 209,
+        "remaining": 9790
       }
     ],
     "corequisites": [
@@ -27210,8 +27210,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 210,
-        "remaining": 9789
+        "actual": 209,
+        "remaining": 9790
       }
     ],
     "corequisites": [
@@ -31741,8 +31741,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 50,
-        "remaining": 0
+        "actual": 49,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -31948,8 +31948,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 50,
-        "remaining": 0
+        "actual": 49,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -33804,6 +33804,7 @@
         "scheduleType": null,
         "instructors": [
           "Emre Erol",
+          "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
@@ -39857,8 +39858,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 24,
-        "remaining": 1
+        "actual": 23,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -39869,8 +39870,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 59,
-        "remaining": 9940
+        "actual": 58,
+        "remaining": 9941
       }
     ],
     "prerequisites": [
@@ -40079,8 +40080,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 59,
-        "remaining": 9940
+        "actual": 58,
+        "remaining": 9941
       }
     ],
     "prerequisites": [
@@ -43546,8 +43547,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 2,
-        "remaining": 48
+        "actual": 1,
+        "remaining": 49
       },
       {
         "title": "Waitlist Seats",
@@ -57650,68 +57651,6 @@
     ]
   },
   {
-    "name": "Graduation Project (Design)",
-    "crn": 12426,
-    "subject": "ENS",
-    "code": 491,
-    "type": null,
-    "section": "80",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12426",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 2,
-    "language": "English",
-    "faculty": "FENS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Project",
-    "method": "TR",
-    "credits": 1,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Ahmet Demirelli"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 50,
-        "actual": 0,
-        "remaining": 50
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
     "name": "Graduation Project  (Implementation)",
     "crn": 12427,
     "subject": "ENS",
@@ -58734,8 +58673,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
+          "from": "3:40 pm",
+          "to": "5:30 pm"
         },
         "days": "M",
         "where": "FENS L067",
@@ -60885,7 +60824,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay"
+          "Özcan Öztürk"
         ]
       }
     ],
@@ -60956,7 +60895,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay"
+          "Özcan Öztürk"
         ]
       }
     ],
@@ -61027,7 +60966,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay"
+          "Özcan Öztürk"
         ]
       }
     ],
@@ -61098,7 +61037,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Atıl Utku Ay"
+          "Özcan Öztürk"
         ]
       }
     ],
@@ -64977,8 +64916,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 45,
-        "remaining": 5
+        "actual": 46,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -65599,68 +65538,6 @@
         "capacity": 50,
         "actual": 2,
         "remaining": 48
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Graduation Project (Design)",
-    "crn": 12707,
-    "subject": "ENS",
-    "code": 491,
-    "type": null,
-    "section": "93",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12707",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 2,
-    "language": "English",
-    "faculty": "FENS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Project",
-    "method": "TR",
-    "credits": 1,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Elif Dürdane Koç"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 50,
-        "actual": 1,
-        "remaining": 49
       },
       {
         "title": "Waitlist Seats",
@@ -66959,8 +66836,8 @@
       {
         "title": "Seats",
         "capacity": 500,
-        "actual": 380,
-        "remaining": 120
+        "actual": 379,
+        "remaining": 121
       },
       {
         "title": "Waitlist Seats",
@@ -67441,8 +67318,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 59,
-        "remaining": 9940
+        "actual": 58,
+        "remaining": 9941
       }
     ],
     "prerequisites": [
@@ -82246,8 +82123,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 8,
-        "remaining": 12
+        "actual": 7,
+        "remaining": 13
       },
       {
         "title": "Waitlist Seats",
@@ -87731,7 +87608,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Korkut Kaan Tokgöz"
+          "Yusuf Leblebici"
         ]
       }
     ],
@@ -94004,8 +93881,8 @@
       {
         "title": "Seats",
         "capacity": 85,
-        "actual": 82,
-        "remaining": 3
+        "actual": 81,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -94259,8 +94136,8 @@
       {
         "title": "Seats",
         "capacity": 85,
-        "actual": 85,
-        "remaining": 0
+        "actual": 84,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -96542,11 +96419,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "10:40 am",
-          "to": "1:30 pm"
+          "from": "8:40 am",
+          "to": "11:30 am"
         },
         "days": "W",
-        "where": "FENS L063",
+        "where": "FENS L067",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -96606,11 +96483,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "4:30 pm"
+          "from": "12:40 pm",
+          "to": "3:30 pm"
         },
-        "days": "W",
-        "where": "FASS 2031",
+        "days": "T",
+        "where": "FASS 1076",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -96674,11 +96551,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "4:30 pm"
         },
         "days": "R",
-        "where": "FASS 2080",
+        "where": "FENS L048",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -96736,11 +96613,28 @@
       {
         "type": "Class",
         "time": {
-          "from": "10:40 am",
-          "to": "12:30 pm"
+          "from": "3:40 pm",
+          "to": "4:30 pm"
         },
-        "days": "R",
-        "where": "FASS 2080",
+        "days": "T",
+        "where": "FASS 1076",
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Muhammed Fatih Büyükkörükcü"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "2:30 pm"
+        },
+        "days": "W",
+        "where": "FASS 1076",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -100291,8 +100185,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 16,
-        "remaining": 4
+        "actual": 17,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -107520,9 +107414,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 1,
+        "capacity": 3,
         "actual": 1,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -110722,6 +110616,68 @@
         "capacity": 20,
         "actual": 1,
         "remaining": 19
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13435,
+    "subject": "DS",
+    "code": 590,
+    "type": null,
+    "section": "12",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13435",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=DS&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yücel Saygın"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
       },
       {
         "title": "Waitlist Seats",
