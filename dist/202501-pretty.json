@@ -61833,7 +61833,7 @@
     "subject": "GER",
     "code": 110,
     "type": "D",
-    "section": "A",
+    "section": "0",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12584",
     "term": "Fall 2025-2026",
     "levels": [
@@ -61880,68 +61880,6 @@
         "capacity": 20,
         "actual": 9,
         "remaining": 11
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Basic German I Discussion",
-    "crn": 12585,
-    "subject": "GER",
-    "code": 110,
-    "type": "D",
-    "section": "B",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12585",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "language": "German",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Discussion",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=GER&sel_crse_strt=110D&sel_crse_end=110D&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
-        },
-        "days": "W",
-        "where": "FASS 1079",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Ömür Kafa"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -81801,11 +81739,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
-          "to": "3:30 pm"
+          "from": "11:40 am",
+          "to": "12:30 pm"
         },
         "days": "W",
-        "where": "FENS G025",
+        "where": "FENS G029",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
