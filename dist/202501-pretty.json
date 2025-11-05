@@ -774,8 +774,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 23,
-        "remaining": 7
+        "actual": 22,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -786,8 +786,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 34,
-        "remaining": 9965
+        "actual": 33,
+        "remaining": 9966
       }
     ]
   },
@@ -874,8 +874,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 34,
-        "remaining": 9965
+        "actual": 33,
+        "remaining": 9966
       }
     ]
   },
@@ -2014,8 +2014,8 @@
       {
         "title": "Seats",
         "capacity": 75,
-        "actual": 72,
-        "remaining": 3
+        "actual": 73,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -2026,8 +2026,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 97,
-        "remaining": 9902
+        "actual": 98,
+        "remaining": 9901
       }
     ],
     "corequisites": [
@@ -2096,8 +2096,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 97,
-        "remaining": 9902
+        "actual": 98,
+        "remaining": 9901
       }
     ],
     "corequisites": [
@@ -4143,8 +4143,8 @@
       {
         "title": "Seats",
         "capacity": 150,
-        "actual": 151,
-        "remaining": -1
+        "actual": 152,
+        "remaining": -2
       },
       {
         "title": "Waitlist Seats",
@@ -4207,8 +4207,8 @@
       {
         "title": "Seats",
         "capacity": 150,
-        "actual": 151,
-        "remaining": -1
+        "actual": 152,
+        "remaining": -2
       },
       {
         "title": "Waitlist Seats",
@@ -4822,8 +4822,8 @@
       {
         "title": "Seats",
         "capacity": 275,
-        "actual": 262,
-        "remaining": 13
+        "actual": 263,
+        "remaining": 12
       },
       {
         "title": "Waitlist Seats",
@@ -4887,8 +4887,8 @@
       {
         "title": "Seats",
         "capacity": 275,
-        "actual": 262,
-        "remaining": 13
+        "actual": 263,
+        "remaining": 12
       },
       {
         "title": "Waitlist Seats",
@@ -6178,8 +6178,8 @@
       {
         "title": "Seats",
         "capacity": 300,
-        "actual": 166,
-        "remaining": 134
+        "actual": 167,
+        "remaining": 133
       },
       {
         "title": "Waitlist Seats",
@@ -6242,8 +6242,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 32,
-        "remaining": 18
+        "actual": 33,
+        "remaining": 17
       },
       {
         "title": "Waitlist Seats",
@@ -6254,8 +6254,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 77,
-        "remaining": 9922
+        "actual": 78,
+        "remaining": 9921
       }
     ],
     "corequisites": [
@@ -6324,8 +6324,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 77,
-        "remaining": 9922
+        "actual": 78,
+        "remaining": 9921
       }
     ],
     "corequisites": [
@@ -31147,8 +31147,8 @@
       {
         "title": "Seats",
         "capacity": 44,
-        "actual": 37,
-        "remaining": 7
+        "actual": 38,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -31885,6 +31885,7 @@
         "scheduleType": null,
         "instructors": [
           "Emine Süphan Bakkal",
+          "Ali Rıza Umut Şahin",
           "Emrah Kalemci"
         ]
       }
@@ -32072,7 +32073,7 @@
         "scheduleType": null,
         "instructors": [
           "Emine Süphan Bakkal",
-          "Çiğdem Altıntaş",
+          "Ali Rıza Umut Şahin",
           "Aslıhan Muazzez Ünsal"
         ]
       }
@@ -33012,8 +33013,8 @@
       {
         "title": "Seats",
         "capacity": 231,
-        "actual": 188,
-        "remaining": 43
+        "actual": 187,
+        "remaining": 44
       },
       {
         "title": "Waitlist Seats",
@@ -33142,8 +33143,8 @@
       {
         "title": "Seats",
         "capacity": 220,
-        "actual": 189,
-        "remaining": 31
+        "actual": 190,
+        "remaining": 30
       },
       {
         "title": "Waitlist Seats",
@@ -45080,78 +45081,6 @@
     ]
   },
   {
-    "name": "Computational Approaches to Problem Solving – Recitation",
-    "crn": 11423,
-    "subject": "IF",
-    "code": 100,
-    "type": "R",
-    "section": "M2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=11423",
-    "term": "Fall 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=IF&sel_crse_strt=100R&sel_crse_end=100R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "4:40 pm",
-          "to": "6:30 pm"
-        },
-        "days": "F",
-        "where": "FENS G059",
-        "dateRange": {
-          "from": "Sep 29, 2025",
-          "to": "Jan 03, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Duygu Karaoğlan Altop",
-          "İnanç Arın",
-          "Yalçın Can Kılıç"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 33,
-        "actual": 0,
-        "remaining": 33
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 29,
-        "remaining": 9970
-      }
-    ],
-    "corequisites": [
-      "IF 100"
-    ]
-  },
-  {
     "name": "Master Thesis / Studio Project",
     "crn": 11425,
     "subject": "VA",
@@ -56087,8 +56016,8 @@
       {
         "title": "Seats",
         "capacity": 303,
-        "actual": 304,
-        "remaining": -1
+        "actual": 305,
+        "remaining": -2
       },
       {
         "title": "Waitlist Seats",
@@ -58252,8 +58181,8 @@
       {
         "title": "Seats",
         "capacity": 300,
-        "actual": 246,
-        "remaining": 54
+        "actual": 247,
+        "remaining": 53
       },
       {
         "title": "Waitlist Seats",
@@ -73536,8 +73465,8 @@
       {
         "title": "Seats",
         "capacity": 175,
-        "actual": 149,
-        "remaining": 26
+        "actual": 150,
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -80738,8 +80667,8 @@
       {
         "title": "Seats",
         "capacity": 200,
-        "actual": 79,
-        "remaining": 121
+        "actual": 80,
+        "remaining": 120
       },
       {
         "title": "Waitlist Seats",
@@ -89812,7 +89741,7 @@
           "to": "11:30 am"
         },
         "days": "W",
-        "where": "FENS L067",
+        "where": "FENS L047",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -103903,6 +103832,68 @@
         "capacity": 20,
         "actual": 0,
         "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13445,
+    "subject": "DS",
+    "code": 590,
+    "type": null,
+    "section": "01",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13445",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=DS&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yücel Saygın"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
       },
       {
         "title": "Waitlist Seats",
