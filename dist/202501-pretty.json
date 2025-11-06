@@ -41384,8 +41384,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 16,
-        "remaining": 0
+        "actual": 15,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -41624,8 +41624,8 @@
       {
         "title": "Seats",
         "capacity": 15,
-        "actual": 14,
-        "remaining": 1
+        "actual": 15,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -41636,8 +41636,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 15,
-        "remaining": 9984
+        "actual": 16,
+        "remaining": 9983
       }
     ]
   },
@@ -57583,8 +57583,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 15,
-        "remaining": 9984
+        "actual": 16,
+        "remaining": 9983
       }
     ]
   },
@@ -59153,11 +59153,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "4:30 pm"
+          "from": "2:40 pm",
+          "to": "5:30 pm"
         },
         "days": "T",
-        "where": "FASS G043",
+        "where": "FMAN G050",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -59299,11 +59299,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "3:40 pm",
-          "to": "6:30 pm"
+          "from": "10:40 am",
+          "to": "1:30 pm"
         },
-        "days": "R",
-        "where": "FMAN G098",
+        "days": "T",
+        "where": "FASS G043",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -103894,6 +103894,55 @@
         "capacity": 14,
         "actual": 0,
         "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Internship Project",
+    "crn": 13446,
+    "subject": "CS",
+    "code": 395,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13446",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Undergraduate"
+    ],
+    "ects": 5,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Internship",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CS&sel_crse_strt=395&sel_crse_end=395&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Öznur Taştan Okan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 1,
+        "actual": 0,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
