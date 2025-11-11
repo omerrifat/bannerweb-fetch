@@ -4289,8 +4289,8 @@
       {
         "title": "Seats",
         "capacity": 104,
-        "actual": 105,
-        "remaining": -1
+        "actual": 106,
+        "remaining": -2
       },
       {
         "title": "Waitlist Seats",
@@ -16443,8 +16443,8 @@
       {
         "title": "Seats",
         "capacity": 80,
-        "actual": 51,
-        "remaining": 29
+        "actual": 52,
+        "remaining": 28
       },
       {
         "title": "Waitlist Seats",
@@ -16455,8 +16455,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 71,
-        "remaining": 9928
+        "actual": 72,
+        "remaining": 9927
       }
     ],
     "corequisites": [
@@ -16545,8 +16545,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 71,
-        "remaining": 9928
+        "actual": 72,
+        "remaining": 9927
       }
     ],
     "corequisites": [
@@ -39480,8 +39480,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 57,
-        "remaining": 9942
+        "actual": 58,
+        "remaining": 9941
       }
     ],
     "prerequisites": [
@@ -39678,8 +39678,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 9,
-        "remaining": 11
+        "actual": 10,
+        "remaining": 10
       },
       {
         "title": "Waitlist Seats",
@@ -39690,8 +39690,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 57,
-        "remaining": 9942
+        "actual": 58,
+        "remaining": 9941
       }
     ],
     "prerequisites": [
@@ -41544,8 +41544,8 @@
       {
         "title": "Seats",
         "capacity": 15,
-        "actual": 13,
-        "remaining": 2
+        "actual": 14,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -45741,8 +45741,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 24,
-        "remaining": 1
+        "actual": 23,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -49071,8 +49071,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 37,
-        "remaining": 13
+        "actual": 38,
+        "remaining": 12
       },
       {
         "title": "Waitlist Seats",
@@ -52487,8 +52487,8 @@
       {
         "title": "Seats",
         "capacity": 80,
-        "actual": 51,
-        "remaining": 29
+        "actual": 52,
+        "remaining": 28
       },
       {
         "title": "Waitlist Seats",
@@ -52499,8 +52499,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 71,
-        "remaining": 9928
+        "actual": 72,
+        "remaining": 9927
       }
     ],
     "corequisites": [
@@ -54813,8 +54813,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 37,
-        "remaining": 13
+        "actual": 36,
+        "remaining": 14
       },
       {
         "title": "Waitlist Seats",
@@ -59172,8 +59172,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 6,
-        "remaining": 14
+        "actual": 5,
+        "remaining": 15
       },
       {
         "title": "Waitlist Seats",
@@ -59318,8 +59318,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 7,
-        "remaining": 13
+        "actual": 6,
+        "remaining": 14
       },
       {
         "title": "Waitlist Seats",
@@ -60892,7 +60892,7 @@
     "subject": "TS",
     "code": 599,
     "type": null,
-    "section": "C",
+    "section": "A",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=12636",
     "term": "Fall 2025-2026",
     "levels": [
@@ -64177,8 +64177,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 57,
-        "remaining": 9942
+        "actual": 58,
+        "remaining": 9941
       }
     ],
     "prerequisites": [
@@ -74926,7 +74926,7 @@
     "subject": "TS",
     "code": 599,
     "type": null,
-    "section": "E",
+    "section": "B",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13092",
     "term": "Fall 2025-2026",
     "levels": [
@@ -82041,8 +82041,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 71,
-        "remaining": 9928
+        "actual": 72,
+        "remaining": 9927
       }
     ],
     "corequisites": [
@@ -90017,7 +90017,7 @@
           "to": "10:00 pm"
         },
         "days": "R",
-        "where": "Altunizade Campus 104",
+        "where": "Altunizade Campus 111",
         "dateRange": {
           "from": "Sep 27, 2025",
           "to": "Nov 13, 2025"
@@ -90181,7 +90181,7 @@
           "to": "10:00 pm"
         },
         "days": "W",
-        "where": "Altunizade Campus 104",
+        "where": "Altunizade Campus 111",
         "dateRange": {
           "from": "Nov 15, 2025",
           "to": "Jan 03, 2026"
@@ -90213,8 +90213,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 10,
-        "remaining": 10
+        "actual": 11,
+        "remaining": 9
       },
       {
         "title": "Waitlist Seats",
@@ -90295,8 +90295,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 11,
-        "remaining": 9
+        "actual": 12,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -103768,8 +103768,8 @@
       {
         "title": "Seats",
         "capacity": 14,
-        "actual": 0,
-        "remaining": 14
+        "actual": 2,
+        "remaining": 12
       },
       {
         "title": "Waitlist Seats",
@@ -103934,6 +103934,124 @@
         "scheduleType": null,
         "instructors": [
           "Öznur Taştan Okan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 1,
+        "actual": 0,
+        "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Directed Research I",
+    "crn": 13448,
+    "subject": "CS",
+    "code": 791,
+    "type": null,
+    "section": "04",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13448",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "NT",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=CS&sel_crse_strt=791&sel_crse_end=791&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erkay Savaş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13449,
+    "subject": "TS",
+    "code": 599,
+    "type": null,
+    "section": "C",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13449",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 30,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=TS&sel_crse_strt=599&sel_crse_end=599&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aslı İkizoğlu Erensü"
         ]
       }
     ],
