@@ -962,8 +962,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 26,
-        "remaining": 9973
+        "actual": 25,
+        "remaining": 9974
       }
     ]
   },
@@ -1038,8 +1038,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 15,
-        "remaining": 15
+        "actual": 14,
+        "remaining": 16
       },
       {
         "title": "Waitlist Seats",
@@ -1050,8 +1050,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 26,
-        "remaining": 9973
+        "actual": 25,
+        "remaining": 9974
       }
     ]
   },
@@ -4657,8 +4657,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 135,
-        "remaining": 9864
+        "actual": 134,
+        "remaining": 9865
       }
     ],
     "prerequisites": [
@@ -4735,8 +4735,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 14,
-        "remaining": 16
+        "actual": 13,
+        "remaining": 17
       },
       {
         "title": "Waitlist Seats",
@@ -4747,8 +4747,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 135,
-        "remaining": 9864
+        "actual": 134,
+        "remaining": 9865
       }
     ]
   },
@@ -6027,8 +6027,8 @@
       {
         "title": "Seats",
         "capacity": 65,
-        "actual": 53,
-        "remaining": 12
+        "actual": 52,
+        "remaining": 13
       },
       {
         "title": "Waitlist Seats",
@@ -16281,8 +16281,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 22,
-        "remaining": 28
+        "actual": 21,
+        "remaining": 29
       },
       {
         "title": "Waitlist Seats",
@@ -16362,8 +16362,8 @@
       {
         "title": "Seats",
         "capacity": 45,
-        "actual": 17,
-        "remaining": 28
+        "actual": 16,
+        "remaining": 29
       },
       {
         "title": "Waitlist Seats",
@@ -25583,8 +25583,8 @@
       {
         "title": "Seats",
         "capacity": 600,
-        "actual": 512,
-        "remaining": 88
+        "actual": 513,
+        "remaining": 87
       },
       {
         "title": "Waitlist Seats",
@@ -43279,8 +43279,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 13,
-        "remaining": 37
+        "actual": 12,
+        "remaining": 38
       },
       {
         "title": "Waitlist Seats",
@@ -63750,8 +63750,8 @@
       {
         "title": "Seats",
         "capacity": 500,
-        "actual": 385,
-        "remaining": 115
+        "actual": 383,
+        "remaining": 117
       },
       {
         "title": "Waitlist Seats",
@@ -86022,8 +86022,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 16,
-        "remaining": 6
+        "actual": 17,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -86118,8 +86118,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 17,
-        "remaining": 5
+        "actual": 18,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -86216,8 +86216,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 16,
-        "remaining": 6
+        "actual": 17,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -104059,8 +104059,70 @@
       {
         "title": "Seats",
         "capacity": 1,
+        "actual": 1,
+        "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
         "actual": 0,
-        "remaining": 1
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Project Course",
+    "crn": 13450,
+    "subject": "SEC",
+    "code": 592,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13450",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 30,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=SEC&sel_crse_strt=592&sel_crse_end=592&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 27, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orçun Çetin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 4,
+        "actual": 0,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
