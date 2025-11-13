@@ -69061,8 +69061,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 8,
-        "remaining": 12
+        "actual": 5,
+        "remaining": 15
       },
       {
         "title": "Waitlist Seats",
@@ -69073,8 +69073,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 14,
-        "remaining": 9985
+        "actual": 11,
+        "remaining": 9988
       }
     ],
     "prerequisites": [
@@ -88838,7 +88838,8 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Yücel Saygın"
+          "Yücel Saygın",
+          "Mehmet Cem Aytekin"
         ]
       },
       {
@@ -88855,7 +88856,8 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Yücel Saygın"
+          "Yücel Saygın",
+          "Mehmet Cem Aytekin"
         ]
       }
     ],
@@ -103215,8 +103217,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 14,
-        "remaining": 9985
+        "actual": 11,
+        "remaining": 9988
       }
     ],
     "prerequisites": [
@@ -104121,8 +104123,8 @@
       {
         "title": "Seats",
         "capacity": 4,
-        "actual": 0,
-        "remaining": 4
+        "actual": 1,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
