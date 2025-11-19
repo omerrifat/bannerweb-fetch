@@ -54689,8 +54689,8 @@
       {
         "title": "Seats",
         "capacity": 14,
-        "actual": 9,
-        "remaining": 5
+        "actual": 10,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -89387,7 +89387,7 @@
           "to": "12:00 pm"
         },
         "days": "S",
-        "where": "Altunizade Campus 111",
+        "where": "Altunizade Campus 104",
         "dateRange": {
           "from": "Nov 18, 2025",
           "to": "Jan 03, 2026"
@@ -90182,7 +90182,7 @@
           "from": "7:00 pm",
           "to": "10:00 pm"
         },
-        "days": "W",
+        "days": "M",
         "where": "Altunizade Campus 111",
         "dateRange": {
           "from": "Nov 15, 2025",
@@ -90190,7 +90190,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Orçun Çetin"
+          "Albert Levi"
         ]
       },
       {
@@ -90207,7 +90207,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Orçun Çetin"
+          "Albert Levi"
         ]
       }
     ],
@@ -90264,7 +90264,7 @@
           "from": "7:00 pm",
           "to": "10:00 pm"
         },
-        "days": "M",
+        "days": "W",
         "where": "Altunizade Campus 111",
         "dateRange": {
           "from": "Nov 15, 2025",
@@ -90282,7 +90282,7 @@
           "to": "12:00 pm"
         },
         "days": "S",
-        "where": "Altunizade Campus 104",
+        "where": "Altunizade Campus 111",
         "dateRange": {
           "from": "Nov 15, 2025",
           "to": "Jan 03, 2026"
