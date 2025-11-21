@@ -22452,8 +22452,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 31,
-        "remaining": 1
+        "actual": 30,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -23051,8 +23051,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 19,
-        "remaining": 1
+        "actual": 18,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -50509,8 +50509,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 29,
-        "remaining": 1
+        "actual": 28,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -69824,8 +69824,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 19,
-        "remaining": 3
+        "actual": 18,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -69836,8 +69836,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 24,
-        "remaining": 9975
+        "actual": 23,
+        "remaining": 9976
       }
     ],
     "prerequisites": [
@@ -69909,8 +69909,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 24,
-        "remaining": 9975
+        "actual": 23,
+        "remaining": 9976
       }
     ]
   },
@@ -74184,8 +74184,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 16,
-        "remaining": 4
+        "actual": 15,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -74196,8 +74196,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 19,
-        "remaining": 9980
+        "actual": 18,
+        "remaining": 9981
       }
     ],
     "prerequisites": [
@@ -74286,8 +74286,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 19,
-        "remaining": 9980
+        "actual": 18,
+        "remaining": 9981
       }
     ]
   },

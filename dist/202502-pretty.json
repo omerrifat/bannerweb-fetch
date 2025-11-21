@@ -5533,7 +5533,7 @@
           "to": "12:30 pm"
         },
         "days": "T",
-        "where": "FENS G055",
+        "where": "FASS 1076",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -5675,7 +5675,7 @@
           "to": "2:30 pm"
         },
         "days": "T",
-        "where": "FENS G055",
+        "where": "FASS 1076",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -52441,7 +52441,7 @@
           "to": "4:30 pm"
         },
         "days": "F",
-        "where": "FASS G006",
+        "where": "FASS G022",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -81567,7 +81567,7 @@
           "to": "12:30 pm"
         },
         "days": "T",
-        "where": "FENS G059",
+        "where": "FENS G055",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -81625,8 +81625,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
+          "from": "1:40 pm",
+          "to": "3:30 pm"
         },
         "days": "T",
         "where": "FENS G055",
@@ -85592,7 +85592,7 @@
           "to": "1:30 pm"
         },
         "days": "F",
-        "where": null,
+        "where": "FASS 1076",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
