@@ -1189,8 +1189,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 26,
-        "remaining": 4
+        "actual": 27,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -4657,8 +4657,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 134,
-        "remaining": 9865
+        "actual": 135,
+        "remaining": 9864
       }
     ],
     "prerequisites": [
@@ -4735,8 +4735,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 13,
-        "remaining": 17
+        "actual": 14,
+        "remaining": 16
       },
       {
         "title": "Waitlist Seats",
@@ -4747,8 +4747,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 134,
-        "remaining": 9865
+        "actual": 135,
+        "remaining": 9864
       }
     ]
   },
@@ -6027,8 +6027,8 @@
       {
         "title": "Seats",
         "capacity": 65,
-        "actual": 52,
-        "remaining": 13
+        "actual": 53,
+        "remaining": 12
       },
       {
         "title": "Waitlist Seats",
@@ -16281,8 +16281,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 21,
-        "remaining": 29
+        "actual": 22,
+        "remaining": 28
       },
       {
         "title": "Waitlist Seats",
@@ -17651,8 +17651,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 34,
-        "remaining": 9965
+        "actual": 35,
+        "remaining": 9964
       }
     ],
     "corequisites": [
@@ -17730,8 +17730,8 @@
       {
         "title": "Seats",
         "capacity": 15,
-        "actual": 8,
-        "remaining": 7
+        "actual": 9,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -17742,8 +17742,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 34,
-        "remaining": 9965
+        "actual": 35,
+        "remaining": 9964
       }
     ],
     "corequisites": [
@@ -40902,8 +40902,8 @@
       {
         "title": "Seats",
         "capacity": 15,
-        "actual": 8,
-        "remaining": 7
+        "actual": 9,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -43168,8 +43168,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 10,
-        "remaining": 40
+        "actual": 12,
+        "remaining": 38
       },
       {
         "title": "Waitlist Seats",
@@ -43730,8 +43730,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 5,
-        "remaining": 45
+        "actual": 6,
+        "remaining": 44
       },
       {
         "title": "Waitlist Seats",
@@ -48598,8 +48598,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 37,
-        "remaining": 3
+        "actual": 38,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -56626,8 +56626,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 15,
-        "remaining": 5
+        "actual": 16,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -63750,8 +63750,8 @@
       {
         "title": "Seats",
         "capacity": 500,
-        "actual": 382,
-        "remaining": 118
+        "actual": 386,
+        "remaining": 114
       },
       {
         "title": "Waitlist Seats",
@@ -65078,8 +65078,8 @@
       {
         "title": "Seats",
         "capacity": 14,
-        "actual": 2,
-        "remaining": 12
+        "actual": 3,
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -69625,8 +69625,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 5,
-        "remaining": 15
+        "actual": 6,
+        "remaining": 14
       },
       {
         "title": "Waitlist Seats",
@@ -76120,8 +76120,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 2,
-        "remaining": 18
+        "actual": 3,
+        "remaining": 17
       },
       {
         "title": "Waitlist Seats",
@@ -89171,8 +89171,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 14,
-        "remaining": 6
+        "actual": 15,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -89250,8 +89250,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 14,
-        "remaining": 6
+        "actual": 15,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -89325,8 +89325,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 15,
-        "remaining": 5
+        "actual": 16,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -89378,7 +89378,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Emre Kaplan"
+        ]
       },
       {
         "type": "Class",
@@ -89393,15 +89395,17 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Emre Kaplan"
+        ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 14,
-        "remaining": 6
+        "actual": 15,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -103714,8 +103718,8 @@
       {
         "title": "Seats",
         "capacity": 14,
-        "actual": 0,
-        "remaining": 14
+        "actual": 1,
+        "remaining": 13
       },
       {
         "title": "Waitlist Seats",
@@ -104005,8 +104009,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 1,
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
