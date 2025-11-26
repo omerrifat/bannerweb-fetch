@@ -72728,7 +72728,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Selmiye Alkan Gürsel"
+          "Begüm Yarar Kaplan"
         ]
       },
       {
@@ -72745,7 +72745,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Selmiye Alkan Gürsel"
+          "Begüm Yarar Kaplan"
         ]
       }
     ],
@@ -84332,7 +84332,7 @@
           "to": "3:30 pm"
         },
         "days": "T",
-        "where": "FENS L055",
+        "where": "FASS 1011",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -84349,7 +84349,7 @@
           "to": "11:30 am"
         },
         "days": "R",
-        "where": "FENS L056",
+        "where": "FASS 1102",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -85691,6 +85691,83 @@
         "capacity": 10,
         "actual": 0,
         "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Deep Learning",
+    "crn": 23391,
+    "subject": "CS",
+    "code": 515,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23391",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=CS&sel_crse_strt=515&sel_crse_end=515&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "2:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L063",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
+        "where": "FENS G029",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
