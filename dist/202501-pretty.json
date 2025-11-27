@@ -6943,7 +6943,7 @@
           "to": "4:30 pm"
         },
         "days": "W",
-        "where": "FASS G006",
+        "where": "FASS 1079",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -20626,7 +20626,7 @@
           "to": "6:30 pm"
         },
         "days": "W",
-        "where": "FENS L063",
+        "where": "FASS G006",
         "dateRange": {
           "from": "Sep 29, 2025",
           "to": "Jan 03, 2026"
@@ -82260,7 +82260,7 @@
           "to": "10:00 pm"
         },
         "days": "T",
-        "where": "Altunizade Campus 104",
+        "where": "Altunizade Campus 105",
         "dateRange": {
           "from": "Sep 30, 2025",
           "to": "Oct 21, 2025"
@@ -82277,7 +82277,7 @@
           "to": "12:30 pm"
         },
         "days": "S",
-        "where": "Altunizade Campus 104",
+        "where": "Altunizade Campus 105",
         "dateRange": {
           "from": "Oct 04, 2025",
           "to": "Oct 18, 2025"
@@ -82311,7 +82311,7 @@
           "to": "10:00 pm"
         },
         "days": "T",
-        "where": "Altunizade Campus 104",
+        "where": "Altunizade Campus 105",
         "dateRange": {
           "from": "Nov 04, 2025",
           "to": "Nov 18, 2025"
@@ -82393,7 +82393,7 @@
           "to": "4:30 pm"
         },
         "days": "S",
-        "where": "Altunizade Campus 104",
+        "where": "Altunizade Campus 105",
         "dateRange": {
           "from": "Oct 04, 2025",
           "to": "Oct 18, 2025"
@@ -96343,7 +96343,7 @@
           "to": "4:50 pm"
         },
         "days": "T",
-        "where": "SL G042",
+        "where": "SL G000",
         "dateRange": {
           "from": "Nov 24, 2025",
           "to": "Jan 14, 2026"
@@ -98354,7 +98354,7 @@
           "to": "4:50 pm"
         },
         "days": "M",
-        "where": "FENS G059",
+        "where": "SL G000",
         "dateRange": {
           "from": "Nov 24, 2025",
           "to": "Jan 14, 2026"
@@ -99949,7 +99949,7 @@
           "to": "4:50 pm"
         },
         "days": "M",
-        "where": "SL G000",
+        "where": "FENS G059",
         "dateRange": {
           "from": "Nov 24, 2025",
           "to": "Jan 14, 2026"
@@ -104182,6 +104182,61 @@
         "scheduleType": null,
         "instructors": [
           "Ogün Adebali"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 13452,
+    "subject": "IE",
+    "code": 590,
+    "type": null,
+    "section": "02",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202501&crn_in=13452",
+    "term": "Fall 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202501&one_subj=IE&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 29, 2025",
+          "to": "Jan 03, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sinan Yıldırım"
         ]
       }
     ],

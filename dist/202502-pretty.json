@@ -52895,11 +52895,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "8:40 am",
-          "to": "9:30 am"
+          "from": "3:40 pm",
+          "to": "5:30 pm"
         },
-        "days": "M",
-        "where": "FENS L055",
+        "days": "W",
+        "where": "FENS L062",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -52912,11 +52912,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "3:40 pm",
-          "to": "5:30 pm"
+          "from": "5:40 pm",
+          "to": "6:30 pm"
         },
         "days": "W",
-        "where": "FENS L062",
+        "where": "FENS G035",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -85350,7 +85350,7 @@
     ]
   },
   {
-    "name": "Revitalization Movements in the Islamic World",
+    "name": "Religion and Politics in the Muslim World",
     "crn": 23386,
     "subject": "POLS",
     "code": 508,
