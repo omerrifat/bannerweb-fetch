@@ -1068,6 +1068,10 @@
         "actual": 0,
         "remaining": 0
       }
+    ],
+    "prerequisites": [
+      "ACC 201",
+      "MGMT 201"
     ]
   },
   {
@@ -85457,7 +85461,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Celile Itır Göğüş"
+        ]
       },
       {
         "type": "Class",
@@ -85472,7 +85478,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Celile Itır Göğüş"
+        ]
       }
     ],
     "availability": [
