@@ -354,9 +354,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 100,
+        "capacity": 80,
         "actual": 0,
-        "remaining": 100
+        "remaining": 80
       },
       {
         "title": "Waitlist Seats",
@@ -1080,7 +1080,7 @@
     "subject": "MGMT",
     "code": 402,
     "type": null,
-    "section": "A",
+    "section": "0",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20083",
     "term": "Spring 2025-2026",
     "levels": [
@@ -1119,7 +1119,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Kerem Kılıç"
+          "Türkan Yosun"
         ]
       },
       {
@@ -1136,16 +1136,16 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Kerem Kılıç"
+          "Türkan Yosun"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 60,
         "actual": 0,
-        "remaining": 50
+        "remaining": 60
       },
       {
         "title": "Waitlist Seats",
@@ -2944,7 +2944,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Selen Kars Ünlüoğlu"
+        ]
       }
     ],
     "availability": [
@@ -48199,70 +48201,6 @@
     ]
   },
   {
-    "name": "Entrepreneurship",
-    "crn": 21638,
-    "subject": "MGMT",
-    "code": 402,
-    "type": null,
-    "section": "B",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=21638",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 6,
-    "language": "English",
-    "faculty": "SOM",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MGMT&sel_crse_strt=402&sel_crse_end=402&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "10:40 am",
-          "to": "1:30 pm"
-        },
-        "days": "M",
-        "where": "FASS G006",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Kerem Kılıç"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 50,
-        "actual": 0,
-        "remaining": 50
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
     "name": "Independent Study",
     "crn": 21649,
     "subject": "VA",
@@ -84364,88 +84302,6 @@
         "capacity": 60,
         "actual": 0,
         "remaining": 60
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Financial Statement Analysis",
-    "crn": 23372,
-    "subject": "ACC",
-    "code": 405,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23372",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 6,
-    "language": "English",
-    "faculty": "SOM",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "method": "TR",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ACC&sel_crse_strt=405&sel_crse_end=405&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "9:40 am",
-          "to": "11:30 am"
-        },
-        "days": "M",
-        "where": "FMAN G060",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Onuralp Armağan"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "12:40 pm",
-          "to": "1:30 pm"
-        },
-        "days": "T",
-        "where": "FMAN G060",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Onuralp Armağan"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 50,
-        "actual": 0,
-        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
