@@ -1129,7 +1129,7 @@
           "to": "4:30 pm"
         },
         "days": "W",
-        "where": "FENS L035",
+        "where": "FMAN G013",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -1300,87 +1300,6 @@
     ],
     "prerequisites": [
       "ECON 202"
-    ]
-  },
-  {
-    "name": "International Business",
-    "crn": 20102,
-    "subject": "MGMT",
-    "code": 403,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20102",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 6,
-    "language": "English",
-    "faculty": "SOM",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MGMT&sel_crse_strt=403&sel_crse_end=403&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "9:40 am",
-          "to": "10:30 am"
-        },
-        "days": "R",
-        "where": "FMAN L018",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Aras Can Aktan"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "10:30 am"
-        },
-        "days": "F",
-        "where": "FMAN G013",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Aras Can Aktan"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 50,
-        "actual": 0,
-        "remaining": 50
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
     ]
   },
   {
@@ -1719,7 +1638,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ceyda Sinağ"
+        ]
       },
       {
         "type": "Class",
@@ -1734,7 +1655,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ceyda Sinağ"
+        ]
       }
     ],
     "availability": [
@@ -85649,6 +85572,23 @@
     "method": "TR",
     "credits": 3,
     "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MGMT&sel_crse_strt=426&sel_crse_end=426&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "T",
+        "where": "FASS G018",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
     "availability": [
       {
         "title": "Seats",
