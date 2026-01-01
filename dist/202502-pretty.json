@@ -192,11 +192,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "8:40 am",
-          "to": "11:30 am"
+          "from": "9:40 am",
+          "to": "12:30 pm"
         },
         "days": "M",
-        "where": "FMAN G056",
+        "where": "FMAN G042",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -254,8 +254,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
+          "from": "9:40 am",
+          "to": "11:30 am"
         },
         "days": "W",
         "where": "FENS L035",
@@ -60677,8 +60677,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "8:40 am",
-          "to": "11:30 am"
+          "from": "11:40 am",
+          "to": "2:30 pm"
         },
         "days": "W",
         "where": "FMAN G062",
@@ -60743,11 +60743,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
+          "from": "9:40 am",
+          "to": "11:30 am"
         },
-        "days": "M",
-        "where": "FENS L030",
+        "days": "F",
+        "where": "FMAN G062",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -78464,11 +78464,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "8:40 am",
-          "to": "11:30 am"
+          "from": "11:40 am",
+          "to": "2:30 pm"
         },
         "days": "F",
-        "where": "FMAN G056",
+        "where": "FMAN G062",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -78526,10 +78526,10 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
+          "from": "12:40 pm",
+          "to": "2:30 pm"
         },
-        "days": "W",
+        "days": "M",
         "where": "FMAN G056",
         "dateRange": {
           "from": "Feb 16, 2026",
