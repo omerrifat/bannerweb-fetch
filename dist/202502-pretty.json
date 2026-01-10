@@ -23597,7 +23597,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Emrehan Aktuğ"
+          "Riccardo Franceschin"
         ]
       },
       {
@@ -23614,7 +23614,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Emrehan Aktuğ"
+          "Riccardo Franceschin"
         ]
       }
     ],
@@ -24034,7 +24034,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Emrehan Aktuğ"
+          "Riccardo Franceschin"
         ]
       }
     ],
@@ -85603,6 +85603,100 @@
         "scheduleType": null,
         "instructors": [
           "Alex Cayrol"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Science, Engineering and Politics of Food",
+    "crn": 23398,
+    "subject": "IF",
+    "code": 201,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23398",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=IF&sel_crse_strt=201&sel_crse_end=201&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:40 pm",
+          "to": "4:30 pm"
+        },
+        "days": "T",
+        "where": "FASS G025",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nuri Zafer Yenal",
+          "Ogün Adebali",
+          "Emre Erol",
+          "Mehmet Zafer Gedik",
+          "Nihal Öztolan Erol",
+          "Levent Öztürk",
+          "Burcu Saner Okan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
+        "where": "FASS G022",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nuri Zafer Yenal",
+          "Ogün Adebali",
+          "Emre Erol",
+          "Mehmet Zafer Gedik",
+          "Nihal Öztolan Erol",
+          "Levent Öztürk",
+          "Burcu Saner Okan"
         ]
       }
     ],
