@@ -57899,8 +57899,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 8,
-        "remaining": 24
+        "actual": 9,
+        "remaining": 23
       },
       {
         "title": "Waitlist Seats",
@@ -89309,7 +89309,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Hasan Sait Ölmez"
+        ]
       },
       {
         "type": "Class",
@@ -89324,7 +89326,9 @@
           "to": "Jan 03, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Hasan Sait Ölmez"
+        ]
       }
     ],
     "availability": [
