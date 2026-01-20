@@ -86853,5 +86853,69 @@
         "remaining": 0
       }
     ]
+  },
+  {
+    "name": "Entrepreneurial Skills Workshop II",
+    "crn": 23413,
+    "subject": "MGMT",
+    "code": 496,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23413",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Workshop",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MGMT&sel_crse_strt=496&sel_crse_end=496&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "11:30 am"
+        },
+        "days": "W",
+        "where": "FMAN G062",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Türkan Yosun"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 5,
+        "actual": 0,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
   }
 ]
