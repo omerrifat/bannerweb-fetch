@@ -85250,7 +85250,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Mehmet Emre Özfatura"
+        ]
       },
       {
         "type": "Class",
@@ -85265,7 +85267,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Mehmet Emre Özfatura"
+        ]
       }
     ],
     "availability": [
@@ -86401,7 +86405,7 @@
           "to": "10:00 pm"
         },
         "days": "M",
-        "where": "Altunizade Campus G08-G09",
+        "where": "Altunizade Campus G08",
         "dateRange": {
           "from": "Jan 17, 2026",
           "to": "Mar 02, 2026"
@@ -86418,7 +86422,7 @@
           "to": "4:00 pm"
         },
         "days": "S",
-        "where": "Altunizade Campus G08-G09",
+        "where": "Altunizade Campus G08",
         "dateRange": {
           "from": "Jan 17, 2026",
           "to": "Mar 02, 2026"
@@ -86483,7 +86487,7 @@
           "to": "10:00 pm"
         },
         "days": "W",
-        "where": "Altunizade Campus G08-G09",
+        "where": "Altunizade Campus G08",
         "dateRange": {
           "from": "Jan 17, 2026",
           "to": "Mar 04, 2026"
@@ -86500,7 +86504,7 @@
           "to": "12:00 pm"
         },
         "days": "S",
-        "where": "Altunizade Campus G08-G09",
+        "where": "Altunizade Campus G08",
         "dateRange": {
           "from": "Jan 17, 2026",
           "to": "Mar 04, 2026"
@@ -86647,7 +86651,7 @@
           "to": "10:00 pm"
         },
         "days": "W",
-        "where": "Altunizade Campus G08-G09",
+        "where": "Altunizade Campus G08",
         "dateRange": {
           "from": "Mar 11, 2026",
           "to": "Apr 29, 2026"
@@ -86664,7 +86668,7 @@
           "to": "4:00 pm"
         },
         "days": "S",
-        "where": "Altunizade Campus G08-G09",
+        "where": "Altunizade Campus G08",
         "dateRange": {
           "from": "Mar 11, 2026",
           "to": "Apr 29, 2026"
@@ -86729,7 +86733,7 @@
           "to": "10:00 pm"
         },
         "days": "M",
-        "where": "Altunizade Campus G08-G09",
+        "where": "Altunizade Campus G08",
         "dateRange": {
           "from": "Mar 09, 2026",
           "to": "Apr 27, 2026"
@@ -86746,7 +86750,7 @@
           "to": "12:00 pm"
         },
         "days": "S",
-        "where": "Altunizade Campus G08-G09",
+        "where": "Altunizade Campus G08",
         "dateRange": {
           "from": "Mar 09, 2026",
           "to": "Apr 27, 2026"
@@ -86811,7 +86815,7 @@
           "to": "10:00 pm"
         },
         "days": "T",
-        "where": "Altunizade Campus G08-G09",
+        "where": "Altunizade Campus G08",
         "dateRange": {
           "from": "Mar 10, 2026",
           "to": "Apr 30, 2026"
@@ -86828,7 +86832,7 @@
           "to": "10:00 pm"
         },
         "days": "R",
-        "where": "Altunizade Campus G08-G09",
+        "where": "Altunizade Campus G08",
         "dateRange": {
           "from": "Mar 10, 2026",
           "to": "Apr 30, 2026"
