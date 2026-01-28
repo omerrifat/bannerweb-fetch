@@ -41916,7 +41916,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ahmet Demirelli"
+          "Mohammad Yusaf Azimi"
         ]
       }
     ],
@@ -49236,7 +49236,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Elif Dürdane Koç"
+          "Saima Gül"
         ]
       }
     ],
@@ -72114,9 +72114,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 1,
+        "capacity": 15,
         "actual": 0,
-        "remaining": 1
+        "remaining": 15
       },
       {
         "title": "Waitlist Seats",
@@ -93551,9 +93551,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 0,
+        "capacity": 30,
         "actual": 0,
-        "remaining": 0
+        "remaining": 30
       },
       {
         "title": "Waitlist Seats",
@@ -93571,6 +93571,1379 @@
     "prerequisites": [
       "SPS 101",
       "SPS 102"
+    ]
+  },
+  {
+    "name": "Transformation Practices and Action Research",
+    "crn": 23502,
+    "subject": "MART",
+    "code": 801,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23502",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MART&sel_crse_strt=801&sel_crse_end=801&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "W",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Feb 18, 2026",
+          "to": "Feb 18, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "W",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Mar 04, 2026",
+          "to": "Apr 01, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "W",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Apr 15, 2026",
+          "to": "Apr 15, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Apr 17, 2026",
+          "to": "Apr 17, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Apr 18, 2026",
+          "to": "Apr 18, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Apr 18, 2026",
+          "to": "Apr 18, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "W",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Apr 22, 2026",
+          "to": "Apr 29, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "W",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "May 13, 2026",
+          "to": "May 20, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Reflective Practicum in Organizational Transformation",
+    "crn": 23503,
+    "subject": "MART",
+    "code": 805,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23503",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MART&sel_crse_strt=805&sel_crse_end=805&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jul 24, 2026",
+          "to": "Jul 24, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "5:30 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jul 24, 2026",
+          "to": "Jul 24, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jul 25, 2026",
+          "to": "Jul 25, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "5:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jul 25, 2026",
+          "to": "Jul 25, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "M",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jul 27, 2026",
+          "to": "Jul 27, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jul 28, 2026",
+          "to": "Jul 28, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "W",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jul 29, 2026",
+          "to": "Jul 29, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jul 30, 2026",
+          "to": "Jul 30, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Aug 01, 2026",
+          "to": "Aug 01, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "5:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Aug 01, 2026",
+          "to": "Aug 01, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "U",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Aug 02, 2026",
+          "to": "Aug 02, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "5:30 pm"
+        },
+        "days": "U",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Aug 02, 2026",
+          "to": "Aug 02, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Corporate Innovation and Managing the Ecosystem",
+    "crn": 23504,
+    "subject": "MART",
+    "code": 807,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23504",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MART&sel_crse_strt=807&sel_crse_end=807&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Apr 07, 2026",
+          "to": "Apr 21, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aras Can Aktan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "May 16, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aras Can Aktan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "May 21, 2026",
+          "to": "May 21, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aras Can Aktan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jun 02, 2026",
+          "to": "Jul 14, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aras Can Aktan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jul 18, 2026",
+          "to": "Jul 18, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aras Can Aktan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jul 18, 2026",
+          "to": "Jul 18, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aras Can Aktan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Leadership for Managing Transformations",
+    "crn": 23505,
+    "subject": "MART",
+    "code": 809,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23505",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MART&sel_crse_strt=809&sel_crse_end=809&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "May 16, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selen Kars Ünlüoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jun 06, 2026",
+          "to": "Jun 06, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selen Kars Ünlüoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jun 06, 2026",
+          "to": "Jun 06, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selen Kars Ünlüoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jun 13, 2026",
+          "to": "Jun 13, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selen Kars Ünlüoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jun 13, 2026",
+          "to": "Jun 13, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selen Kars Ünlüoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jun 20, 2026",
+          "to": "Jun 20, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selen Kars Ünlüoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jun 20, 2026",
+          "to": "Jun 20, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selen Kars Ünlüoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jun 27, 2026",
+          "to": "Jun 27, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selen Kars Ünlüoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jun 27, 2026",
+          "to": "Jun 27, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selen Kars Ünlüoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jul 04, 2026",
+          "to": "Jul 04, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selen Kars Ünlüoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jul 04, 2026",
+          "to": "Jul 04, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selen Kars Ünlüoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jul 11, 2026",
+          "to": "Jul 11, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selen Kars Ünlüoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jul 11, 2026",
+          "to": "Jul 11, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selen Kars Ünlüoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Sustainability Transformation",
+    "crn": 23506,
+    "subject": "MART",
+    "code": 816,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23506",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MART&sel_crse_strt=816&sel_crse_end=816&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Feb 19, 2026",
+          "to": "Mar 12, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ozan Duygulu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Mar 26, 2026",
+          "to": "Apr 09, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ozan Duygulu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Digital Transformation and Innovation",
+    "crn": 23507,
+    "subject": "MART",
+    "code": 818,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23507",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MART&sel_crse_strt=818&sel_crse_end=818&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jun 04, 2026",
+          "to": "Jul 16, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Corporate Diplomacy",
+    "crn": 23508,
+    "subject": "MART",
+    "code": 821,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23508",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MART&sel_crse_strt=821&sel_crse_end=821&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "M",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Apr 06, 2026",
+          "to": "Apr 27, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Süel"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "M",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "May 11, 2026",
+          "to": "May 18, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Süel"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "M",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Jun 01, 2026",
+          "to": "Jun 01, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Süel"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Facilitation and Participative Methods",
+    "crn": 23509,
+    "subject": "MART",
+    "code": 822,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23509",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MART&sel_crse_strt=822&sel_crse_end=822&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Mar 06, 2026",
+          "to": "Mar 06, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Mar 07, 2026",
+          "to": "Mar 07, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "5:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Mar 07, 2026",
+          "to": "Mar 07, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "F",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Mar 27, 2026",
+          "to": "Mar 27, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Mar 28, 2026",
+          "to": "Mar 28, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "5:30 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Mar 28, 2026",
+          "to": "Mar 28, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Artificial Intelligence Driven Transformation",
+    "crn": 23510,
+    "subject": "MART",
+    "code": 825,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23510",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 3,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 1.5,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MART&sel_crse_strt=825&sel_crse_end=825&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "M",
+        "where": "Altunizade Campus 201",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Mar 30, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project",
+    "crn": 23511,
+    "subject": "MART",
+    "code": 820,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23511",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 30,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MART&sel_crse_strt=820&sel_crse_end=820&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Feb 13, 2026",
+          "to": "Aug 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Oğuz Babüroğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
     ]
   }
 ]
