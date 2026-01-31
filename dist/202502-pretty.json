@@ -5833,10 +5833,10 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "4:30 pm"
         },
-        "days": "F",
+        "days": "R",
         "where": "FMAN G071",
         "dateRange": {
           "from": "Feb 16, 2026",
@@ -6209,11 +6209,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "3:30 pm"
         },
         "days": "F",
-        "where": "FASS 1098",
+        "where": "FASS 1099",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -6360,11 +6360,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "3:30 pm"
         },
         "days": "F",
-        "where": "FASS 1098",
+        "where": "FASS 1099",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -8736,11 +8736,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "8:40 am",
+          "to": "9:30 am"
         },
         "days": "F",
-        "where": "FENS G032",
+        "where": "FASS 1010",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -10435,11 +10435,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "4:30 pm"
         },
         "days": "F",
-        "where": "FENS L048",
+        "where": "FENS L030",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -11597,11 +11597,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "8:40 am",
+          "to": "9:30 am"
         },
         "days": "F",
-        "where": "FENS G035",
+        "where": "FENS G032",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -24143,11 +24143,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "1:30 pm"
+          "from": "11:40 am",
+          "to": "12:30 pm"
         },
         "days": "F",
-        "where": "FASS 1098",
+        "where": "FASS",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -25106,8 +25106,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "10:40 am",
-          "to": "1:30 pm"
+          "from": "9:40 am",
+          "to": "12:30 pm"
         },
         "days": "F",
         "where": "FENS 1033",
@@ -26547,11 +26547,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
+          "from": "11:40 am",
+          "to": "1:30 pm"
         },
-        "days": "F",
-        "where": "FASS 1097",
+        "days": "W",
+        "where": "FENS G025",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -27059,11 +27059,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
+          "from": "10:40 am",
+          "to": "12:30 pm"
         },
         "days": "F",
-        "where": "FASS 1096",
+        "where": "FASS 1098",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -33932,11 +33932,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "4:30 pm"
         },
         "days": "F",
-        "where": "FENS G077",
+        "where": "FMAN G071",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -35217,8 +35217,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "1:30 pm"
+          "from": "5:40 pm",
+          "to": "6:30 pm"
         },
         "days": "F",
         "where": "FASS 1089",
@@ -35288,8 +35288,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "1:30 pm"
+          "from": "5:40 pm",
+          "to": "6:30 pm"
         },
         "days": "F",
         "where": "FASS G006",
@@ -35359,8 +35359,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "1:30 pm"
+          "from": "5:40 pm",
+          "to": "6:30 pm"
         },
         "days": "F",
         "where": "FASS G048",
@@ -46185,14 +46185,14 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Devrim Coşkun"
+          "Zaeema Khan"
         ]
       },
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "9:40 am",
+          "to": "10:30 am"
         },
         "days": "F",
         "where": "FENS L067",
@@ -46202,7 +46202,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Devrim Coşkun"
+          "Zaeema Khan"
         ]
       }
     ],
@@ -46263,7 +46263,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Devrim Coşkun"
+          "Zaeema Khan"
         ]
       }
     ],
@@ -54499,7 +54499,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Bahri Atay Özgövde"
+          "Mustafa Kağan Gürkan"
         ]
       }
     ],
@@ -57708,7 +57708,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Suant Jane Sezgin"
+        ]
       },
       {
         "type": "Class",
@@ -57723,7 +57725,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Suant Jane Sezgin"
+        ]
       }
     ],
     "availability": [
@@ -57788,7 +57792,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Suant Jane Sezgin"
+        ]
       },
       {
         "type": "Class",
@@ -57803,7 +57809,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Suant Jane Sezgin"
+        ]
       }
     ],
     "availability": [
@@ -57868,7 +57876,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Suant Jane Sezgin"
+        ]
       },
       {
         "type": "Class",
@@ -57883,7 +57893,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Suant Jane Sezgin"
+        ]
       }
     ],
     "availability": [
@@ -57948,7 +57960,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Suant Jane Sezgin"
+        ]
       },
       {
         "type": "Class",
@@ -57963,7 +57977,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Suant Jane Sezgin"
+        ]
       }
     ],
     "availability": [
@@ -61729,11 +61745,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "11:40 am",
+          "to": "12:30 pm"
         },
         "days": "F",
-        "where": "FENS L065",
+        "where": "FENS L061",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -64305,11 +64321,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "1:30 pm"
+          "from": "11:40 am",
+          "to": "12:30 pm"
         },
         "days": "F",
-        "where": "FASS 1075",
+        "where": "FASS G025",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -66641,8 +66657,8 @@
           "from": "10:40 am",
           "to": "1:30 pm"
         },
-        "days": "W",
-        "where": "FENS L063",
+        "days": "M",
+        "where": "FASS G006",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -73069,8 +73085,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "3:40 pm",
-          "to": "4:30 pm"
+          "from": "5:40 pm",
+          "to": "6:30 pm"
         },
         "days": "F",
         "where": "FASS 1081",
@@ -73148,8 +73164,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "3:30 pm"
+          "from": "2:40 pm",
+          "to": "4:30 pm"
         },
         "days": "F",
         "where": "FASS G048",
@@ -73408,11 +73424,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "11:40 am",
+          "to": "12:30 pm"
         },
         "days": "F",
-        "where": "FENS L065",
+        "where": "FENS L061",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -74818,11 +74834,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "4:30 pm"
+          "from": "9:40 am",
+          "to": "12:30 pm"
         },
-        "days": "F",
-        "where": "FASS 2080",
+        "days": "R",
+        "where": "FASS 2101",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -75718,8 +75734,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "3:30 pm"
         },
         "days": "F",
         "where": "FENS L061",
@@ -75812,8 +75828,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "3:30 pm"
         },
         "days": "F",
         "where": "FENS L061",
@@ -77550,27 +77566,10 @@
         "type": "Class",
         "time": {
           "from": "12:40 pm",
-          "to": "2:30 pm"
+          "to": "3:30 pm"
         },
         "days": "R",
         "where": "FENS L035",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Hüseyin Sungur Kuyumcuoğlu"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
-        },
-        "days": "F",
-        "where": "FASS 1075",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -77638,27 +77637,10 @@
         "type": "Class",
         "time": {
           "from": "12:40 pm",
-          "to": "2:30 pm"
+          "to": "3:30 pm"
         },
         "days": "R",
         "where": "FENS L035",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Hüseyin Sungur Kuyumcuoğlu"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
-        },
-        "days": "F",
-        "where": "FASS 1075",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -77909,8 +77891,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "3:30 pm"
         },
         "days": "F",
         "where": "FASS G030",
@@ -79648,11 +79630,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
+          "from": "11:40 am",
+          "to": "1:30 pm"
         },
-        "days": "F",
-        "where": "FENS L058",
+        "days": "W",
+        "where": "FENS L035",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -80990,11 +80972,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "1:30 pm"
+          "from": "5:40 pm",
+          "to": "6:30 pm"
         },
         "days": "F",
-        "where": "FENS L065",
+        "where": "FASS 1079",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -86625,8 +86607,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "10:40 am",
-          "to": "1:30 pm"
+          "from": "9:40 am",
+          "to": "12:30 pm"
         },
         "days": "F",
         "where": "FASS 1076",
@@ -87886,8 +87868,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 11,
-        "remaining": 19
+        "actual": 10,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -87968,8 +87950,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 29,
-        "remaining": 11
+        "actual": 30,
+        "remaining": 10
       },
       {
         "title": "Waitlist Seats",
@@ -88050,8 +88032,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 29,
-        "remaining": 11
+        "actual": 30,
+        "remaining": 10
       },
       {
         "title": "Waitlist Seats",
@@ -88214,8 +88196,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 29,
-        "remaining": 11
+        "actual": 30,
+        "remaining": 10
       },
       {
         "title": "Waitlist Seats",
@@ -88296,8 +88278,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 22,
-        "remaining": 18
+        "actual": 23,
+        "remaining": 17
       },
       {
         "title": "Waitlist Seats",
@@ -88378,8 +88360,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 9,
-        "remaining": 31
+        "actual": 8,
+        "remaining": 32
       },
       {
         "title": "Waitlist Seats",
