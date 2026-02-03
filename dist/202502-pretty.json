@@ -258,7 +258,7 @@
           "to": "11:30 am"
         },
         "days": "W",
-        "where": "FENS L035",
+        "where": "FMAN G041",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -4224,11 +4224,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "8:40 am",
-          "to": "10:30 am"
+          "from": "10:40 am",
+          "to": "12:30 pm"
         },
         "days": "F",
-        "where": "FASS G052",
+        "where": "FASS 1076",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -12487,9 +12487,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -12571,9 +12571,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -12655,9 +12655,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 25
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -12739,9 +12739,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 25
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -12823,9 +12823,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -12907,9 +12907,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -12991,9 +12991,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -13075,9 +13075,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -13159,9 +13159,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -13243,9 +13243,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 25
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -13327,9 +13327,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 25
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -13411,9 +13411,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -13495,9 +13495,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -13579,9 +13579,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -13854,9 +13854,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -13938,9 +13938,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -14022,9 +14022,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 25
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -14106,9 +14106,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 25
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -14253,9 +14253,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -14337,9 +14337,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -14421,9 +14421,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -14505,9 +14505,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -14589,9 +14589,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -14673,9 +14673,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 25
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -14757,9 +14757,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 25
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -14841,9 +14841,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -14925,9 +14925,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -15009,9 +15009,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -15362,7 +15362,6 @@
         "instructors": [
           "Atacan Atakan",
           "Burhan İzgin",
-          "Berna Kamay",
           "Banu Turnaoğlu"
         ]
       }
@@ -15370,9 +15369,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 60,
+        "capacity": 40,
         "actual": 0,
-        "remaining": 60
+        "remaining": 40
       },
       {
         "title": "Waitlist Seats",
@@ -15422,7 +15421,6 @@
         "instructors": [
           "Atacan Atakan",
           "Burhan İzgin",
-          "Berna Kamay",
           "Banu Turnaoğlu"
         ]
       }
@@ -15430,9 +15428,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 250,
+        "capacity": 300,
         "actual": 0,
-        "remaining": 250
+        "remaining": 300
       },
       {
         "title": "Waitlist Seats",
@@ -15482,7 +15480,6 @@
         "instructors": [
           "Atacan Atakan",
           "Burhan İzgin",
-          "Berna Kamay",
           "Mehmet Kuru"
         ]
       }
@@ -15490,9 +15487,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 310,
+        "capacity": 260,
         "actual": 0,
-        "remaining": 310
+        "remaining": 260
       },
       {
         "title": "Waitlist Seats",
@@ -15542,7 +15539,6 @@
         "instructors": [
           "Atacan Atakan",
           "Burhan İzgin",
-          "Berna Kamay",
           "Mehmet Kuru"
         ]
       }
@@ -15550,9 +15546,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 310,
+        "capacity": 260,
         "actual": 0,
-        "remaining": 310
+        "remaining": 260
       },
       {
         "title": "Waitlist Seats",
@@ -15602,7 +15598,6 @@
         "instructors": [
           "Atacan Atakan",
           "Burhan İzgin",
-          "Berna Kamay",
           "Mehmet Kuru"
         ]
       }
@@ -15610,9 +15605,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 120,
+        "capacity": 75,
         "actual": 0,
-        "remaining": 120
+        "remaining": 75
       },
       {
         "title": "Waitlist Seats",
@@ -19627,9 +19622,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 300,
+        "capacity": 210,
         "actual": 0,
-        "remaining": 300
+        "remaining": 210
       },
       {
         "title": "Waitlist Seats",
@@ -19795,9 +19790,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 300,
+        "capacity": 210,
         "actual": 0,
-        "remaining": 300
+        "remaining": 210
       },
       {
         "title": "Waitlist Seats",
@@ -19963,9 +19958,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 300,
+        "capacity": 210,
         "actual": 0,
-        "remaining": 300
+        "remaining": 210
       },
       {
         "title": "Waitlist Seats",
@@ -20099,9 +20094,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 37,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 37
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -20155,7 +20150,7 @@
           "to": "10:30 am"
         },
         "days": "F",
-        "where": "FASS G022",
+        "where": "FASS 1103",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -20476,77 +20471,6 @@
     ]
   },
   {
-    "name": "Calculus II - Recitation",
-    "crn": 20616,
-    "subject": "MATH",
-    "code": 102,
-    "type": "R",
-    "section": "A6",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20616",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MATH&sel_crse_strt=102R&sel_crse_end=102R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "10:30 am"
-        },
-        "days": "F",
-        "where": "FASS 1001",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Gamze Kuruk",
-          "Matteo Paganin"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 35,
-        "actual": 0,
-        "remaining": 35
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
-      }
-    ],
-    "corequisites": [
-      "MATH 102"
-    ]
-  },
-  {
     "name": "Programming Fundamentals Recitation",
     "crn": 20617,
     "subject": "CS",
@@ -20689,77 +20613,6 @@
     ]
   },
   {
-    "name": "Calculus II - Recitation",
-    "crn": 20619,
-    "subject": "MATH",
-    "code": 102,
-    "type": "R",
-    "section": "A7",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20619",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MATH&sel_crse_strt=102R&sel_crse_end=102R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "10:30 am"
-        },
-        "days": "F",
-        "where": "FASS 1103",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Gamze Kuruk",
-          "Matteo Paganin"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 35,
-        "actual": 0,
-        "remaining": 35
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
-      }
-    ],
-    "corequisites": [
-      "MATH 102"
-    ]
-  },
-  {
     "name": "Programming Fundamentals Recitation",
     "crn": 20620,
     "subject": "CS",
@@ -20865,7 +20718,7 @@
           "to": "12:30 pm"
         },
         "days": "F",
-        "where": "FASS G006",
+        "where": "FASS 1102",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -20880,9 +20733,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 37,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 37
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -21396,77 +21249,6 @@
     ],
     "corequisites": [
       "CS 201"
-    ]
-  },
-  {
-    "name": "Calculus II - Recitation",
-    "crn": 20631,
-    "subject": "MATH",
-    "code": 102,
-    "type": "R",
-    "section": "B7",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20631",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MATH&sel_crse_strt=102R&sel_crse_end=102R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "10:40 am",
-          "to": "12:30 pm"
-        },
-        "days": "F",
-        "where": "FASS 1102",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Gamze Kuruk",
-          "Matteo Paganin"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 35,
-        "actual": 0,
-        "remaining": 35
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
-      }
-    ],
-    "corequisites": [
-      "MATH 102"
     ]
   },
   {
@@ -22315,9 +22097,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 36,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 36
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -22465,9 +22247,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 38,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 38
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -22536,9 +22318,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 36,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 36
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -22618,77 +22400,6 @@
     ]
   },
   {
-    "name": "Calculus II - Recitation",
-    "crn": 20656,
-    "subject": "MATH",
-    "code": 102,
-    "type": "R",
-    "section": "C4",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20656",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MATH&sel_crse_strt=102R&sel_crse_end=102R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
-        },
-        "days": "F",
-        "where": "FASS 1099",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Gamze Kuruk",
-          "Matteo Paganin"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 36,
-        "actual": 0,
-        "remaining": 36
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
-      }
-    ],
-    "corequisites": [
-      "MATH 102"
-    ]
-  },
-  {
     "name": "Games and Strategies - Recitation",
     "crn": 20657,
     "subject": "ECON",
@@ -22746,77 +22457,6 @@
         "actual": 0,
         "remaining": 0
       }
-    ]
-  },
-  {
-    "name": "Calculus II - Recitation",
-    "crn": 20658,
-    "subject": "MATH",
-    "code": 102,
-    "type": "R",
-    "section": "C5",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20658",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MATH&sel_crse_strt=102R&sel_crse_end=102R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
-        },
-        "days": "F",
-        "where": "FASS 1101",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Gamze Kuruk",
-          "Matteo Paganin"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 36,
-        "actual": 0,
-        "remaining": 36
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
-      }
-    ],
-    "corequisites": [
-      "MATH 102"
     ]
   },
   {
@@ -24147,7 +23787,7 @@
           "to": "12:30 pm"
         },
         "days": "F",
-        "where": "FASS",
+        "where": "FENS L056",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -32329,11 +31969,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "11:40 am",
+          "to": "12:30 pm"
         },
-        "days": "F",
-        "where": "FASS G022",
+        "days": "M",
+        "where": "FASS G049",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -32401,11 +32041,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "11:40 am",
+          "to": "12:30 pm"
         },
-        "days": "F",
-        "where": "FASS G049",
+        "days": "M",
+        "where": "FASS G052",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -47887,9 +47527,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 38,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 38
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -53713,9 +53353,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 37,
+        "capacity": 35,
         "actual": 0,
-        "remaining": 37
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -54488,11 +54128,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "4:30 pm"
+          "from": "9:40 am",
+          "to": "12:30 pm"
         },
-        "days": "R",
-        "where": "FASS 1010",
+        "days": "F",
+        "where": "FASS G006",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -57733,9 +57373,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -57817,9 +57457,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -57901,9 +57541,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -57985,9 +57625,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 18,
         "actual": 0,
-        "remaining": 22
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -61974,8 +61614,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "9:40 am",
-          "to": "11:30 am"
+          "from": "8:40 am",
+          "to": "10:30 am"
         },
         "days": "F",
         "where": "FMAN G062",
@@ -64588,8 +64228,8 @@
           "from": "12:40 pm",
           "to": "1:30 pm"
         },
-        "days": "F",
-        "where": "FASS G022",
+        "days": "M",
+        "where": "FASS G052",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -79842,8 +79482,25 @@
       {
         "type": "Class",
         "time": {
-          "from": "11:40 am",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "FMAN G062",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ömür Kafa"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "12:30 pm"
         },
         "days": "F",
         "where": "FMAN G062",
@@ -81342,7 +80999,8 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ünal Ertan"
+          "Ünal Ertan",
+          "Yuki Kaneko Göğüş"
         ]
       },
       {
@@ -81359,7 +81017,8 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ünal Ertan"
+          "Ünal Ertan",
+          "Yuki Kaneko Göğüş"
         ]
       }
     ],
@@ -81426,14 +81085,15 @@
           "to": "1:30 pm"
         },
         "days": "M",
-        "where": "FASS 1010",
+        "where": "FASS 1050",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
         },
         "scheduleType": null,
         "instructors": [
-          "Mehmet Ali Alpar"
+          "Mehmet Ali Alpar",
+          "Yuki Kaneko Göğüş"
         ]
       },
       {
@@ -81450,7 +81110,8 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Mehmet Ali Alpar"
+          "Mehmet Ali Alpar",
+          "Yuki Kaneko Göğüş"
         ]
       }
     ],
@@ -85587,8 +85248,8 @@
           "from": "12:40 pm",
           "to": "1:30 pm"
         },
-        "days": "F",
-        "where": "FASS G049",
+        "days": "M",
+        "where": "FASS G056",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -86611,7 +86272,7 @@
           "to": "12:30 pm"
         },
         "days": "F",
-        "where": "FASS 1076",
+        "where": "FASS G022",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -95928,6 +95589,138 @@
         "actual": 0,
         "remaining": 0
       }
+    ]
+  },
+  {
+    "name": "Readings and Research in Political Science: Feminist Political Theory",
+    "crn": 23527,
+    "subject": "POLS",
+    "code": 700,
+    "type": "FT",
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23527",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "NT",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=POLS&sel_crse_strt=700FT&sel_crse_end=700FT&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Gülrü Göker"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 5,
+        "actual": 0,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Calculus II - Recitation",
+    "crn": 23528,
+    "subject": "MATH",
+    "code": 102,
+    "type": "R",
+    "section": "D3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23528",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MATH&sel_crse_strt=102R&sel_crse_end=102R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "2:40 pm",
+          "to": "4:30 pm"
+        },
+        "days": "F",
+        "where": "FENS L055",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gamze Kuruk",
+          "Matteo Paganin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
+      }
+    ],
+    "corequisites": [
+      "MATH 102"
     ]
   }
 ]
