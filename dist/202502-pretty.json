@@ -1,5 +1,2388 @@
 [
   {
+    "name": "English Route 2",
+    "crn": 20001,
+    "subject": "ENG",
+    "code": 2,
+    "type": null,
+    "section": "2A2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20001",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0002&sel_crse_end=0002&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL G038",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Arda Bayraktaroğlu",
+          "Halil Ergül"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL G038",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Arda Bayraktaroğlu",
+          "Halil Ergül"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL G018",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Arda Bayraktaroğlu",
+          "Halil Ergül"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Arda Bayraktaroğlu",
+          "Halil Ergül"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Arda Bayraktaroğlu",
+          "Halil Ergül"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Arda Bayraktaroğlu",
+          "Halil Ergül"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL G016",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Arda Bayraktaroğlu",
+          "Halil Ergül"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 2",
+    "crn": 20002,
+    "subject": "ENG",
+    "code": 2,
+    "type": null,
+    "section": "2B2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20002",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0002&sel_crse_end=0002&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL G016",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Metin Çırpan",
+          "Halil Ergül",
+          "Büşra Nur Özer Musaoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL G016",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Metin Çırpan",
+          "Halil Ergül",
+          "Büşra Nur Özer Musaoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL G017",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Metin Çırpan",
+          "Halil Ergül",
+          "Büşra Nur Özer Musaoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1046",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Metin Çırpan",
+          "Halil Ergül",
+          "Büşra Nur Özer Musaoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1046",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Metin Çırpan",
+          "Halil Ergül",
+          "Büşra Nur Özer Musaoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1025",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Metin Çırpan",
+          "Halil Ergül",
+          "Büşra Nur Özer Musaoğlu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL G018",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Metin Çırpan",
+          "Halil Ergül",
+          "Büşra Nur Özer Musaoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 2",
+    "crn": 20003,
+    "subject": "ENG",
+    "code": 2,
+    "type": null,
+    "section": "2C2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20003",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0002&sel_crse_end=0002&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gökçe Dülgerci",
+          "Arda Bayraktaroğlu",
+          "Deniz Kurtoğlu Eken"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gökçe Dülgerci",
+          "Arda Bayraktaroğlu",
+          "Deniz Kurtoğlu Eken"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL G042",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gökçe Dülgerci",
+          "Arda Bayraktaroğlu",
+          "Deniz Kurtoğlu Eken"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL G038",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gökçe Dülgerci",
+          "Arda Bayraktaroğlu",
+          "Deniz Kurtoğlu Eken"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL G038",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gökçe Dülgerci",
+          "Arda Bayraktaroğlu",
+          "Deniz Kurtoğlu Eken"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1026",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gökçe Dülgerci",
+          "Arda Bayraktaroğlu",
+          "Deniz Kurtoğlu Eken"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL G017",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gökçe Dülgerci",
+          "Arda Bayraktaroğlu",
+          "Deniz Kurtoğlu Eken"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 3",
+    "crn": 20004,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "3A2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20004",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0003&sel_crse_end=0003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1026",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Feyza Sena Avşar",
+          "İrem Gedil",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "FASS G006",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Feyza Sena Avşar",
+          "İrem Gedil",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL G039",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Feyza Sena Avşar",
+          "İrem Gedil",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Feyza Sena Avşar",
+          "İrem Gedil",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL G032",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Feyza Sena Avşar",
+          "İrem Gedil",
+          "Bayram Mustafa Zor"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 3",
+    "crn": 20005,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "3B2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20005",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0003&sel_crse_end=0003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Itır Beğen",
+          "Feyza Sena Avşar",
+          "Neslihan Demirdirek"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL G032",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Itır Beğen",
+          "Feyza Sena Avşar",
+          "Neslihan Demirdirek"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "FASS G025",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Itır Beğen",
+          "Feyza Sena Avşar",
+          "Neslihan Demirdirek"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1030",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Itır Beğen",
+          "Feyza Sena Avşar",
+          "Neslihan Demirdirek"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL G025",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Itır Beğen",
+          "Feyza Sena Avşar",
+          "Neslihan Demirdirek"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 3",
+    "crn": 20006,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "3C2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20006",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0003&sel_crse_end=0003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1030",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Seda Ertüm Emirler",
+          "İrem Gedil"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1038",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Seda Ertüm Emirler",
+          "İrem Gedil"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL G025",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Seda Ertüm Emirler",
+          "İrem Gedil"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL G042",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Seda Ertüm Emirler",
+          "İrem Gedil"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL G038",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Seda Ertüm Emirler",
+          "İrem Gedil"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 3",
+    "crn": 20007,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "3D2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20007",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0003&sel_crse_end=0003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "FASS 1081",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sultan Düzenli Gülhisar",
+          "Itır Beğen",
+          "Simge Özgören",
+          "Tuğba Yıldırım Kumbasar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "FMAN G065",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sultan Düzenli Gülhisar",
+          "Itır Beğen",
+          "Simge Özgören",
+          "Tuğba Yıldırım Kumbasar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sultan Düzenli Gülhisar",
+          "Itır Beğen",
+          "Simge Özgören",
+          "Tuğba Yıldırım Kumbasar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1038",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sultan Düzenli Gülhisar",
+          "Itır Beğen",
+          "Simge Özgören",
+          "Tuğba Yıldırım Kumbasar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL G039",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sultan Düzenli Gülhisar",
+          "Itır Beğen",
+          "Simge Özgören",
+          "Tuğba Yıldırım Kumbasar"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 3",
+    "crn": 20008,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "3E2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20008",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0003&sel_crse_end=0003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL G039",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Tuğba Yıldırım Kumbasar",
+          "Sultan Düzenli Gülhisar",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1038",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Tuğba Yıldırım Kumbasar",
+          "Sultan Düzenli Gülhisar",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL G032",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Tuğba Yıldırım Kumbasar",
+          "Sultan Düzenli Gülhisar",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL G041",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Tuğba Yıldırım Kumbasar",
+          "Sultan Düzenli Gülhisar",
+          "Bayram Mustafa Zor"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 20010,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4A2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20010",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL G017",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül İnce",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Adam Michael Rackham"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL G017",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül İnce",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Adam Michael Rackham"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1046",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül İnce",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Adam Michael Rackham"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül İnce",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Adam Michael Rackham"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül İnce",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Adam Michael Rackham"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL G016",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül İnce",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Adam Michael Rackham"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL G036",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ayşegül İnce",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Adam Michael Rackham"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 20011,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4B2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20011",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1025",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dalince Çongara",
+          "Adam Michael Rackham",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1025",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dalince Çongara",
+          "Adam Michael Rackham",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL G038",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dalince Çongara",
+          "Adam Michael Rackham",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL G024",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dalince Çongara",
+          "Adam Michael Rackham",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL G024",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dalince Çongara",
+          "Adam Michael Rackham",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL G036",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dalince Çongara",
+          "Adam Michael Rackham",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1038",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Dalince Çongara",
+          "Adam Michael Rackham",
+          "Selin Şenay"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 20012,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4C2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20012",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1037",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aybüke Filiz Gürer",
+          "Dalince Çongara",
+          "Ayşe Güler Demirkır",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1037",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aybüke Filiz Gürer",
+          "Dalince Çongara",
+          "Ayşe Güler Demirkır",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "FMAN G045",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aybüke Filiz Gürer",
+          "Dalince Çongara",
+          "Ayşe Güler Demirkır",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1025",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aybüke Filiz Gürer",
+          "Dalince Çongara",
+          "Ayşe Güler Demirkır",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1025",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aybüke Filiz Gürer",
+          "Dalince Çongara",
+          "Ayşe Güler Demirkır",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL G018",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aybüke Filiz Gürer",
+          "Dalince Çongara",
+          "Ayşe Güler Demirkır",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL G033",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aybüke Filiz Gürer",
+          "Dalince Çongara",
+          "Ayşe Güler Demirkır",
+          "Selin Şenay"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 20013,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4D2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20013",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Suant Jane Sezgin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL G036",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Suant Jane Sezgin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Suant Jane Sezgin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL G025",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Suant Jane Sezgin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL G023",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Suant Jane Sezgin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 20014,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4E2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20014",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL G023",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özlem İnan",
+          "Arzu Nihan Poyraz"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL G033",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özlem İnan",
+          "Arzu Nihan Poyraz"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özlem İnan",
+          "Arzu Nihan Poyraz"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL G024",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özlem İnan",
+          "Arzu Nihan Poyraz"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özlem İnan",
+          "Arzu Nihan Poyraz"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 20015,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4F2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20015",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1038",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Buse Aral",
+          "Özlem Yanar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1026",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Buse Aral",
+          "Özlem Yanar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "FMAN G050",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Buse Aral",
+          "Özlem Yanar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL G023",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Buse Aral",
+          "Özlem Yanar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1046",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Buse Aral",
+          "Özlem Yanar"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 20016,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4G2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20016",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1046",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Züleyha Tülay",
+          "Ahmed Elmahi"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1050",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Züleyha Tülay",
+          "Ahmed Elmahi"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "FMAN G041",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Züleyha Tülay",
+          "Ahmed Elmahi"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL G041",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Züleyha Tülay",
+          "Ahmed Elmahi"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1025",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Züleyha Tülay",
+          "Ahmed Elmahi"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 20017,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4H2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20017",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL G024",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mona Tavakoli",
+          "Ceyda Gümüş",
+          "Merve Yıldırım"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL G024",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mona Tavakoli",
+          "Ceyda Gümüş",
+          "Merve Yıldırım"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL G033",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mona Tavakoli",
+          "Ceyda Gümüş",
+          "Merve Yıldırım"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1050",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mona Tavakoli",
+          "Ceyda Gümüş",
+          "Merve Yıldırım"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1050",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mona Tavakoli",
+          "Ceyda Gümüş",
+          "Merve Yıldırım"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
     "name": "Professional Communication Skills in English",
     "crn": 20022,
     "subject": "ENG",
@@ -266,6 +2649,936 @@
         "scheduleType": null,
         "instructors": [
           "Ömür Kafa"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 20038,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4J2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20038",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL G025",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ceyda Gümüş",
+          "Lukka Alp Akarçay",
+          "Mona Tavakoli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1037",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ceyda Gümüş",
+          "Lukka Alp Akarçay",
+          "Mona Tavakoli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL G032",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ceyda Gümüş",
+          "Lukka Alp Akarçay",
+          "Mona Tavakoli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL G017",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ceyda Gümüş",
+          "Lukka Alp Akarçay",
+          "Mona Tavakoli"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ceyda Gümüş",
+          "Lukka Alp Akarçay",
+          "Mona Tavakoli"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 20039,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4K2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20039",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1050",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sibel Dığın",
+          "Engin Kaça",
+          "Deniz Özden Rodrigues"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL G039",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sibel Dığın",
+          "Engin Kaça",
+          "Deniz Özden Rodrigues"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL G023",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sibel Dığın",
+          "Engin Kaça",
+          "Deniz Özden Rodrigues"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "FMAN G050",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sibel Dığın",
+          "Engin Kaça",
+          "Deniz Özden Rodrigues"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sibel Dığın",
+          "Engin Kaça",
+          "Deniz Özden Rodrigues"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 20040,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4L2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20040",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL G032",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Deniz Özden Rodrigues",
+          "Sibel Dığın",
+          "Bünyamin Mengi"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL G025",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Deniz Özden Rodrigues",
+          "Sibel Dığın",
+          "Bünyamin Mengi"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL G041",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Deniz Özden Rodrigues",
+          "Sibel Dığın",
+          "Bünyamin Mengi"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL G039",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Deniz Özden Rodrigues",
+          "Sibel Dığın",
+          "Bünyamin Mengi"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Deniz Özden Rodrigues",
+          "Sibel Dığın",
+          "Bünyamin Mengi"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 20041,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4M2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20041",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL G033",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Okan Bölükbaş",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL G023",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Okan Bölükbaş",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL G042",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Okan Bölükbaş",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1046",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Okan Bölükbaş",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1026",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Okan Bölükbaş",
+          "Nezaket Özgirin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 20042,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4N2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20042",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL G042",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Melek Didem Beyazoğlu Turan",
+          "Okan Bölükbaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1030",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Melek Didem Beyazoğlu Turan",
+          "Okan Bölükbaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL G017",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Melek Didem Beyazoğlu Turan",
+          "Okan Bölükbaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1037",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Melek Didem Beyazoğlu Turan",
+          "Okan Bölükbaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1030",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Melek Didem Beyazoğlu Turan",
+          "Okan Bölükbaş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 20043,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4O2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20043",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "FMAN G045",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "David Hill",
+          "Melek Didem Beyazoğlu Turan",
+          "Meral Öztürk"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL G041",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "David Hill",
+          "Melek Didem Beyazoğlu Turan",
+          "Meral Öztürk"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1026",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "David Hill",
+          "Melek Didem Beyazoğlu Turan",
+          "Meral Öztürk"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "David Hill",
+          "Melek Didem Beyazoğlu Turan",
+          "Meral Öztürk"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "FMAN G041",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "David Hill",
+          "Melek Didem Beyazoğlu Turan",
+          "Meral Öztürk"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 20044,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4Q2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20044",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL G036",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Soner Yaşar",
+          "Celile Gürsu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Soner Yaşar",
+          "Celile Gürsu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1030",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Soner Yaşar",
+          "Celile Gürsu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "FMAN G041",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Soner Yaşar",
+          "Celile Gürsu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Soner Yaşar",
+          "Celile Gürsu"
         ]
       }
     ],
@@ -556,7 +3869,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Serra Eren Sarıoğlu"
+        ]
       }
     ],
     "availability": [
@@ -5271,8 +8586,7 @@
       }
     ],
     "corequisites": [
-      "CS 303",
-      "CS 303R"
+      "CS 303"
     ]
   },
   {
@@ -5429,8 +8743,7 @@
       }
     ],
     "corequisites": [
-      "CS 303",
-      "CS 303R"
+      "CS 303"
     ]
   },
   {
@@ -5500,8 +8813,7 @@
       }
     ],
     "corequisites": [
-      "CS 303",
-      "CS 303R"
+      "CS 303"
     ]
   },
   {
@@ -5571,8 +8883,7 @@
       }
     ],
     "corequisites": [
-      "CS 303",
-      "CS 303R"
+      "CS 303"
     ]
   },
   {
@@ -8677,11 +11988,6 @@
         "actual": 0,
         "remaining": 0
       }
-    ],
-    "prerequisites": [
-      "MS 301",
-      "IE 301",
-      "IE 311"
     ]
   },
   {
@@ -8975,11 +12281,6 @@
         "actual": 0,
         "remaining": 0
       }
-    ],
-    "prerequisites": [
-      "MS 301",
-      "IE 301",
-      "IE 311"
     ]
   },
   {
@@ -11228,12 +14529,6 @@
         "actual": 0,
         "remaining": 0
       }
-    ],
-    "prerequisites": [
-      "CS 201",
-      "ENS 203",
-      "ME 301",
-      "ME 303"
     ]
   },
   {
@@ -12412,6 +15707,186 @@
         "capacity": 10,
         "actual": 0,
         "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 2",
+    "crn": 20444,
+    "subject": "ENG",
+    "code": 2,
+    "type": null,
+    "section": "2D2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20444",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0002&sel_crse_end=0002&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL G018",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ezgi Öner",
+          "Andrew Christopher Bosson",
+          "Sonat Demirdirek",
+          "Gökçe Dülgerci"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL G018",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ezgi Öner",
+          "Andrew Christopher Bosson",
+          "Sonat Demirdirek",
+          "Gökçe Dülgerci"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ezgi Öner",
+          "Andrew Christopher Bosson",
+          "Sonat Demirdirek",
+          "Gökçe Dülgerci"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL G016",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ezgi Öner",
+          "Andrew Christopher Bosson",
+          "Sonat Demirdirek",
+          "Gökçe Dülgerci"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL G016",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ezgi Öner",
+          "Andrew Christopher Bosson",
+          "Sonat Demirdirek",
+          "Gökçe Dülgerci"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ezgi Öner",
+          "Andrew Christopher Bosson",
+          "Sonat Demirdirek",
+          "Gökçe Dülgerci"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL G042",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ezgi Öner",
+          "Andrew Christopher Bosson",
+          "Sonat Demirdirek",
+          "Gökçe Dülgerci"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -18821,9 +22296,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 180,
+        "capacity": 200,
         "actual": 0,
-        "remaining": 180
+        "remaining": 200
       },
       {
         "title": "Waitlist Seats",
@@ -18904,9 +22379,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 180,
+        "capacity": 170,
         "actual": 0,
-        "remaining": 180
+        "remaining": 170
       },
       {
         "title": "Waitlist Seats",
@@ -18966,9 +22441,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 36,
         "actual": 0,
-        "remaining": 35
+        "remaining": 36
       },
       {
         "title": "Waitlist Seats",
@@ -19037,9 +22512,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 36,
         "actual": 0,
-        "remaining": 35
+        "remaining": 36
       },
       {
         "title": "Waitlist Seats",
@@ -19108,9 +22583,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 36,
         "actual": 0,
-        "remaining": 35
+        "remaining": 36
       },
       {
         "title": "Waitlist Seats",
@@ -19179,9 +22654,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 36,
         "actual": 0,
-        "remaining": 35
+        "remaining": 36
       },
       {
         "title": "Waitlist Seats",
@@ -19250,9 +22725,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 36,
         "actual": 0,
-        "remaining": 35
+        "remaining": 36
       },
       {
         "title": "Waitlist Seats",
@@ -19321,9 +22796,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 36,
         "actual": 0,
-        "remaining": 35
+        "remaining": 36
       },
       {
         "title": "Waitlist Seats",
@@ -19392,9 +22867,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 36,
         "actual": 0,
-        "remaining": 35
+        "remaining": 36
       },
       {
         "title": "Waitlist Seats",
@@ -19463,9 +22938,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 36,
         "actual": 0,
-        "remaining": 35
+        "remaining": 36
       },
       {
         "title": "Waitlist Seats",
@@ -19490,7 +22965,7 @@
     "subject": "MATH",
     "code": 101,
     "type": "R",
-    "section": "D1",
+    "section": "D",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20601",
     "term": "Spring 2025-2026",
     "levels": [
@@ -19534,25 +23009,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 36,
         "actual": 0,
-        "remaining": 35
+        "remaining": 36
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
       }
-    ],
-    "corequisites": [
-      "MATH 101"
     ]
   },
   {
@@ -22574,9 +26040,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 85,
+        "capacity": 80,
         "actual": 0,
-        "remaining": 85
+        "remaining": 80
       },
       {
         "title": "Waitlist Seats",
@@ -22701,9 +26167,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 85,
+        "capacity": 80,
         "actual": 0,
-        "remaining": 85
+        "remaining": 80
       },
       {
         "title": "Waitlist Seats",
@@ -22711,77 +26177,6 @@
         "actual": 0,
         "remaining": 0
       }
-    ]
-  },
-  {
-    "name": "Science of Nature I - Recitation",
-    "crn": 20666,
-    "subject": "NS",
-    "code": 101,
-    "type": "R",
-    "section": "C1",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=20666",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=NS&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
-        },
-        "days": "F",
-        "where": "FASS 2128",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Çiğdem Altıntaş",
-          "Ezgi Gülçay Özcan"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 95,
-        "actual": 0,
-        "remaining": 95
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
-      }
-    ],
-    "corequisites": [
-      "NS 101"
     ]
   },
   {
@@ -22834,9 +26229,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 95,
+        "capacity": 90,
         "actual": 0,
-        "remaining": 95
+        "remaining": 90
       },
       {
         "title": "Waitlist Seats",
@@ -22905,9 +26300,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 85,
+        "capacity": 80,
         "actual": 0,
-        "remaining": 85
+        "remaining": 80
       },
       {
         "title": "Waitlist Seats",
@@ -22968,6 +26363,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Ezgi Gülçay Özcan",
           "Emine Süphan Bakkal",
           "Eren Günseli",
           "Yuki Kaneko Göğüş",
@@ -22979,9 +26375,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 85,
+        "capacity": 75,
         "actual": 0,
-        "remaining": 85
+        "remaining": 75
       },
       {
         "title": "Waitlist Seats",
@@ -23036,6 +26432,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Ezgi Gülçay Özcan",
           "Emine Süphan Bakkal",
           "Eren Günseli",
           "Yuki Kaneko Göğüş",
@@ -23047,9 +26444,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 85,
+        "capacity": 75,
         "actual": 0,
-        "remaining": 85
+        "remaining": 75
       },
       {
         "title": "Waitlist Seats",
@@ -23104,6 +26501,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Ezgi Gülçay Özcan",
           "Emine Süphan Bakkal",
           "Eren Günseli",
           "Aslıhan Muazzez Ünsal"
@@ -23113,9 +26511,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 85,
+        "capacity": 75,
         "actual": 0,
-        "remaining": 85
+        "remaining": 75
       },
       {
         "title": "Waitlist Seats",
@@ -23170,6 +26568,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Ezgi Gülçay Özcan",
           "Emine Süphan Bakkal",
           "Eren Günseli",
           "Aslıhan Muazzez Ünsal"
@@ -23179,9 +26578,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 85,
+        "capacity": 75,
         "actual": 0,
-        "remaining": 85
+        "remaining": 75
       },
       {
         "title": "Waitlist Seats",
@@ -23315,8 +26714,9 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Emine Süphan Bakkal",
+          "Ezgi Gülçay Özcan",
           "Ogün Adebali",
+          "Emine Süphan Bakkal",
           "Eren Günseli",
           "Ongun Özçelik",
           "Aslıhan Muazzez Ünsal"
@@ -23326,9 +26726,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 85,
+        "capacity": 75,
         "actual": 0,
-        "remaining": 85
+        "remaining": 75
       },
       {
         "title": "Waitlist Seats",
@@ -23383,6 +26783,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Ezgi Gülçay Özcan",
           "Emine Süphan Bakkal",
           "Eren Günseli",
           "Aslıhan Muazzez Ünsal"
@@ -23392,9 +26793,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 85,
+        "capacity": 75,
         "actual": 0,
-        "remaining": 85
+        "remaining": 75
       },
       {
         "title": "Waitlist Seats",
@@ -23449,8 +26850,9 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Emine Süphan Bakkal",
+          "Ezgi Gülçay Özcan",
           "Ogün Adebali",
+          "Emine Süphan Bakkal",
           "Eren Günseli",
           "Ongun Özçelik",
           "Aslıhan Muazzez Ünsal"
@@ -23460,9 +26862,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 85,
+        "capacity": 75,
         "actual": 0,
-        "remaining": 85
+        "remaining": 75
       },
       {
         "title": "Waitlist Seats",
@@ -23855,6 +27257,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Ezgi Gülçay Özcan",
           "Emine Süphan Bakkal",
           "Aslıhan Muazzez Ünsal"
         ]
@@ -23863,9 +27266,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 60,
+        "capacity": 75,
         "actual": 0,
-        "remaining": 60
+        "remaining": 75
       },
       {
         "title": "Waitlist Seats",
@@ -23926,6 +27329,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Ezgi Gülçay Özcan",
           "Emine Süphan Bakkal",
           "Aslıhan Muazzez Ünsal"
         ]
@@ -23934,9 +27338,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 108,
+        "capacity": 75,
         "actual": 0,
-        "remaining": 108
+        "remaining": 75
       },
       {
         "title": "Waitlist Seats",
@@ -23997,6 +27401,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Ezgi Gülçay Özcan",
           "Emine Süphan Bakkal",
           "Aslıhan Muazzez Ünsal"
         ]
@@ -24005,9 +27410,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 90,
+        "capacity": 75,
         "actual": 0,
-        "remaining": 90
+        "remaining": 75
       },
       {
         "title": "Waitlist Seats",
@@ -24068,6 +27473,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Ezgi Gülçay Özcan",
           "Emine Süphan Bakkal",
           "Aslıhan Muazzez Ünsal"
         ]
@@ -24076,9 +27482,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 108,
+        "capacity": 75,
         "actual": 0,
-        "remaining": 108
+        "remaining": 75
       },
       {
         "title": "Waitlist Seats",
@@ -24139,6 +27545,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Ezgi Gülçay Özcan",
           "Emine Süphan Bakkal",
           "Aslıhan Muazzez Ünsal"
         ]
@@ -24147,9 +27554,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 90,
+        "capacity": 75,
         "actual": 0,
-        "remaining": 90
+        "remaining": 75
       },
       {
         "title": "Waitlist Seats",
@@ -24210,7 +27617,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Mehmet Barlo"
+        ]
       },
       {
         "type": "Class",
@@ -24225,7 +27634,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Mehmet Barlo"
+        ]
       }
     ],
     "availability": [
@@ -24285,7 +27696,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Mehmet Barlo"
+        ]
       },
       {
         "type": "Class",
@@ -24300,7 +27713,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Mehmet Barlo"
+        ]
       }
     ],
     "availability": [
@@ -24358,7 +27773,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Mehmet Barlo"
+        ]
       }
     ],
     "availability": [
@@ -24416,7 +27833,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Mehmet Barlo"
+        ]
       }
     ],
     "availability": [
@@ -27001,9 +30420,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 273,
+        "capacity": 247,
         "actual": 0,
-        "remaining": 273
+        "remaining": 247
       },
       {
         "title": "Waitlist Seats",
@@ -27214,9 +30633,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 210,
+        "capacity": 190,
         "actual": 0,
-        "remaining": 210
+        "remaining": 190
       },
       {
         "title": "Waitlist Seats",
@@ -27424,9 +30843,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 231,
+        "capacity": 190,
         "actual": 0,
-        "remaining": 231
+        "remaining": 190
       },
       {
         "title": "Waitlist Seats",
@@ -27546,19 +30965,19 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
-          "Elif Çam",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Engin Onuk"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -27625,16 +31044,16 @@
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
-          "Michael John Thomas"
+          "Burçin Şenyurt"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -27697,20 +31116,20 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
-          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Kassandra Robertson"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -27776,17 +31195,16 @@
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Burçin Şenyurt"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -27852,16 +31270,17 @@
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Hale Överoğlu"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -27927,16 +31346,17 @@
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Michael John Thomas"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -28123,20 +31543,20 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
+          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Ulaş Yalvaç"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 21
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -28199,20 +31619,20 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
-          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Engin Onuk"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 21
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -28286,9 +31706,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 21
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -28352,6 +31772,7 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Elif Çam",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol"
@@ -28361,9 +31782,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 21
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -28437,9 +31858,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 21
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -28502,20 +31923,20 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
-          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Engin Onuk"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -28589,9 +32010,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -28655,19 +32076,19 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
-          "Elif Çam",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Michael John Thomas"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -28733,6 +32154,7 @@
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
+          "Esra Kaliber",
           "Melike Ayşe Kocacık Şenol"
         ]
       }
@@ -28740,9 +32162,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -28808,17 +32230,16 @@
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Ulaş Yalvaç"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -28881,20 +32302,20 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
+          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Kassandra Robertson"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -28944,11 +32365,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "10:40 am",
-          "to": "12:30 pm"
+          "from": "2:40 pm",
+          "to": "4:30 pm"
         },
         "days": "F",
-        "where": "FASS 1075",
+        "where": "FASS G050",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -28958,6 +32379,7 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Elif Çam",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol"
@@ -28967,9 +32389,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -29042,9 +32464,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 21
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -29108,19 +32530,19 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Elif Çam",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Michael John Thomas"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -29194,9 +32616,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -29260,6 +32682,7 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Elif Çam",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol"
@@ -29269,9 +32692,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -45582,8 +49005,7 @@
       }
     ],
     "corequisites": [
-      "CS 303",
-      "CS 303R"
+      "CS 303"
     ]
   },
   {
@@ -45653,8 +49075,7 @@
       }
     ],
     "corequisites": [
-      "CS 303",
-      "CS 303R"
+      "CS 303"
     ]
   },
   {
@@ -46339,8 +49760,8 @@
         "remaining": 9999
       }
     ],
-    "corequisites": [
-      "MATH 305R"
+    "prerequisites": [
+      "MATH 102"
     ]
   },
   {
@@ -47590,6 +51011,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Ezgi Gülçay Özcan",
           "Emine Süphan Bakkal",
           "Aslıhan Muazzez Ünsal"
         ]
@@ -47598,9 +51020,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 108,
+        "capacity": 75,
         "actual": 0,
-        "remaining": 108
+        "remaining": 75
       },
       {
         "title": "Waitlist Seats",
@@ -47661,6 +51083,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Ezgi Gülçay Özcan",
           "Emine Süphan Bakkal",
           "Aslıhan Muazzez Ünsal"
         ]
@@ -47669,9 +51092,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 90,
+        "capacity": 75,
         "actual": 0,
-        "remaining": 90
+        "remaining": 75
       },
       {
         "title": "Waitlist Seats",
@@ -47951,6 +51374,7 @@
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
+          "Esra Kaliber",
           "Melike Ayşe Kocacık Şenol"
         ]
       }
@@ -47958,9 +51382,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -48026,17 +51450,16 @@
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Burçin Şenyurt"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -48102,16 +51525,17 @@
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Hale Överoğlu"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -48175,19 +51599,19 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
-          "Elif Çam",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Engin Onuk"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -48250,20 +51674,20 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
+          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Ulaş Yalvaç"
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -48514,6 +51938,136 @@
         "capacity": 9999,
         "actual": 0,
         "remaining": 9999
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 21721,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4R2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=21721",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bünyamin Mengi",
+          "İlkay Bülbül"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL G016",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bünyamin Mengi",
+          "İlkay Bülbül"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL G018",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bünyamin Mengi",
+          "İlkay Bülbül"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "FMAN G042",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bünyamin Mengi",
+          "İlkay Bülbül"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "FMAN G042",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bünyamin Mengi",
+          "İlkay Bülbül"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
       }
     ]
   },
@@ -53629,8 +57183,8 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
+          "Alper Çakmak",
           "Gizem Damla Çakmak",
-          "Elif Çam",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol"
@@ -53640,9 +57194,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 21
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -54028,7 +57582,7 @@
     "subject": "NS",
     "code": 101,
     "type": "R",
-    "section": "D1",
+    "section": "C",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=22212",
     "term": "Spring 2025-2026",
     "levels": [
@@ -54072,25 +57626,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 95,
+        "capacity": 90,
         "actual": 0,
-        "remaining": 95
+        "remaining": 90
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
       }
-    ],
-    "corequisites": [
-      "NS 101"
     ]
   },
   {
@@ -57887,16 +61432,16 @@
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
-          "Michael John Thomas"
+          "Burçin Şenyurt"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -59153,6 +62698,141 @@
         "capacity": 14,
         "actual": 0,
         "remaining": 14
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 22616,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4S2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=22616",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İlkay Bülbül",
+          "Gorica Stevanovic",
+          "Soner Yaşar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İlkay Bülbül",
+          "Gorica Stevanovic",
+          "Soner Yaşar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1050",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İlkay Bülbül",
+          "Gorica Stevanovic",
+          "Soner Yaşar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL G038",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İlkay Bülbül",
+          "Gorica Stevanovic",
+          "Soner Yaşar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "FASS G050",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "İlkay Bülbül",
+          "Gorica Stevanovic",
+          "Soner Yaşar"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -61254,10 +64934,6 @@
         "actual": 0,
         "remaining": 0
       }
-    ],
-    "prerequisites": [
-      "TE 304",
-      "EE 314"
     ]
   },
   {
@@ -63848,8 +67524,7 @@
       }
     ],
     "corequisites": [
-      "CS 303",
-      "CS 303R"
+      "CS 303"
     ]
   },
   {
@@ -64484,7 +68159,7 @@
           "to": "11:30 am"
         },
         "days": "W",
-        "where": "FMAN G045",
+        "where": "FASS G022",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -64498,9 +68173,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 50,
         "actual": 0,
-        "remaining": 25
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
@@ -64561,9 +68236,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 50,
         "actual": 0,
-        "remaining": 25
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
@@ -64755,6 +68430,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Ezgi Gülçay Özcan",
           "Emine Süphan Bakkal",
           "Eren Günseli",
           "Aslıhan Muazzez Ünsal"
@@ -64764,9 +68440,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 85,
+        "capacity": 75,
         "actual": 0,
-        "remaining": 85
+        "remaining": 75
       },
       {
         "title": "Waitlist Seats",
@@ -65560,8 +69236,9 @@
         "remaining": 9999
       }
     ],
-    "corequisites": [
-      "EE 410R"
+    "prerequisites": [
+      "MATH 201",
+      "MATH 203"
     ]
   },
   {
@@ -68846,6 +72523,276 @@
     ]
   },
   {
+    "name": "English Route 3",
+    "crn": 22978,
+    "subject": "ENG",
+    "code": 3,
+    "type": null,
+    "section": "3F2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=22978",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0003&sel_crse_end=0003&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL G041",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Simge Özgören",
+          "İdil Ertugan Güneş",
+          "Kenneth Mark Fıne"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Simge Özgören",
+          "İdil Ertugan Güneş",
+          "Kenneth Mark Fıne"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1037",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Simge Özgören",
+          "İdil Ertugan Güneş",
+          "Kenneth Mark Fıne"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL G033",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Simge Özgören",
+          "İdil Ertugan Güneş",
+          "Kenneth Mark Fıne"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL G024",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Simge Özgören",
+          "İdil Ertugan Güneş",
+          "Kenneth Mark Fıne"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 22979,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4P2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=22979",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "FMAN G042",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Meral Öztürk",
+          "Celile Gürsu",
+          "David Hill"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1025",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Meral Öztürk",
+          "Celile Gürsu",
+          "David Hill"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL G036",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Meral Öztürk",
+          "Celile Gürsu",
+          "David Hill"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Meral Öztürk",
+          "Celile Gürsu",
+          "David Hill"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1037",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "Jun 10, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Meral Öztürk",
+          "Celile Gürsu",
+          "David Hill"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
     "name": "Humanity and Society II - Discussion",
     "crn": 22980,
     "subject": "SPS",
@@ -68892,6 +72839,7 @@
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
+          "Esra Kaliber",
           "Melike Ayşe Kocacık Şenol"
         ]
       }
@@ -68899,9 +72847,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -68964,20 +72912,20 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
-          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Kassandra Robertson"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 22
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -69044,16 +72992,16 @@
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
-          "Kassandra Robertson"
+          "Michael John Thomas"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 21
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -69119,6 +73067,7 @@
           "Gizem Damla Çakmak",
           "Aslı İkizoğlu Erensü",
           "Burhan İzgin",
+          "Esra Kaliber",
           "Melike Ayşe Kocacık Şenol"
         ]
       }
@@ -69126,85 +73075,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 19,
         "actual": 0,
-        "remaining": 21
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
-      }
-    ],
-    "corequisites": [
-      "SPS 102"
-    ]
-  },
-  {
-    "name": "Humanity and Society II - Discussion",
-    "crn": 22984,
-    "subject": "SPS",
-    "code": 102,
-    "type": "D",
-    "section": "C11",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=22984",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Discussion",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=SPS&sel_crse_strt=102D&sel_crse_end=102D&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
-        },
-        "days": "F",
-        "where": "FASS G050",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Emre Erol",
-          "Marloes Cornelissen Aydemir",
-          "Gizem Damla Çakmak",
-          "Aslı İkizoğlu Erensü",
-          "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol",
-          "Ulaş Yalvaç"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 21,
-        "actual": 0,
-        "remaining": 21
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -72851,8 +76724,6 @@
       "Masters",
       "Special Student",
       "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
       "Exchange - Erasmus Mundus DR",
       "Exchange - Erasmus Mundus UG"
@@ -72922,8 +76793,6 @@
       "Masters",
       "Special Student",
       "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
       "Exchange - Erasmus Mundus DR",
       "Exchange - Erasmus Mundus UG"
@@ -74250,8 +78119,6 @@
       "Masters",
       "Special Student",
       "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
       "Exchange - Erasmus Mundus DR",
       "Exchange - Erasmus Mundus UG"
@@ -74315,7 +78182,6 @@
       "Undergraduate",
       "Masters",
       "Special Student",
-      "Exchange - Socrates Erasmus UG",
       "Exchange - Socrates Erasmus MA",
       "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
@@ -74387,8 +78253,6 @@
       "Masters",
       "Special Student",
       "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
       "Exchange - Erasmus Mundus DR",
       "Exchange - Erasmus Mundus UG"
@@ -77187,8 +81051,6 @@
       "Masters",
       "Special Student",
       "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
       "Exchange - Erasmus Mundus DR",
       "Exchange - Erasmus Mundus UG"
@@ -77257,7 +81119,6 @@
       "Undergraduate",
       "Masters",
       "Special Student",
-      "Exchange - Socrates Erasmus UG",
       "Exchange - Socrates Erasmus MA",
       "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
@@ -77923,8 +81784,6 @@
       "Masters",
       "Special Student",
       "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
       "Exchange - Erasmus Mundus DR",
       "Exchange - Erasmus Mundus UG"
@@ -77996,7 +81855,6 @@
       "Undergraduate",
       "Masters",
       "Special Student",
-      "Exchange - Socrates Erasmus UG",
       "Exchange - Socrates Erasmus MA",
       "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
@@ -80059,7 +83917,7 @@
           "to": "3:30 pm"
         },
         "days": "M",
-        "where": "FMAN G045",
+        "where": "FMAN L018",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -80076,7 +83934,7 @@
           "to": "9:30 am"
         },
         "days": "R",
-        "where": "FMAN G065",
+        "where": "FMAN L018",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -80090,9 +83948,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 50,
         "actual": 0,
-        "remaining": 25
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
@@ -80139,7 +83997,7 @@
           "to": "4:30 pm"
         },
         "days": "M",
-        "where": "FMAN G045",
+        "where": "FMAN L018",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -80153,9 +84011,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 25,
+        "capacity": 50,
         "actual": 0,
-        "remaining": 25
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
@@ -81219,10 +85077,6 @@
         "actual": 0,
         "remaining": 0
       }
-    ],
-    "prerequisites": [
-      "CS 201",
-      "DSA 201"
     ]
   },
   {
@@ -81368,225 +85222,12 @@
     ]
   },
   {
-    "name": "Calculus I - Recitation",
-    "crn": 23313,
-    "subject": "MATH",
-    "code": 101,
-    "type": "R",
-    "section": "D2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23313",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MATH&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
-        },
-        "days": "F",
-        "where": "FASS 1103",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Şirin Kaya",
-          "Gamze Kuruk"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 35,
-        "actual": 0,
-        "remaining": 35
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
-      }
-    ],
-    "corequisites": [
-      "MATH 101"
-    ]
-  },
-  {
-    "name": "Science of Nature I - Recitation",
-    "crn": 23314,
-    "subject": "NS",
-    "code": 101,
-    "type": "R",
-    "section": "C2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23314",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=NS&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
-        },
-        "days": "F",
-        "where": "FASS 1050",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Çiğdem Altıntaş",
-          "Ezgi Gülçay Özcan"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 85,
-        "actual": 0,
-        "remaining": 85
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
-      }
-    ],
-    "corequisites": [
-      "NS 101"
-    ]
-  },
-  {
-    "name": "Science of Nature I - Recitation",
-    "crn": 23315,
-    "subject": "NS",
-    "code": 101,
-    "type": "R",
-    "section": "D2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23315",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=NS&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
-        },
-        "days": "F",
-        "where": "FASS 1050",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Çiğdem Altıntaş",
-          "Ezgi Gülçay Özcan"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 85,
-        "actual": 0,
-        "remaining": 85
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
-      }
-    ],
-    "corequisites": [
-      "NS 101"
-    ]
-  },
-  {
     "name": "Science of Nature I - Recitation",
     "crn": 23316,
     "subject": "NS",
     "code": 101,
     "type": "R",
-    "section": "A1",
+    "section": "A",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23316",
     "term": "Spring 2025-2026",
     "levels": [
@@ -81630,96 +85271,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 95,
+        "capacity": 90,
         "actual": 0,
-        "remaining": 95
+        "remaining": 90
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
       }
-    ],
-    "corequisites": [
-      "NS 101"
-    ]
-  },
-  {
-    "name": "Science of Nature I - Recitation",
-    "crn": 23317,
-    "subject": "NS",
-    "code": 101,
-    "type": "R",
-    "section": "A2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23317",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=NS&sel_crse_strt=101R&sel_crse_end=101R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "10:30 am"
-        },
-        "days": "F",
-        "where": "FMAN L014",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Çiğdem Altıntaş",
-          "Ezgi Gülçay Özcan"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 85,
-        "actual": 0,
-        "remaining": 85
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
-      }
-    ],
-    "corequisites": [
-      "NS 101"
     ]
   },
   {
@@ -81764,6 +85325,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Ezgi Gülçay Özcan",
           "Emine Süphan Bakkal",
           "Aslıhan Muazzez Ünsal"
         ]
@@ -81772,9 +85334,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 60,
+        "capacity": 75,
         "actual": 0,
-        "remaining": 60
+        "remaining": 75
       },
       {
         "title": "Waitlist Seats",
@@ -86570,7 +90132,9 @@
           "to": "May 22, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Altuğ Tanaltay"
+        ]
       }
     ],
     "availability": [
@@ -87507,7 +91071,9 @@
           "to": "May 02, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Hasan Sait Ölmez"
+        ]
       },
       {
         "type": "Class",
@@ -87522,7 +91088,9 @@
           "to": "May 02, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Hasan Sait Ölmez"
+        ]
       }
     ],
     "availability": [
@@ -88084,9 +91652,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 5,
+        "capacity": 15,
         "actual": 0,
-        "remaining": 5
+        "remaining": 15
       },
       {
         "title": "Waitlist Seats",
@@ -93149,8 +96717,6 @@
       "Masters",
       "Special Student",
       "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
       "Exchange - Erasmus Mundus DR",
       "Exchange - Erasmus Mundus UG"
@@ -94887,7 +98453,9 @@
           "to": "May 20, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Remzi Gözübüyük"
+        ]
       },
       {
         "type": "Class",
@@ -94902,7 +98470,9 @@
           "to": "May 23, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Remzi Gözübüyük"
+        ]
       }
     ],
     "availability": [
@@ -95096,7 +98666,9 @@
           "to": "Jul 25, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Attila Yaprak"
+        ]
       },
       {
         "type": "Class",
@@ -95111,7 +98683,9 @@
           "to": "Aug 01, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Attila Yaprak"
+        ]
       },
       {
         "type": "Class",
@@ -95126,7 +98700,9 @@
           "to": "Aug 01, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Attila Yaprak"
+        ]
       },
       {
         "type": "Class",
@@ -95141,7 +98717,9 @@
           "to": "Aug 15, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Attila Yaprak"
+        ]
       }
     ],
     "availability": [
@@ -95197,7 +98775,9 @@
           "to": "Jul 07, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Remzi Gözübüyük"
+        ]
       },
       {
         "type": "Class",
@@ -95212,7 +98792,9 @@
           "to": "Jun 29, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Remzi Gözübüyük"
+        ]
       }
     ],
     "availability": [
@@ -95478,12 +99060,10 @@
       "Undergraduate",
       "Masters",
       "Special Student",
-      "Exchange - Socrates Erasmus UG",
       "Exchange - Socrates Erasmus MA",
       "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
+      "Exchange - Erasmus Mundus DR"
     ],
     "ects": 3,
     "language": "English",
@@ -95543,12 +99123,10 @@
       "Undergraduate",
       "Masters",
       "Special Student",
-      "Exchange - Socrates Erasmus UG",
       "Exchange - Socrates Erasmus MA",
       "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
+      "Exchange - Erasmus Mundus DR"
     ],
     "ects": 3,
     "language": "English",
@@ -95721,6 +99299,194 @@
     ],
     "corequisites": [
       "MATH 102"
+    ]
+  },
+  {
+    "name": "Financial Management-Recitation",
+    "crn": 23529,
+    "subject": "FIN",
+    "code": 301,
+    "type": "R",
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23529",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=FIN&sel_crse_strt=301R&sel_crse_end=301R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "F",
+        "where": "FENS L045",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Şerif Aziz Şimşir"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 100,
+        "actual": 0,
+        "remaining": 100
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Financial Management-Recitation",
+    "crn": 23530,
+    "subject": "FIN",
+    "code": 301,
+    "type": "R",
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23530",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=FIN&sel_crse_strt=301R&sel_crse_end=301R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "4:30 pm"
+        },
+        "days": "F",
+        "where": "FENS L047",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Serra Eren Sarıoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "International Business",
+    "crn": 23532,
+    "subject": "MGMT",
+    "code": 403,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23532",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MGMT&sel_crse_strt=403&sel_crse_end=403&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "R",
+        "where": "FASS G006",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Aras Can Aktan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
     ]
   }
 ]
