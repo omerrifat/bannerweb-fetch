@@ -2389,7 +2389,7 @@
           "to": "11:30 am"
         },
         "days": "T",
-        "where": "FMAN G065",
+        "where": "FASS 1096",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -2406,7 +2406,7 @@
           "to": "12:30 pm"
         },
         "days": "W",
-        "where": "FMAN G065",
+        "where": "FENS L063",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -2420,9 +2420,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 30,
         "actual": 24,
-        "remaining": 0
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -2469,7 +2469,7 @@
           "to": "12:30 pm"
         },
         "days": "T",
-        "where": "FENS L067",
+        "where": "FASS 1096",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -2486,7 +2486,7 @@
           "to": "11:30 am"
         },
         "days": "W",
-        "where": "FENS L067",
+        "where": "FENS L063",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -2500,9 +2500,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 30,
         "actual": 24,
-        "remaining": 0
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -13393,11 +13393,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "8:40 am",
-          "to": "9:30 am"
+          "from": "1:40 pm",
+          "to": "2:30 pm"
         },
         "days": "R",
-        "where": "FENS L047",
+        "where": "FENS G032",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -18787,8 +18787,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 22,
-        "remaining": 18
+        "actual": 21,
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -18846,8 +18846,8 @@
       {
         "title": "Seats",
         "capacity": 300,
-        "actual": 289,
-        "remaining": 11
+        "actual": 290,
+        "remaining": 10
       },
       {
         "title": "Waitlist Seats",
@@ -18905,8 +18905,8 @@
       {
         "title": "Seats",
         "capacity": 260,
-        "actual": 215,
-        "remaining": 45
+        "actual": 214,
+        "remaining": 46
       },
       {
         "title": "Waitlist Seats",
@@ -30332,8 +30332,8 @@
       {
         "title": "Seats",
         "capacity": 180,
-        "actual": 179,
-        "remaining": 1
+        "actual": 178,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -31645,8 +31645,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 90,
-        "remaining": 9909
+        "actual": 89,
+        "remaining": 9910
       }
     ],
     "corequisites": [
@@ -31721,8 +31721,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 90,
-        "remaining": 9909
+        "actual": 89,
+        "remaining": 9910
       }
     ],
     "corequisites": [
@@ -32327,8 +32327,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 90,
-        "remaining": 9909
+        "actual": 89,
+        "remaining": 9910
       }
     ],
     "corequisites": [
@@ -32391,8 +32391,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 18,
-        "remaining": 0
+        "actual": 17,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -32403,8 +32403,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 90,
-        "remaining": 9909
+        "actual": 89,
+        "remaining": 9910
       }
     ],
     "corequisites": [
@@ -50845,8 +50845,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 90,
-        "remaining": 9909
+        "actual": 89,
+        "remaining": 9910
       }
     ],
     "corequisites": [
@@ -112195,7 +112195,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Yusuf Leblebici"
+          "Korkut Kaan Tokgöz"
         ]
       }
     ],
@@ -115705,6 +115705,61 @@
         "capacity": 1,
         "actual": 0,
         "remaining": 1
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Master Thesis",
+    "crn": 23759,
+    "subject": "BIO",
+    "code": 590,
+    "type": null,
+    "section": "10",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23759",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 50,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Thesis",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=BIO&sel_crse_strt=590&sel_crse_end=590&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Meltem Elitaş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 14,
+        "actual": 0,
+        "remaining": 14
       },
       {
         "title": "Waitlist Seats",
