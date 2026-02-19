@@ -1583,8 +1583,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 16,
-        "remaining": 4
+        "actual": 17,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -1936,8 +1936,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 16,
-        "remaining": 4
+        "actual": 15,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -4178,7 +4178,7 @@
           "to": "2:30 pm"
         },
         "days": "W",
-        "where": "FENS L055",
+        "where": "FASS 1089",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -9408,7 +9408,7 @@
           "to": "10:30 am"
         },
         "days": "T",
-        "where": "FASS G062",
+        "where": "FENS G032",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -18905,8 +18905,8 @@
       {
         "title": "Seats",
         "capacity": 260,
-        "actual": 214,
-        "remaining": 46
+        "actual": 215,
+        "remaining": 45
       },
       {
         "title": "Waitlist Seats",
@@ -19023,8 +19023,8 @@
       {
         "title": "Seats",
         "capacity": 75,
-        "actual": 68,
-        "remaining": 7
+        "actual": 67,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -29532,7 +29532,7 @@
           "to": "10:30 am"
         },
         "days": "T",
-        "where": "FENS L045",
+        "where": "FASS G062",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -34577,7 +34577,7 @@
           "to": "9:30 am"
         },
         "days": "T",
-        "where": "FENS G032",
+        "where": "FENS L045",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -34594,7 +34594,7 @@
           "to": "10:30 am"
         },
         "days": "R",
-        "where": "FENS G032",
+        "where": "FENS L045",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -34663,7 +34663,7 @@
           "to": "10:30 am"
         },
         "days": "T",
-        "where": "FENS G032",
+        "where": "FENS L045",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -34680,7 +34680,7 @@
           "to": "4:30 pm"
         },
         "days": "R",
-        "where": "FENS G032",
+        "where": "FENS L045",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -34748,7 +34748,7 @@
           "to": "4:30 pm"
         },
         "days": "F",
-        "where": "FENS G032",
+        "where": "FASS G062",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -48185,8 +48185,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 19,
-        "remaining": 6
+        "actual": 18,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -48653,11 +48653,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "8:40 am",
-          "to": "9:30 am"
+          "from": "1:40 pm",
+          "to": "2:30 pm"
         },
         "days": "W",
-        "where": "FASS G022",
+        "where": "FENS L027",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -48717,11 +48717,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "9:40 am",
-          "to": "10:30 am"
+          "from": "2:40 pm",
+          "to": "3:30 pm"
         },
         "days": "W",
-        "where": "FASS G022",
+        "where": "FENS L027",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -55983,7 +55983,7 @@
           "to": "6:30 pm"
         },
         "days": "F",
-        "where": "FENS G032",
+        "where": "FASS G062",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -65458,7 +65458,7 @@
           "to": "5:30 pm"
         },
         "days": "R",
-        "where": "FMAN L018",
+        "where": "FASS G018",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -75228,7 +75228,7 @@
           "to": "9:30 am"
         },
         "days": "T",
-        "where": "FENS L045",
+        "where": "FENS G032",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -76348,7 +76348,7 @@
           "to": "4:30 pm"
         },
         "days": "R",
-        "where": "FENS L045",
+        "where": "FASS G062",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -76473,7 +76473,7 @@
           "to": "10:30 am"
         },
         "days": "R",
-        "where": "FENS L045",
+        "where": "FASS G062",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -98627,8 +98627,8 @@
       {
         "title": "Seats",
         "capacity": 21,
-        "actual": 18,
-        "remaining": 3
+        "actual": 19,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -105908,7 +105908,7 @@
           "to": "6:00 pm"
         },
         "days": "S",
-        "where": "FMAN G013",
+        "where": "Altunizade Campus G09",
         "dateRange": {
           "from": "Jun 20, 2026",
           "to": "Jun 20, 2026"
@@ -105942,7 +105942,7 @@
           "to": "6:00 pm"
         },
         "days": "S",
-        "where": "FMAN G013",
+        "where": "Altunizade Campus G09",
         "dateRange": {
           "from": "Jul 04, 2026",
           "to": "Jul 04, 2026"
@@ -105976,7 +105976,7 @@
           "to": "7:00 pm"
         },
         "days": "S",
-        "where": "FMAN G013",
+        "where": "Altunizade Campus G09",
         "dateRange": {
           "from": "Jul 18, 2026",
           "to": "Jul 18, 2026"
@@ -116440,6 +116440,130 @@
         "scheduleType": null,
         "instructors": [
           "Ogün Adebali"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Directed Research I",
+    "crn": 23772,
+    "subject": "MATH",
+    "code": 791,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23772",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "NT",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MATH&sel_crse_strt=791&sel_crse_end=791&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ferruh Özbudak"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Directed Research",
+    "crn": 23773,
+    "subject": "CS",
+    "code": 591,
+    "type": null,
+    "section": "06",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23773",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "NT",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=CS&sel_crse_strt=591&sel_crse_end=591&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erkay Savaş"
         ]
       }
     ],
