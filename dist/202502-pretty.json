@@ -4573,7 +4573,7 @@
           "to": "11:30 am"
         },
         "days": "R",
-        "where": "FASS G025",
+        "where": "FASS 1103",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -7726,8 +7726,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "9:40 am",
-          "to": "12:30 pm"
+          "from": "10:40 am",
+          "to": "1:30 pm"
         },
         "days": "W",
         "where": "FASS 2080",
@@ -14635,28 +14635,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "3:40 pm",
-          "to": "4:30 pm"
+          "from": "10:40 am",
+          "to": "1:30 pm"
         },
-        "days": "M",
-        "where": "FENS L058",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Erhan Budak"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "9:40 am",
-          "to": "11:30 am"
-        },
-        "days": "R",
-        "where": "FASS G048",
+        "days": "T",
+        "where": "FASS 2023",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -17509,7 +17492,7 @@
           "to": "12:30 pm"
         },
         "days": "R",
-        "where": "FENS L061",
+        "where": "FASS G048",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -18143,7 +18126,7 @@
           "to": "2:30 pm"
         },
         "days": "W",
-        "where": "FENS L061",
+        "where": "FASS 1096",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -18160,7 +18143,7 @@
           "to": "1:30 pm"
         },
         "days": "R",
-        "where": "FENS L061",
+        "where": "FASS G048",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -18660,7 +18643,7 @@
           "to": "4:30 pm"
         },
         "days": "T",
-        "where": "FASS 1081",
+        "where": "FASS 2023",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -25199,7 +25182,7 @@
           "to": "5:30 pm"
         },
         "days": "F",
-        "where": "FASS G052",
+        "where": "FMAN L018",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -25214,8 +25197,8 @@
       {
         "title": "Seats",
         "capacity": 36,
-        "actual": 23,
-        "remaining": 13
+        "actual": 36,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -27415,7 +27398,7 @@
           "to": "2:30 pm"
         },
         "days": "R",
-        "where": "FENS L047",
+        "where": "FASS 2023",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -30332,8 +30315,8 @@
       {
         "title": "Seats",
         "capacity": 180,
-        "actual": 178,
-        "remaining": 2
+        "actual": 176,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -31266,8 +31249,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 89,
-        "remaining": 9910
+        "actual": 88,
+        "remaining": 9911
       }
     ],
     "corequisites": [
@@ -31342,8 +31325,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 89,
-        "remaining": 9910
+        "actual": 88,
+        "remaining": 9911
       }
     ],
     "corequisites": [
@@ -31418,8 +31401,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 89,
-        "remaining": 9910
+        "actual": 88,
+        "remaining": 9911
       }
     ],
     "corequisites": [
@@ -31482,8 +31465,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 18,
-        "remaining": 0
+        "actual": 17,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -31494,8 +31477,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 89,
-        "remaining": 9910
+        "actual": 88,
+        "remaining": 9911
       }
     ],
     "corequisites": [
@@ -31570,8 +31553,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 89,
-        "remaining": 9910
+        "actual": 88,
+        "remaining": 9911
       }
     ],
     "corequisites": [
@@ -31646,8 +31629,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 89,
-        "remaining": 9910
+        "actual": 88,
+        "remaining": 9911
       }
     ],
     "corequisites": [
@@ -31710,8 +31693,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 18,
-        "remaining": 0
+        "actual": 17,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -31722,8 +31705,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 89,
-        "remaining": 9910
+        "actual": 88,
+        "remaining": 9911
       }
     ],
     "corequisites": [
@@ -32330,8 +32313,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 89,
-        "remaining": 9910
+        "actual": 88,
+        "remaining": 9911
       }
     ],
     "corequisites": [
@@ -32406,8 +32389,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 89,
-        "remaining": 9910
+        "actual": 88,
+        "remaining": 9911
       }
     ],
     "corequisites": [
@@ -33642,8 +33625,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 68,
-        "remaining": 9931
+        "actual": 67,
+        "remaining": 9932
       }
     ],
     "prerequisites": [
@@ -33712,8 +33695,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 68,
-        "remaining": 9931
+        "actual": 67,
+        "remaining": 9932
       }
     ],
     "prerequisites": [
@@ -33770,8 +33753,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 17,
-        "remaining": 1
+        "actual": 16,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -33782,8 +33765,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 68,
-        "remaining": 9931
+        "actual": 67,
+        "remaining": 9932
       }
     ],
     "prerequisites": [
@@ -34820,6 +34803,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Tonguç Ünlüyurt",
           "Esra Koca"
         ]
       },
@@ -34837,6 +34821,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Tonguç Ünlüyurt",
           "Esra Koca"
         ]
       }
@@ -34903,7 +34888,8 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Esra Koca"
+          "Esra Koca",
+          "Tonguç Ünlüyurt"
         ]
       }
     ],
@@ -34975,7 +34961,8 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Esra Koca"
+          "Esra Koca",
+          "Tonguç Ünlüyurt"
         ]
       }
     ],
@@ -50849,8 +50836,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 89,
-        "remaining": 9910
+        "actual": 88,
+        "remaining": 9911
       }
     ],
     "corequisites": [
@@ -52735,8 +52722,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 68,
-        "remaining": 9931
+        "actual": 67,
+        "remaining": 9932
       }
     ],
     "prerequisites": [
@@ -62079,7 +62066,7 @@
           "to": "5:30 pm"
         },
         "days": "F",
-        "where": "FMAN L018",
+        "where": "FASS G052",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -62094,8 +62081,8 @@
       {
         "title": "Seats",
         "capacity": 36,
-        "actual": 13,
-        "remaining": 23
+        "actual": 0,
+        "remaining": 36
       },
       {
         "title": "Waitlist Seats",
@@ -66869,6 +66856,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Tonguç Ünlüyurt",
           "Esra Koca"
         ]
       }
@@ -76073,7 +76061,7 @@
     "subject": "ENRG",
     "code": 426,
     "type": "L",
-    "section": "A1",
+    "section": "0",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23186",
     "term": "Spring 2025-2026",
     "levels": [
@@ -76127,88 +76115,7 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 2,
-        "remaining": 9997
       }
-    ],
-    "corequisites": [
-      "ENRG 426"
-    ]
-  },
-  {
-    "name": "Battery Management Systems Lab.",
-    "crn": 23187,
-    "subject": "ENRG",
-    "code": 426,
-    "type": "L",
-    "section": "A2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23187",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "language": "English",
-    "faculty": "FENS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "method": "TR",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENRG&sel_crse_strt=426L&sel_crse_end=426L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "12:40 pm",
-          "to": "3:30 pm"
-        },
-        "days": "T",
-        "where": "FENS L061",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Melih Türkseven"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 15,
-        "actual": 0,
-        "remaining": 15
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 2,
-        "remaining": 9997
-      }
-    ],
-    "corequisites": [
-      "ENRG 426"
     ]
   },
   {
@@ -77459,11 +77366,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "4:30 pm"
         },
         "days": "T",
-        "where": "FENS L067",
+        "where": "FENS L065",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -77476,8 +77383,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "11:40 am",
-          "to": "12:30 pm"
+          "from": "10:40 am",
+          "to": "11:30 am"
         },
         "days": "W",
         "where": "FENS L067",
@@ -85030,92 +84937,6 @@
     ]
   },
   {
-    "name": "Integrated Manufacturing Systems",
-    "crn": 23333,
-    "subject": "IE",
-    "code": 402,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23333",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 6,
-    "faculty": "FENS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "method": "TR",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=IE&sel_crse_strt=402&sel_crse_end=402&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "3:30 pm"
-        },
-        "days": "M",
-        "where": "FENS G015",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Lütfi Taner Tunç"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
-        },
-        "days": "R",
-        "where": "FENS L055",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Lütfi Taner Tunç"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ],
-    "prerequisites": [
-      "MS 309",
-      "IE 309",
-      "ENS 209"
-    ]
-  },
-  {
     "name": "Integrated Manufacturing Systems - Lab",
     "crn": 23334,
     "subject": "IE",
@@ -87505,7 +87326,8 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Esra Koca"
+          "Esra Koca",
+          "Tonguç Ünlüyurt"
         ]
       },
       {
@@ -87522,7 +87344,8 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Esra Koca"
+          "Esra Koca",
+          "Tonguç Ünlüyurt"
         ]
       }
     ],
@@ -87588,6 +87411,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Tonguç Ünlüyurt",
           "Esra Koca"
         ]
       }
