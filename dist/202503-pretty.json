@@ -1780,9 +1780,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 3,
+        "capacity": 5,
         "actual": 3,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",

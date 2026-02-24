@@ -2613,8 +2613,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 10,
-        "remaining": 10
+        "actual": 0,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -2675,8 +2675,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 7,
-        "remaining": 13
+        "actual": 0,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -3801,9 +3801,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 49,
-        "remaining": 1
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -3882,9 +3882,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -3946,9 +3946,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -4276,9 +4276,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -4357,9 +4357,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 60,
         "actual": 50,
-        "remaining": 0
+        "remaining": 10
       },
       {
         "title": "Waitlist Seats",
@@ -4982,9 +4982,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -5851,9 +5851,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 22,
         "actual": 20,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -5917,9 +5917,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 22,
         "actual": 20,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -8727,9 +8727,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 6,
+        "capacity": 8,
         "actual": 6,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -13237,8 +13237,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 1,
-        "remaining": 19
+        "actual": 0,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -13249,8 +13249,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 1,
-        "remaining": 9998
+        "actual": 0,
+        "remaining": 9999
       }
     ],
     "prerequisites": [
@@ -15032,7 +15032,7 @@
           "to": "11:30 am"
         },
         "days": "F",
-        "where": "FASS 1010",
+        "where": "FENS G025",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -15989,8 +15989,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 142,
-        "remaining": 9857
+        "actual": 141,
+        "remaining": 9858
       }
     ]
   },
@@ -16073,8 +16073,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 142,
-        "remaining": 9857
+        "actual": 141,
+        "remaining": 9858
       }
     ]
   },
@@ -16157,8 +16157,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 142,
-        "remaining": 9857
+        "actual": 141,
+        "remaining": 9858
       }
     ]
   },
@@ -16241,8 +16241,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 142,
-        "remaining": 9857
+        "actual": 141,
+        "remaining": 9858
       }
     ]
   },
@@ -16325,8 +16325,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 142,
-        "remaining": 9857
+        "actual": 141,
+        "remaining": 9858
       }
     ]
   },
@@ -16409,8 +16409,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 142,
-        "remaining": 9857
+        "actual": 141,
+        "remaining": 9858
       }
     ]
   },
@@ -16481,8 +16481,8 @@
       {
         "title": "Seats",
         "capacity": 19,
-        "actual": 18,
-        "remaining": 1
+        "actual": 17,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -16493,8 +16493,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 142,
-        "remaining": 9857
+        "actual": 141,
+        "remaining": 9858
       }
     ]
   },
@@ -18746,9 +18746,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 36,
+        "capacity": 42,
         "actual": 35,
-        "remaining": 1
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -19035,9 +19035,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 260,
-        "actual": 259,
-        "remaining": 1
+        "capacity": 275,
+        "actual": 258,
+        "remaining": 17
       },
       {
         "title": "Waitlist Seats",
@@ -20149,9 +20149,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 80,
+        "capacity": 88,
         "actual": 80,
-        "remaining": 0
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -20211,9 +20211,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 22,
         "actual": 20,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -20272,9 +20272,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 22,
         "actual": 20,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -20333,9 +20333,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 22,
         "actual": 20,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -20457,9 +20457,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 22,
         "actual": 20,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -20538,9 +20538,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 25,
         "actual": 20,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -20622,9 +20622,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 25,
         "actual": 20,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -20776,9 +20776,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 25,
         "actual": 20,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -21030,8 +21030,8 @@
       {
         "title": "Seats",
         "capacity": 220,
-        "actual": 200,
-        "remaining": 20
+        "actual": 199,
+        "remaining": 21
       },
       {
         "title": "Waitlist Seats",
@@ -21153,9 +21153,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 36,
+        "capacity": 37,
         "actual": 35,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -21334,9 +21334,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 34,
+        "capacity": 36,
         "actual": 34,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -21520,9 +21520,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 36,
+        "capacity": 37,
         "actual": 35,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -21652,9 +21652,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 34,
+        "capacity": 36,
         "actual": 34,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -21865,9 +21865,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 36,
+        "capacity": 37,
         "actual": 36,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -21936,9 +21936,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 36,
         "actual": 35,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -22020,8 +22020,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 66,
-        "remaining": 9933
+        "actual": 65,
+        "remaining": 9934
       }
     ],
     "corequisites": [
@@ -22079,8 +22079,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 31,
-        "remaining": 3
+        "actual": 30,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -22091,8 +22091,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 66,
-        "remaining": 9933
+        "actual": 65,
+        "remaining": 9934
       }
     ],
     "corequisites": [
@@ -22313,9 +22313,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 36,
+        "capacity": 37,
         "actual": 35,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -22384,9 +22384,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 36,
+        "capacity": 37,
         "actual": 34,
-        "remaining": 2
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -22455,9 +22455,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 36,
+        "capacity": 37,
         "actual": 36,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -22739,9 +22739,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 37,
+        "capacity": 40,
         "actual": 37,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -22810,9 +22810,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 37,
+        "capacity": 40,
         "actual": 37,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -22881,9 +22881,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 37,
+        "capacity": 40,
         "actual": 37,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -23362,8 +23362,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 30,
-        "remaining": 5
+        "actual": 38,
+        "remaining": -3
       },
       {
         "title": "Waitlist Seats",
@@ -23432,9 +23432,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 37,
         "actual": 35,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -23503,9 +23503,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 37,
         "actual": 35,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -23575,8 +23575,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 8,
-        "remaining": 27
+        "actual": 0,
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -23645,9 +23645,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 37,
         "actual": 35,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -23716,9 +23716,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 37,
         "actual": 35,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -23787,9 +23787,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 37,
         "actual": 31,
-        "remaining": 4
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -23859,8 +23859,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 7,
-        "remaining": 28
+        "actual": 11,
+        "remaining": 24
       },
       {
         "title": "Waitlist Seats",
@@ -23930,8 +23930,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 1,
-        "remaining": 34
+        "actual": 0,
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -24001,8 +24001,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 4,
-        "remaining": 31
+        "actual": 1,
+        "remaining": 34
       },
       {
         "title": "Waitlist Seats",
@@ -24427,8 +24427,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 28,
-        "remaining": 7
+        "actual": 35,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -24640,8 +24640,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 7,
-        "remaining": 28
+        "actual": 0,
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -24711,8 +24711,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 14,
-        "remaining": 21
+        "actual": 17,
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -24782,8 +24782,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 3,
-        "remaining": 32
+        "actual": 0,
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -25523,9 +25523,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -25785,9 +25785,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -26240,9 +26240,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 72,
+        "capacity": 75,
         "actual": 72,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -26308,9 +26308,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 72,
+        "capacity": 75,
         "actual": 72,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -26374,9 +26374,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 72,
+        "capacity": 75,
         "actual": 72,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -26522,9 +26522,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 51,
         "actual": 50,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -26803,9 +26803,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 53,
         "actual": 50,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -26942,9 +26942,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 51,
         "actual": 50,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27002,9 +27002,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 53,
         "actual": 50,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -27341,9 +27341,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 72,
+        "capacity": 75,
         "actual": 72,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -27413,9 +27413,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 72,
+        "capacity": 75,
         "actual": 72,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -27580,9 +27580,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -27700,9 +27700,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -28192,9 +28192,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 184,
+        "capacity": 192,
         "actual": 183,
-        "remaining": 1
+        "remaining": 9
       },
       {
         "title": "Waitlist Seats",
@@ -28520,9 +28520,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 24,
         "actual": 23,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -28678,9 +28678,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 24,
         "actual": 22,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -28749,8 +28749,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 7,
-        "remaining": 25
+        "actual": 12,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -28821,9 +28821,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 24,
         "actual": 23,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29184,8 +29184,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 15,
-        "remaining": 17
+        "actual": 23,
+        "remaining": 9
       },
       {
         "title": "Waitlist Seats",
@@ -29256,9 +29256,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 24,
         "actual": 23,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29329,9 +29329,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 24,
         "actual": 23,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29400,8 +29400,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 10,
-        "remaining": 22
+        "actual": 13,
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -29837,9 +29837,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 24,
         "actual": 23,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29971,9 +29971,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 24,
         "actual": 23,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -30403,9 +30403,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 180,
+        "capacity": 190,
         "actual": 176,
-        "remaining": 4
+        "remaining": 14
       },
       {
         "title": "Waitlist Seats",
@@ -30613,9 +30613,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 180,
+        "capacity": 185,
         "actual": 175,
-        "remaining": 5
+        "remaining": 10
       },
       {
         "title": "Waitlist Seats",
@@ -31325,9 +31325,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 18,
+        "capacity": 19,
         "actual": 18,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -31401,9 +31401,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 18,
+        "capacity": 19,
         "actual": 18,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -31477,9 +31477,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 18,
+        "capacity": 19,
         "actual": 17,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -31553,9 +31553,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 18,
+        "capacity": 19,
         "actual": 17,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -31629,9 +31629,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 18,
+        "capacity": 19,
         "actual": 18,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -31705,9 +31705,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 18,
+        "capacity": 19,
         "actual": 18,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -31781,9 +31781,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 18,
+        "capacity": 19,
         "actual": 17,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -31857,9 +31857,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 18,
+        "capacity": 19,
         "actual": 18,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -31933,9 +31933,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 18,
+        "capacity": 19,
         "actual": 18,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -32009,9 +32009,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 18,
+        "capacity": 19,
         "actual": 18,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -32085,9 +32085,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 18,
+        "capacity": 19,
         "actual": 18,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -32313,9 +32313,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 18,
+        "capacity": 19,
         "actual": 18,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -32389,9 +32389,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 18,
+        "capacity": 19,
         "actual": 18,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -32465,9 +32465,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 18,
+        "capacity": 19,
         "actual": 17,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -32534,9 +32534,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 22,
         "actual": 20,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -32600,9 +32600,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 22,
         "actual": 21,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -32666,9 +32666,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 22,
         "actual": 19,
-        "remaining": 2
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -32798,9 +32798,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 23,
         "actual": 21,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -32864,9 +32864,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 22,
         "actual": 20,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -36141,9 +36141,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 320,
+        "capacity": 350,
         "actual": 316,
-        "remaining": 4
+        "remaining": 34
       },
       {
         "title": "Waitlist Seats",
@@ -36864,8 +36864,8 @@
       {
         "title": "Seats",
         "capacity": 33,
-        "actual": 6,
-        "remaining": 27
+        "actual": 24,
+        "remaining": 9
       },
       {
         "title": "Waitlist Seats",
@@ -36934,8 +36934,8 @@
       {
         "title": "Seats",
         "capacity": 33,
-        "actual": 8,
-        "remaining": 25
+        "actual": 0,
+        "remaining": 33
       },
       {
         "title": "Waitlist Seats",
@@ -37734,8 +37734,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 24,
-        "remaining": 1
+        "actual": 31,
+        "remaining": -6
       },
       {
         "title": "Waitlist Seats",
@@ -37805,8 +37805,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 12,
-        "remaining": 13
+        "actual": 0,
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -37876,8 +37876,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 23,
-        "remaining": 2
+        "actual": 28,
+        "remaining": -3
       },
       {
         "title": "Waitlist Seats",
@@ -37947,8 +37947,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 6,
-        "remaining": 19
+        "actual": 0,
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -38018,8 +38018,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 5,
-        "remaining": 20
+        "actual": 0,
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -38089,8 +38089,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 25,
-        "remaining": 0
+        "actual": 36,
+        "remaining": -11
       },
       {
         "title": "Waitlist Seats",
@@ -39435,9 +39435,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 15,
+        "capacity": 17,
         "actual": 15,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -39836,9 +39836,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 207,
+        "capacity": 217,
         "actual": 202,
-        "remaining": 5
+        "remaining": 15
       },
       {
         "title": "Waitlist Seats",
@@ -39900,9 +39900,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 161,
+        "capacity": 171,
         "actual": 146,
-        "remaining": 15
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -39962,9 +39962,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 25,
         "actual": 23,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -40032,9 +40032,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 25,
         "actual": 23,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -40102,9 +40102,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 25,
         "actual": 23,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -40172,9 +40172,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 25,
         "actual": 23,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -40242,9 +40242,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 25,
         "actual": 23,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -40312,9 +40312,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 25,
         "actual": 23,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -40382,9 +40382,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 25,
         "actual": 23,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -40452,9 +40452,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 25,
         "actual": 22,
-        "remaining": 1
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -48605,8 +48605,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 1,
-        "remaining": 19
+        "actual": 0,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -48666,8 +48666,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 1,
-        "remaining": 19
+        "actual": 0,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -50105,8 +50105,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 14,
-        "remaining": 18
+        "actual": 16,
+        "remaining": 16
       },
       {
         "title": "Waitlist Seats",
@@ -50175,9 +50175,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 38,
         "actual": 35,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -50247,9 +50247,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 72,
+        "capacity": 75,
         "actual": 70,
-        "remaining": 2
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -50319,9 +50319,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 72,
+        "capacity": 75,
         "actual": 72,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -50392,9 +50392,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 24,
         "actual": 23,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -50462,9 +50462,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 25,
         "actual": 23,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -50912,9 +50912,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 18,
+        "capacity": 19,
         "actual": 18,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -53975,15 +53975,15 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Duygu Karaoğlan Altop"
+          "Yalçın Can Kılıç"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 0,
-        "actual": 0,
+        "capacity": 1,
+        "actual": 1,
         "remaining": 0
       },
       {
@@ -54761,9 +54761,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 25,
         "actual": 20,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -55870,8 +55870,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 10,
-        "remaining": 22
+        "actual": 12,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -55959,9 +55959,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 100,
+        "capacity": 120,
         "actual": 100,
-        "remaining": 0
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -56145,9 +56145,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 38,
         "actual": 35,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -56217,8 +56217,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 14,
-        "remaining": 21
+        "actual": 22,
+        "remaining": 13
       },
       {
         "title": "Waitlist Seats",
@@ -56502,9 +56502,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 22,
         "actual": 20,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -56847,7 +56847,7 @@
           "to": "12:30 pm"
         },
         "days": "F",
-        "where": "FASS G006",
+        "where": "FASS 1010",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -60040,8 +60040,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 142,
-        "remaining": 9857
+        "actual": 141,
+        "remaining": 9858
       }
     ]
   },
@@ -62375,8 +62375,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 8,
-        "remaining": 22
+        "actual": 0,
+        "remaining": 30
       },
       {
         "title": "Waitlist Seats",
@@ -62497,63 +62497,6 @@
         "capacity": 7,
         "actual": 4,
         "remaining": 3
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Calculus I",
-    "crn": 22636,
-    "subject": "MATH",
-    "code": 101,
-    "type": null,
-    "section": "X",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=22636",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 6,
-    "faculty": "FENS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MATH&sel_crse_strt=101&sel_crse_end=101&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Gamze Kuruk"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -63536,9 +63479,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 30,
+        "capacity": 36,
         "actual": 30,
-        "remaining": 0
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -63886,9 +63829,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 30,
+        "capacity": 36,
         "actual": 30,
-        "remaining": 0
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -64287,8 +64230,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 1,
-        "remaining": 19
+        "actual": 0,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -64353,8 +64296,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 1,
-        "remaining": 19
+        "actual": 0,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -65558,9 +65501,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 100,
         "actual": 50,
-        "remaining": 0
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
@@ -66275,9 +66218,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 26,
+        "capacity": 33,
         "actual": 26,
-        "remaining": 0
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -66638,9 +66581,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -66698,9 +66641,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -67484,9 +67427,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 72,
+        "capacity": 75,
         "actual": 71,
-        "remaining": 1
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -67569,9 +67512,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 170,
+        "capacity": 185,
         "actual": 170,
-        "remaining": 0
+        "remaining": 15
       },
       {
         "title": "Waitlist Seats",
@@ -67655,9 +67598,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 170,
+        "capacity": 185,
         "actual": 108,
-        "remaining": 62
+        "remaining": 77
       },
       {
         "title": "Waitlist Seats",
@@ -67723,9 +67666,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 85,
+        "capacity": 93,
         "actual": 85,
-        "remaining": 0
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -67787,9 +67730,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 85,
+        "capacity": 92,
         "actual": 42,
-        "remaining": 43
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
@@ -67851,9 +67794,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 85,
+        "capacity": 93,
         "actual": 85,
-        "remaining": 0
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -67915,9 +67858,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 85,
+        "capacity": 92,
         "actual": 66,
-        "remaining": 19
+        "remaining": 26
       },
       {
         "title": "Waitlist Seats",
@@ -68803,8 +68746,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 7,
-        "remaining": 33
+        "actual": 10,
+        "remaining": 30
       },
       {
         "title": "Waitlist Seats",
@@ -68969,9 +68912,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 52,
         "actual": 50,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -69997,9 +69940,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 5,
+        "capacity": 12,
         "actual": 5,
-        "remaining": 0
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -70179,9 +70122,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 10,
+        "capacity": 14,
         "actual": 10,
-        "remaining": 0
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -71339,9 +71282,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 22,
         "actual": 20,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -74146,8 +74089,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 1,
-        "remaining": 9998
+        "actual": 0,
+        "remaining": 9999
       }
     ]
   },
@@ -76913,9 +76856,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 30,
         "actual": 20,
-        "remaining": 0
+        "remaining": 10
       },
       {
         "title": "Waitlist Seats",
@@ -78823,7 +78766,7 @@
           "to": "11:30 am"
         },
         "days": "F",
-        "where": "FENS G025",
+        "where": "FASS 2023",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -78914,7 +78857,7 @@
           "to": "11:30 am"
         },
         "days": "F",
-        "where": "FENS G025",
+        "where": "FASS 2023",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -80594,9 +80537,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 30,
+        "capacity": 15,
         "actual": 12,
-        "remaining": 18
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -80667,9 +80610,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 10,
+        "capacity": 15,
         "actual": 10,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -81713,8 +81656,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 3,
-        "remaining": 37
+        "actual": 0,
+        "remaining": 40
       },
       {
         "title": "Waitlist Seats",
@@ -81783,8 +81726,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 5,
-        "remaining": 27
+        "actual": 0,
+        "remaining": 32
       },
       {
         "title": "Waitlist Seats",
@@ -81853,8 +81796,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 8,
-        "remaining": 24
+        "actual": 0,
+        "remaining": 32
       },
       {
         "title": "Waitlist Seats",
@@ -81923,8 +81866,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 3,
-        "remaining": 29
+        "actual": 0,
+        "remaining": 32
       },
       {
         "title": "Waitlist Seats",
@@ -81993,8 +81936,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 2,
-        "remaining": 30
+        "actual": 0,
+        "remaining": 32
       },
       {
         "title": "Waitlist Seats",
@@ -82063,8 +82006,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 2,
-        "remaining": 30
+        "actual": 0,
+        "remaining": 32
       },
       {
         "title": "Waitlist Seats",
@@ -82152,8 +82095,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 7,
-        "remaining": 13
+        "actual": 1,
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -82214,8 +82157,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 10,
-        "remaining": 10
+        "actual": 1,
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -82485,8 +82428,8 @@
       {
         "title": "Seats",
         "capacity": 33,
-        "actual": 10,
-        "remaining": 23
+        "actual": 0,
+        "remaining": 33
       },
       {
         "title": "Waitlist Seats",
@@ -82724,9 +82667,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -82787,9 +82730,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -83141,8 +83084,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 16,
-        "remaining": 9
+        "actual": 28,
+        "remaining": -3
       },
       {
         "title": "Waitlist Seats",
@@ -83212,8 +83155,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 7,
-        "remaining": 18
+        "actual": 0,
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -83283,8 +83226,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 16,
-        "remaining": 9
+        "actual": 22,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -83425,8 +83368,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 18,
-        "remaining": 7
+        "actual": 0,
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -83496,8 +83439,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 20,
-        "remaining": 5
+        "actual": 38,
+        "remaining": -13
       },
       {
         "title": "Waitlist Seats",
@@ -83567,8 +83510,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 11,
-        "remaining": 14
+        "actual": 0,
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -88200,9 +88143,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 30,
+        "capacity": 20,
         "actual": 15,
-        "remaining": 15
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -88261,9 +88204,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 25,
         "actual": 23,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -89043,9 +88986,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 85,
         "actual": 42,
-        "remaining": 8
+        "remaining": 43
       },
       {
         "title": "Waitlist Seats",
@@ -90344,9 +90287,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 15,
+        "capacity": 22,
         "actual": 15,
-        "remaining": 0
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -97976,9 +97919,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 38,
         "actual": 35,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -98047,9 +97990,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 100,
+        "capacity": 120,
         "actual": 99,
-        "remaining": 1
+        "remaining": 21
       },
       {
         "title": "Waitlist Seats",
@@ -98109,9 +98052,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 55,
         "actual": 50,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -98347,9 +98290,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 22,
         "actual": 20,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -98414,9 +98357,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 22,
         "actual": 20,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -98481,9 +98424,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 22,
         "actual": 20,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -98548,9 +98491,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 23,
         "actual": 19,
-        "remaining": 2
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -116865,6 +116808,366 @@
         "capacity": 10,
         "actual": 0,
         "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "PhD Pro-Seminar",
+    "crn": 23779,
+    "subject": "ECON",
+    "code": 700,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23779",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 1,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Seminar",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ECON&sel_crse_strt=700&sel_crse_end=700&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Barlo"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Independent Study I",
+    "crn": 23780,
+    "subject": "PSY",
+    "code": 398,
+    "type": null,
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23780",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "NT",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=PSY&sel_crse_strt=398&sel_crse_end=398&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gül Günaydın"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 5,
+        "actual": 0,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Directed Research in Psychological Science",
+    "crn": 23781,
+    "subject": "PSY",
+    "code": 620,
+    "type": null,
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23781",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=PSY&sel_crse_strt=620&sel_crse_end=620&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Robert Booth"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 5,
+        "actual": 0,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Directed Research in Psychological Science",
+    "crn": 23782,
+    "subject": "PSY",
+    "code": 620,
+    "type": null,
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23782",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=PSY&sel_crse_strt=620&sel_crse_end=620&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nihan Alp"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 5,
+        "actual": 0,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Directed Research in Psychological Science",
+    "crn": 23783,
+    "subject": "PSY",
+    "code": 620,
+    "type": null,
+    "section": "C",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23783",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=PSY&sel_crse_strt=620&sel_crse_end=620&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Feyza Çorapçı"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 5,
+        "actual": 0,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Directed Research in Psychological Science",
+    "crn": 23784,
+    "subject": "PSY",
+    "code": 620,
+    "type": null,
+    "section": "D",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23784",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=PSY&sel_crse_strt=620&sel_crse_end=620&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Çağla Aydın"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 5,
+        "actual": 0,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
