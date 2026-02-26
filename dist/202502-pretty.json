@@ -2632,7 +2632,7 @@
           "to": "12:50 pm"
         },
         "days": "W",
-        "where": "FENS G055",
+        "where": "FMAN G041",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "Jun 10, 2026"
@@ -7991,9 +7991,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 344,
+        "capacity": 410,
         "actual": 344,
-        "remaining": 0
+        "remaining": 66
       },
       {
         "title": "Waitlist Seats",
@@ -8058,9 +8058,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 172,
+        "capacity": 205,
         "actual": 172,
-        "remaining": 0
+        "remaining": 33
       },
       {
         "title": "Waitlist Seats",
@@ -8130,9 +8130,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 172,
+        "capacity": 205,
         "actual": 172,
-        "remaining": 0
+        "remaining": 33
       },
       {
         "title": "Waitlist Seats",
@@ -18862,9 +18862,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 200,
+        "capacity": 160,
         "actual": 111,
-        "remaining": 89
+        "remaining": 49
       },
       {
         "title": "Waitlist Seats",
@@ -55886,11 +55886,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "9:40 am",
-          "to": "12:30 pm"
+          "from": "2:40 pm",
+          "to": "5:30 pm"
         },
-        "days": "R",
-        "where": "FASS G056",
+        "days": "T",
+        "where": "FASS 1075",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -55954,11 +55954,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
+          "from": "5:40 pm",
+          "to": "7:30 pm"
         },
-        "days": "R",
-        "where": "FASS G056",
+        "days": "T",
+        "where": "FASS 1075",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -56204,9 +56204,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 25,
         "actual": 20,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -74526,7 +74526,16 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 2,
+        "remaining": 9997
       }
+    ],
+    "corequisites": [
+      "ENRG 426L"
     ]
   },
   {
@@ -74580,16 +74589,25 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 15,
+        "capacity": 30,
         "actual": 2,
-        "remaining": 13
+        "remaining": 28
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 2,
+        "remaining": 9997
       }
+    ],
+    "corequisites": [
+      "ENRG 426"
     ]
   },
   {
@@ -75995,7 +76013,7 @@
         "type": "Class",
         "time": {
           "from": "11:40 am",
-          "to": "2:40 pm"
+          "to": "2:30 pm"
         },
         "days": "M",
         "where": "FASS 1075",
@@ -84972,9 +84990,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 30,
+        "capacity": 35,
         "actual": 27,
-        "remaining": 3
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -114232,12 +114250,31 @@
     "method": "TR",
     "credits": 3,
     "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=TLL&sel_crse_strt=570&sel_crse_end=570&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "6:30 pm"
+        },
+        "days": "M",
+        "where": "FASS 1099",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bilal Küçükkaya"
+        ]
+      }
+    ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 0,
+        "capacity": 20,
         "actual": 0,
-        "remaining": 0
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -114283,12 +114320,318 @@
     "scheduleType": "Discussion",
     "credits": 0,
     "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=TLL&sel_crse_strt=570D&sel_crse_end=570D&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:40 pm",
+          "to": "8:30 pm"
+        },
+        "days": "M",
+        "where": "FASS 1099",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bilal Küçükkaya"
+        ]
+      }
+    ],
     "availability": [
       {
         "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Directed Research in Psychological Science",
+    "crn": 23788,
+    "subject": "PSY",
+    "code": 620,
+    "type": null,
+    "section": "E",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23788",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=PSY&sel_crse_strt=620&sel_crse_end=620&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Çiğdem Bağcı"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 5,
+        "actual": 0,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Battery Management Systems",
+    "crn": 23789,
+    "subject": "ENRG",
+    "code": 526,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23789",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENRG&sel_crse_strt=526&sel_crse_end=526&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "2:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L065",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Melih Türkseven"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "8:40 am",
+          "to": "9:30 am"
+        },
+        "days": "T",
+        "where": "FENS L058",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Melih Türkseven"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 15,
+        "actual": 0,
+        "remaining": 15
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 2,
+        "remaining": 9997
+      }
+    ],
+    "corequisites": [
+      "ENRG 526L"
+    ]
+  },
+  {
+    "name": "Battery Management Systems Lab.",
+    "crn": 23790,
+    "subject": "ENRG",
+    "code": 526,
+    "type": "L",
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23790",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lab",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENRG&sel_crse_strt=526L&sel_crse_end=526L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "T",
+        "where": "FENS L048",
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Melih Türkseven"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 15,
+        "actual": 0,
+        "remaining": 15
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 2,
+        "remaining": 9997
+      }
+    ],
+    "corequisites": [
+      "ENRG 526"
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 23791,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "105",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23791",
+    "term": "Spring 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Feb 16, 2026",
+          "to": "May 22, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Meltem Elitaş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
