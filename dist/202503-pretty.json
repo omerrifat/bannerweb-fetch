@@ -207,8 +207,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 20,
-        "remaining": 30
+        "actual": 21,
+        "remaining": 29
       },
       {
         "title": "Waitlist Seats",
@@ -1242,8 +1242,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 19,
-        "remaining": 5
+        "actual": 20,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -2271,8 +2271,8 @@
       {
         "title": "Seats",
         "capacity": 12,
-        "actual": 12,
-        "remaining": 0
+        "actual": 13,
+        "remaining": -1
       },
       {
         "title": "Waitlist Seats",
@@ -2565,8 +2565,8 @@
       {
         "title": "Seats",
         "capacity": 12,
-        "actual": 10,
-        "remaining": 2
+        "actual": 12,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
