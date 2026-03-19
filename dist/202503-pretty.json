@@ -2565,8 +2565,8 @@
       {
         "title": "Seats",
         "capacity": 12,
-        "actual": 12,
-        "remaining": 0
+        "actual": 13,
+        "remaining": -1
       },
       {
         "title": "Waitlist Seats",
