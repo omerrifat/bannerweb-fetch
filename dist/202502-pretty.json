@@ -39565,77 +39565,6 @@
     ]
   },
   {
-    "name": "Major Works of Literature – Discussion",
-    "crn": 21019,
-    "subject": "HUM",
-    "code": 201,
-    "type": "D",
-    "section": "C2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=21019",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Discussion",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=HUM&sel_crse_strt=201D&sel_crse_end=201D&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "3:30 pm"
-        },
-        "days": "R",
-        "where": "FASS 2023",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Zeynep Nevin Yelçe",
-          "Neriman Kuyucu"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 37,
-        "remaining": 9962
-      }
-    ],
-    "corequisites": [
-      "HUM 201"
-    ]
-  },
-  {
     "name": "Academic Practices and Development 3",
     "crn": 21022,
     "subject": "GR",
@@ -81191,7 +81120,7 @@
     "subject": "HUM",
     "code": 201,
     "type": "D",
-    "section": "C3",
+    "section": "C2",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23319",
     "term": "Spring 2025-2026",
     "levels": [
@@ -94744,77 +94673,6 @@
         "actual": 0,
         "remaining": 0
       }
-    ]
-  },
-  {
-    "name": "Calculus II - Recitation",
-    "crn": 23528,
-    "subject": "MATH",
-    "code": 102,
-    "type": "R",
-    "section": "D3",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202502&crn_in=23528",
-    "term": "Spring 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202502&one_subj=MATH&sel_crse_strt=102R&sel_crse_end=102R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
-        },
-        "days": "F",
-        "where": "FENS L055",
-        "dateRange": {
-          "from": "Feb 16, 2026",
-          "to": "May 22, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Matteo Paganin",
-          "Gamze Kuruk"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 38,
-        "actual": 0,
-        "remaining": 38
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 38,
-        "remaining": 9961
-      }
-    ],
-    "corequisites": [
-      "MATH 102"
     ]
   },
   {
