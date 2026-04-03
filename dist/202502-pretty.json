@@ -76636,7 +76636,7 @@
           "to": "2:30 pm"
         },
         "days": "R",
-        "where": "FENS L058",
+        "where": "FENS L001",
         "dateRange": {
           "from": "Feb 16, 2026",
           "to": "May 22, 2026"
@@ -104315,8 +104315,8 @@
       {
         "title": "Seats",
         "capacity": 13,
-        "actual": 11,
-        "remaining": 2
+        "actual": 12,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -115008,8 +115008,8 @@
       {
         "title": "Seats",
         "capacity": 1,
-        "actual": 0,
-        "remaining": 1
+        "actual": 1,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
