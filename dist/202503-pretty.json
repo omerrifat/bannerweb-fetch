@@ -997,8 +997,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -2614,8 +2614,8 @@
       {
         "title": "Seats",
         "capacity": 12,
-        "actual": 9,
-        "remaining": 3
+        "actual": 10,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -4532,6 +4532,1710 @@
         "capacity": 5,
         "actual": 3,
         "remaining": 2
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30183,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4A3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30183",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1025",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Ali Aydın",
+          "Melek Didem Beyazoğlu Turan",
+          "Deniz Çiçekoğlu Daryavuz",
+          "Ebru Yamaç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1025",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Ali Aydın",
+          "Melek Didem Beyazoğlu Turan",
+          "Deniz Çiçekoğlu Daryavuz",
+          "Ebru Yamaç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1026",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Ali Aydın",
+          "Melek Didem Beyazoğlu Turan",
+          "Deniz Çiçekoğlu Daryavuz",
+          "Ebru Yamaç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Ali Aydın",
+          "Melek Didem Beyazoğlu Turan",
+          "Deniz Çiçekoğlu Daryavuz",
+          "Ebru Yamaç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Ali Aydın",
+          "Melek Didem Beyazoğlu Turan",
+          "Deniz Çiçekoğlu Daryavuz",
+          "Ebru Yamaç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Ali Aydın",
+          "Melek Didem Beyazoğlu Turan",
+          "Deniz Çiçekoğlu Daryavuz",
+          "Ebru Yamaç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1037",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mine Gündüz Kartal",
+          "Ali Aydın",
+          "Melek Didem Beyazoğlu Turan",
+          "Deniz Çiçekoğlu Daryavuz",
+          "Ebru Yamaç"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30184,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4B3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30184",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1026",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Ali Aydın",
+          "Eren Benderli",
+          "Melek Didem Beyazoğlu Turan",
+          "Mine Gündüz Kartal",
+          "Ebru Yamaç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1026",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Ali Aydın",
+          "Eren Benderli",
+          "Melek Didem Beyazoğlu Turan",
+          "Mine Gündüz Kartal",
+          "Ebru Yamaç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Ali Aydın",
+          "Eren Benderli",
+          "Melek Didem Beyazoğlu Turan",
+          "Mine Gündüz Kartal",
+          "Ebru Yamaç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1030",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Ali Aydın",
+          "Eren Benderli",
+          "Melek Didem Beyazoğlu Turan",
+          "Mine Gündüz Kartal",
+          "Ebru Yamaç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1030",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Ali Aydın",
+          "Eren Benderli",
+          "Melek Didem Beyazoğlu Turan",
+          "Mine Gündüz Kartal",
+          "Ebru Yamaç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Ali Aydın",
+          "Eren Benderli",
+          "Melek Didem Beyazoğlu Turan",
+          "Mine Gündüz Kartal",
+          "Ebru Yamaç"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1025",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kenneth Mark Fıne",
+          "Ali Aydın",
+          "Eren Benderli",
+          "Melek Didem Beyazoğlu Turan",
+          "Mine Gündüz Kartal",
+          "Ebru Yamaç"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30185,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4C3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30185",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özlem Yanar",
+          "Eren Benderli",
+          "Kenneth Mark Fıne",
+          "İrem Gedil",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özlem Yanar",
+          "Eren Benderli",
+          "Kenneth Mark Fıne",
+          "İrem Gedil",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1030",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özlem Yanar",
+          "Eren Benderli",
+          "Kenneth Mark Fıne",
+          "İrem Gedil",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özlem Yanar",
+          "Eren Benderli",
+          "Kenneth Mark Fıne",
+          "İrem Gedil",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özlem Yanar",
+          "Eren Benderli",
+          "Kenneth Mark Fıne",
+          "İrem Gedil",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özlem Yanar",
+          "Eren Benderli",
+          "Kenneth Mark Fıne",
+          "İrem Gedil",
+          "Selin Şenay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1026",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özlem Yanar",
+          "Eren Benderli",
+          "Kenneth Mark Fıne",
+          "İrem Gedil",
+          "Selin Şenay"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30186,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4D3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30186",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1030",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ceyda Gümüş",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1030",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ceyda Gümüş",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ceyda Gümüş",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ceyda Gümüş",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ceyda Gümüş",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1046",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ceyda Gümüş",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ceyda Gümüş",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Gökçen Gök Kaça",
+          "Bayram Mustafa Zor"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30187,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4E3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30187",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gökçen Gök Kaça",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Nezaket Özgirin",
+          "Suant Jane Sezgin",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gökçen Gök Kaça",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Nezaket Özgirin",
+          "Suant Jane Sezgin",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gökçen Gök Kaça",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Nezaket Özgirin",
+          "Suant Jane Sezgin",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gökçen Gök Kaça",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Nezaket Özgirin",
+          "Suant Jane Sezgin",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gökçen Gök Kaça",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Nezaket Özgirin",
+          "Suant Jane Sezgin",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1037",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gökçen Gök Kaça",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Nezaket Özgirin",
+          "Suant Jane Sezgin",
+          "Bayram Mustafa Zor"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1030",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Gökçen Gök Kaça",
+          "Andrew Christopher Bosson",
+          "Gülçin Coşgun",
+          "Nezaket Özgirin",
+          "Suant Jane Sezgin",
+          "Bayram Mustafa Zor"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30188,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4F3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30188",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bünyamin Mengi",
+          "Feyza Sena Avşar",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Celile Gürsu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bünyamin Mengi",
+          "Feyza Sena Avşar",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Celile Gürsu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bünyamin Mengi",
+          "Feyza Sena Avşar",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Celile Gürsu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bünyamin Mengi",
+          "Feyza Sena Avşar",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Celile Gürsu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bünyamin Mengi",
+          "Feyza Sena Avşar",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Celile Gürsu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1025",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bünyamin Mengi",
+          "Feyza Sena Avşar",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Celile Gürsu"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1023",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Bünyamin Mengi",
+          "Feyza Sena Avşar",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Celile Gürsu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30189,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4G3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30189",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmed Elmahi",
+          "Feyza Sena Avşar",
+          "Arda Bayraktaroğlu",
+          "Celile Gürsu",
+          "Bünyamin Mengi",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmed Elmahi",
+          "Feyza Sena Avşar",
+          "Arda Bayraktaroğlu",
+          "Celile Gürsu",
+          "Bünyamin Mengi",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmed Elmahi",
+          "Feyza Sena Avşar",
+          "Arda Bayraktaroğlu",
+          "Celile Gürsu",
+          "Bünyamin Mengi",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1046",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmed Elmahi",
+          "Feyza Sena Avşar",
+          "Arda Bayraktaroğlu",
+          "Celile Gürsu",
+          "Bünyamin Mengi",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1046",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmed Elmahi",
+          "Feyza Sena Avşar",
+          "Arda Bayraktaroğlu",
+          "Celile Gürsu",
+          "Bünyamin Mengi",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1026",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmed Elmahi",
+          "Feyza Sena Avşar",
+          "Arda Bayraktaroğlu",
+          "Celile Gürsu",
+          "Bünyamin Mengi",
+          "Nezaket Özgirin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1031",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmed Elmahi",
+          "Feyza Sena Avşar",
+          "Arda Bayraktaroğlu",
+          "Celile Gürsu",
+          "Bünyamin Mengi",
+          "Nezaket Özgirin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30190,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4H3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30190",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Adam Michael Rackham",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1049",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Adam Michael Rackham",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL 1046",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Adam Michael Rackham",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1037",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Adam Michael Rackham",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1037",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Adam Michael Rackham",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL 1027",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Adam Michael Rackham",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL 1048",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Adam Michael Rackham",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "English Route 4",
+    "crn": 30191,
+    "subject": "ENG",
+    "code": 4,
+    "type": null,
+    "section": "4J3",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30191",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 24,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=ENG&sel_crse_strt=0004&sel_crse_end=0004&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "M",
+        "where": "SL 1038",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": "SL 1038",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "T",
+        "where": "SL G025",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "W",
+        "where": "SL 1038",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": "SL 1038",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "R",
+        "where": "SL G024",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:50 pm"
+        },
+        "days": "F",
+        "where": "SL G039",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 26, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Büşra Nur Özer Musaoğlu",
+          "Aybüke Filiz Gürer",
+          "David Hill",
+          "Züleyha Tülay",
+          "Mutlu Üstünkaya Bosson"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
