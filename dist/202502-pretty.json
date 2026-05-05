@@ -9726,8 +9726,8 @@
       {
         "title": "Seats",
         "capacity": 150,
-        "actual": 69,
-        "remaining": 81
+        "actual": 67,
+        "remaining": 83
       },
       {
         "title": "Waitlist Seats",
@@ -9792,8 +9792,8 @@
       {
         "title": "Seats",
         "capacity": 75,
-        "actual": 17,
-        "remaining": 58
+        "actual": 16,
+        "remaining": 59
       },
       {
         "title": "Waitlist Seats",
@@ -48421,8 +48421,8 @@
       {
         "title": "Seats",
         "capacity": 75,
-        "actual": 52,
-        "remaining": 23
+        "actual": 51,
+        "remaining": 24
       },
       {
         "title": "Waitlist Seats",
@@ -58454,6 +58454,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Fevzi Çakmak Cebeci",
           "Kaan Bilge"
         ]
       }
@@ -58525,6 +58526,7 @@
         },
         "scheduleType": null,
         "instructors": [
+          "Fevzi Çakmak Cebeci",
           "Kaan Bilge"
         ]
       }
