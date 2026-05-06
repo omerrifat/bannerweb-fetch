@@ -12501,5 +12501,169 @@
         "remaining": 0
       }
     ]
+  },
+  {
+    "name": "Cyber Security Planning and Management",
+    "crn": 30227,
+    "subject": "SEC",
+    "code": 511,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30227",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=SEC&sel_crse_strt=511&sel_crse_end=511&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "M",
+        "where": "Altunizade Campus 111",
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "Jul 06, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orçun Çetin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 111",
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "Jul 06, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orçun Çetin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 27,
+        "actual": 0,
+        "remaining": 27
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Advanced Malware and Code Analysis",
+    "crn": 30228,
+    "subject": "SEC",
+    "code": 512,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30228",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=SEC&sel_crse_strt=512&sel_crse_end=512&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "W",
+        "where": "Altunizade Campus 111",
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "Jul 08, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orçun Çetin"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 111",
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "Jul 08, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Orçun Çetin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 27,
+        "actual": 0,
+        "remaining": 27
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
   }
 ]
