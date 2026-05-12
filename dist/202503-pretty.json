@@ -12665,5 +12665,688 @@
         "remaining": 0
       }
     ]
+  },
+  {
+    "name": "Causal Data Science",
+    "crn": 30229,
+    "subject": "DA",
+    "code": 519,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30229",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=DA&sel_crse_strt=519&sel_crse_end=519&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "W",
+        "where": "Altunizade Campus G08",
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "Jul 11, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özgür Asar"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus G08",
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "Jul 11, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özgür Asar"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 60,
+        "actual": 0,
+        "remaining": 60
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Generative AI Applications with Large Language Models",
+    "crn": 30230,
+    "subject": "DA",
+    "code": 521,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30230",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=DA&sel_crse_strt=521&sel_crse_end=521&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "M",
+        "where": "Altunizade Campus G09",
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "Jul 11, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmet Onur Durahim"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus",
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "Jul 11, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ahmet Onur Durahim"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 60,
+        "actual": 0,
+        "remaining": 60
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "AI Ethics and Regulations",
+    "crn": 30231,
+    "subject": "DA",
+    "code": 523,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30231",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=DA&sel_crse_strt=523&sel_crse_end=523&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "W",
+        "where": "Altunizade Campus G09",
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "Jul 11, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Polat Göktaş"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus",
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "Jul 11, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Polat Göktaş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 60,
+        "actual": 0,
+        "remaining": 60
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Project Management and Business Communication",
+    "crn": 30232,
+    "subject": "DA",
+    "code": 525,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30232",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=DA&sel_crse_strt=525&sel_crse_end=525&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus G08",
+        "dateRange": {
+          "from": "May 21, 2026",
+          "to": "Jul 14, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Sait Ölmez"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus G08",
+        "dateRange": {
+          "from": "May 21, 2026",
+          "to": "Jul 14, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Sait Ölmez"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 60,
+        "actual": 0,
+        "remaining": 60
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Term Project",
+    "crn": 30233,
+    "subject": "DA",
+    "code": 592,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30233",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 30,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=DA&sel_crse_strt=592&sel_crse_end=592&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "Aug 29, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Hasan Sait Ölmez"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "IT Governance",
+    "crn": 30234,
+    "subject": "IT",
+    "code": 566,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30234",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=IT&sel_crse_strt=566&sel_crse_end=566&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 104",
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "Jul 14, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yasemin Turkan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 104",
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "Jul 14, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yasemin Turkan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 60,
+        "actual": 0,
+        "remaining": 60
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Mobile Programming",
+    "crn": 30235,
+    "subject": "IT",
+    "code": 535,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30235",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR"
+    ],
+    "ects": 7,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=IT&sel_crse_strt=535&sel_crse_end=535&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "R",
+        "where": "Altunizade Campus 104",
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "Jul 11, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Çağrı Güzay"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "1:00 pm",
+          "to": "4:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 104",
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "Jul 11, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Çağrı Güzay"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 60,
+        "actual": 0,
+        "remaining": 60
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Special Topics in Information Technologies I",
+    "crn": 30236,
+    "subject": "IT",
+    "code": 580,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30236",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=IT&sel_crse_strt=580&sel_crse_end=580&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "7:00 pm",
+          "to": "10:00 pm"
+        },
+        "days": "T",
+        "where": "Altunizade Campus 104",
+        "dateRange": {
+          "from": "Jul 21, 2026",
+          "to": "Aug 29, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Emre Kaplan"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:00 am",
+          "to": "12:00 pm"
+        },
+        "days": "S",
+        "where": "Altunizade Campus 104",
+        "dateRange": {
+          "from": "Jul 21, 2026",
+          "to": "Aug 29, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Emre Kaplan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 40,
+        "actual": 0,
+        "remaining": 40
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Project Course",
+    "crn": 30237,
+    "subject": "IT",
+    "code": 592,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30237",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 30,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=IT&sel_crse_strt=592&sel_crse_end=592&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "May 16, 2026",
+          "to": "Aug 29, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Emre Kaplan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 40,
+        "actual": 0,
+        "remaining": 40
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
   }
 ]
