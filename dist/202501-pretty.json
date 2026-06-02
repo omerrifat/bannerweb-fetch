@@ -22821,8 +22821,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 26,
-        "remaining": 4
+        "actual": 27,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -22833,8 +22833,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 32,
-        "remaining": 9967
+        "actual": 33,
+        "remaining": 9966
       }
     ],
     "prerequisites": [
@@ -22923,8 +22923,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 32,
-        "remaining": 9967
+        "actual": 33,
+        "remaining": 9966
       }
     ]
   },
