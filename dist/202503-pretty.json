@@ -97,8 +97,8 @@
       {
         "title": "Seats",
         "capacity": 120,
-        "actual": 71,
-        "remaining": 49
+        "actual": 72,
+        "remaining": 48
       },
       {
         "title": "Waitlist Seats",
@@ -2614,8 +2614,8 @@
       {
         "title": "Seats",
         "capacity": 12,
-        "actual": 11,
-        "remaining": 1
+        "actual": 12,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -8373,152 +8373,6 @@
         "capacity": 35,
         "actual": 0,
         "remaining": 35
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Operations Management",
-    "crn": 30170,
-    "subject": "OPIM",
-    "code": 301,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30170",
-    "term": "Summer 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 6,
-    "language": "English",
-    "faculty": "SOM",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=OPIM&sel_crse_strt=301&sel_crse_end=301&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "11:40 am",
-          "to": "2:30 pm"
-        },
-        "days": "M",
-        "where": "FMAN L018",
-        "dateRange": {
-          "from": "Jul 06, 2026",
-          "to": "Aug 21, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Kemal Berkay Tüzün"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "10:40 am",
-          "to": "1:30 pm"
-        },
-        "days": "T",
-        "where": "FMAN L018",
-        "dateRange": {
-          "from": "Jul 06, 2026",
-          "to": "Aug 21, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Kemal Berkay Tüzün"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 50,
-        "actual": 0,
-        "remaining": 50
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ],
-    "prerequisites": [
-      "MGMT 203",
-      "MATH 306"
-    ]
-  },
-  {
-    "name": "Operations Management - Recitation",
-    "crn": 30171,
-    "subject": "OPIM",
-    "code": 301,
-    "type": "R",
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30171",
-    "term": "Summer 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "faculty": "SOM",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=OPIM&sel_crse_strt=301R&sel_crse_end=301R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
-        },
-        "days": "T",
-        "where": "FMAN L018",
-        "dateRange": {
-          "from": "Jul 06, 2026",
-          "to": "Aug 21, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Kemal Berkay Tüzün"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 50,
-        "actual": 0,
-        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
