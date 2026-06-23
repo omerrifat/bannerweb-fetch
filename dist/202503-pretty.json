@@ -97,8 +97,8 @@
       {
         "title": "Seats",
         "capacity": 120,
-        "actual": 72,
-        "remaining": 48
+        "actual": 73,
+        "remaining": 47
       },
       {
         "title": "Waitlist Seats",
@@ -801,8 +801,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 25,
-        "remaining": 0
+        "actual": 26,
+        "remaining": -1
       },
       {
         "title": "Waitlist Seats",
