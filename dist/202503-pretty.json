@@ -1438,8 +1438,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 25,
-        "remaining": -1
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -3104,8 +3104,8 @@
       {
         "title": "Seats",
         "capacity": 12,
-        "actual": 12,
-        "remaining": 0
+        "actual": 11,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -3937,8 +3937,8 @@
       {
         "title": "Seats",
         "capacity": 6,
-        "actual": 4,
-        "remaining": 2
+        "actual": 5,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -5067,7 +5067,9 @@
           "to": "Aug 21, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Arsalan Javeed"
+        ]
       },
       {
         "type": "Class",
@@ -5082,7 +5084,9 @@
           "to": "Aug 21, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Arsalan Javeed"
+        ]
       }
     ],
     "availability": [
@@ -5147,7 +5151,9 @@
           "to": "Aug 21, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Arsalan Javeed"
+        ]
       }
     ],
     "availability": [
