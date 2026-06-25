@@ -2418,8 +2418,8 @@
       {
         "title": "Seats",
         "capacity": 13,
-        "actual": 13,
-        "remaining": 0
+        "actual": 14,
+        "remaining": -1
       },
       {
         "title": "Waitlist Seats",
@@ -5359,7 +5359,9 @@
           "to": "Aug 21, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Fevzi Çakmak Cebeci"
+        ]
       },
       {
         "type": "Class",
@@ -5374,7 +5376,9 @@
           "to": "Aug 21, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Fevzi Çakmak Cebeci"
+        ]
       }
     ],
     "availability": [
@@ -5437,7 +5441,9 @@
           "to": "Aug 21, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Fevzi Çakmak Cebeci"
+        ]
       }
     ],
     "availability": [
@@ -11030,7 +11036,9 @@
           "to": "Aug 21, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ahmet Barış Balcıoğlu"
+        ]
       },
       {
         "type": "Class",
@@ -11045,7 +11053,9 @@
           "to": "Aug 21, 2026"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ahmet Barış Balcıoğlu"
+        ]
       }
     ],
     "availability": [
