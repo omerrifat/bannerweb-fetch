@@ -1536,8 +1536,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 25,
+        "remaining": -1
       },
       {
         "title": "Waitlist Seats",
@@ -5798,24 +5798,7 @@
           "from": "11:40 am",
           "to": "1:30 pm"
         },
-        "days": "T",
-        "where": "FASS 1103",
-        "dateRange": {
-          "from": "Jul 06, 2026",
-          "to": "Aug 21, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Zeynep Nevin Yelçe"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
-        },
-        "days": "W",
+        "days": "M",
         "where": "FASS 1101",
         "dateRange": {
           "from": "Jul 06, 2026",
@@ -5829,10 +5812,27 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
+          "from": "11:40 am",
+          "to": "1:30 pm"
         },
-        "days": "R",
+        "days": "T",
+        "where": "FASS 1101",
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 21, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Nevin Yelçe"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "W",
         "where": "FASS 1101",
         "dateRange": {
           "from": "Jul 06, 2026",
@@ -11996,11 +11996,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "3:30 pm"
+          "from": "2:40 pm",
+          "to": "4:30 pm"
         },
         "days": "M",
-        "where": "FASS G025",
+        "where": "FASS 1103",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 21, 2026"
@@ -12017,7 +12017,7 @@
           "to": "4:30 pm"
         },
         "days": "T",
-        "where": "FASS G025",
+        "where": "FASS 1103",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 21, 2026"
@@ -12033,8 +12033,8 @@
           "from": "2:40 pm",
           "to": "4:30 pm"
         },
-        "days": "F",
-        "where": "FASS G025",
+        "days": "W",
+        "where": "FASS 1103",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 21, 2026"
@@ -12853,8 +12853,8 @@
       {
         "title": "Seats",
         "capacity": 60,
-        "actual": 12,
-        "remaining": 48
+        "actual": 13,
+        "remaining": 47
       },
       {
         "title": "Waitlist Seats",
@@ -13153,8 +13153,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 10,
-        "remaining": 30
+        "actual": 11,
+        "remaining": 29
       },
       {
         "title": "Waitlist Seats",
