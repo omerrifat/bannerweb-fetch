@@ -43,8 +43,8 @@
       {
         "title": "Seats",
         "capacity": 60,
-        "actual": 54,
-        "remaining": 6
+        "actual": 55,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -207,8 +207,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 21,
-        "remaining": 29
+        "actual": 22,
+        "remaining": 28
       },
       {
         "title": "Waitlist Seats",
@@ -1340,8 +1340,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 22,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -1438,8 +1438,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 26,
+        "remaining": -2
       },
       {
         "title": "Waitlist Seats",
@@ -6463,8 +6463,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "11:40 am",
-          "to": "2:30 pm"
+          "from": "9:40 am",
+          "to": "12:30 pm"
         },
         "days": "F",
         "where": "FASS 1102",
@@ -6541,8 +6541,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "4:40 pm",
-          "to": "6:30 pm"
+          "from": "2:40 pm",
+          "to": "4:30 pm"
         },
         "days": "F",
         "where": "FASS 1102",
@@ -6618,8 +6618,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "11:40 am",
-          "to": "2:30 pm"
+          "from": "9:40 am",
+          "to": "12:30 pm"
         },
         "days": "F",
         "where": "FASS 1050",
@@ -6699,11 +6699,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "4:40 pm",
-          "to": "6:30 pm"
+          "from": "2:40 pm",
+          "to": "4:30 pm"
         },
         "days": "F",
-        "where": "FENS L048",
+        "where": "FENS L056",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 21, 2026"
@@ -6786,11 +6786,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "4:40 pm",
-          "to": "6:30 pm"
+          "from": "2:40 pm",
+          "to": "4:30 pm"
         },
         "days": "F",
-        "where": "FENS G025",
+        "where": "FENS L061",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 21, 2026"
@@ -7339,8 +7339,8 @@
       {
         "title": "Seats",
         "capacity": 60,
-        "actual": 0,
-        "remaining": 60
+        "actual": 1,
+        "remaining": 59
       },
       {
         "title": "Waitlist Seats",
@@ -7415,8 +7415,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 1,
+        "remaining": 9998
       }
     ],
     "corequisites": [
@@ -7473,8 +7473,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 1,
+        "remaining": 29
       },
       {
         "title": "Waitlist Seats",
@@ -7485,8 +7485,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 1,
+        "remaining": 9998
       }
     ],
     "corequisites": [
@@ -8060,8 +8060,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 2,
+        "remaining": 48
       },
       {
         "title": "Waitlist Seats",
@@ -8463,8 +8463,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 0,
-        "remaining": 40
+        "actual": 1,
+        "remaining": 39
       },
       {
         "title": "Waitlist Seats",
@@ -11606,8 +11606,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "4:40 pm",
-          "to": "6:30 pm"
+          "from": "2:40 pm",
+          "to": "4:30 pm"
         },
         "days": "F",
         "where": "FENS G015",
