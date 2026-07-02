@@ -97,8 +97,8 @@
       {
         "title": "Seats",
         "capacity": 120,
-        "actual": 71,
-        "remaining": 49
+        "actual": 72,
+        "remaining": 48
       },
       {
         "title": "Waitlist Seats",
@@ -409,8 +409,8 @@
       {
         "title": "Seats",
         "capacity": 4,
-        "actual": 4,
-        "remaining": 0
+        "actual": 3,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -1046,8 +1046,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -2515,8 +2515,8 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 12,
-        "actual": 12,
+        "capacity": 13,
+        "actual": 13,
         "remaining": 0
       },
       {
@@ -5360,7 +5360,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Fevzi Çakmak Cebeci"
+          "Deniz Köken"
         ]
       },
       {
@@ -5377,7 +5377,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Fevzi Çakmak Cebeci"
+          "Deniz Köken"
         ]
       }
     ],
@@ -5442,7 +5442,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Fevzi Çakmak Cebeci"
+          "Deniz Köken"
         ]
       }
     ],
@@ -6491,7 +6491,8 @@
         "actual": 0,
         "remaining": 0
       }
-    ]
+    ],
+    "prerequisites": []
   },
   {
     "name": "Calculus I - Recitation",
@@ -7044,7 +7045,8 @@
         "actual": 0,
         "remaining": 0
       }
-    ]
+    ],
+    "prerequisites": []
   },
   {
     "name": "Computational Approaches to Problem Solving – Recitation",
@@ -8059,9 +8061,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 40,
         "actual": 2,
-        "remaining": 48
+        "remaining": 38
       },
       {
         "title": "Waitlist Seats",
@@ -8149,7 +8151,8 @@
         "actual": 0,
         "remaining": 0
       }
-    ]
+    ],
+    "prerequisites": []
   },
   {
     "name": "Science of Nature I - Recitation",
@@ -8310,9 +8313,7 @@
         "remaining": 0
       }
     ],
-    "prerequisites": [
-      "NS 101"
-    ]
+    "prerequisites": []
   },
   {
     "name": "Science of Nature II - Recitation",
@@ -9141,8 +9142,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 0,
-        "remaining": 18
+        "actual": 13,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -9335,8 +9336,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 0,
-        "remaining": 18
+        "actual": 13,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -9522,8 +9523,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 0,
-        "remaining": 18
+        "actual": 14,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -9709,8 +9710,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 0,
-        "remaining": 18
+        "actual": 13,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -9903,8 +9904,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 0,
-        "remaining": 18
+        "actual": 14,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -10090,8 +10091,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 0,
-        "remaining": 18
+        "actual": 13,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -10284,8 +10285,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 0,
-        "remaining": 18
+        "actual": 12,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -10471,8 +10472,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 0,
-        "remaining": 18
+        "actual": 13,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -10658,8 +10659,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 0,
-        "remaining": 18
+        "actual": 13,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -11717,7 +11718,8 @@
         "actual": 0,
         "remaining": 0
       }
-    ]
+    ],
+    "prerequisites": []
   },
   {
     "name": "Humanity and Society I - Discussion",
@@ -13411,7 +13413,7 @@
     "subject": "PHYS",
     "code": 791,
     "type": null,
-    "section": "0",
+    "section": "01",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30241",
     "term": "Summer 2025-2026",
     "levels": [
@@ -14193,6 +14195,130 @@
         "scheduleType": null,
         "instructors": [
           "Hüseyin Özkan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 2,
+        "actual": 0,
+        "remaining": 2
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Directed Research",
+    "crn": 30254,
+    "subject": "PHYS",
+    "code": 591,
+    "type": null,
+    "section": "03",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30254",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "NT",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=PHYS&sel_crse_strt=591&sel_crse_end=591&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 21, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Zafer Gedik"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 2,
+        "actual": 0,
+        "remaining": 2
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Directed Research I",
+    "crn": 30255,
+    "subject": "PHYS",
+    "code": 791,
+    "type": null,
+    "section": "02",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30255",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "NT",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=PHYS&sel_crse_strt=791&sel_crse_end=791&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 21, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Serkan Ateş"
         ]
       }
     ],
