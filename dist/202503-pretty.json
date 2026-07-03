@@ -409,8 +409,8 @@
       {
         "title": "Seats",
         "capacity": 4,
-        "actual": 3,
-        "remaining": 1
+        "actual": 0,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -654,8 +654,8 @@
       {
         "title": "Seats",
         "capacity": 4,
-        "actual": 4,
-        "remaining": 0
+        "actual": 6,
+        "remaining": -2
       },
       {
         "title": "Waitlist Seats",
@@ -997,8 +997,8 @@
       {
         "title": "Seats",
         "capacity": 26,
-        "actual": 26,
-        "remaining": 0
+        "actual": 25,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -2565,8 +2565,8 @@
       {
         "title": "Seats",
         "capacity": 13,
-        "actual": 13,
-        "remaining": 0
+        "actual": 12,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -4611,8 +4611,8 @@
       {
         "title": "Seats",
         "capacity": 100,
-        "actual": 0,
-        "remaining": 100
+        "actual": 29,
+        "remaining": 71
       },
       {
         "title": "Waitlist Seats",
@@ -4692,8 +4692,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 23,
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -4704,8 +4704,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 29,
+        "remaining": 9970
       }
     ],
     "corequisites": [
@@ -4779,8 +4779,8 @@
       {
         "title": "Seats",
         "capacity": 33,
-        "actual": 0,
-        "remaining": 33
+        "actual": 6,
+        "remaining": 27
       },
       {
         "title": "Waitlist Seats",
@@ -4791,8 +4791,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 29,
+        "remaining": 9970
       }
     ],
     "corequisites": [
@@ -4948,8 +4948,8 @@
       {
         "title": "Seats",
         "capacity": 60,
-        "actual": 0,
-        "remaining": 60
+        "actual": 25,
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -5012,8 +5012,8 @@
       {
         "title": "Seats",
         "capacity": 60,
-        "actual": 0,
-        "remaining": 60
+        "actual": 25,
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -5093,8 +5093,8 @@
       {
         "title": "Seats",
         "capacity": 60,
-        "actual": 0,
-        "remaining": 60
+        "actual": 34,
+        "remaining": 26
       },
       {
         "title": "Waitlist Seats",
@@ -5160,8 +5160,8 @@
       {
         "title": "Seats",
         "capacity": 60,
-        "actual": 0,
-        "remaining": 60
+        "actual": 34,
+        "remaining": 26
       },
       {
         "title": "Waitlist Seats",
@@ -5240,8 +5240,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 11,
+        "remaining": 9
       },
       {
         "title": "Waitlist Seats",
@@ -5304,8 +5304,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 11,
+        "remaining": 9
       },
       {
         "title": "Waitlist Seats",
@@ -5385,8 +5385,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 9,
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -5450,8 +5450,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 9,
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -5531,8 +5531,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 19,
+        "remaining": 31
       },
       {
         "title": "Waitlist Seats",
@@ -5613,8 +5613,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 21,
+        "remaining": 29
       },
       {
         "title": "Waitlist Seats",
@@ -5676,8 +5676,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 21,
+        "remaining": 29
       },
       {
         "title": "Waitlist Seats",
@@ -5751,8 +5751,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 14,
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -5848,8 +5848,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 8,
+        "remaining": 22
       },
       {
         "title": "Waitlist Seats",
@@ -5930,8 +5930,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 17,
+        "remaining": 13
       },
       {
         "title": "Waitlist Seats",
@@ -6011,8 +6011,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 17,
+        "remaining": 13
       },
       {
         "title": "Waitlist Seats",
@@ -6092,8 +6092,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 29,
+        "remaining": 21
       },
       {
         "title": "Waitlist Seats",
@@ -6177,8 +6177,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 21,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -6257,8 +6257,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 8,
+        "remaining": 17
       },
       {
         "title": "Waitlist Seats",
@@ -6339,8 +6339,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 0,
-        "remaining": 40
+        "actual": 23,
+        "remaining": 17
       },
       {
         "title": "Waitlist Seats",
@@ -6405,8 +6405,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 0,
-        "remaining": 40
+        "actual": 23,
+        "remaining": 17
       },
       {
         "title": "Waitlist Seats",
@@ -6482,8 +6482,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 12,
+        "remaining": 13
       },
       {
         "title": "Waitlist Seats",
@@ -6561,8 +6561,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 12,
+        "remaining": 13
       },
       {
         "title": "Waitlist Seats",
@@ -6638,8 +6638,8 @@
       {
         "title": "Seats",
         "capacity": 75,
-        "actual": 0,
-        "remaining": 75
+        "actual": 43,
+        "remaining": 32
       },
       {
         "title": "Waitlist Seats",
@@ -6719,8 +6719,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 25,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -6731,8 +6731,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 42,
+        "remaining": 9957
       }
     ],
     "corequisites": [
@@ -6806,8 +6806,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 17,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -6818,8 +6818,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 42,
+        "remaining": 9957
       }
     ],
     "corequisites": [
@@ -6896,8 +6896,8 @@
       {
         "title": "Seats",
         "capacity": 60,
-        "actual": 0,
-        "remaining": 60
+        "actual": 25,
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -6957,8 +6957,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 24,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -7036,8 +7036,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 0,
-        "remaining": 35
+        "actual": 15,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -7115,8 +7115,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 0,
-        "remaining": 35
+        "actual": 15,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -7196,8 +7196,8 @@
       {
         "title": "Seats",
         "capacity": 60,
-        "actual": 0,
-        "remaining": 60
+        "actual": 40,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -7241,11 +7241,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
+          "from": "4:40 pm",
+          "to": "6:30 pm"
         },
-        "days": "F",
-        "where": "FENS L048",
+        "days": "W",
+        "where": "FENS L061",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 21, 2026"
@@ -7260,8 +7260,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 30,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -7341,8 +7341,8 @@
       {
         "title": "Seats",
         "capacity": 60,
-        "actual": 1,
-        "remaining": 59
+        "actual": 21,
+        "remaining": 39
       },
       {
         "title": "Waitlist Seats",
@@ -7405,8 +7405,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 19,
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -7417,8 +7417,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 1,
-        "remaining": 9998
+        "actual": 21,
+        "remaining": 9978
       }
     ],
     "corequisites": [
@@ -7475,8 +7475,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 1,
-        "remaining": 29
+        "actual": 2,
+        "remaining": 28
       },
       {
         "title": "Waitlist Seats",
@@ -7487,8 +7487,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 1,
-        "remaining": 9998
+        "actual": 21,
+        "remaining": 9978
       }
     ],
     "corequisites": [
@@ -7565,8 +7565,8 @@
       {
         "title": "Seats",
         "capacity": 75,
-        "actual": 0,
-        "remaining": 75
+        "actual": 34,
+        "remaining": 41
       },
       {
         "title": "Waitlist Seats",
@@ -7626,8 +7626,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 25,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -7687,8 +7687,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 8,
+        "remaining": 17
       },
       {
         "title": "Waitlist Seats",
@@ -7768,8 +7768,8 @@
       {
         "title": "Seats",
         "capacity": 160,
-        "actual": 0,
-        "remaining": 160
+        "actual": 75,
+        "remaining": 85
       },
       {
         "title": "Waitlist Seats",
@@ -7832,8 +7832,8 @@
       {
         "title": "Seats",
         "capacity": 54,
-        "actual": 0,
-        "remaining": 54
+        "actual": 54,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -7844,8 +7844,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 75,
+        "remaining": 9924
       }
     ],
     "corequisites": [
@@ -7902,8 +7902,8 @@
       {
         "title": "Seats",
         "capacity": 53,
-        "actual": 0,
-        "remaining": 53
+        "actual": 14,
+        "remaining": 39
       },
       {
         "title": "Waitlist Seats",
@@ -7914,8 +7914,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 75,
+        "remaining": 9924
       }
     ],
     "corequisites": [
@@ -7972,8 +7972,8 @@
       {
         "title": "Seats",
         "capacity": 53,
-        "actual": 0,
-        "remaining": 53
+        "actual": 7,
+        "remaining": 46
       },
       {
         "title": "Waitlist Seats",
@@ -7984,8 +7984,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 75,
+        "remaining": 9924
       }
     ],
     "corequisites": [
@@ -8062,8 +8062,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 2,
-        "remaining": 38
+        "actual": 10,
+        "remaining": 30
       },
       {
         "title": "Waitlist Seats",
@@ -8142,8 +8142,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 0,
-        "remaining": 35
+        "actual": 14,
+        "remaining": 21
       },
       {
         "title": "Waitlist Seats",
@@ -8189,7 +8189,7 @@
           "to": "4:30 pm"
         },
         "days": "M",
-        "where": "FMAN L014",
+        "where": "FASS 2128",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 21, 2026"
@@ -8207,7 +8207,7 @@
           "to": "4:30 pm"
         },
         "days": "R",
-        "where": "FMAN L014",
+        "where": "FASS 2128",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 21, 2026"
@@ -8223,8 +8223,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 0,
-        "remaining": 35
+        "actual": 14,
+        "remaining": 21
       },
       {
         "title": "Waitlist Seats",
@@ -8303,8 +8303,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 0,
-        "remaining": 35
+        "actual": 17,
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -8350,7 +8350,7 @@
           "to": "4:30 pm"
         },
         "days": "T",
-        "where": "FASS 2031",
+        "where": "FASS 2128",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 21, 2026"
@@ -8368,7 +8368,7 @@
           "to": "4:30 pm"
         },
         "days": "F",
-        "where": "FMAN L014",
+        "where": "FASS 2128",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 21, 2026"
@@ -8384,8 +8384,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 0,
-        "remaining": 35
+        "actual": 17,
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -8464,8 +8464,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 1,
-        "remaining": 39
+        "actual": 18,
+        "remaining": 22
       },
       {
         "title": "Waitlist Seats",
@@ -8549,8 +8549,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 23,
+        "remaining": 27
       },
       {
         "title": "Waitlist Seats",
@@ -8640,8 +8640,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 23,
+        "remaining": 27
       },
       {
         "title": "Waitlist Seats",
@@ -8720,8 +8720,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 13,
+        "remaining": 17
       },
       {
         "title": "Waitlist Seats",
@@ -8799,8 +8799,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 13,
+        "remaining": 17
       },
       {
         "title": "Waitlist Seats",
@@ -8877,8 +8877,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 9,
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -8955,8 +8955,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 9,
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -9005,10 +9005,11 @@
         "scheduleType": null,
         "instructors": [
           "Mine Gündüz Kartal",
-          "Ali Aydın",
           "Melek Didem Beyazoğlu Turan",
-          "Deniz Çiçekoğlu Daryavuz",
-          "Ebru Yamaç"
+          "İrem Gedil",
+          "Gökçen Gök Kaça",
+          "Nezaket Özgirin",
+          "Adam Michael Rackham"
         ]
       },
       {
@@ -9026,10 +9027,11 @@
         "scheduleType": null,
         "instructors": [
           "Mine Gündüz Kartal",
-          "Ali Aydın",
           "Melek Didem Beyazoğlu Turan",
-          "Deniz Çiçekoğlu Daryavuz",
-          "Ebru Yamaç"
+          "İrem Gedil",
+          "Gökçen Gök Kaça",
+          "Nezaket Özgirin",
+          "Adam Michael Rackham"
         ]
       },
       {
@@ -9047,10 +9049,11 @@
         "scheduleType": null,
         "instructors": [
           "Mine Gündüz Kartal",
-          "Ali Aydın",
           "Melek Didem Beyazoğlu Turan",
-          "Deniz Çiçekoğlu Daryavuz",
-          "Ebru Yamaç"
+          "İrem Gedil",
+          "Gökçen Gök Kaça",
+          "Nezaket Özgirin",
+          "Adam Michael Rackham"
         ]
       },
       {
@@ -9068,10 +9071,11 @@
         "scheduleType": null,
         "instructors": [
           "Mine Gündüz Kartal",
-          "Ali Aydın",
           "Melek Didem Beyazoğlu Turan",
-          "Deniz Çiçekoğlu Daryavuz",
-          "Ebru Yamaç"
+          "İrem Gedil",
+          "Gökçen Gök Kaça",
+          "Nezaket Özgirin",
+          "Adam Michael Rackham"
         ]
       },
       {
@@ -9089,10 +9093,11 @@
         "scheduleType": null,
         "instructors": [
           "Mine Gündüz Kartal",
-          "Ali Aydın",
           "Melek Didem Beyazoğlu Turan",
-          "Deniz Çiçekoğlu Daryavuz",
-          "Ebru Yamaç"
+          "İrem Gedil",
+          "Gökçen Gök Kaça",
+          "Nezaket Özgirin",
+          "Adam Michael Rackham"
         ]
       },
       {
@@ -9110,10 +9115,11 @@
         "scheduleType": null,
         "instructors": [
           "Mine Gündüz Kartal",
-          "Ali Aydın",
           "Melek Didem Beyazoğlu Turan",
-          "Deniz Çiçekoğlu Daryavuz",
-          "Ebru Yamaç"
+          "İrem Gedil",
+          "Gökçen Gök Kaça",
+          "Nezaket Özgirin",
+          "Adam Michael Rackham"
         ]
       },
       {
@@ -9131,10 +9137,11 @@
         "scheduleType": null,
         "instructors": [
           "Mine Gündüz Kartal",
-          "Ali Aydın",
           "Melek Didem Beyazoğlu Turan",
-          "Deniz Çiçekoğlu Daryavuz",
-          "Ebru Yamaç"
+          "İrem Gedil",
+          "Gökçen Gök Kaça",
+          "Nezaket Özgirin",
+          "Adam Michael Rackham"
         ]
       }
     ],
@@ -9191,12 +9198,11 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Kenneth Mark Fıne",
-          "Ali Aydın",
-          "Eren Benderli",
           "Melek Didem Beyazoğlu Turan",
+          "Ahmed Elmahi",
           "Mine Gündüz Kartal",
-          "Ebru Yamaç"
+          "Nezaket Özgirin",
+          "Merve Yıldırım"
         ]
       },
       {
@@ -9213,12 +9219,11 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Kenneth Mark Fıne",
-          "Ali Aydın",
-          "Eren Benderli",
           "Melek Didem Beyazoğlu Turan",
+          "Ahmed Elmahi",
           "Mine Gündüz Kartal",
-          "Ebru Yamaç"
+          "Nezaket Özgirin",
+          "Merve Yıldırım"
         ]
       },
       {
@@ -9235,12 +9240,11 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Kenneth Mark Fıne",
-          "Ali Aydın",
-          "Eren Benderli",
           "Melek Didem Beyazoğlu Turan",
+          "Ahmed Elmahi",
           "Mine Gündüz Kartal",
-          "Ebru Yamaç"
+          "Nezaket Özgirin",
+          "Merve Yıldırım"
         ]
       },
       {
@@ -9257,12 +9261,11 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Kenneth Mark Fıne",
-          "Ali Aydın",
-          "Eren Benderli",
           "Melek Didem Beyazoğlu Turan",
+          "Ahmed Elmahi",
           "Mine Gündüz Kartal",
-          "Ebru Yamaç"
+          "Nezaket Özgirin",
+          "Merve Yıldırım"
         ]
       },
       {
@@ -9279,12 +9282,11 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Kenneth Mark Fıne",
-          "Ali Aydın",
-          "Eren Benderli",
           "Melek Didem Beyazoğlu Turan",
+          "Ahmed Elmahi",
           "Mine Gündüz Kartal",
-          "Ebru Yamaç"
+          "Nezaket Özgirin",
+          "Merve Yıldırım"
         ]
       },
       {
@@ -9301,12 +9303,11 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Kenneth Mark Fıne",
-          "Ali Aydın",
-          "Eren Benderli",
           "Melek Didem Beyazoğlu Turan",
+          "Ahmed Elmahi",
           "Mine Gündüz Kartal",
-          "Ebru Yamaç"
+          "Nezaket Özgirin",
+          "Merve Yıldırım"
         ]
       },
       {
@@ -9323,12 +9324,11 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Kenneth Mark Fıne",
-          "Ali Aydın",
-          "Eren Benderli",
           "Melek Didem Beyazoğlu Turan",
+          "Ahmed Elmahi",
           "Mine Gündüz Kartal",
-          "Ebru Yamaç"
+          "Nezaket Özgirin",
+          "Merve Yıldırım"
         ]
       }
     ],
@@ -9385,11 +9385,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Özlem Yanar",
-          "Eren Benderli",
           "Kenneth Mark Fıne",
-          "İrem Gedil",
-          "Selin Şenay"
+          "Eren Benderli",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Özlem İnan",
+          "Merve Yıldırım"
         ]
       },
       {
@@ -9406,11 +9407,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Özlem Yanar",
-          "Eren Benderli",
           "Kenneth Mark Fıne",
-          "İrem Gedil",
-          "Selin Şenay"
+          "Eren Benderli",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Özlem İnan",
+          "Merve Yıldırım"
         ]
       },
       {
@@ -9427,11 +9429,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Özlem Yanar",
-          "Eren Benderli",
           "Kenneth Mark Fıne",
-          "İrem Gedil",
-          "Selin Şenay"
+          "Eren Benderli",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Özlem İnan",
+          "Merve Yıldırım"
         ]
       },
       {
@@ -9448,11 +9451,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Özlem Yanar",
-          "Eren Benderli",
           "Kenneth Mark Fıne",
-          "İrem Gedil",
-          "Selin Şenay"
+          "Eren Benderli",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Özlem İnan",
+          "Merve Yıldırım"
         ]
       },
       {
@@ -9469,11 +9473,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Özlem Yanar",
-          "Eren Benderli",
           "Kenneth Mark Fıne",
-          "İrem Gedil",
-          "Selin Şenay"
+          "Eren Benderli",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Özlem İnan",
+          "Merve Yıldırım"
         ]
       },
       {
@@ -9490,11 +9495,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Özlem Yanar",
-          "Eren Benderli",
           "Kenneth Mark Fıne",
-          "İrem Gedil",
-          "Selin Şenay"
+          "Eren Benderli",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Özlem İnan",
+          "Merve Yıldırım"
         ]
       },
       {
@@ -9511,11 +9517,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Özlem Yanar",
-          "Eren Benderli",
           "Kenneth Mark Fıne",
-          "İrem Gedil",
-          "Selin Şenay"
+          "Eren Benderli",
+          "Ahmed Elmahi",
+          "Ceyda Gümüş",
+          "Özlem İnan",
+          "Merve Yıldırım"
         ]
       }
     ],
@@ -9523,8 +9530,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 14,
-        "remaining": 4
+        "actual": 13,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -9573,10 +9580,11 @@
         "scheduleType": null,
         "instructors": [
           "Ceyda Gümüş",
-          "Andrew Christopher Bosson",
-          "Gülçin Coşgun",
-          "Gökçen Gök Kaça",
-          "Bayram Mustafa Zor"
+          "Okan Bölükbaş",
+          "Kenneth Mark Fıne",
+          "Özlem İnan",
+          "Engin Kaça",
+          "Adam Michael Rackham"
         ]
       },
       {
@@ -9594,10 +9602,11 @@
         "scheduleType": null,
         "instructors": [
           "Ceyda Gümüş",
-          "Andrew Christopher Bosson",
-          "Gülçin Coşgun",
-          "Gökçen Gök Kaça",
-          "Bayram Mustafa Zor"
+          "Okan Bölükbaş",
+          "Kenneth Mark Fıne",
+          "Özlem İnan",
+          "Engin Kaça",
+          "Adam Michael Rackham"
         ]
       },
       {
@@ -9615,10 +9624,11 @@
         "scheduleType": null,
         "instructors": [
           "Ceyda Gümüş",
-          "Andrew Christopher Bosson",
-          "Gülçin Coşgun",
-          "Gökçen Gök Kaça",
-          "Bayram Mustafa Zor"
+          "Okan Bölükbaş",
+          "Kenneth Mark Fıne",
+          "Özlem İnan",
+          "Engin Kaça",
+          "Adam Michael Rackham"
         ]
       },
       {
@@ -9636,10 +9646,11 @@
         "scheduleType": null,
         "instructors": [
           "Ceyda Gümüş",
-          "Andrew Christopher Bosson",
-          "Gülçin Coşgun",
-          "Gökçen Gök Kaça",
-          "Bayram Mustafa Zor"
+          "Okan Bölükbaş",
+          "Kenneth Mark Fıne",
+          "Özlem İnan",
+          "Engin Kaça",
+          "Adam Michael Rackham"
         ]
       },
       {
@@ -9657,10 +9668,11 @@
         "scheduleType": null,
         "instructors": [
           "Ceyda Gümüş",
-          "Andrew Christopher Bosson",
-          "Gülçin Coşgun",
-          "Gökçen Gök Kaça",
-          "Bayram Mustafa Zor"
+          "Okan Bölükbaş",
+          "Kenneth Mark Fıne",
+          "Özlem İnan",
+          "Engin Kaça",
+          "Adam Michael Rackham"
         ]
       },
       {
@@ -9678,10 +9690,11 @@
         "scheduleType": null,
         "instructors": [
           "Ceyda Gümüş",
-          "Andrew Christopher Bosson",
-          "Gülçin Coşgun",
-          "Gökçen Gök Kaça",
-          "Bayram Mustafa Zor"
+          "Okan Bölükbaş",
+          "Kenneth Mark Fıne",
+          "Özlem İnan",
+          "Engin Kaça",
+          "Adam Michael Rackham"
         ]
       },
       {
@@ -9699,10 +9712,11 @@
         "scheduleType": null,
         "instructors": [
           "Ceyda Gümüş",
-          "Andrew Christopher Bosson",
-          "Gülçin Coşgun",
-          "Gökçen Gök Kaça",
-          "Bayram Mustafa Zor"
+          "Okan Bölükbaş",
+          "Kenneth Mark Fıne",
+          "Özlem İnan",
+          "Engin Kaça",
+          "Adam Michael Rackham"
         ]
       }
     ],
@@ -9710,8 +9724,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 13,
-        "remaining": 5
+        "actual": 14,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -9759,12 +9773,11 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Gökçen Gök Kaça",
-          "Andrew Christopher Bosson",
-          "Gülçin Coşgun",
-          "Nezaket Özgirin",
-          "Suant Jane Sezgin",
-          "Bayram Mustafa Zor"
+          "Okan Bölükbaş",
+          "Gamze Bozkurt",
+          "Engin Kaça",
+          "Deniz Özden Rodrigues",
+          "Arzu Nihan Poyraz"
         ]
       },
       {
@@ -9781,12 +9794,11 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Gökçen Gök Kaça",
-          "Andrew Christopher Bosson",
-          "Gülçin Coşgun",
-          "Nezaket Özgirin",
-          "Suant Jane Sezgin",
-          "Bayram Mustafa Zor"
+          "Okan Bölükbaş",
+          "Gamze Bozkurt",
+          "Engin Kaça",
+          "Deniz Özden Rodrigues",
+          "Arzu Nihan Poyraz"
         ]
       },
       {
@@ -9803,12 +9815,11 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Gökçen Gök Kaça",
-          "Andrew Christopher Bosson",
-          "Gülçin Coşgun",
-          "Nezaket Özgirin",
-          "Suant Jane Sezgin",
-          "Bayram Mustafa Zor"
+          "Okan Bölükbaş",
+          "Gamze Bozkurt",
+          "Engin Kaça",
+          "Deniz Özden Rodrigues",
+          "Arzu Nihan Poyraz"
         ]
       },
       {
@@ -9825,12 +9836,11 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Gökçen Gök Kaça",
-          "Andrew Christopher Bosson",
-          "Gülçin Coşgun",
-          "Nezaket Özgirin",
-          "Suant Jane Sezgin",
-          "Bayram Mustafa Zor"
+          "Okan Bölükbaş",
+          "Gamze Bozkurt",
+          "Engin Kaça",
+          "Deniz Özden Rodrigues",
+          "Arzu Nihan Poyraz"
         ]
       },
       {
@@ -9847,12 +9857,11 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Gökçen Gök Kaça",
-          "Andrew Christopher Bosson",
-          "Gülçin Coşgun",
-          "Nezaket Özgirin",
-          "Suant Jane Sezgin",
-          "Bayram Mustafa Zor"
+          "Okan Bölükbaş",
+          "Gamze Bozkurt",
+          "Engin Kaça",
+          "Deniz Özden Rodrigues",
+          "Arzu Nihan Poyraz"
         ]
       },
       {
@@ -9869,12 +9878,11 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Gökçen Gök Kaça",
-          "Andrew Christopher Bosson",
-          "Gülçin Coşgun",
-          "Nezaket Özgirin",
-          "Suant Jane Sezgin",
-          "Bayram Mustafa Zor"
+          "Okan Bölükbaş",
+          "Gamze Bozkurt",
+          "Engin Kaça",
+          "Deniz Özden Rodrigues",
+          "Arzu Nihan Poyraz"
         ]
       },
       {
@@ -9891,12 +9899,11 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Gökçen Gök Kaça",
-          "Andrew Christopher Bosson",
-          "Gülçin Coşgun",
-          "Nezaket Özgirin",
-          "Suant Jane Sezgin",
-          "Bayram Mustafa Zor"
+          "Okan Bölükbaş",
+          "Gamze Bozkurt",
+          "Engin Kaça",
+          "Deniz Özden Rodrigues",
+          "Arzu Nihan Poyraz"
         ]
       }
     ],
@@ -9904,8 +9911,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 14,
-        "remaining": 4
+        "actual": 13,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -9953,11 +9960,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Bünyamin Mengi",
-          "Feyza Sena Avşar",
-          "Ahmed Elmahi",
-          "Ceyda Gümüş",
-          "Celile Gürsu"
+          "Büşra Nur Özer Musaoğlu",
+          "Arda Bayraktaroğlu",
+          "Sonat Demirdirek",
+          "Celile Gürsu",
+          "Deniz Özden Rodrigues",
+          "Arzu Nihan Poyraz"
         ]
       },
       {
@@ -9974,11 +9982,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Bünyamin Mengi",
-          "Feyza Sena Avşar",
-          "Ahmed Elmahi",
-          "Ceyda Gümüş",
-          "Celile Gürsu"
+          "Büşra Nur Özer Musaoğlu",
+          "Arda Bayraktaroğlu",
+          "Sonat Demirdirek",
+          "Celile Gürsu",
+          "Deniz Özden Rodrigues",
+          "Arzu Nihan Poyraz"
         ]
       },
       {
@@ -9995,11 +10004,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Bünyamin Mengi",
-          "Feyza Sena Avşar",
-          "Ahmed Elmahi",
-          "Ceyda Gümüş",
-          "Celile Gürsu"
+          "Büşra Nur Özer Musaoğlu",
+          "Arda Bayraktaroğlu",
+          "Sonat Demirdirek",
+          "Celile Gürsu",
+          "Deniz Özden Rodrigues",
+          "Arzu Nihan Poyraz"
         ]
       },
       {
@@ -10016,11 +10026,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Bünyamin Mengi",
-          "Feyza Sena Avşar",
-          "Ahmed Elmahi",
-          "Ceyda Gümüş",
-          "Celile Gürsu"
+          "Büşra Nur Özer Musaoğlu",
+          "Arda Bayraktaroğlu",
+          "Sonat Demirdirek",
+          "Celile Gürsu",
+          "Deniz Özden Rodrigues",
+          "Arzu Nihan Poyraz"
         ]
       },
       {
@@ -10037,11 +10048,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Bünyamin Mengi",
-          "Feyza Sena Avşar",
-          "Ahmed Elmahi",
-          "Ceyda Gümüş",
-          "Celile Gürsu"
+          "Büşra Nur Özer Musaoğlu",
+          "Arda Bayraktaroğlu",
+          "Sonat Demirdirek",
+          "Celile Gürsu",
+          "Deniz Özden Rodrigues",
+          "Arzu Nihan Poyraz"
         ]
       },
       {
@@ -10058,11 +10070,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Bünyamin Mengi",
-          "Feyza Sena Avşar",
-          "Ahmed Elmahi",
-          "Ceyda Gümüş",
-          "Celile Gürsu"
+          "Büşra Nur Özer Musaoğlu",
+          "Arda Bayraktaroğlu",
+          "Sonat Demirdirek",
+          "Celile Gürsu",
+          "Deniz Özden Rodrigues",
+          "Arzu Nihan Poyraz"
         ]
       },
       {
@@ -10079,11 +10092,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Bünyamin Mengi",
-          "Feyza Sena Avşar",
-          "Ahmed Elmahi",
-          "Ceyda Gümüş",
-          "Celile Gürsu"
+          "Büşra Nur Özer Musaoğlu",
+          "Arda Bayraktaroğlu",
+          "Sonat Demirdirek",
+          "Celile Gürsu",
+          "Deniz Özden Rodrigues",
+          "Arzu Nihan Poyraz"
         ]
       }
     ],
@@ -10140,12 +10154,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ahmed Elmahi",
-          "Feyza Sena Avşar",
           "Arda Bayraktaroğlu",
+          "Eren Benderli",
+          "Gülçin Coşgun",
+          "Sonat Demirdirek",
           "Celile Gürsu",
-          "Bünyamin Mengi",
-          "Nezaket Özgirin"
+          "Büşra Nur Özer Musaoğlu"
         ]
       },
       {
@@ -10162,12 +10176,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ahmed Elmahi",
-          "Feyza Sena Avşar",
           "Arda Bayraktaroğlu",
+          "Eren Benderli",
+          "Gülçin Coşgun",
+          "Sonat Demirdirek",
           "Celile Gürsu",
-          "Bünyamin Mengi",
-          "Nezaket Özgirin"
+          "Büşra Nur Özer Musaoğlu"
         ]
       },
       {
@@ -10184,12 +10198,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ahmed Elmahi",
-          "Feyza Sena Avşar",
           "Arda Bayraktaroğlu",
+          "Eren Benderli",
+          "Gülçin Coşgun",
+          "Sonat Demirdirek",
           "Celile Gürsu",
-          "Bünyamin Mengi",
-          "Nezaket Özgirin"
+          "Büşra Nur Özer Musaoğlu"
         ]
       },
       {
@@ -10206,12 +10220,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ahmed Elmahi",
-          "Feyza Sena Avşar",
           "Arda Bayraktaroğlu",
+          "Eren Benderli",
+          "Gülçin Coşgun",
+          "Sonat Demirdirek",
           "Celile Gürsu",
-          "Bünyamin Mengi",
-          "Nezaket Özgirin"
+          "Büşra Nur Özer Musaoğlu"
         ]
       },
       {
@@ -10228,12 +10242,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ahmed Elmahi",
-          "Feyza Sena Avşar",
           "Arda Bayraktaroğlu",
+          "Eren Benderli",
+          "Gülçin Coşgun",
+          "Sonat Demirdirek",
           "Celile Gürsu",
-          "Bünyamin Mengi",
-          "Nezaket Özgirin"
+          "Büşra Nur Özer Musaoğlu"
         ]
       },
       {
@@ -10250,12 +10264,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ahmed Elmahi",
-          "Feyza Sena Avşar",
           "Arda Bayraktaroğlu",
+          "Eren Benderli",
+          "Gülçin Coşgun",
+          "Sonat Demirdirek",
           "Celile Gürsu",
-          "Bünyamin Mengi",
-          "Nezaket Özgirin"
+          "Büşra Nur Özer Musaoğlu"
         ]
       },
       {
@@ -10272,12 +10286,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ahmed Elmahi",
-          "Feyza Sena Avşar",
           "Arda Bayraktaroğlu",
+          "Eren Benderli",
+          "Gülçin Coşgun",
+          "Sonat Demirdirek",
           "Celile Gürsu",
-          "Bünyamin Mengi",
-          "Nezaket Özgirin"
+          "Büşra Nur Özer Musaoğlu"
         ]
       }
     ],
@@ -10285,8 +10299,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 12,
-        "remaining": 6
+        "actual": 13,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -10334,11 +10348,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Adam Michael Rackham",
-          "Aybüke Filiz Gürer",
-          "David Hill",
-          "Züleyha Tülay",
-          "Mutlu Üstünkaya Bosson"
+          "Özlem Yanar",
+          "Ali Aydın",
+          "İlkay Bülbül",
+          "Neslihan Demirdirek",
+          "Tuğba Yıldırım Kumbasar",
+          "Bayram Mustafa Zor"
         ]
       },
       {
@@ -10355,11 +10370,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Adam Michael Rackham",
-          "Aybüke Filiz Gürer",
-          "David Hill",
-          "Züleyha Tülay",
-          "Mutlu Üstünkaya Bosson"
+          "Özlem Yanar",
+          "Ali Aydın",
+          "İlkay Bülbül",
+          "Neslihan Demirdirek",
+          "Tuğba Yıldırım Kumbasar",
+          "Bayram Mustafa Zor"
         ]
       },
       {
@@ -10376,11 +10392,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Adam Michael Rackham",
-          "Aybüke Filiz Gürer",
-          "David Hill",
-          "Züleyha Tülay",
-          "Mutlu Üstünkaya Bosson"
+          "Özlem Yanar",
+          "Ali Aydın",
+          "İlkay Bülbül",
+          "Neslihan Demirdirek",
+          "Tuğba Yıldırım Kumbasar",
+          "Bayram Mustafa Zor"
         ]
       },
       {
@@ -10397,11 +10414,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Adam Michael Rackham",
-          "Aybüke Filiz Gürer",
-          "David Hill",
-          "Züleyha Tülay",
-          "Mutlu Üstünkaya Bosson"
+          "Özlem Yanar",
+          "Ali Aydın",
+          "İlkay Bülbül",
+          "Neslihan Demirdirek",
+          "Tuğba Yıldırım Kumbasar",
+          "Bayram Mustafa Zor"
         ]
       },
       {
@@ -10418,11 +10436,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Adam Michael Rackham",
-          "Aybüke Filiz Gürer",
-          "David Hill",
-          "Züleyha Tülay",
-          "Mutlu Üstünkaya Bosson"
+          "Özlem Yanar",
+          "Ali Aydın",
+          "İlkay Bülbül",
+          "Neslihan Demirdirek",
+          "Tuğba Yıldırım Kumbasar",
+          "Bayram Mustafa Zor"
         ]
       },
       {
@@ -10439,11 +10458,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Adam Michael Rackham",
-          "Aybüke Filiz Gürer",
-          "David Hill",
-          "Züleyha Tülay",
-          "Mutlu Üstünkaya Bosson"
+          "Özlem Yanar",
+          "Ali Aydın",
+          "İlkay Bülbül",
+          "Neslihan Demirdirek",
+          "Tuğba Yıldırım Kumbasar",
+          "Bayram Mustafa Zor"
         ]
       },
       {
@@ -10460,11 +10480,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Adam Michael Rackham",
-          "Aybüke Filiz Gürer",
-          "David Hill",
-          "Züleyha Tülay",
-          "Mutlu Üstünkaya Bosson"
+          "Özlem Yanar",
+          "Ali Aydın",
+          "İlkay Bülbül",
+          "Neslihan Demirdirek",
+          "Tuğba Yıldırım Kumbasar",
+          "Bayram Mustafa Zor"
         ]
       }
     ],
@@ -10521,11 +10542,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Büşra Nur Özer Musaoğlu",
-          "Aybüke Filiz Gürer",
-          "David Hill",
-          "Züleyha Tülay",
-          "Mutlu Üstünkaya Bosson"
+          "Bayram Mustafa Zor",
+          "Ali Aydın",
+          "İlkay Bülbül",
+          "Neslihan Demirdirek",
+          "Özlem Yanar",
+          "Tuğba Yıldırım Kumbasar"
         ]
       },
       {
@@ -10542,11 +10564,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Büşra Nur Özer Musaoğlu",
-          "Aybüke Filiz Gürer",
-          "David Hill",
-          "Züleyha Tülay",
-          "Mutlu Üstünkaya Bosson"
+          "Bayram Mustafa Zor",
+          "Ali Aydın",
+          "İlkay Bülbül",
+          "Neslihan Demirdirek",
+          "Özlem Yanar",
+          "Tuğba Yıldırım Kumbasar"
         ]
       },
       {
@@ -10563,11 +10586,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Büşra Nur Özer Musaoğlu",
-          "Aybüke Filiz Gürer",
-          "David Hill",
-          "Züleyha Tülay",
-          "Mutlu Üstünkaya Bosson"
+          "Bayram Mustafa Zor",
+          "Ali Aydın",
+          "İlkay Bülbül",
+          "Neslihan Demirdirek",
+          "Özlem Yanar",
+          "Tuğba Yıldırım Kumbasar"
         ]
       },
       {
@@ -10584,11 +10608,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Büşra Nur Özer Musaoğlu",
-          "Aybüke Filiz Gürer",
-          "David Hill",
-          "Züleyha Tülay",
-          "Mutlu Üstünkaya Bosson"
+          "Bayram Mustafa Zor",
+          "Ali Aydın",
+          "İlkay Bülbül",
+          "Neslihan Demirdirek",
+          "Özlem Yanar",
+          "Tuğba Yıldırım Kumbasar"
         ]
       },
       {
@@ -10605,11 +10630,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Büşra Nur Özer Musaoğlu",
-          "Aybüke Filiz Gürer",
-          "David Hill",
-          "Züleyha Tülay",
-          "Mutlu Üstünkaya Bosson"
+          "Bayram Mustafa Zor",
+          "Ali Aydın",
+          "İlkay Bülbül",
+          "Neslihan Demirdirek",
+          "Özlem Yanar",
+          "Tuğba Yıldırım Kumbasar"
         ]
       },
       {
@@ -10626,11 +10652,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Büşra Nur Özer Musaoğlu",
-          "Aybüke Filiz Gürer",
-          "David Hill",
-          "Züleyha Tülay",
-          "Mutlu Üstünkaya Bosson"
+          "Bayram Mustafa Zor",
+          "Ali Aydın",
+          "İlkay Bülbül",
+          "Neslihan Demirdirek",
+          "Özlem Yanar",
+          "Tuğba Yıldırım Kumbasar"
         ]
       },
       {
@@ -10647,11 +10674,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Büşra Nur Özer Musaoğlu",
-          "Aybüke Filiz Gürer",
-          "David Hill",
-          "Züleyha Tülay",
-          "Mutlu Üstünkaya Bosson"
+          "Bayram Mustafa Zor",
+          "Ali Aydın",
+          "İlkay Bülbül",
+          "Neslihan Demirdirek",
+          "Özlem Yanar",
+          "Tuğba Yıldırım Kumbasar"
         ]
       }
     ],
@@ -10741,8 +10769,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 18,
+        "remaining": 32
       },
       {
         "title": "Waitlist Seats",
@@ -10822,8 +10850,8 @@
       {
         "title": "Seats",
         "capacity": 60,
-        "actual": 0,
-        "remaining": 60
+        "actual": 15,
+        "remaining": 45
       },
       {
         "title": "Waitlist Seats",
@@ -10903,8 +10931,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 9,
+        "remaining": 21
       },
       {
         "title": "Waitlist Seats",
@@ -10981,8 +11009,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 6,
+        "remaining": 24
       },
       {
         "title": "Waitlist Seats",
@@ -11063,8 +11091,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 12,
+        "remaining": 38
       },
       {
         "title": "Waitlist Seats",
@@ -11145,8 +11173,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 5,
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -11303,8 +11331,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 16,
+        "remaining": 9
       },
       {
         "title": "Waitlist Seats",
@@ -11364,8 +11392,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 1,
+        "remaining": 29
       },
       {
         "title": "Waitlist Seats",
@@ -11425,8 +11453,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 10,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -11486,8 +11514,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 1,
+        "remaining": 24
       },
       {
         "title": "Waitlist Seats",
@@ -11626,8 +11654,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 1,
+        "remaining": 24
       },
       {
         "title": "Waitlist Seats",
@@ -11709,8 +11737,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 10,
+        "remaining": 15
       },
       {
         "title": "Waitlist Seats",
@@ -11792,8 +11820,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 10,
+        "remaining": 15
       },
       {
         "title": "Waitlist Seats",
@@ -11872,8 +11900,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 7,
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -11953,8 +11981,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 7,
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -12051,8 +12079,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 11,
+        "remaining": 14
       },
       {
         "title": "Waitlist Seats",
@@ -12203,8 +12231,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 6,
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -12302,8 +12330,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 0,
-        "remaining": 40
+        "actual": 4,
+        "remaining": 36
       },
       {
         "title": "Waitlist Seats",
@@ -12363,8 +12391,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 0,
-        "remaining": 40
+        "actual": 4,
+        "remaining": 36
       },
       {
         "title": "Waitlist Seats",
@@ -13334,8 +13362,8 @@
       {
         "title": "Seats",
         "capacity": 2,
-        "actual": 0,
-        "remaining": 2
+        "actual": 2,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -13458,8 +13486,8 @@
       {
         "title": "Seats",
         "capacity": 2,
-        "actual": 0,
-        "remaining": 2
+        "actual": 1,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -13582,8 +13610,8 @@
       {
         "title": "Seats",
         "capacity": 2,
-        "actual": 0,
-        "remaining": 2
+        "actual": 1,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -13644,8 +13672,8 @@
       {
         "title": "Seats",
         "capacity": 2,
-        "actual": 0,
-        "remaining": 2
+        "actual": 1,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -13706,8 +13734,8 @@
       {
         "title": "Seats",
         "capacity": 2,
-        "actual": 0,
-        "remaining": 2
+        "actual": 2,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -13954,8 +13982,8 @@
       {
         "title": "Seats",
         "capacity": 2,
-        "actual": 0,
-        "remaining": 2
+        "actual": 2,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -14016,8 +14044,8 @@
       {
         "title": "Seats",
         "capacity": 2,
-        "actual": 0,
-        "remaining": 2
+        "actual": 2,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -14078,8 +14106,8 @@
       {
         "title": "Seats",
         "capacity": 2,
-        "actual": 0,
-        "remaining": 2
+        "actual": 1,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -14264,8 +14292,8 @@
       {
         "title": "Seats",
         "capacity": 2,
-        "actual": 0,
-        "remaining": 2
+        "actual": 1,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
