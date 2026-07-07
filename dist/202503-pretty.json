@@ -97,8 +97,8 @@
       {
         "title": "Seats",
         "capacity": 120,
-        "actual": 72,
-        "remaining": 48
+        "actual": 71,
+        "remaining": 49
       },
       {
         "title": "Waitlist Seats",
@@ -5930,8 +5930,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 18,
-        "remaining": 12
+        "actual": 19,
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -6011,8 +6011,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 18,
-        "remaining": 12
+        "actual": 19,
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -6092,8 +6092,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 30,
-        "remaining": 20
+        "actual": 31,
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -6177,8 +6177,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 21,
-        "remaining": 4
+        "actual": 22,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -6731,8 +6731,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 46,
-        "remaining": 9953
+        "actual": 47,
+        "remaining": 9952
       }
     ],
     "corequisites": [
@@ -6818,8 +6818,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 46,
-        "remaining": 9953
+        "actual": 47,
+        "remaining": 9952
       }
     ],
     "corequisites": [
@@ -6965,7 +6965,16 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 27,
+        "remaining": 9972
       }
+    ],
+    "corequisites": [
+      "MATH 201"
     ]
   },
   {
@@ -7268,7 +7277,16 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 44,
+        "remaining": 9955
       }
+    ],
+    "corequisites": [
+      "MATH 202"
     ]
   },
   {
@@ -7390,7 +7408,7 @@
           "to": "5:30 pm"
         },
         "days": "F",
-        "where": "FENS L047",
+        "where": "FENS L063",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 21, 2026"
@@ -7460,7 +7478,7 @@
           "to": "5:30 pm"
         },
         "days": "F",
-        "where": "FENS L063",
+        "where": "FENS L047",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 21, 2026"
@@ -7533,7 +7551,7 @@
           "to": "2:30 pm"
         },
         "days": "T",
-        "where": "FASS 1050",
+        "where": "FASS G025",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 21, 2026"
@@ -7550,7 +7568,7 @@
           "to": "1:30 pm"
         },
         "days": "W",
-        "where": "FASS 1050",
+        "where": "FASS G025",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 21, 2026"
@@ -7634,7 +7652,16 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 36,
+        "remaining": 9963
       }
+    ],
+    "corequisites": [
+      "MATH 204"
     ]
   },
   {
@@ -7695,7 +7722,16 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 36,
+        "remaining": 9963
       }
+    ],
+    "corequisites": [
+      "MATH 204"
     ]
   },
   {
@@ -8516,11 +8552,11 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Melike Ayşe Kocacık Şenol",
-          "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Marloes Cornelissen Aydemir",
           "Burhan İzgin",
-          "Berna Kamay"
+          "Berna Kamay",
+          "Melike Ayşe Kocacık Şenol"
         ]
       },
       {
@@ -8537,11 +8573,11 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Melike Ayşe Kocacık Şenol",
-          "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Marloes Cornelissen Aydemir",
           "Burhan İzgin",
-          "Berna Kamay"
+          "Berna Kamay",
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
@@ -8605,12 +8641,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Melike Ayşe Kocacık Şenol",
-          "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Marloes Cornelissen Aydemir",
           "Elif Çam",
           "Burhan İzgin",
-          "Berna Kamay"
+          "Berna Kamay",
+          "Melike Ayşe Kocacık Şenol"
         ]
       },
       {
@@ -8627,12 +8663,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Melike Ayşe Kocacık Şenol",
-          "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Marloes Cornelissen Aydemir",
           "Elif Çam",
           "Burhan İzgin",
-          "Berna Kamay"
+          "Berna Kamay",
+          "Melike Ayşe Kocacık Şenol"
         ]
       }
     ],
@@ -9191,7 +9227,7 @@
           "to": "12:50 pm"
         },
         "days": "M",
-        "where": "SL 1026",
+        "where": "SL 1046",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 26, 2026"
@@ -9212,7 +9248,7 @@
           "to": "3:30 pm"
         },
         "days": "M",
-        "where": "SL 1026",
+        "where": "SL 1046",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 26, 2026"
@@ -9233,7 +9269,7 @@
           "to": "12:50 pm"
         },
         "days": "T",
-        "where": "SL 1027",
+        "where": "SL 1037",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 26, 2026"
@@ -9911,8 +9947,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 13,
-        "remaining": 5
+        "actual": 12,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -10493,8 +10529,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 12,
-        "remaining": 6
+        "actual": 11,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -11066,7 +11102,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ahmet Barış Balcıoğlu"
+          "Fatemeh Karamyar"
         ]
       },
       {
@@ -11083,7 +11119,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ahmet Barış Balcıoğlu"
+          "Fatemeh Karamyar"
         ]
       }
     ],
@@ -11400,7 +11436,16 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 27,
+        "remaining": 9972
       }
+    ],
+    "corequisites": [
+      "MATH 201"
     ]
   },
   {
@@ -11461,7 +11506,16 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 44,
+        "remaining": 9955
       }
+    ],
+    "corequisites": [
+      "MATH 202"
     ]
   },
   {
@@ -11522,7 +11576,16 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 36,
+        "remaining": 9963
       }
+    ],
+    "corequisites": [
+      "MATH 204"
     ]
   },
   {
@@ -11662,7 +11725,16 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 47,
+        "remaining": 9952
       }
+    ],
+    "corequisites": [
+      "MATH 102"
     ]
   },
   {
@@ -13361,9 +13433,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 2,
+        "capacity": 4,
         "actual": 2,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -14356,6 +14428,68 @@
         "capacity": 2,
         "actual": 2,
         "remaining": 0
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Directed Research",
+    "crn": 30256,
+    "subject": "CS",
+    "code": 591,
+    "type": null,
+    "section": "03",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30256",
+    "term": "Summer 2025-2026",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Independent Study",
+    "method": "NT",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=CS&sel_crse_strt=591&sel_crse_end=591&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Jul 06, 2026",
+          "to": "Aug 21, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erkay Savaş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 1,
+        "actual": 0,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
