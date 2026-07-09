@@ -3791,11 +3791,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "4:40 pm",
-          "to": "5:30 pm"
+          "from": "9:40 am",
+          "to": "10:30 am"
         },
-        "days": "W",
-        "where": "FENS L045",
+        "days": "T",
+        "where": "FASS G018",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -3808,11 +3808,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "8:40 am",
-          "to": "10:30 am"
+          "from": "9:40 am",
+          "to": "11:30 am"
         },
         "days": "R",
-        "where": "FENS L045",
+        "where": "FASS 1010",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"

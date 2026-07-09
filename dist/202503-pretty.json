@@ -7196,7 +7196,7 @@
     "subject": "MATH",
     "code": 203,
     "type": "R",
-    "section": "A1",
+    "section": "0",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30154",
     "term": "Summer 2025-2026",
     "levels": [
@@ -7240,94 +7240,15 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 23,
-        "remaining": 7
+        "actual": 24,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 24,
-        "remaining": 9975
       }
-    ],
-    "corequisites": [
-      "MATH 203"
-    ]
-  },
-  {
-    "name": "Introduction to Probability - Recitation",
-    "crn": 30155,
-    "subject": "MATH",
-    "code": 203,
-    "type": "R",
-    "section": "A2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202503&crn_in=30155",
-    "term": "Summer 2025-2026",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202503&one_subj=MATH&sel_crse_strt=203R&sel_crse_end=203R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "3:40 pm",
-          "to": "5:30 pm"
-        },
-        "days": "F",
-        "where": "FENS L047",
-        "dateRange": {
-          "from": "Jul 06, 2026",
-          "to": "Aug 21, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Gamze Kuruk"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 30,
-        "actual": 1,
-        "remaining": 29
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 24,
-        "remaining": 9975
-      }
-    ],
-    "corequisites": [
-      "MATH 203"
     ]
   },
   {
@@ -8285,7 +8206,7 @@
           "to": "12:30 pm"
         },
         "days": "T",
-        "where": "FASS 2031",
+        "where": "FASS 1099",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 21, 2026"
@@ -8302,7 +8223,7 @@
           "to": "12:30 pm"
         },
         "days": "W",
-        "where": "FASS 2031",
+        "where": "FASS 1099",
         "dateRange": {
           "from": "Jul 06, 2026",
           "to": "Aug 21, 2026"
@@ -11796,10 +11717,10 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
+          "from": "9:40 am",
+          "to": "11:30 am"
         },
-        "days": "T",
+        "days": "W",
         "where": "FASS 1079",
         "dateRange": {
           "from": "Jul 06, 2026",
