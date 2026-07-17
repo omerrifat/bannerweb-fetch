@@ -22059,10 +22059,10 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
+          "from": "6:40 pm",
+          "to": "8:30 pm"
         },
-        "days": "F",
+        "days": "W",
         "where": "FENS G055",
         "dateRange": {
           "from": "Sep 28, 2026",
@@ -22131,10 +22131,10 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
+          "from": "6:40 pm",
+          "to": "8:30 pm"
         },
-        "days": "F",
+        "days": "W",
         "where": "FENS G059",
         "dateRange": {
           "from": "Sep 28, 2026",
@@ -31705,9 +31705,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 270,
+        "capacity": 250,
         "actual": 0,
-        "remaining": 270
+        "remaining": 250
       },
       {
         "title": "Waitlist Seats",
@@ -31769,9 +31769,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 214,
+        "capacity": 200,
         "actual": 0,
-        "remaining": 214
+        "remaining": 200
       },
       {
         "title": "Waitlist Seats",
@@ -31813,11 +31813,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "3:30 pm"
         },
         "days": "F",
-        "where": "FASS G056",
+        "where": "FASS 1081",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -31831,9 +31831,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 27,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 27
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -31883,11 +31883,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "3:30 pm"
         },
         "days": "F",
-        "where": "FASS 1081",
+        "where": "FMAN G042",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -31901,9 +31901,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 27,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 27
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -31953,8 +31953,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "3:30 pm"
         },
         "days": "F",
         "where": "FASS 2031",
@@ -31971,9 +31971,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 27,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 27
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -32023,8 +32023,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "3:30 pm"
         },
         "days": "F",
         "where": "FASS 1011",
@@ -32041,9 +32041,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 26,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 26
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -32093,8 +32093,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "3:30 pm"
         },
         "days": "F",
         "where": "FASS 1001",
@@ -32111,9 +32111,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 26,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 26
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -32163,8 +32163,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "3:30 pm"
         },
         "days": "F",
         "where": "FASS 1097",
@@ -32181,9 +32181,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 26,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 26
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -32233,11 +32233,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "2:30 pm"
+          "from": "2:40 pm",
+          "to": "3:30 pm"
         },
         "days": "F",
-        "where": "FENS G015",
+        "where": "FENS G025",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -32251,9 +32251,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 27,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 27
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -32303,11 +32303,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
-          "to": "3:30 pm"
+          "from": "3:40 pm",
+          "to": "4:30 pm"
         },
         "days": "F",
-        "where": "FASS 1081",
+        "where": "FASS 1089",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -32321,9 +32321,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 27,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 27
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -32373,8 +32373,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
-          "to": "3:30 pm"
+          "from": "3:40 pm",
+          "to": "4:30 pm"
         },
         "days": "F",
         "where": "FMAN G042",
@@ -32391,9 +32391,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 27,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 27
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -32443,8 +32443,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
-          "to": "3:30 pm"
+          "from": "3:40 pm",
+          "to": "4:30 pm"
         },
         "days": "F",
         "where": "FASS 1011",
@@ -32461,9 +32461,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 26,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 26
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -32513,11 +32513,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
-          "to": "3:30 pm"
+          "from": "3:40 pm",
+          "to": "4:30 pm"
         },
         "days": "F",
-        "where": "FASS 1001",
+        "where": "FASS 1099",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -32531,9 +32531,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 26,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 26
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -32583,11 +32583,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
-          "to": "3:30 pm"
+          "from": "3:40 pm",
+          "to": "4:30 pm"
         },
         "days": "F",
-        "where": "FASS 1097",
+        "where": "FASS G056",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -32601,9 +32601,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 26,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 26
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -32653,8 +32653,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "3:40 pm",
-          "to": "4:30 pm"
+          "from": "4:40 pm",
+          "to": "5:30 pm"
         },
         "days": "F",
         "where": "FASS G056",
@@ -32671,9 +32671,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 27,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 27
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -32741,9 +32741,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 27,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 27
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -32811,9 +32811,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 27,
+        "capacity": 0,
         "actual": 0,
-        "remaining": 27
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -32881,16 +32881,25 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 29,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 29
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
       }
+    ],
+    "corequisites": [
+      "SPS 303"
     ]
   },
   {
@@ -36474,11 +36483,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "3:40 pm",
-          "to": "4:30 pm"
+          "from": "4:40 pm",
+          "to": "5:30 pm"
         },
         "days": "F",
-        "where": "FASS 1011",
+        "where": "FASS 1097",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -36492,16 +36501,25 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 29,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 29
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
       }
+    ],
+    "corequisites": [
+      "SPS 303"
     ]
   },
   {
@@ -62070,7 +62088,7 @@
     "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CS&sel_crse_strt=58010&sel_crse_end=58010&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
     "schedule": [
       {
-        "type": "Online",
+        "type": "Class",
         "time": {
           "from": "11:40 am",
           "to": "1:30 pm"
@@ -62087,7 +62105,7 @@
         ]
       },
       {
-        "type": "Online",
+        "type": "Class",
         "time": {
           "from": "1:40 pm",
           "to": "2:30 pm"
@@ -72760,8 +72778,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "3:40 pm",
-          "to": "4:30 pm"
+          "from": "4:40 pm",
+          "to": "5:30 pm"
         },
         "days": "F",
         "where": "FASS 1099",
@@ -72778,9 +72796,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 27,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 27
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -72830,11 +72848,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
-          "to": "3:30 pm"
+          "from": "3:40 pm",
+          "to": "4:30 pm"
         },
         "days": "F",
-        "where": "FASS G049",
+        "where": "FASS G048",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -72848,9 +72866,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 27,
+        "capacity": 25,
         "actual": 0,
-        "remaining": 27
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -87085,6 +87103,150 @@
         "actual": 0,
         "remaining": 0
       }
+    ]
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "crn": 13695,
+    "subject": "IF",
+    "code": 100,
+    "type": "R",
+    "section": "N1",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13695",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=IF&sel_crse_strt=100R&sel_crse_end=100R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:40 pm",
+          "to": "8:30 pm"
+        },
+        "days": "R",
+        "where": "FENS G055",
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Duygu Karaoğlan Altop",
+          "İnanç Arın",
+          "Yalçın Can Kılıç"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 36,
+        "actual": 0,
+        "remaining": 36
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
+      }
+    ],
+    "corequisites": [
+      "IF 100"
+    ]
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "crn": 13696,
+    "subject": "IF",
+    "code": 100,
+    "type": "R",
+    "section": "N2",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13696",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=IF&sel_crse_strt=100R&sel_crse_end=100R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:40 pm",
+          "to": "8:30 pm"
+        },
+        "days": "R",
+        "where": "FENS G059",
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Duygu Karaoğlan Altop",
+          "İnanç Arın",
+          "Yalçın Can Kılıç"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 33,
+        "actual": 0,
+        "remaining": 33
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
+      }
+    ],
+    "corequisites": [
+      "IF 100"
     ]
   }
 ]
