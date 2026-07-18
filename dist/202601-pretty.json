@@ -71717,7 +71717,7 @@
           "to": "12:30 pm"
         },
         "days": "F",
-        "where": "FASS G050",
+        "where": "FASS 1010",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -71788,7 +71788,7 @@
           "to": "12:30 pm"
         },
         "days": "F",
-        "where": "FMAN G042",
+        "where": "FASS G018",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -71859,7 +71859,7 @@
           "to": "12:30 pm"
         },
         "days": "F",
-        "where": "FMAN G045",
+        "where": "FENS L045",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -73504,71 +73504,6 @@
     "prerequisites": [
       "ACC 201",
       "MGMT 201"
-    ]
-  },
-  {
-    "name": "Strategy Execution",
-    "crn": 13485,
-    "subject": "MGMT",
-    "code": 417,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13485",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 6,
-    "language": "English",
-    "faculty": "SOM",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "method": "TR",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=MGMT&sel_crse_strt=417&sel_crse_end=417&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "12:40 pm",
-          "to": "3:30 pm"
-        },
-        "days": "W",
-        "where": "FASS 1098",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Remzi Gözübüyük"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 50,
-        "actual": 0,
-        "remaining": 50
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
     ]
   },
   {
