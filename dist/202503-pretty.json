@@ -1193,8 +1193,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -2809,9 +2809,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 12,
+        "capacity": 13,
         "actual": 13,
-        "remaining": -1
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -2858,9 +2858,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 12,
+        "capacity": 13,
         "actual": 13,
-        "remaining": -1
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -4132,9 +4132,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 6,
+        "capacity": 7,
         "actual": 7,
-        "remaining": -1
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -5357,8 +5357,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 22,
-        "remaining": 28
+        "actual": 21,
+        "remaining": 29
       },
       {
         "title": "Waitlist Seats",
@@ -7085,9 +7085,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 30,
+        "capacity": 31,
         "actual": 31,
-        "remaining": -1
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -8923,8 +8923,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 12,
-        "remaining": 6
+        "actual": 11,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -9685,8 +9685,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 12,
-        "remaining": 6
+        "actual": 11,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -10461,8 +10461,8 @@
       {
         "title": "Seats",
         "capacity": 18,
-        "actual": 13,
-        "remaining": 5
+        "actual": 12,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",

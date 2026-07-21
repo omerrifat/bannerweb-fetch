@@ -15688,27 +15688,10 @@
         "type": "Class",
         "time": {
           "from": "1:40 pm",
-          "to": "2:30 pm"
-        },
-        "days": "R",
-        "where": "FASS G049",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Mehmet Mert Gülhan"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
           "to": "4:30 pm"
         },
-        "days": "F",
-        "where": "FMAN G045",
+        "days": "R",
+        "where": "FMAN G056",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
