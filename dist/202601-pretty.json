@@ -4114,6 +4114,175 @@
     ]
   },
   {
+    "name": "Cryptography",
+    "crn": 10182,
+    "subject": "CS",
+    "code": 411,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10182",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CS&sel_crse_strt=411&sel_crse_end=411&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:40 pm",
+          "to": "7:30 pm"
+        },
+        "days": "W",
+        "where": "FMAN G071",
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:40 pm",
+          "to": "7:30 pm"
+        },
+        "days": "R",
+        "where": "FMAN G071",
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 180,
+        "actual": 0,
+        "remaining": 180
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
+      }
+    ],
+    "prerequisites": [
+      "MATH 204"
+    ]
+  },
+  {
+    "name": "Cryptography",
+    "crn": 10184,
+    "subject": "CS",
+    "code": 507,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10184",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CS&sel_crse_strt=507&sel_crse_end=507&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "6:40 pm",
+          "to": "7:30 pm"
+        },
+        "days": "W",
+        "where": "FMAN G071",
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "5:40 pm",
+          "to": "7:30 pm"
+        },
+        "days": "R",
+        "where": "FMAN G071",
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 0,
+        "remaining": 25
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
+      }
+    ]
+  },
+  {
     "name": "Machine Learning",
     "crn": 10188,
     "subject": "CS",
@@ -15193,128 +15362,6 @@
     ],
     "prerequisites": [
       "ENS 206"
-    ]
-  },
-  {
-    "name": "Control System Design - Recitation",
-    "crn": 10572,
-    "subject": "ME",
-    "code": 303,
-    "type": "R",
-    "section": "A",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10572",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ME&sel_crse_strt=303R&sel_crse_end=303R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "5:40 pm",
-          "to": "7:30 pm"
-        },
-        "days": "M",
-        "where": "FENS L001",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Kemalettin Erbatur"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 18,
-        "actual": 0,
-        "remaining": 18
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Control System Design - Recitation",
-    "crn": 10573,
-    "subject": "ME",
-    "code": 303,
-    "type": "R",
-    "section": "B",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10573",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ME&sel_crse_strt=303R&sel_crse_end=303R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "5:40 pm",
-          "to": "7:30 pm"
-        },
-        "days": "R",
-        "where": "FENS L001",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Kemalettin Erbatur"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 18,
-        "actual": 0,
-        "remaining": 18
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
     ]
   },
   {
@@ -60185,67 +60232,6 @@
         "capacity": 15,
         "actual": 0,
         "remaining": 15
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Control System Design - Recitation",
-    "crn": 13033,
-    "subject": "ME",
-    "code": 303,
-    "type": "R",
-    "section": "C",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13033",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ME&sel_crse_strt=303R&sel_crse_end=303R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "9:40 am",
-          "to": "11:30 am"
-        },
-        "days": "F",
-        "where": "FENS L001",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Kemalettin Erbatur"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 18,
-        "actual": 0,
-        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
