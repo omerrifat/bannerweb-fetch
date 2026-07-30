@@ -64234,7 +64234,7 @@
           "from": "8:40 pm",
           "to": "10:30 pm"
         },
-        "days": "W",
+        "days": "M",
         "where": null,
         "dateRange": {
           "from": "Sep 28, 2026",
@@ -64249,9 +64249,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 30,
+        "capacity": 6,
         "actual": 0,
-        "remaining": 30
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
