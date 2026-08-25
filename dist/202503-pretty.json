@@ -2809,9 +2809,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 12,
+        "capacity": 13,
         "actual": 13,
-        "remaining": -1
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",

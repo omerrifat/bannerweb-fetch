@@ -35419,19 +35419,17 @@
       {
         "type": "Class",
         "time": {
-          "from": "3:40 pm",
-          "to": "5:30 pm"
+          "from": "1:40 pm",
+          "to": "3:30 pm"
         },
-        "days": "T",
+        "days": "R",
         "where": "SUSAM 1010",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
         },
         "scheduleType": null,
-        "instructors": [
-          "Kerem Ozan Bayraktar"
-        ]
+        "instructors": null
       },
       {
         "type": "Class",
@@ -35439,16 +35437,14 @@
           "from": "2:40 pm",
           "to": "4:30 pm"
         },
-        "days": "W",
+        "days": "F",
         "where": "SUSAM 1010",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
         },
         "scheduleType": null,
-        "instructors": [
-          "Kerem Ozan Bayraktar"
-        ]
+        "instructors": null
       }
     ],
     "availability": [
@@ -35495,10 +35491,10 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "3:30 pm"
+          "from": "9:40 am",
+          "to": "11:30 am"
         },
-        "days": "M",
+        "days": "R",
         "where": "SUSAM 1001",
         "dateRange": {
           "from": "Sep 28, 2026",
@@ -35510,10 +35506,10 @@
       {
         "type": "Class",
         "time": {
-          "from": "9:40 am",
-          "to": "11:30 am"
+          "from": "10:40 am",
+          "to": "12:30 pm"
         },
-        "days": "R",
+        "days": "F",
         "where": "SUSAM 1001",
         "dateRange": {
           "from": "Sep 28, 2026",
@@ -36684,7 +36680,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Daniel Lee Calvey"
+          "Ekrem Sabit Şimşek"
         ]
       }
     ],
@@ -42655,7 +42651,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Daniel Lee Calvey"
+          "Ekrem Sabit Şimşek"
         ]
       }
     ],
@@ -42709,8 +42705,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "3:30 pm"
+          "from": "11:40 am",
+          "to": "2:30 pm"
         },
         "days": "M",
         "where": "FENS L063",
@@ -42720,7 +42716,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Daniel Lee Calvey"
+          "Ekrem Sabit Şimşek"
         ]
       }
     ],
@@ -42785,7 +42781,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Daniel Lee Calvey"
+          "Ekrem Sabit Şimşek"
         ]
       }
     ],
@@ -49969,7 +49965,7 @@
         "type": "Class",
         "time": {
           "from": "10:40 am",
-          "to": "12:30 pm"
+          "to": "2:30 pm"
         },
         "days": "M",
         "where": "SUSAM 1001",
@@ -49978,22 +49974,9 @@
           "to": "Dec 31, 2026"
         },
         "scheduleType": null,
-        "instructors": null
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "1:40 pm",
-          "to": "3:30 pm"
-        },
-        "days": "R",
-        "where": "SUSAM 1001",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Kerem Ozan Bayraktar"
+        ]
       }
     ],
     "availability": [
@@ -58194,11 +58177,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "4:40 pm",
-          "to": "6:30 pm"
+          "from": "9:40 am",
+          "to": "11:30 am"
         },
-        "days": "M",
-        "where": "FENS L030",
+        "days": "T",
+        "where": "FENS L047",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -58214,8 +58197,8 @@
           "from": "12:40 pm",
           "to": "1:30 pm"
         },
-        "days": "W",
-        "where": "FMAN G060",
+        "days": "R",
+        "where": "FENS L056",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -64456,11 +64439,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "10:40 am",
-          "to": "11:30 am"
+          "from": "9:40 am",
+          "to": "10:30 am"
         },
-        "days": "T",
-        "where": "FENS L030",
+        "days": "W",
+        "where": "FMAN G013",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -73175,36 +73158,17 @@
       {
         "type": "Class",
         "time": {
-          "from": "3:40 pm",
-          "to": "5:30 pm"
+          "from": "1:40 pm",
+          "to": "4:30 pm"
         },
         "days": "M",
-        "where": "FMAN G060",
+        "where": "FASS G006",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
         },
         "scheduleType": null,
-        "instructors": [
-          "Türkan Yosun"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "9:30 am"
-        },
-        "days": "W",
-        "where": "FMAN G060",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Türkan Yosun"
-        ]
+        "instructors": null
       }
     ],
     "availability": [
@@ -73793,7 +73757,7 @@
       "Masters",
       "Special Student"
     ],
-    "ects": 6,
+    "ects": 12,
     "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
@@ -87210,6 +87174,7 @@
       "Exchange - Erasmus Mundus DR",
       "Exchange - Erasmus Mundus UG"
     ],
+    "ects": 1,
     "language": "English",
     "faculty": "FENS",
     "campus": "Sabancı University Campus",
