@@ -7655,7 +7655,7 @@
           "to": "11:30 am"
         },
         "days": "M",
-        "where": "FMAN G050",
+        "where": "FASS 1080",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -8344,7 +8344,7 @@
           "to": "10:30 am"
         },
         "days": "R",
-        "where": "FMAN G056",
+        "where": "FMAN G041",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -8663,7 +8663,7 @@
           "to": "2:30 pm"
         },
         "days": "W",
-        "where": "FASS G043",
+        "where": "FMAN G045",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -8908,8 +8908,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
-          "to": "5:30 pm"
+          "from": "4:40 pm",
+          "to": "7:30 pm"
         },
         "days": "W",
         "where": "FASS 1099",
@@ -37429,66 +37429,6 @@
   },
   {
     "name": "Graduation Project  (Implementation)",
-    "crn": 11242,
-    "subject": "ENS",
-    "code": 492,
-    "type": null,
-    "section": "01",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=11242",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "ects": 5,
-    "faculty": "FENS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Project",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=492&sel_crse_end=492&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Adnan Kefal"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 50,
-        "actual": 0,
-        "remaining": 50
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Graduation Project  (Implementation)",
     "crn": 11243,
     "subject": "ENS",
     "code": 492,
@@ -37528,7 +37468,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Kemal Kılıç"
+          "Ahmet Barış Balcıoğlu"
         ]
       }
     ],
@@ -37588,7 +37528,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Hüsnü Yenigün"
+          "Özlem Salehi Köken"
         ]
       }
     ],
@@ -37648,7 +37588,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Esra Erdem"
+          "Bülent Çatay"
         ]
       }
     ],
@@ -37708,7 +37648,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ali Rıza Umut Şahin"
+          "Nihal Öztolan Erol"
         ]
       }
     ],
@@ -37768,7 +37708,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Erchan Aptoula"
+          "Ali Koşar"
         ]
       }
     ],
@@ -37828,7 +37768,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ayhan Bozkurt"
+          "Meltem Elitaş"
         ]
       }
     ],
@@ -37888,7 +37828,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Selim Saffet Balcısoy"
+          "Ali Rıza Umut Şahin"
         ]
       }
     ],
@@ -37948,7 +37888,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Bekir Dızman"
+          "Alp Yürüm"
         ]
       }
     ],
@@ -38008,7 +37948,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Duygu Taş Küten"
+          "Ayhan Bozkurt"
         ]
       }
     ],
@@ -38128,7 +38068,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Kamer Kaya"
+          "Kemal Kılıç"
         ]
       }
     ],
@@ -38188,7 +38128,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Volkan Patoğlu"
+          "Kemalettin Erbatur"
         ]
       }
     ],
@@ -38248,7 +38188,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Canan Atılgan"
+          "Korkut Kaan Tokgöz"
         ]
       }
     ],
@@ -38308,7 +38248,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Orçun Çetin"
+          "Selim Saffet Balcısoy"
         ]
       }
     ],
@@ -38368,7 +38308,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Utku Seven"
+          "Duygu Taş Küten"
         ]
       }
     ],
@@ -38428,7 +38368,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Erhan Budak"
+          "Çağlar Tunç"
         ]
       }
     ],
@@ -48280,7 +48220,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Cemal Yılmaz"
+          "Süha Orhun Mutluergil"
         ]
       }
     ],
@@ -48452,7 +48392,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Fevzi Çakmak Cebeci"
+          "Saima Gül"
         ]
       }
     ],
@@ -51584,7 +51524,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Lütfi Taner Tunç"
+          "Fevzi Çakmak Cebeci"
         ]
       }
     ],
@@ -51704,7 +51644,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Onur Varol"
+          "Raha Akhavan Tabatabaei"
         ]
       }
     ],
@@ -51884,7 +51824,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ongun Özçelik"
+          "Yaşar Gürbüz"
         ]
       }
     ],
@@ -51944,7 +51884,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Kemalettin Erbatur"
+          "Ezgi Karabulut Türkseven"
         ]
       }
     ],
@@ -52004,7 +51944,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Nikolaos Koltsaklis"
+          "Zeki Doruk Erden"
         ]
       }
     ],
@@ -52650,7 +52590,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Meral Yüce"
+          "Erhan Budak"
         ]
       }
     ],
@@ -53099,7 +53039,7 @@
     "subject": "ENS",
     "code": 492,
     "type": null,
-    "section": "37",
+    "section": "01",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=12662",
     "term": "Fall 2026-2027",
     "levels": [
@@ -53134,7 +53074,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Erkay Savaş"
+          "İnanç Arın"
         ]
       }
     ],
@@ -53529,7 +53469,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ezgi Karabulut Türkseven"
+          "Gözde İnce"
         ]
       }
     ],
@@ -56230,7 +56170,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Levent Öztürk"
+          "Hüseyin Özkan"
         ]
       }
     ],
@@ -56290,7 +56230,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ömer Ceylan"
+          "Hüsnü Yenigün"
         ]
       }
     ],
@@ -56350,7 +56290,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Alp Yürüm"
+          "Özgür Gürbüz"
         ]
       }
     ],
@@ -64091,7 +64031,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Özgür Gürbüz"
+          "Bahattin Koç"
         ]
       }
     ],
@@ -64151,7 +64091,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Semih Onur Sezer"
+          "Bekir Dızman"
         ]
       }
     ],
@@ -64271,7 +64211,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Süha Orhun Mutluergil"
+          "Cemal Yılmaz"
         ]
       }
     ],
@@ -64331,7 +64271,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Yücel Saygın"
+          "Murat Fadıloğlu"
         ]
       }
     ],
@@ -73663,65 +73603,6 @@
         "scheduleType": null,
         "instructors": [
           "Nüfer Yasin Ateş"
-        ]
-      }
-    ],
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
-    "name": "Empirical Corporate Finance",
-    "crn": 13495,
-    "subject": "FIN",
-    "code": 619,
-    "type": null,
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13495",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student"
-    ],
-    "ects": 10,
-    "language": "English",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lecture",
-    "method": "TR",
-    "credits": 3,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=FIN&sel_crse_strt=619&sel_crse_end=619&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "11:30 am"
-        },
-        "days": "M",
-        "where": "FMAN G056",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Şerif Aziz Şimşir",
-          "Evrim Akdoğu"
         ]
       }
     ],
@@ -87513,6 +87394,318 @@
         "capacity": 70,
         "actual": 0,
         "remaining": 70
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Academic Writing for Graduate Students",
+    "crn": 13708,
+    "subject": "GR",
+    "code": 555,
+    "type": "S",
+    "section": "A",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13708",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 7,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=GR&sel_crse_strt=555S&sel_crse_end=555S&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "T",
+        "where": "FENS L063",
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ekrem Sabit Şimşek"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Academic Writing for Graduate Students",
+    "crn": 13709,
+    "subject": "GR",
+    "code": 555,
+    "type": "S",
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13709",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 7,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=GR&sel_crse_strt=555S&sel_crse_end=555S&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:40 am",
+          "to": "2:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L063",
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ekrem Sabit Şimşek"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Academic Writing for Graduate Students",
+    "crn": 13710,
+    "subject": "GR",
+    "code": 555,
+    "type": "S",
+    "section": "C",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13710",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 7,
+    "language": "English",
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=GR&sel_crse_strt=555S&sel_crse_end=555S&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "W",
+        "where": "FENS 2019",
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ekrem Sabit Şimşek"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "crn": 13711,
+    "subject": "ENS",
+    "code": 492,
+    "type": null,
+    "section": "37",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13711",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 5,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=492&sel_crse_end=492&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erhun Kundakcıoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "crn": 13712,
+    "subject": "ENS",
+    "code": 492,
+    "type": null,
+    "section": "42",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13712",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 5,
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=492&sel_crse_end=492&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mehmet Emre Özfatura"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
