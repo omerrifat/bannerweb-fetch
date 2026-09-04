@@ -16329,11 +16329,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
-          "to": "5:30 pm"
+          "from": "4:40 pm",
+          "to": "7:30 pm"
         },
-        "days": "M",
-        "where": "FASS 1050",
+        "days": "W",
+        "where": "UC G030",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -24829,7 +24829,7 @@
           "to": "11:30 am"
         },
         "days": "F",
-        "where": "FASS G022",
+        "where": "FASS 1096",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -30315,7 +30315,7 @@
           "to": "12:30 pm"
         },
         "days": "F",
-        "where": "FASS 1103",
+        "where": "FMAN G045",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -63767,11 +63767,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "8:40 am",
-          "to": "11:30 am"
+          "from": "9:40 am",
+          "to": "12:30 pm"
         },
-        "days": "W",
-        "where": "FENS L056",
+        "days": "F",
+        "where": "FASS G022",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -79995,7 +79995,7 @@
           "to": "12:30 pm"
         },
         "days": "F",
-        "where": "FASS G022",
+        "where": "FASS 1103",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
