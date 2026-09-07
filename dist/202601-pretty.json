@@ -197,7 +197,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -341,7 +341,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -567,7 +567,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -2284,7 +2284,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -3234,7 +3234,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -4137,7 +4137,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -4314,7 +4314,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -7049,7 +7049,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -9762,7 +9762,6 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -9826,7 +9825,6 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -10035,7 +10033,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -10801,11 +10799,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "9:40 am",
-          "to": "11:30 am"
+          "from": "4:40 pm",
+          "to": "6:30 pm"
         },
         "days": "F",
-        "where": "FENS L055",
+        "where": "FENS L065",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -11314,7 +11312,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -14500,7 +14498,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -14580,7 +14578,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -15735,7 +15733,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -16517,7 +16515,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -16962,7 +16960,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 2,
@@ -17021,7 +17019,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 2,
@@ -17080,7 +17078,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 2,
@@ -17139,7 +17137,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 2,
@@ -17197,7 +17195,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 2,
@@ -17261,7 +17259,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -18191,7 +18189,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -19143,7 +19141,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -19224,7 +19222,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -19574,7 +19572,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -20267,7 +20265,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -22777,7 +22775,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -22856,7 +22854,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -22937,7 +22935,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -24010,7 +24008,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -24092,7 +24090,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -28583,7 +28581,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -28648,7 +28646,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -28713,7 +28711,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -30603,7 +30601,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -30671,7 +30669,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -31720,7 +31718,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -31784,7 +31782,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -32965,7 +32963,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33032,7 +33030,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33099,7 +33097,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33166,7 +33164,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33233,7 +33231,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33300,7 +33298,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33367,7 +33365,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33434,7 +33432,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33501,7 +33499,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33568,7 +33566,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33635,7 +33633,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33702,7 +33700,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33769,7 +33767,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33836,7 +33834,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33903,7 +33901,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33970,7 +33968,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34037,7 +34035,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34104,7 +34102,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34171,7 +34169,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34238,7 +34236,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34305,7 +34303,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34372,7 +34370,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34439,7 +34437,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34506,7 +34504,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34573,7 +34571,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34640,7 +34638,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34710,7 +34708,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34780,7 +34778,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34850,7 +34848,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34920,7 +34918,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34990,7 +34988,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -35060,7 +35058,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -35130,7 +35128,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -35200,7 +35198,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -35270,7 +35268,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -35490,7 +35488,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Studio",
     "credits": 3,
@@ -36040,7 +36038,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -37397,7 +37395,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -37478,7 +37476,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37538,7 +37536,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37598,7 +37596,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37658,7 +37656,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37718,7 +37716,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37778,7 +37776,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37838,7 +37836,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37898,7 +37896,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37958,7 +37956,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -38018,7 +38016,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -38078,7 +38076,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -38138,7 +38136,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -38198,7 +38196,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -38258,7 +38256,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -38318,7 +38316,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -38378,7 +38376,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -40851,7 +40849,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -40918,7 +40916,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -40979,7 +40977,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -44231,7 +44229,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -45187,7 +45185,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Studio",
     "credits": 3,
@@ -45248,7 +45246,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Studio",
     "credits": 4,
@@ -46092,7 +46090,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -48314,7 +48312,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -49780,7 +49778,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -50014,7 +50012,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -50191,7 +50189,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -50951,7 +50949,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -51596,7 +51594,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Studio",
     "credits": 4,
@@ -52121,7 +52119,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -53208,7 +53206,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -53268,7 +53266,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -53328,7 +53326,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -53388,7 +53386,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -53448,7 +53446,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -53508,7 +53506,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -53568,7 +53566,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -53628,7 +53626,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -54274,7 +54272,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -54758,7 +54756,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -56145,7 +56143,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -56708,7 +56706,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -56775,7 +56773,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -56845,7 +56843,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -56915,7 +56913,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -58669,7 +58667,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -58846,7 +58844,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -58906,7 +58904,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -59028,7 +59026,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -59088,7 +59086,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -59207,7 +59205,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -62485,11 +62483,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "9:40 am",
-          "to": "11:30 am"
+          "from": "4:40 pm",
+          "to": "6:30 pm"
         },
         "days": "F",
-        "where": "FMAN G042",
+        "where": "FENS L067",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -64241,7 +64239,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -66771,7 +66769,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -66831,7 +66829,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -66891,7 +66889,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -66951,7 +66949,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -67011,7 +67009,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -67071,7 +67069,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -70776,7 +70774,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -70843,7 +70841,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -70910,7 +70908,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -70977,7 +70975,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -71044,7 +71042,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "language": "Turkish",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -76587,7 +76585,6 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -76930,7 +76927,6 @@
       "Special Student"
     ],
     "ects": 5,
-    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "method": "TR",
@@ -79404,7 +79400,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -80213,7 +80209,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -80359,7 +80355,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -80535,7 +80531,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -81299,7 +81295,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -82043,7 +82039,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -84945,7 +84941,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -85712,7 +85708,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -88136,7 +88132,7 @@
       "Special Student"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "method": "TR",
@@ -88189,7 +88185,7 @@
       "Special Student"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "method": "TR",
@@ -88244,7 +88240,7 @@
       "Special Student"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "method": "TR",
@@ -89631,7 +89627,7 @@
       "Special Student"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FASS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "method": "TR",
@@ -91748,7 +91744,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -91808,7 +91804,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "language": "English",
+    "faculty": "FENS",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -92412,6 +92408,2536 @@
         "instructors": [
           "Nikolaos Koltsaklis"
         ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13722,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "71",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13722",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nilay Duruk Mutlubaş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13723,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "72",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13723",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nurdagül Anbar Meidl"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13724,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "73",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13724",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ogün Adebali"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13725,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "74",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13725",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ongun Özçelik"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13726,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "75",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13726",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ömer Ceylan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13727,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "76",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13727",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Erhun Kundakcıoğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13728,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "77",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13728",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özcan Öztürk"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13729,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "78",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13729",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özge Akbulut"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13730,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "79",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13730",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özgür Erçetin"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13731,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "80",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13731",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özgür Gürbüz"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13732,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "81",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13732",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Öznur Taştan Okan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13733,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "82",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13733",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Polat Göktaş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13734,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "83",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13734",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selim Saffet Balcısoy"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13735,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "84",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13735",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Selmiye Alkan Gürsel"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13736,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "85",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13736",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Semih Onur Sezer"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13737,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "86",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13737",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Serhat Yeşilyurt"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13738,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "87",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13738",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Serkan Ateş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13739,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "88",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13739",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Serkan Ünal"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13740,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "89",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13740",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sibel Çetinel"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13741,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "90",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13741",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Sinan Yıldırım"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13742,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "91",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13742",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Süha Orhun Mutluergil"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13743,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "92",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13743",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Tonguç Ünlüyurt"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13744,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "93",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13744",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Tuğçe Yüksel"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13745,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "94",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13745",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Turgay Bayraktar"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13746,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "95",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13746",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Utku Seven"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13747,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "96",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13747",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ünal Ertan"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13748,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "97",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13748",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yaşar Gürbüz"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13749,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "98",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13749",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yuki Kaneko Göğüş"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13750,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "99",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13750",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yusuf Ziya Menceloğlu"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13751,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "100",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13751",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Yücel Saygın"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13752,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "101",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13752",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeki Doruk Erden"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13753,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "102",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13753",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Arsalan Javeed"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13754,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "103",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13754",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nasim Tavakkoli"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13755,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "104",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13755",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Saima Gül"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13756,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "105",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13756",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Nihal Öztolan Erol"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13757,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "106",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13757",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13758,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "107",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13758",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13759,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "108",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13759",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13760,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "109",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13760",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13761,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "110",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13761",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "crn": 13762,
+    "subject": "ENS",
+    "code": 491,
+    "type": null,
+    "section": "111",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13762",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 2,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Project",
+    "method": "TR",
+    "credits": 1,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=491&sel_crse_end=491&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": null,
+        "days": null,
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": null
       }
     ],
     "availability": [
