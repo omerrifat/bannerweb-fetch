@@ -2338,6 +2338,9 @@
         "actual": 0,
         "remaining": 0
       }
+    ],
+    "corequisites": [
+      "CS 303L"
     ]
   },
   {
@@ -6948,9 +6951,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 53,
+        "capacity": 50,
         "actual": 0,
-        "remaining": 53
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
@@ -7008,9 +7011,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 54,
+        "capacity": 50,
         "actual": 0,
-        "remaining": 54
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
@@ -7736,7 +7739,7 @@
           "to": "11:30 am"
         },
         "days": "M",
-        "where": "FASS G056",
+        "where": "FMAN G062",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -7753,7 +7756,7 @@
           "to": "12:30 pm"
         },
         "days": "T",
-        "where": "FASS 1079",
+        "where": "FMAN G041",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -8072,7 +8075,7 @@
           "to": "10:30 am"
         },
         "days": "W",
-        "where": "FASS 1101",
+        "where": "FMAN G065",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -8089,7 +8092,7 @@
           "to": "12:30 pm"
         },
         "days": "R",
-        "where": "FASS 1099",
+        "where": "FMAN G098",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -8408,7 +8411,7 @@
           "to": "2:30 pm"
         },
         "days": "T",
-        "where": "FASS 1101",
+        "where": "FMAN G065",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -8425,7 +8428,7 @@
           "to": "10:30 am"
         },
         "days": "R",
-        "where": "FASS 1101",
+        "where": "FMAN G098",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -9775,7 +9778,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Birgül Köktürk"
+          "Itır Beğen"
         ]
       }
     ],
@@ -9838,7 +9841,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Birgül Köktürk"
+          "Itır Beğen"
         ]
       }
     ],
@@ -36563,7 +36566,7 @@
     "subject": "GR",
     "code": 555,
     "type": "M",
-    "section": "0",
+    "section": "A",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=11193",
     "term": "Fall 2026-2027",
     "levels": [
@@ -36591,9 +36594,12 @@
     "schedule": [
       {
         "type": "Class",
-        "time": null,
-        "days": null,
-        "where": null,
+        "time": {
+          "from": "10:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "T",
+        "where": "FENS L063",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -36607,9 +36613,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 10,
         "actual": 0,
-        "remaining": 35
+        "remaining": 10
       },
       {
         "title": "Waitlist Seats",
@@ -52119,6 +52125,9 @@
         "actual": 0,
         "remaining": 0
       }
+    ],
+    "corequisites": [
+      "CS 303L"
     ]
   },
   {
@@ -76483,7 +76492,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Birgül Köktürk"
+          "Itır Beğen"
         ]
       }
     ],
@@ -86879,6 +86888,9 @@
         "actual": 0,
         "remaining": 0
       }
+    ],
+    "corequisites": [
+      "EE 321L"
     ]
   },
   {
@@ -100478,6 +100490,136 @@
         "capacity": 9999,
         "actual": 0,
         "remaining": 9999
+      }
+    ]
+  },
+  {
+    "name": "Academic Writing for Graduate Students",
+    "crn": 13863,
+    "subject": "GR",
+    "code": 555,
+    "type": "M",
+    "section": "B",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13863",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 7,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Seminar",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=GR&sel_crse_strt=555M&sel_crse_end=555M&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "11:40 am",
+          "to": "2:30 pm"
+        },
+        "days": "M",
+        "where": "FENS L063",
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ekrem Sabit Şimşek"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Academic Writing for Graduate Students",
+    "crn": 13864,
+    "subject": "GR",
+    "code": 555,
+    "type": "M",
+    "section": "C",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13864",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 7,
+    "language": "English",
+    "faculty": "SOM",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Seminar",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=GR&sel_crse_strt=555M&sel_crse_end=555M&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "W",
+        "where": "FENS 2019",
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ekrem Sabit Şimşek"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
       }
     ]
   }
