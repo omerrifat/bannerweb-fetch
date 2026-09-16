@@ -43744,7 +43744,7 @@
           "to": "1:30 pm"
         },
         "days": "W",
-        "where": "FENS L056",
+        "where": "FMAN G060",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -69682,6 +69682,7 @@
         "scheduleType": null,
         "instructors": [
           "Çiğdem Altıntaş",
+          "Gözde İnce",
           "Aslıhan Muazzez Ünsal"
         ]
       }
@@ -69747,8 +69748,8 @@
         "scheduleType": null,
         "instructors": [
           "Çiğdem Altıntaş",
-          "Emre Erdem",
-          "Gözde İnce"
+          "Kerem Bora",
+          "Aslıhan Muazzez Ünsal"
         ]
       }
     ],
@@ -69813,6 +69814,7 @@
         "scheduleType": null,
         "instructors": [
           "Çiğdem Altıntaş",
+          "Gözde İnce",
           "Aslıhan Muazzez Ünsal"
         ]
       }
@@ -69878,8 +69880,8 @@
         "scheduleType": null,
         "instructors": [
           "Çiğdem Altıntaş",
-          "Emre Erdem",
-          "Gözde İnce"
+          "Kerem Bora",
+          "Aslıhan Muazzez Ünsal"
         ]
       }
     ],
@@ -69943,7 +69945,8 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Çiğdem Altıntaş"
+          "Çiğdem Altıntaş",
+          "Aslıhan Muazzez Ünsal"
         ]
       }
     ],
@@ -70004,7 +70007,8 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Çiğdem Altıntaş"
+          "Çiğdem Altıntaş",
+          "Aslıhan Muazzez Ünsal"
         ]
       }
     ],
@@ -70074,7 +70078,8 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Çiğdem Altıntaş"
+          "Çiğdem Altıntaş",
+          "Aslıhan Muazzez Ünsal"
         ]
       }
     ],
@@ -75918,11 +75923,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "4:30 pm"
+          "from": "3:40 pm",
+          "to": "6:30 pm"
         },
-        "days": "R",
-        "where": "FMAN G042",
+        "days": "M",
+        "where": "FMAN G060",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -77329,8 +77334,6 @@
       "Masters",
       "Special Student",
       "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
       "Exchange - Erasmus Mundus DR",
       "Exchange - Erasmus Mundus UG"
@@ -83415,7 +83418,7 @@
           "to": "4:30 pm"
         },
         "days": "F",
-        "where": "FENS 1033",
+        "where": "FENS 2019",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -84571,7 +84574,7 @@
           "to": "10:30 am"
         },
         "days": "W",
-        "where": "FENS L048",
+        "where": "FENS L067",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -85040,8 +85043,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "10:40 am",
-          "to": "12:30 pm"
+          "from": "2:40 pm",
+          "to": "4:30 pm"
         },
         "days": "F",
         "where": "FENS 1033",
@@ -89640,7 +89643,7 @@
           "to": "1:30 pm"
         },
         "days": "W",
-        "where": "FENS L056",
+        "where": "FMAN G060",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -92712,7 +92715,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Hüsnü Yenigün"
+          "Karim Ali Abdeltawwab Ahmed"
         ]
       }
     ],
@@ -93297,7 +93300,6 @@
       "Undergraduate",
       "Masters",
       "Special Student",
-      "Exchange - Socrates Erasmus UG",
       "Exchange - Socrates Erasmus MA",
       "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
@@ -98798,7 +98800,7 @@
           "to": "1:30 pm"
         },
         "days": "W",
-        "where": "FENS L056",
+        "where": "FMAN G060",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -99801,7 +99803,8 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Çiğdem Altıntaş"
+          "Çiğdem Altıntaş",
+          "Aslıhan Muazzez Ünsal"
         ]
       }
     ],
@@ -103244,6 +103247,148 @@
         "capacity": 0,
         "actual": 0,
         "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Special Topics in ENS: Opto-Nano-And Micro-Electro-Mechanical and Electro-Chemical Systems",
+    "crn": 13932,
+    "subject": "ENS",
+    "code": 48014,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13932",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 6,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=48014&sel_crse_end=48014&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "R",
+        "where": "FENS L061",
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mustafa Yavuz"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 5,
+        "actual": 0,
+        "remaining": 5
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
+      }
+    ]
+  },
+  {
+    "name": "Special Topics sn ENS: Special Topics in ENS: Opto-Nano-And Micro-Electro-Mechanical and Electro-Chemical Systems",
+    "crn": 13933,
+    "subject": "ENS",
+    "code": 58014,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13933",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 10,
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=58014&sel_crse_end=58014&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:40 am",
+          "to": "12:30 pm"
+        },
+        "days": "R",
+        "where": "FENS L061",
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Mustafa Yavuz"
+        ]
+      }
+    ],
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      {
+        "title": "Cross List Seats",
+        "capacity": 9999,
+        "actual": 0,
+        "remaining": 9999
       }
     ]
   }
