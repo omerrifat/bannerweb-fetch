@@ -197,7 +197,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -341,7 +341,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -567,7 +567,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -2284,7 +2284,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -3230,7 +3230,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -4133,7 +4133,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -4310,7 +4310,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -7051,7 +7051,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -7357,8 +7357,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 0,
-        "remaining": 16
+        "actual": 16,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -7369,8 +7369,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 62,
+        "remaining": 9937
       }
     ]
   },
@@ -7609,8 +7609,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 0,
-        "remaining": 16
+        "actual": 15,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -7621,8 +7621,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 62,
+        "remaining": 9937
       }
     ]
   },
@@ -7693,8 +7693,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 0,
-        "remaining": 16
+        "actual": 15,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -7705,8 +7705,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 62,
+        "remaining": 9937
       }
     ]
   },
@@ -7777,8 +7777,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 0,
-        "remaining": 16
+        "actual": 16,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -7789,8 +7789,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 62,
+        "remaining": 9937
       }
     ]
   },
@@ -7861,8 +7861,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 0,
-        "remaining": 16
+        "actual": 14,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -7873,8 +7873,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 56,
+        "remaining": 9943
       }
     ]
   },
@@ -7945,8 +7945,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 0,
-        "remaining": 16
+        "actual": 14,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -7957,8 +7957,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 56,
+        "remaining": 9943
       }
     ]
   },
@@ -8029,8 +8029,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 0,
-        "remaining": 16
+        "actual": 14,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -8041,8 +8041,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 56,
+        "remaining": 9943
       }
     ]
   },
@@ -8113,8 +8113,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 0,
-        "remaining": 16
+        "actual": 14,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -8125,8 +8125,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 56,
+        "remaining": 9943
       }
     ]
   },
@@ -8197,8 +8197,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 0,
-        "remaining": 16
+        "actual": 16,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -8209,8 +8209,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 61,
+        "remaining": 9938
       }
     ]
   },
@@ -8281,8 +8281,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 0,
-        "remaining": 16
+        "actual": 15,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -8293,8 +8293,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 61,
+        "remaining": 9938
       }
     ]
   },
@@ -8365,8 +8365,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 0,
-        "remaining": 16
+        "actual": 15,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -8377,8 +8377,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 61,
+        "remaining": 9938
       }
     ]
   },
@@ -8449,8 +8449,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 0,
-        "remaining": 16
+        "actual": 15,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -8461,8 +8461,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 61,
+        "remaining": 9938
       }
     ]
   },
@@ -8533,8 +8533,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 0,
-        "remaining": 16
+        "actual": 16,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -8545,8 +8545,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 62,
+        "remaining": 9937
       }
     ]
   },
@@ -8617,8 +8617,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 0,
-        "remaining": 16
+        "actual": 16,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -8629,8 +8629,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 62,
+        "remaining": 9937
       }
     ]
   },
@@ -8701,8 +8701,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 0,
-        "remaining": 16
+        "actual": 15,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -8713,8 +8713,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 62,
+        "remaining": 9937
       }
     ]
   },
@@ -8785,8 +8785,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 0,
-        "remaining": 16
+        "actual": 15,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -8797,8 +8797,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 62,
+        "remaining": 9937
       }
     ]
   },
@@ -9570,8 +9570,8 @@
       {
         "title": "Seats",
         "capacity": 200,
-        "actual": 0,
-        "remaining": 200
+        "actual": 177,
+        "remaining": 23
       },
       {
         "title": "Waitlist Seats",
@@ -9623,8 +9623,8 @@
       {
         "title": "Seats",
         "capacity": 200,
-        "actual": 0,
-        "remaining": 200
+        "actual": 170,
+        "remaining": 30
       },
       {
         "title": "Waitlist Seats",
@@ -9676,8 +9676,8 @@
       {
         "title": "Seats",
         "capacity": 200,
-        "actual": 0,
-        "remaining": 200
+        "actual": 166,
+        "remaining": 34
       },
       {
         "title": "Waitlist Seats",
@@ -9729,8 +9729,8 @@
       {
         "title": "Seats",
         "capacity": 100,
-        "actual": 0,
-        "remaining": 100
+        "actual": 94,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -9764,6 +9764,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -9827,6 +9828,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -10035,7 +10037,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -11314,7 +11316,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -14427,7 +14429,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -14507,7 +14509,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -15662,7 +15664,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -16438,7 +16440,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -16883,7 +16885,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 2,
@@ -16913,9 +16915,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 300,
-        "actual": 0,
-        "remaining": 300
+        "capacity": 320,
+        "actual": 320,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -16943,7 +16945,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 2,
@@ -16973,9 +16975,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 300,
-        "actual": 0,
-        "remaining": 300
+        "capacity": 320,
+        "actual": 311,
+        "remaining": 9
       },
       {
         "title": "Waitlist Seats",
@@ -17003,7 +17005,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 2,
@@ -17033,8 +17035,8 @@
       {
         "title": "Seats",
         "capacity": 150,
-        "actual": 0,
-        "remaining": 150
+        "actual": 120,
+        "remaining": 30
       },
       {
         "title": "Waitlist Seats",
@@ -17062,7 +17064,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 2,
@@ -17093,8 +17095,8 @@
       {
         "title": "Seats",
         "capacity": 370,
-        "actual": 0,
-        "remaining": 370
+        "actual": 303,
+        "remaining": 67
       },
       {
         "title": "Waitlist Seats",
@@ -17122,7 +17124,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 2,
@@ -17152,8 +17154,8 @@
       {
         "title": "Seats",
         "capacity": 60,
-        "actual": 0,
-        "remaining": 60
+        "actual": 31,
+        "remaining": 29
       },
       {
         "title": "Waitlist Seats",
@@ -17187,7 +17189,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -18117,7 +18119,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -19069,7 +19071,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -19150,7 +19152,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -19500,7 +19502,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -20131,7 +20133,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -20431,8 +20433,8 @@
       {
         "title": "Seats",
         "capacity": 330,
-        "actual": 0,
-        "remaining": 330
+        "actual": 315,
+        "remaining": 15
       },
       {
         "title": "Waitlist Seats",
@@ -20557,8 +20559,8 @@
       {
         "title": "Seats",
         "capacity": 330,
-        "actual": 0,
-        "remaining": 330
+        "actual": 316,
+        "remaining": 14
       },
       {
         "title": "Waitlist Seats",
@@ -20681,8 +20683,8 @@
       {
         "title": "Seats",
         "capacity": 180,
-        "actual": 0,
-        "remaining": 180
+        "actual": 177,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -20807,8 +20809,8 @@
       {
         "title": "Seats",
         "capacity": 38,
-        "actual": 0,
-        "remaining": 38
+        "actual": 37,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -20819,8 +20821,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 67,
+        "remaining": 9932
       }
     ],
     "corequisites": [
@@ -20942,8 +20944,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 0,
-        "remaining": 32
+        "actual": 30,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -20954,8 +20956,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 67,
+        "remaining": 9932
       }
     ],
     "corequisites": [
@@ -21014,8 +21016,8 @@
       {
         "title": "Seats",
         "capacity": 38,
-        "actual": 0,
-        "remaining": 38
+        "actual": 37,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -21026,8 +21028,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 68,
+        "remaining": 9931
       }
     ],
     "corequisites": [
@@ -21086,8 +21088,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 0,
-        "remaining": 32
+        "actual": 31,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -21098,8 +21100,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 68,
+        "remaining": 9931
       }
     ],
     "corequisites": [
@@ -21158,8 +21160,8 @@
       {
         "title": "Seats",
         "capacity": 38,
-        "actual": 0,
-        "remaining": 38
+        "actual": 36,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -21170,8 +21172,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 68,
+        "remaining": 9931
       }
     ],
     "corequisites": [
@@ -21230,8 +21232,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 0,
-        "remaining": 32
+        "actual": 32,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -21242,8 +21244,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 68,
+        "remaining": 9931
       }
     ],
     "corequisites": [
@@ -21357,8 +21359,8 @@
       {
         "title": "Seats",
         "capacity": 38,
-        "actual": 0,
-        "remaining": 38
+        "actual": 37,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -21369,8 +21371,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 67,
+        "remaining": 9932
       }
     ],
     "corequisites": [
@@ -21429,8 +21431,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 0,
-        "remaining": 32
+        "actual": 30,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -21441,8 +21443,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 67,
+        "remaining": 9932
       }
     ],
     "corequisites": [
@@ -21501,8 +21503,8 @@
       {
         "title": "Seats",
         "capacity": 38,
-        "actual": 0,
-        "remaining": 38
+        "actual": 37,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -21513,8 +21515,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 68,
+        "remaining": 9931
       }
     ],
     "corequisites": [
@@ -21573,8 +21575,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 0,
-        "remaining": 32
+        "actual": 31,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -21585,8 +21587,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 68,
+        "remaining": 9931
       }
     ],
     "corequisites": [
@@ -21645,8 +21647,8 @@
       {
         "title": "Seats",
         "capacity": 38,
-        "actual": 0,
-        "remaining": 38
+        "actual": 35,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -21657,8 +21659,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 65,
+        "remaining": 9934
       }
     ],
     "corequisites": [
@@ -21717,8 +21719,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 0,
-        "remaining": 32
+        "actual": 30,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -21729,8 +21731,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 65,
+        "remaining": 9934
       }
     ],
     "corequisites": [
@@ -21844,8 +21846,8 @@
       {
         "title": "Seats",
         "capacity": 38,
-        "actual": 0,
-        "remaining": 38
+        "actual": 37,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -21856,8 +21858,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 67,
+        "remaining": 9932
       }
     ],
     "corequisites": [
@@ -21916,8 +21918,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 0,
-        "remaining": 32
+        "actual": 30,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -21928,8 +21930,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 67,
+        "remaining": 9932
       }
     ],
     "corequisites": [
@@ -21988,8 +21990,8 @@
       {
         "title": "Seats",
         "capacity": 38,
-        "actual": 0,
-        "remaining": 38
+        "actual": 36,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -22000,8 +22002,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 66,
+        "remaining": 9933
       }
     ],
     "corequisites": [
@@ -22060,8 +22062,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 0,
-        "remaining": 32
+        "actual": 30,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -22072,8 +22074,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 66,
+        "remaining": 9933
       }
     ],
     "corequisites": [
@@ -22132,8 +22134,8 @@
       {
         "title": "Seats",
         "capacity": 38,
-        "actual": 0,
-        "remaining": 38
+        "actual": 38,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -22144,8 +22146,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 69,
+        "remaining": 9930
       }
     ],
     "corequisites": [
@@ -22259,8 +22261,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 0,
-        "remaining": 32
+        "actual": 31,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -22271,8 +22273,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 69,
+        "remaining": 9930
       }
     ],
     "corequisites": [
@@ -22331,8 +22333,8 @@
       {
         "title": "Seats",
         "capacity": 38,
-        "actual": 0,
-        "remaining": 38
+        "actual": 37,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -22343,8 +22345,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 67,
+        "remaining": 9932
       }
     ],
     "corequisites": [
@@ -22403,8 +22405,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 0,
-        "remaining": 32
+        "actual": 30,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -22415,8 +22417,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 67,
+        "remaining": 9932
       }
     ],
     "corequisites": [
@@ -22643,7 +22645,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -22690,8 +22692,8 @@
       {
         "title": "Seats",
         "capacity": 310,
-        "actual": 0,
-        "remaining": 310
+        "actual": 293,
+        "remaining": 17
       },
       {
         "title": "Waitlist Seats",
@@ -22722,7 +22724,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -22771,8 +22773,8 @@
       {
         "title": "Seats",
         "capacity": 180,
-        "actual": 0,
-        "remaining": 180
+        "actual": 172,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -22803,7 +22805,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -22850,8 +22852,8 @@
       {
         "title": "Seats",
         "capacity": 310,
-        "actual": 0,
-        "remaining": 310
+        "actual": 296,
+        "remaining": 14
       },
       {
         "title": "Waitlist Seats",
@@ -22912,8 +22914,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 32,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -22924,8 +22926,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 291,
+        "remaining": 9708
       }
     ],
     "corequisites": [
@@ -22983,8 +22985,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 32,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -22995,8 +22997,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 291,
+        "remaining": 9708
       }
     ],
     "corequisites": [
@@ -23054,8 +23056,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 31,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -23066,8 +23068,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 291,
+        "remaining": 9708
       }
     ],
     "corequisites": [
@@ -23125,8 +23127,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 32,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -23137,8 +23139,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 291,
+        "remaining": 9708
       }
     ],
     "corequisites": [
@@ -23196,8 +23198,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 32,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -23208,8 +23210,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 291,
+        "remaining": 9708
       }
     ],
     "corequisites": [
@@ -23267,8 +23269,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 33,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -23279,8 +23281,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 291,
+        "remaining": 9708
       }
     ],
     "corequisites": [
@@ -23338,8 +23340,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 33,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -23350,8 +23352,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 167,
+        "remaining": 9832
       }
     ],
     "corequisites": [
@@ -23409,8 +23411,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 33,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -23421,8 +23423,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 303,
+        "remaining": 9696
       }
     ],
     "corequisites": [
@@ -23480,8 +23482,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 33,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -23492,8 +23494,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 303,
+        "remaining": 9696
       }
     ],
     "corequisites": [
@@ -23551,8 +23553,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 34,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -23563,8 +23565,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 303,
+        "remaining": 9696
       }
     ],
     "corequisites": [
@@ -23622,8 +23624,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 34,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -23634,8 +23636,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 303,
+        "remaining": 9696
       }
     ],
     "corequisites": [
@@ -23693,8 +23695,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 34,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -23705,8 +23707,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 303,
+        "remaining": 9696
       }
     ],
     "corequisites": [
@@ -23764,8 +23766,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 34,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -23776,8 +23778,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 303,
+        "remaining": 9696
       }
     ],
     "corequisites": [
@@ -23805,7 +23807,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -23852,8 +23854,8 @@
       {
         "title": "Seats",
         "capacity": 180,
-        "actual": 0,
-        "remaining": 180
+        "actual": 161,
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -23887,7 +23889,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -23934,8 +23936,8 @@
       {
         "title": "Seats",
         "capacity": 180,
-        "actual": 0,
-        "remaining": 180
+        "actual": 160,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
@@ -23999,8 +24001,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 0,
-        "remaining": 35
+        "actual": 33,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -24011,8 +24013,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 131,
+        "remaining": 9868
       }
     ],
     "corequisites": [
@@ -24070,8 +24072,8 @@
       {
         "title": "Seats",
         "capacity": 36,
-        "actual": 0,
-        "remaining": 36
+        "actual": 33,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -24082,8 +24084,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 131,
+        "remaining": 9868
       }
     ],
     "corequisites": [
@@ -24141,8 +24143,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 0,
-        "remaining": 35
+        "actual": 33,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -24153,8 +24155,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 131,
+        "remaining": 9868
       }
     ],
     "corequisites": [
@@ -24212,8 +24214,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 0,
-        "remaining": 35
+        "actual": 32,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -24224,8 +24226,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 95,
+        "remaining": 9904
       }
     ],
     "corequisites": [
@@ -24283,8 +24285,8 @@
       {
         "title": "Seats",
         "capacity": 36,
-        "actual": 0,
-        "remaining": 36
+        "actual": 32,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -24295,8 +24297,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 95,
+        "remaining": 9904
       }
     ],
     "corequisites": [
@@ -24354,8 +24356,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 0,
-        "remaining": 35
+        "actual": 31,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -24366,8 +24368,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 95,
+        "remaining": 9904
       }
     ],
     "corequisites": [
@@ -24425,8 +24427,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 0,
-        "remaining": 35
+        "actual": 32,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -24437,8 +24439,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 95,
+        "remaining": 9904
       }
     ],
     "corequisites": [
@@ -27028,8 +27030,8 @@
       {
         "title": "Seats",
         "capacity": 108,
-        "actual": 0,
-        "remaining": 108
+        "actual": 107,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27090,8 +27092,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 0,
-        "remaining": 90
+        "actual": 88,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -27153,8 +27155,8 @@
       {
         "title": "Seats",
         "capacity": 108,
-        "actual": 0,
-        "remaining": 108
+        "actual": 106,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -27216,8 +27218,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 0,
-        "remaining": 90
+        "actual": 89,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27279,8 +27281,8 @@
       {
         "title": "Seats",
         "capacity": 108,
-        "actual": 0,
-        "remaining": 108
+        "actual": 104,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -27342,8 +27344,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 0,
-        "remaining": 90
+        "actual": 90,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -27406,8 +27408,8 @@
       {
         "title": "Seats",
         "capacity": 108,
-        "actual": 0,
-        "remaining": 108
+        "actual": 105,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -27470,8 +27472,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 0,
-        "remaining": 90
+        "actual": 88,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -27532,8 +27534,8 @@
       {
         "title": "Seats",
         "capacity": 108,
-        "actual": 0,
-        "remaining": 108
+        "actual": 105,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -27544,8 +27546,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 192,
+        "remaining": 9807
       }
     ],
     "corequisites": [
@@ -27603,8 +27605,8 @@
       {
         "title": "Seats",
         "capacity": 108,
-        "actual": 0,
-        "remaining": 108
+        "actual": 106,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -27615,8 +27617,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 194,
+        "remaining": 9805
       }
     ],
     "corequisites": [
@@ -27674,8 +27676,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 0,
-        "remaining": 90
+        "actual": 88,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -27686,8 +27688,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 194,
+        "remaining": 9805
       }
     ],
     "corequisites": [
@@ -27745,8 +27747,8 @@
       {
         "title": "Seats",
         "capacity": 108,
-        "actual": 0,
-        "remaining": 108
+        "actual": 107,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27757,8 +27759,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 196,
+        "remaining": 9803
       }
     ],
     "corequisites": [
@@ -27816,8 +27818,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 0,
-        "remaining": 90
+        "actual": 89,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27828,8 +27830,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 196,
+        "remaining": 9803
       }
     ],
     "corequisites": [
@@ -27887,8 +27889,8 @@
       {
         "title": "Seats",
         "capacity": 108,
-        "actual": 0,
-        "remaining": 108
+        "actual": 107,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27899,8 +27901,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 195,
+        "remaining": 9804
       }
     ],
     "corequisites": [
@@ -27958,8 +27960,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 0,
-        "remaining": 90
+        "actual": 88,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -27970,8 +27972,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 195,
+        "remaining": 9804
       }
     ],
     "corequisites": [
@@ -28311,7 +28313,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -28344,8 +28346,8 @@
       {
         "title": "Seats",
         "capacity": 312,
-        "actual": 0,
-        "remaining": 312
+        "actual": 272,
+        "remaining": 40
       },
       {
         "title": "Waitlist Seats",
@@ -28376,7 +28378,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -28409,8 +28411,8 @@
       {
         "title": "Seats",
         "capacity": 312,
-        "actual": 0,
-        "remaining": 312
+        "actual": 308,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -28441,7 +28443,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -28474,8 +28476,8 @@
       {
         "title": "Seats",
         "capacity": 192,
-        "actual": 0,
-        "remaining": 192
+        "actual": 189,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -28538,8 +28540,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 19,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -28550,8 +28552,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 156,
+        "remaining": 9843
       }
     ],
     "corequisites": [
@@ -28611,8 +28613,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 19,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -28623,8 +28625,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 156,
+        "remaining": 9843
       }
     ],
     "corequisites": [
@@ -28684,8 +28686,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 20,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -28696,8 +28698,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 156,
+        "remaining": 9843
       }
     ],
     "corequisites": [
@@ -28757,8 +28759,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 19,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -28769,8 +28771,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 156,
+        "remaining": 9843
       }
     ],
     "corequisites": [
@@ -28830,8 +28832,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 19,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -28842,8 +28844,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 156,
+        "remaining": 9843
       }
     ],
     "corequisites": [
@@ -28903,8 +28905,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 20,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -28915,8 +28917,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 156,
+        "remaining": 9843
       }
     ],
     "corequisites": [
@@ -28976,8 +28978,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 20,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -28988,8 +28990,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 156,
+        "remaining": 9843
       }
     ],
     "corequisites": [
@@ -29049,8 +29051,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 22,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -29061,8 +29063,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 136,
+        "remaining": 9863
       }
     ],
     "corequisites": [
@@ -29122,8 +29124,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 23,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29134,8 +29136,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 136,
+        "remaining": 9863
       }
     ],
     "corequisites": [
@@ -29195,8 +29197,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 23,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29207,8 +29209,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 136,
+        "remaining": 9863
       }
     ],
     "corequisites": [
@@ -29268,8 +29270,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -29280,8 +29282,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 165,
+        "remaining": 9834
       }
     ],
     "corequisites": [
@@ -29341,8 +29343,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -29353,8 +29355,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 165,
+        "remaining": 9834
       }
     ],
     "corequisites": [
@@ -29414,8 +29416,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -29426,8 +29428,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 165,
+        "remaining": 9834
       }
     ],
     "corequisites": [
@@ -29487,8 +29489,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -29499,8 +29501,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 165,
+        "remaining": 9834
       }
     ],
     "corequisites": [
@@ -29560,8 +29562,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -29572,8 +29574,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 165,
+        "remaining": 9834
       }
     ],
     "corequisites": [
@@ -29633,8 +29635,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -29645,8 +29647,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 165,
+        "remaining": 9834
       }
     ],
     "corequisites": [
@@ -29706,8 +29708,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 21,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -29718,8 +29720,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 165,
+        "remaining": 9834
       }
     ],
     "corequisites": [
@@ -29779,8 +29781,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -29791,8 +29793,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 143,
+        "remaining": 9856
       }
     ],
     "corequisites": [
@@ -29852,8 +29854,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 23,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29864,8 +29866,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 143,
+        "remaining": 9856
       }
     ],
     "corequisites": [
@@ -29925,8 +29927,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -29937,8 +29939,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 143,
+        "remaining": 9856
       }
     ],
     "corequisites": [
@@ -29998,8 +30000,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 23,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -30010,8 +30012,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 95,
+        "remaining": 9904
       }
     ],
     "corequisites": [
@@ -30071,8 +30073,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -30083,8 +30085,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 95,
+        "remaining": 9904
       }
     ],
     "corequisites": [
@@ -30144,8 +30146,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -30156,8 +30158,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 95,
+        "remaining": 9904
       }
     ],
     "corequisites": [
@@ -30217,8 +30219,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -30229,8 +30231,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 95,
+        "remaining": 9904
       }
     ],
     "corequisites": [
@@ -30258,7 +30260,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -30291,8 +30293,8 @@
       {
         "title": "Seats",
         "capacity": 176,
-        "actual": 0,
-        "remaining": 176
+        "actual": 163,
+        "remaining": 13
       },
       {
         "title": "Waitlist Seats",
@@ -30326,7 +30328,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -30359,8 +30361,8 @@
       {
         "title": "Seats",
         "capacity": 147,
-        "actual": 0,
-        "remaining": 147
+        "actual": 147,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -30428,8 +30430,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 20,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -30440,8 +30442,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 62,
+        "remaining": 9937
       }
     ],
     "corequisites": [
@@ -30503,8 +30505,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 21,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -30515,8 +30517,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 62,
+        "remaining": 9937
       }
     ],
     "corequisites": [
@@ -30666,8 +30668,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 21,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -30678,8 +30680,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 62,
+        "remaining": 9937
       }
     ],
     "corequisites": [
@@ -30806,8 +30808,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 20,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -30818,8 +30820,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 156,
+        "remaining": 9843
       }
     ],
     "corequisites": [
@@ -30881,8 +30883,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 20,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -30893,8 +30895,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 81,
+        "remaining": 9918
       }
     ],
     "corequisites": [
@@ -30956,8 +30958,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 20,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -30968,8 +30970,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 81,
+        "remaining": 9918
       }
     ],
     "corequisites": [
@@ -31031,8 +31033,8 @@
       {
         "title": "Seats",
         "capacity": 21,
-        "actual": 0,
-        "remaining": 21
+        "actual": 21,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -31043,8 +31045,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 84,
+        "remaining": 9915
       }
     ],
     "corequisites": [
@@ -31106,8 +31108,8 @@
       {
         "title": "Seats",
         "capacity": 21,
-        "actual": 0,
-        "remaining": 21
+        "actual": 21,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -31118,8 +31120,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 84,
+        "remaining": 9915
       }
     ],
     "corequisites": [
@@ -31181,8 +31183,8 @@
       {
         "title": "Seats",
         "capacity": 21,
-        "actual": 0,
-        "remaining": 21
+        "actual": 21,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -31193,8 +31195,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 84,
+        "remaining": 9915
       }
     ],
     "corequisites": [
@@ -31256,8 +31258,8 @@
       {
         "title": "Seats",
         "capacity": 21,
-        "actual": 0,
-        "remaining": 21
+        "actual": 21,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -31268,8 +31270,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 84,
+        "remaining": 9915
       }
     ],
     "corequisites": [
@@ -31331,8 +31333,8 @@
       {
         "title": "Seats",
         "capacity": 21,
-        "actual": 0,
-        "remaining": 21
+        "actual": 21,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -31343,8 +31345,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 63,
+        "remaining": 9936
       }
     ],
     "corequisites": [
@@ -31375,7 +31377,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -31439,7 +31441,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -32550,7 +32552,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -32579,8 +32581,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 22,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -32591,8 +32593,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 45,
+        "remaining": 9954
       }
     ]
   },
@@ -32617,7 +32619,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -32646,8 +32648,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 0,
-        "remaining": 23
+        "actual": 23,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -32658,8 +32660,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 45,
+        "remaining": 9954
       }
     ]
   },
@@ -32684,7 +32686,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -32713,8 +32715,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 18,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -32725,8 +32727,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 106,
+        "remaining": 9893
       }
     ]
   },
@@ -32751,7 +32753,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -32780,8 +32782,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 0,
-        "remaining": 23
+        "actual": 22,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -32792,8 +32794,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 106,
+        "remaining": 9893
       }
     ]
   },
@@ -32818,7 +32820,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -32847,8 +32849,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 0,
-        "remaining": 23
+        "actual": 22,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -32859,8 +32861,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 106,
+        "remaining": 9893
       }
     ]
   },
@@ -32885,7 +32887,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -32914,8 +32916,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 0,
-        "remaining": 23
+        "actual": 22,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -32926,8 +32928,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 106,
+        "remaining": 9893
       }
     ]
   },
@@ -32952,7 +32954,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -32981,8 +32983,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 20,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -32993,8 +32995,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 107,
+        "remaining": 9892
       }
     ]
   },
@@ -33019,7 +33021,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33048,8 +33050,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 0,
-        "remaining": 23
+        "actual": 21,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -33060,8 +33062,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 107,
+        "remaining": 9892
       }
     ]
   },
@@ -33086,7 +33088,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33115,8 +33117,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 0,
-        "remaining": 23
+        "actual": 22,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -33127,8 +33129,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 107,
+        "remaining": 9892
       }
     ]
   },
@@ -33153,7 +33155,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33182,8 +33184,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 0,
-        "remaining": 23
+        "actual": 22,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -33194,8 +33196,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 107,
+        "remaining": 9892
       }
     ]
   },
@@ -33220,7 +33222,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33249,8 +33251,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 21,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -33261,8 +33263,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 90,
+        "remaining": 9909
       }
     ]
   },
@@ -33287,7 +33289,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33316,8 +33318,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 22,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -33328,8 +33330,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 88,
+        "remaining": 9911
       }
     ]
   },
@@ -33354,7 +33356,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33383,8 +33385,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 21,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -33395,8 +33397,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 88,
+        "remaining": 9911
       }
     ]
   },
@@ -33421,7 +33423,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33450,8 +33452,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 22,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -33462,8 +33464,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 66,
+        "remaining": 9933
       }
     ]
   },
@@ -33488,7 +33490,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33517,8 +33519,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 22,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -33529,8 +33531,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 66,
+        "remaining": 9933
       }
     ]
   },
@@ -33555,7 +33557,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33584,8 +33586,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 22,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -33596,8 +33598,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 66,
+        "remaining": 9933
       }
     ]
   },
@@ -33622,7 +33624,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33651,8 +33653,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 21,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -33663,8 +33665,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 62,
+        "remaining": 9937
       }
     ]
   },
@@ -33689,7 +33691,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33718,8 +33720,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 21,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -33730,8 +33732,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 62,
+        "remaining": 9937
       }
     ]
   },
@@ -33756,7 +33758,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33785,8 +33787,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 20,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -33797,8 +33799,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 62,
+        "remaining": 9937
       }
     ]
   },
@@ -33823,7 +33825,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33852,8 +33854,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 22,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -33864,8 +33866,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 44,
+        "remaining": 9955
       }
     ]
   },
@@ -33890,7 +33892,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33919,8 +33921,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 22,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -33931,8 +33933,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 44,
+        "remaining": 9955
       }
     ]
   },
@@ -33957,7 +33959,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -33986,8 +33988,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 0,
-        "remaining": 23
+        "actual": 23,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -33998,8 +34000,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 88,
+        "remaining": 9911
       }
     ]
   },
@@ -34024,7 +34026,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34053,8 +34055,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 21,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -34065,8 +34067,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 87,
+        "remaining": 9912
       }
     ]
   },
@@ -34091,7 +34093,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34120,8 +34122,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 22,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -34132,8 +34134,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 87,
+        "remaining": 9912
       }
     ]
   },
@@ -34158,7 +34160,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34187,8 +34189,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 22,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -34199,8 +34201,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 87,
+        "remaining": 9912
       }
     ]
   },
@@ -34225,7 +34227,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34254,8 +34256,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 20,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -34266,8 +34268,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 40,
+        "remaining": 9959
       }
     ],
     "prerequisites": [
@@ -34295,7 +34297,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34324,8 +34326,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 20,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -34336,8 +34338,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 40,
+        "remaining": 9959
       }
     ],
     "prerequisites": [
@@ -34365,7 +34367,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34394,8 +34396,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 13,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -34406,8 +34408,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 33,
+        "remaining": 9966
       }
     ],
     "prerequisites": [
@@ -34435,7 +34437,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34464,8 +34466,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 20,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -34476,8 +34478,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 33,
+        "remaining": 9966
       }
     ],
     "prerequisites": [
@@ -34505,7 +34507,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34534,8 +34536,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 17,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -34546,8 +34548,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 33,
+        "remaining": 9966
       }
     ],
     "prerequisites": [
@@ -34575,7 +34577,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34604,8 +34606,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 16,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -34616,8 +34618,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 33,
+        "remaining": 9966
       }
     ],
     "prerequisites": [
@@ -34645,7 +34647,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34674,8 +34676,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 20,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -34686,8 +34688,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 60,
+        "remaining": 9939
       }
     ],
     "prerequisites": [
@@ -34715,7 +34717,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34744,8 +34746,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 17,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -34756,8 +34758,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 52,
+        "remaining": 9947
       }
     ],
     "prerequisites": [
@@ -34785,7 +34787,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34814,8 +34816,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 17,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -34826,8 +34828,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 52,
+        "remaining": 9947
       }
     ],
     "prerequisites": [
@@ -34855,7 +34857,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -34884,8 +34886,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 20,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -34896,8 +34898,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 60,
+        "remaining": 9939
       }
     ],
     "prerequisites": [
@@ -35079,7 +35081,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Studio",
     "credits": 3,
@@ -35633,7 +35635,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -37020,7 +37022,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -37101,7 +37103,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37161,7 +37163,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37221,7 +37223,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37281,7 +37283,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37341,7 +37343,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37401,7 +37403,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37461,7 +37463,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37521,7 +37523,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37581,7 +37583,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37641,7 +37643,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37701,7 +37703,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37761,7 +37763,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37821,7 +37823,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37881,7 +37883,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -37941,7 +37943,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -38001,7 +38003,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -39804,8 +39806,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 23,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -39816,8 +39818,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 94,
+        "remaining": 9905
       }
     ],
     "corequisites": [
@@ -39877,8 +39879,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 23,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -39889,8 +39891,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 94,
+        "remaining": 9905
       }
     ],
     "corequisites": [
@@ -39949,8 +39951,8 @@
       {
         "title": "Seats",
         "capacity": 38,
-        "actual": 0,
-        "remaining": 38
+        "actual": 37,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -39961,8 +39963,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 68,
+        "remaining": 9931
       }
     ],
     "corequisites": [
@@ -40410,7 +40412,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -40439,8 +40441,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 22,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -40451,8 +40453,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 88,
+        "remaining": 9911
       }
     ]
   },
@@ -40477,7 +40479,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -40506,8 +40508,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 20,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -40538,7 +40540,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -40567,8 +40569,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 0,
-        "remaining": 23
+        "actual": 23,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -40579,8 +40581,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 90,
+        "remaining": 9909
       }
     ]
   },
@@ -43790,7 +43792,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -44748,7 +44750,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Studio",
     "credits": 3,
@@ -44809,7 +44811,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Studio",
     "credits": 4,
@@ -45653,7 +45655,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -47141,8 +47143,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 36,
+        "remaining": 14
       },
       {
         "title": "Waitlist Seats",
@@ -47194,8 +47196,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 26,
+        "remaining": 24
       },
       {
         "title": "Waitlist Seats",
@@ -47247,8 +47249,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 44,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -47300,8 +47302,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 12,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -47804,7 +47806,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -47833,8 +47835,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 0,
-        "remaining": 23
+        "actual": 23,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -47845,8 +47847,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 90,
+        "remaining": 9909
       }
     ]
   },
@@ -49298,7 +49300,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -49532,7 +49534,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -49709,7 +49711,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -50471,7 +50473,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -51116,7 +51118,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Studio",
     "credits": 4,
@@ -51641,7 +51643,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -52310,8 +52312,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 0,
-        "remaining": 40
+        "actual": 34,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -52322,8 +52324,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 167,
+        "remaining": 9832
       }
     ],
     "corequisites": [
@@ -52728,7 +52730,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -52788,7 +52790,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -52848,7 +52850,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -52908,7 +52910,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -52968,7 +52970,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -53028,7 +53030,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -53088,7 +53090,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -53148,7 +53150,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -53794,7 +53796,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -54278,7 +54280,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -55665,7 +55667,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -56114,8 +56116,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 22,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -56126,8 +56128,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 136,
+        "remaining": 9863
       }
     ],
     "corequisites": [
@@ -56187,8 +56189,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -56199,8 +56201,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 94,
+        "remaining": 9905
       }
     ],
     "corequisites": [
@@ -56228,7 +56230,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -56257,8 +56259,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 0,
-        "remaining": 23
+        "actual": 22,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -56269,8 +56271,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 106,
+        "remaining": 9893
       }
     ]
   },
@@ -56295,7 +56297,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -56324,8 +56326,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 18,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -56336,8 +56338,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 52,
+        "remaining": 9947
       }
     ],
     "prerequisites": [
@@ -56365,7 +56367,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -56394,8 +56396,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 20,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -56406,8 +56408,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 60,
+        "remaining": 9939
       }
     ],
     "prerequisites": [
@@ -56435,7 +56437,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -56464,8 +56466,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 20,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -58189,7 +58191,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -58366,7 +58368,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -58426,7 +58428,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -58548,7 +58550,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -58608,7 +58610,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -58727,7 +58729,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -61711,8 +61713,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 0,
-        "remaining": 90
+        "actual": 87,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -61723,8 +61725,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 192,
+        "remaining": 9807
       }
     ],
     "corequisites": [
@@ -63515,7 +63517,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -65679,8 +65681,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -65691,8 +65693,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 143,
+        "remaining": 9856
       }
     ],
     "corequisites": [
@@ -65983,7 +65985,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -66043,7 +66045,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -66103,7 +66105,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -66163,7 +66165,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -66223,7 +66225,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -66283,7 +66285,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -69355,8 +69357,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 0,
-        "remaining": 90
+        "actual": 81,
+        "remaining": 9
       },
       {
         "title": "Waitlist Seats",
@@ -69421,8 +69423,8 @@
       {
         "title": "Seats",
         "capacity": 75,
-        "actual": 0,
-        "remaining": 75
+        "actual": 69,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -69487,8 +69489,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 0,
-        "remaining": 90
+        "actual": 81,
+        "remaining": 9
       },
       {
         "title": "Waitlist Seats",
@@ -69553,8 +69555,8 @@
       {
         "title": "Seats",
         "capacity": 75,
-        "actual": 0,
-        "remaining": 75
+        "actual": 67,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -69618,8 +69620,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 0,
-        "remaining": 90
+        "actual": 82,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -69680,8 +69682,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 0,
-        "remaining": 90
+        "actual": 82,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -69692,8 +69694,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 149,
+        "remaining": 9850
       }
     ],
     "corequisites": [
@@ -69751,8 +69753,8 @@
       {
         "title": "Seats",
         "capacity": 75,
-        "actual": 0,
-        "remaining": 75
+        "actual": 67,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -69815,8 +69817,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -69827,8 +69829,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 94,
+        "remaining": 9905
       }
     ],
     "corequisites": [
@@ -69888,8 +69890,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -69900,8 +69902,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 143,
+        "remaining": 9856
       }
     ],
     "corequisites": [
@@ -69961,8 +69963,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 24,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -69973,8 +69975,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 143,
+        "remaining": 9856
       }
     ],
     "corequisites": [
@@ -70002,7 +70004,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -70031,8 +70033,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 0,
-        "remaining": 23
+        "actual": 22,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -70043,8 +70045,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 107,
+        "remaining": 9892
       }
     ]
   },
@@ -70069,7 +70071,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -70098,8 +70100,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 22,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -70110,8 +70112,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 87,
+        "remaining": 9912
       }
     ]
   },
@@ -70136,7 +70138,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -70165,8 +70167,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 0,
-        "remaining": 23
+        "actual": 23,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -70177,8 +70179,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 90,
+        "remaining": 9909
       }
     ]
   },
@@ -70203,7 +70205,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -70232,8 +70234,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 19,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -70244,8 +70246,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 41,
+        "remaining": 9958
       }
     ]
   },
@@ -73298,8 +73300,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 33,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -73310,8 +73312,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 291,
+        "remaining": 9708
       }
     ],
     "corequisites": [
@@ -73369,8 +73371,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 33,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -73381,8 +73383,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 291,
+        "remaining": 9708
       }
     ],
     "corequisites": [
@@ -73440,8 +73442,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 33,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -73452,8 +73454,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 291,
+        "remaining": 9708
       }
     ],
     "corequisites": [
@@ -73511,8 +73513,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 0,
-        "remaining": 40
+        "actual": 34,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -73523,8 +73525,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 303,
+        "remaining": 9696
       }
     ],
     "corequisites": [
@@ -73582,8 +73584,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 0,
-        "remaining": 40
+        "actual": 34,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -73594,8 +73596,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 303,
+        "remaining": 9696
       }
     ],
     "corequisites": [
@@ -73653,8 +73655,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 0,
-        "remaining": 40
+        "actual": 33,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -73665,8 +73667,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 303,
+        "remaining": 9696
       }
     ],
     "corequisites": [
@@ -73724,8 +73726,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 34,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -73736,8 +73738,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 167,
+        "remaining": 9832
       }
     ],
     "corequisites": [
@@ -73795,8 +73797,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 33,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -73807,8 +73809,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 167,
+        "remaining": 9832
       }
     ],
     "corequisites": [
@@ -73866,8 +73868,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 0,
-        "remaining": 34
+        "actual": 33,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -73878,8 +73880,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 167,
+        "remaining": 9832
       }
     ],
     "corequisites": [
@@ -73937,8 +73939,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 0,
-        "remaining": 35
+        "actual": 32,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -73949,8 +73951,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 131,
+        "remaining": 9868
       }
     ],
     "corequisites": [
@@ -74008,8 +74010,8 @@
       {
         "title": "Seats",
         "capacity": 36,
-        "actual": 0,
-        "remaining": 36
+        "actual": 31,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -74020,8 +74022,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 95,
+        "remaining": 9904
       }
     ],
     "corequisites": [
@@ -74079,8 +74081,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 0,
-        "remaining": 35
+        "actual": 32,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -74091,8 +74093,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 95,
+        "remaining": 9904
       }
     ],
     "corequisites": [
@@ -74263,6 +74265,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -74605,6 +74608,7 @@
       "Special Student"
     ],
     "ects": 5,
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "method": "TR",
@@ -77004,7 +77008,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -77695,7 +77699,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -77841,7 +77845,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -78017,7 +78021,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -78785,7 +78789,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -79529,7 +79533,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -82442,7 +82446,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -83209,7 +83213,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -85654,7 +85658,7 @@
       "Special Student"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "method": "TR",
@@ -85709,7 +85713,7 @@
       "Special Student"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "method": "TR",
@@ -85764,7 +85768,7 @@
       "Special Student"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "method": "TR",
@@ -87151,7 +87155,7 @@
       "Special Student"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "method": "TR",
@@ -88149,8 +88153,8 @@
       {
         "title": "Seats",
         "capacity": 38,
-        "actual": 0,
-        "remaining": 38
+        "actual": 37,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -88161,8 +88165,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 68,
+        "remaining": 9931
       }
     ],
     "corequisites": [
@@ -88221,8 +88225,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 0,
-        "remaining": 32
+        "actual": 31,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -88233,8 +88237,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 68,
+        "remaining": 9931
       }
     ],
     "corequisites": [
@@ -89154,7 +89158,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -89214,7 +89218,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -97940,7 +97944,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Project",
     "credits": 3,
@@ -99202,8 +99206,8 @@
       {
         "title": "Seats",
         "capacity": 75,
-        "actual": 0,
-        "remaining": 75
+        "actual": 67,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -99214,8 +99218,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 149,
+        "remaining": 9850
       }
     ],
     "corequisites": [
@@ -103202,8 +103206,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 0,
-        "remaining": 32
+        "actual": 31,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -103214,8 +103218,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 68,
+        "remaining": 9931
       }
     ],
     "corequisites": [
@@ -103243,7 +103247,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -103272,8 +103276,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 22,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -103284,8 +103288,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 41,
+        "remaining": 9958
       }
     ]
   },
@@ -103310,7 +103314,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -103339,8 +103343,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 0,
-        "remaining": 20
+        "actual": 20,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -103403,8 +103407,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 23,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -103415,8 +103419,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 136,
+        "remaining": 9863
       }
     ],
     "corequisites": [
@@ -103476,8 +103480,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 23,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -103488,8 +103492,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 136,
+        "remaining": 9863
       }
     ],
     "corequisites": [
@@ -103551,8 +103555,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 21,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -103563,8 +103567,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 81,
+        "remaining": 9918
       }
     ],
     "corequisites": [
@@ -103626,8 +103630,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 0,
-        "remaining": 22
+        "actual": 20,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -103638,8 +103642,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 81,
+        "remaining": 9918
       }
     ],
     "corequisites": [
@@ -103701,8 +103705,8 @@
       {
         "title": "Seats",
         "capacity": 21,
-        "actual": 0,
-        "remaining": 21
+        "actual": 21,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -103713,8 +103717,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 63,
+        "remaining": 9936
       }
     ],
     "corequisites": [
@@ -103776,8 +103780,8 @@
       {
         "title": "Seats",
         "capacity": 21,
-        "actual": 0,
-        "remaining": 21
+        "actual": 21,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -103788,8 +103792,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
+        "actual": 63,
+        "remaining": 9936
       }
     ],
     "corequisites": [
