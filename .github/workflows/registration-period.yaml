@@ -2,7 +2,7 @@ name: Registration Period Action
 
 on:
   schedule:
-    - cron: '0 5,9,21 9,10 10 *'
+    - cron: '0 5,9,21 23,24,25 9 *'
 
 jobs:
   do-fetch:
@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Fetch & Deploy Changes
         env:
-          BANNERWEB_TERM: "202501"
+          BANNERWEB_TERM: "202601"
         run: |
           git fetch origin gh-pages:gh-pages
           ./workflow-run.sh "Registration period for $BANNERWEB_TERM ($(date +'%F %H:%M:%S') UTC)" fetch "$BANNERWEB_TERM"
