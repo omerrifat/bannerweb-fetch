@@ -367,6 +367,22 @@ export function parseCourseDetailsPage(html) {
 }
 
 /**
+ * Catalog ECTS breakdowns use BASIC for science and leave unavailable values blank.
+ * Only return the breakdown so catalog metadata cannot overwrite section details.
+ * @param {string} html
+ */
+export function parseCatalogEntryPage(html) {
+    const $ = cheerio.load(html);
+    const text = $('body > div.pagebodydiv > table.datadisplaytable > tbody > tr > td.ntdefault')
+        .first().text();
+    const match = text.match(/\(ENGINEERING\s*:\s*(\d+(?:[.,]\d+)?)?\s*\/\s*BASIC\s*:\s*(\d+(?:[.,]\d+)?)?\s*\)/i);
+    return {
+        ectsScience: match?.[2] == null ? null : +match[2].replace(",", "."),
+        ectsEngineering: match?.[1] == null ? null : +match[1].replace(",", ".")
+    };
+}
+
+/**
  * @param {string} html
  */
 export function extractSubjects(html) {

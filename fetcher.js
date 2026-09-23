@@ -16,7 +16,7 @@
 // along with this program.  If not, see <https://www.gnu.org/licenses/>.
 // 
 
-import { extractSubjects, extractTerms, parseCourseDetailsPage, parseCourses, parseHwebSchedule } from "./parser.js";
+import { extractSubjects, extractTerms, parseCatalogEntryPage, parseCourseDetailsPage, parseCourses, parseHwebSchedule } from "./parser.js";
 import crypto from "crypto";
 import { existsSync, mkdirSync } from "fs";
 import { writeFile, readFile, rename, mkdir } from "fs/promises";
@@ -152,6 +152,8 @@ async function fetchSubjectsForTerm(term) {
  * @param {any[]} courses 
  */
 function *detailFetchersForCourses(courses) {
+    // Share in-flight requests as well as results between sections of a course.
+    const catalogEntries = new Map();
     let i=0;
     for (const course of courses) {
         yield async() => {
@@ -159,7 +161,14 @@ function *detailFetchersForCourses(courses) {
             console.log(`${course.subject}${course.code}${course.type || ""}-${course.section || "0"} "${course.name}"`)
             const detailHtml = await fetchText(course.detailURL);
             const detail = parseCourseDetailsPage(detailHtml);
-            Object.assign(course, detail);
+            Object.assign(course, { ectsScience: null, ectsEngineering: null }, detail);
+            if (course.catalogEntryURL) {
+                if (!catalogEntries.has(course.catalogEntryURL)) {
+                    catalogEntries.set(course.catalogEntryURL,
+                        fetchText(course.catalogEntryURL).then(parseCatalogEntryPage));
+                }
+                Object.assign(course, await catalogEntries.get(course.catalogEntryURL));
+            }
         };
     }
 }
