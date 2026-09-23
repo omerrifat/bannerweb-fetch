@@ -6,7 +6,7 @@ on:
       term:
         description: 'Term'
         required: true
-        default: '202402'
+        default: '202601'
         type: string
 
 jobs:
