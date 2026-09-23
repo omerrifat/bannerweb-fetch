@@ -47068,7 +47068,7 @@
         "type": "Class",
         "time": {
           "from": "12:40 pm",
-          "to": "1:30 pm"
+          "to": "2:30 pm"
         },
         "days": "T",
         "where": "FASS 1010",
@@ -47084,8 +47084,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
+          "from": "1:40 pm",
+          "to": "2:30 pm"
         },
         "days": "R",
         "where": "FASS 1010",
@@ -72774,11 +72774,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "4:40 pm",
-          "to": "5:30 pm"
+          "from": "3:40 pm",
+          "to": "4:30 pm"
         },
         "days": "F",
-        "where": "FENS L045",
+        "where": "FASS 1010",
         "dateRange": {
           "from": "Feb 15, 2027",
           "to": "May 28, 2027"
@@ -83957,11 +83957,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "1:40 pm",
-          "to": "4:30 pm"
+          "from": "3:40 pm",
+          "to": "6:30 pm"
         },
-        "days": "M",
-        "where": "FMAN L018",
+        "days": "W",
+        "where": "FMAN G060",
         "dateRange": {
           "from": "Feb 15, 2027",
           "to": "May 28, 2027"

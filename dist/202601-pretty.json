@@ -9676,8 +9676,8 @@
       {
         "title": "Seats",
         "capacity": 200,
-        "actual": 165,
-        "remaining": 35
+        "actual": 171,
+        "remaining": 29
       },
       {
         "title": "Waitlist Seats",
@@ -11567,7 +11567,7 @@
           "to": "11:30 am"
         },
         "days": "F",
-        "where": "FASS 2101",
+        "where": null,
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -16052,7 +16052,7 @@
           "to": "4:30 pm"
         },
         "days": "M",
-        "where": "FASS 2101",
+        "where": "FASS 1080",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -16915,9 +16915,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 320,
-        "actual": 319,
-        "remaining": 1
+        "capacity": 340,
+        "actual": 325,
+        "remaining": 15
       },
       {
         "title": "Waitlist Seats",
@@ -20433,8 +20433,8 @@
       {
         "title": "Seats",
         "capacity": 330,
-        "actual": 314,
-        "remaining": 16
+        "actual": 320,
+        "remaining": 10
       },
       {
         "title": "Waitlist Seats",
@@ -20725,13 +20725,13 @@
     "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=POLS&sel_crse_strt=540&sel_crse_end=540&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
     "schedule": [
       {
-        "type": "Class",
+        "type": "Online",
         "time": {
           "from": "12:40 pm",
           "to": "3:30 pm"
         },
         "days": "M",
-        "where": "FASS 1075",
+        "where": null,
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -21371,8 +21371,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 67,
-        "remaining": 9932
+        "actual": 69,
+        "remaining": 9930
       }
     ],
     "corequisites": [
@@ -21431,8 +21431,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 30,
-        "remaining": 2
+        "actual": 32,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -21443,8 +21443,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 67,
-        "remaining": 9932
+        "actual": 69,
+        "remaining": 9930
       }
     ],
     "corequisites": [
@@ -21990,8 +21990,8 @@
       {
         "title": "Seats",
         "capacity": 38,
-        "actual": 36,
-        "remaining": 2
+        "actual": 38,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -22002,8 +22002,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 66,
-        "remaining": 9933
+        "actual": 70,
+        "remaining": 9929
       }
     ],
     "corequisites": [
@@ -22062,8 +22062,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 30,
-        "remaining": 2
+        "actual": 32,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -22074,8 +22074,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 66,
-        "remaining": 9933
+        "actual": 70,
+        "remaining": 9929
       }
     ],
     "corequisites": [
@@ -22692,8 +22692,8 @@
       {
         "title": "Seats",
         "capacity": 310,
-        "actual": 292,
-        "remaining": 18
+        "actual": 294,
+        "remaining": 16
       },
       {
         "title": "Waitlist Seats",
@@ -22773,8 +22773,8 @@
       {
         "title": "Seats",
         "capacity": 180,
-        "actual": 172,
-        "remaining": 8
+        "actual": 176,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -22926,8 +22926,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 291,
-        "remaining": 9708
+        "actual": 293,
+        "remaining": 9706
       }
     ],
     "corequisites": [
@@ -22997,8 +22997,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 291,
-        "remaining": 9708
+        "actual": 293,
+        "remaining": 9706
       }
     ],
     "corequisites": [
@@ -23056,8 +23056,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 31,
-        "remaining": 3
+        "actual": 33,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -23068,8 +23068,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 291,
-        "remaining": 9708
+        "actual": 293,
+        "remaining": 9706
       }
     ],
     "corequisites": [
@@ -23139,8 +23139,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 291,
-        "remaining": 9708
+        "actual": 293,
+        "remaining": 9706
       }
     ],
     "corequisites": [
@@ -23210,8 +23210,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 291,
-        "remaining": 9708
+        "actual": 293,
+        "remaining": 9706
       }
     ],
     "corequisites": [
@@ -23281,8 +23281,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 291,
-        "remaining": 9708
+        "actual": 293,
+        "remaining": 9706
       }
     ],
     "corequisites": [
@@ -23423,8 +23423,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 303,
-        "remaining": 9696
+        "actual": 307,
+        "remaining": 9692
       }
     ],
     "corequisites": [
@@ -23494,8 +23494,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 303,
-        "remaining": 9696
+        "actual": 307,
+        "remaining": 9692
       }
     ],
     "corequisites": [
@@ -23565,8 +23565,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 303,
-        "remaining": 9696
+        "actual": 307,
+        "remaining": 9692
       }
     ],
     "corequisites": [
@@ -23636,8 +23636,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 303,
-        "remaining": 9696
+        "actual": 307,
+        "remaining": 9692
       }
     ],
     "corequisites": [
@@ -23707,8 +23707,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 303,
-        "remaining": 9696
+        "actual": 307,
+        "remaining": 9692
       }
     ],
     "corequisites": [
@@ -23778,8 +23778,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 303,
-        "remaining": 9696
+        "actual": 307,
+        "remaining": 9692
       }
     ],
     "corequisites": [
@@ -27029,9 +27029,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 108,
+        "capacity": 110,
         "actual": 107,
-        "remaining": 1
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -27154,9 +27154,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 108,
+        "capacity": 110,
         "actual": 106,
-        "remaining": 2
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -27280,9 +27280,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 108,
+        "capacity": 110,
         "actual": 104,
-        "remaining": 4
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -27407,9 +27407,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 108,
-        "actual": 105,
-        "remaining": 3
+        "capacity": 110,
+        "actual": 109,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27472,8 +27472,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 88,
-        "remaining": 2
+        "actual": 90,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -27533,9 +27533,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 108,
-        "actual": 105,
-        "remaining": 3
+        "capacity": 110,
+        "actual": 108,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -27546,8 +27546,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 192,
-        "remaining": 9807
+        "actual": 198,
+        "remaining": 9801
       }
     ],
     "corequisites": [
@@ -27604,9 +27604,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 108,
+        "capacity": 110,
         "actual": 106,
-        "remaining": 2
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -27746,9 +27746,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 108,
+        "capacity": 110,
         "actual": 107,
-        "remaining": 1
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -27888,9 +27888,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 108,
+        "capacity": 110,
         "actual": 107,
-        "remaining": 1
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -28410,9 +28410,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 312,
-        "actual": 308,
-        "remaining": 4
+        "capacity": 325,
+        "actual": 310,
+        "remaining": 15
       },
       {
         "title": "Waitlist Seats",
@@ -28475,9 +28475,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 192,
-        "actual": 188,
-        "remaining": 4
+        "capacity": 200,
+        "actual": 192,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -28531,6 +28531,7 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
+          "Esra Kaliber",
           "Fatma Merve Karabulut",
           "Melike Ayşe Kocacık Şenol"
         ]
@@ -28605,6 +28606,7 @@
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
+          "Burçin Şenyurt",
           "Ozan Tekin"
         ]
       }
@@ -28675,6 +28677,7 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
+          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
@@ -28751,6 +28754,7 @@
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
+          "Kassandra Robertson",
           "Burçin Şenyurt"
         ]
       }
@@ -28824,7 +28828,8 @@
           "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Michael John Thomas"
         ]
       }
     ],
@@ -28897,6 +28902,7 @@
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
+          "Engin Onuk",
           "Hale Överoğlu"
         ]
       }
@@ -28970,6 +28976,7 @@
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
+          "Hale Överoğlu",
           "Ozan Tekin"
         ]
       }
@@ -29042,6 +29049,7 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
+          "Esra Kaliber",
           "Fatma Merve Karabulut",
           "Melike Ayşe Kocacık Şenol"
         ]
@@ -29113,6 +29121,7 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
+          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
@@ -29189,6 +29198,7 @@
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
+          "Engin Onuk",
           "Hale Överoğlu"
         ]
       }
@@ -29262,16 +29272,17 @@
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
-          "Kassandra Robertson"
+          "Kassandra Robertson",
+          "Burçin Şenyurt"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 24,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29335,16 +29346,17 @@
           "Gizem Damla Çakmak",
           "Elif Çam",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Hale Överoğlu"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 24,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29406,6 +29418,7 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Levent Çoban",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
           "Burçin Şenyurt"
@@ -29415,9 +29428,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 24,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29480,6 +29493,7 @@
           "Marloes Cornelissen Aydemir",
           "Alper Çakmak",
           "Gizem Damla Çakmak",
+          "Elif Çam",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol"
         ]
@@ -29488,9 +29502,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 24,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29554,16 +29568,17 @@
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
-          "Ozan Tekin"
+          "Ozan Tekin",
+          "Michael John Thomas"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 24,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29627,6 +29642,7 @@
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
+          "Kassandra Robertson",
           "Ulaş Yalvaç"
         ]
       }
@@ -29634,9 +29650,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 24,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29697,6 +29713,7 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
+          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Esra Kaliber",
@@ -29707,9 +29724,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 21,
-        "remaining": 3
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -29773,16 +29790,17 @@
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
-          "Ozan Tekin"
+          "Ozan Tekin",
+          "Michael John Thomas"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 24,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29793,8 +29811,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 143,
-        "remaining": 9856
+        "actual": 145,
+        "remaining": 9854
       }
     ],
     "corequisites": [
@@ -29845,6 +29863,7 @@
           "Marloes Cornelissen Aydemir",
           "Alper Çakmak",
           "Gizem Damla Çakmak",
+          "Elif Çam",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol"
         ]
@@ -29853,9 +29872,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "capacity": 25,
+        "actual": 25,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -29866,8 +29885,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 143,
-        "remaining": 9856
+        "actual": 145,
+        "remaining": 9854
       }
     ],
     "corequisites": [
@@ -29919,16 +29938,17 @@
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
-          "Kassandra Robertson"
+          "Kassandra Robertson",
+          "Burçin Şenyurt"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 24,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -29939,8 +29959,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 143,
-        "remaining": 9856
+        "actual": 145,
+        "remaining": 9854
       }
     ],
     "corequisites": [
@@ -29992,6 +30012,7 @@
           "Gizem Damla Çakmak",
           "Elif Çam",
           "Burhan İzgin",
+          "Esra Kaliber",
           "Melike Ayşe Kocacık Şenol"
         ]
       }
@@ -29999,9 +30020,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 23,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -30063,6 +30084,7 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Elif Çam",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
           "Hale Överoğlu"
@@ -30072,9 +30094,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 23,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -30136,6 +30158,7 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Levent Çoban",
           "Burhan İzgin",
           "Fatma Merve Karabulut",
           "Melike Ayşe Kocacık Şenol"
@@ -30145,9 +30168,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 24,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -30211,6 +30234,7 @@
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
+          "Engin Onuk",
           "Burçin Şenyurt"
         ]
       }
@@ -30218,9 +30242,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 24,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -30360,9 +30384,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 147,
+        "capacity": 154,
         "actual": 147,
-        "remaining": 0
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -30422,7 +30446,8 @@
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
-          "Michael John Thomas"
+          "Michael John Thomas",
+          "Fatma Berna Uysal"
         ]
       }
     ],
@@ -30496,6 +30521,7 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
+          "Fatma Merve Karabulut",
           "Melike Ayşe Kocacık Şenol",
           "Engin Onuk"
         ]
@@ -30660,7 +30686,8 @@
           "Gizem Damla Çakmak",
           "Levent Çoban",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Ozan Tekin"
         ]
       }
     ],
@@ -30800,7 +30827,8 @@
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
-          "Michael John Thomas"
+          "Michael John Thomas",
+          "Ulaş Yalvaç"
         ]
       }
     ],
@@ -30874,6 +30902,7 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
+          "Fatma Merve Karabulut",
           "Melike Ayşe Kocacık Şenol",
           "Engin Onuk"
         ]
@@ -30950,7 +30979,8 @@
           "Gizem Damla Çakmak",
           "Levent Çoban",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Ozan Tekin"
         ]
       }
     ],
@@ -31025,16 +31055,17 @@
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
-          "Michael John Thomas"
+          "Michael John Thomas",
+          "Fatma Berna Uysal"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 22,
         "actual": 21,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -31100,16 +31131,17 @@
           "Gizem Damla Çakmak",
           "Levent Çoban",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Ozan Tekin"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 22,
         "actual": 21,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -31174,6 +31206,7 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
+          "Fatma Merve Karabulut",
           "Melike Ayşe Kocacık Şenol",
           "Engin Onuk"
         ]
@@ -31182,9 +31215,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 22,
         "actual": 21,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -31250,16 +31283,17 @@
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
-          "Engin Onuk"
+          "Engin Onuk",
+          "Ulaş Yalvaç"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 22,
         "actual": 21,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -31325,16 +31359,17 @@
           "Gizem Damla Çakmak",
           "Levent Çoban",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Fatma Berna Uysal"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 22,
         "actual": 21,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -32580,9 +32615,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 25,
         "actual": 22,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -32647,9 +32682,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 25,
         "actual": 23,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -32727,8 +32762,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 106,
-        "remaining": 9893
+        "actual": 108,
+        "remaining": 9891
       }
     ]
   },
@@ -32782,8 +32817,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 22,
-        "remaining": 1
+        "actual": 23,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -32794,8 +32829,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 106,
-        "remaining": 9893
+        "actual": 108,
+        "remaining": 9891
       }
     ]
   },
@@ -32849,8 +32884,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 22,
-        "remaining": 1
+        "actual": 23,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -32861,8 +32896,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 106,
-        "remaining": 9893
+        "actual": 108,
+        "remaining": 9891
       }
     ]
   },
@@ -32928,8 +32963,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 106,
-        "remaining": 9893
+        "actual": 108,
+        "remaining": 9891
       }
     ]
   },
@@ -32982,9 +33017,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 25,
         "actual": 20,
-        "remaining": 2
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -33250,9 +33285,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 25,
         "actual": 21,
-        "remaining": 1
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -33317,9 +33352,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 23,
         "actual": 22,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -33330,8 +33365,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 88,
-        "remaining": 9911
+        "actual": 89,
+        "remaining": 9910
       }
     ]
   },
@@ -33384,8 +33419,8 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
-        "actual": 21,
+        "capacity": 23,
+        "actual": 22,
         "remaining": 1
       },
       {
@@ -33397,8 +33432,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 88,
-        "remaining": 9911
+        "actual": 89,
+        "remaining": 9910
       }
     ]
   },
@@ -33451,9 +33486,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 23,
         "actual": 22,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -33518,9 +33553,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 23,
         "actual": 22,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -33585,9 +33620,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 23,
         "actual": 22,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -33853,9 +33888,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 23,
         "actual": 22,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -33920,9 +33955,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 23,
         "actual": 21,
-        "remaining": 1
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -34000,8 +34035,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 88,
-        "remaining": 9911
+        "actual": 89,
+        "remaining": 9910
       }
     ]
   },
@@ -34054,9 +34089,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 25,
         "actual": 22,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -34067,8 +34102,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 88,
-        "remaining": 9911
+        "actual": 91,
+        "remaining": 9908
       }
     ]
   },
@@ -34121,8 +34156,8 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
-        "actual": 22,
+        "capacity": 23,
+        "actual": 23,
         "remaining": 0
       },
       {
@@ -34134,8 +34169,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 88,
-        "remaining": 9911
+        "actual": 91,
+        "remaining": 9908
       }
     ]
   },
@@ -34188,8 +34223,8 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
-        "actual": 22,
+        "capacity": 23,
+        "actual": 23,
         "remaining": 0
       },
       {
@@ -34201,8 +34236,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 88,
-        "remaining": 9911
+        "actual": 91,
+        "remaining": 9908
       }
     ]
   },
@@ -34255,9 +34290,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 25,
         "actual": 20,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -34465,9 +34500,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 25,
         "actual": 20,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -34745,9 +34780,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 19,
         "actual": 17,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -34815,9 +34850,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 19,
         "actual": 17,
-        "remaining": 3
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -34885,9 +34920,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 25,
         "actual": 20,
-        "remaining": 0
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -39798,6 +39833,7 @@
           "Gizem Damla Çakmak",
           "Elif Çam",
           "Burhan İzgin",
+          "Esra Kaliber",
           "Melike Ayşe Kocacık Şenol"
         ]
       }
@@ -39805,9 +39841,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "capacity": 25,
+        "actual": 25,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -39818,8 +39854,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 94,
-        "remaining": 9905
+        "actual": 98,
+        "remaining": 9901
       }
     ],
     "corequisites": [
@@ -39869,6 +39905,7 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Levent Çoban",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
           "Ulaş Yalvaç"
@@ -39878,9 +39915,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "capacity": 25,
+        "actual": 25,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -39891,8 +39928,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 94,
-        "remaining": 9905
+        "actual": 98,
+        "remaining": 9901
       }
     ],
     "corequisites": [
@@ -40440,9 +40477,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 23,
         "actual": 22,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -40453,8 +40490,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 88,
-        "remaining": 9911
+        "actual": 89,
+        "remaining": 9910
       }
     ]
   },
@@ -40507,9 +40544,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 22,
         "actual": 20,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -40568,9 +40605,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 24,
         "actual": 23,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -45525,7 +45562,7 @@
           "to": "5:30 pm"
         },
         "days": "R",
-        "where": "FASS 2101",
+        "where": null,
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -47834,9 +47871,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 24,
         "actual": 23,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -52021,7 +52058,7 @@
           "to": "11:30 am"
         },
         "days": "F",
-        "where": "FASS 2101",
+        "where": null,
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -52092,7 +52129,7 @@
           "to": "5:30 pm"
         },
         "days": "R",
-        "where": "FASS 2101",
+        "where": null,
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -56108,7 +56145,8 @@
           "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Michael John Thomas"
         ]
       }
     ],
@@ -56179,6 +56217,7 @@
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
+          "Elif Çam",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
           "Burçin Şenyurt"
@@ -56188,9 +56227,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 24,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -56201,8 +56240,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 94,
-        "remaining": 9905
+        "actual": 98,
+        "remaining": 9901
       }
     ],
     "corequisites": [
@@ -56271,8 +56310,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 106,
-        "remaining": 9893
+        "actual": 108,
+        "remaining": 9891
       }
     ]
   },
@@ -56325,9 +56364,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 19,
         "actual": 18,
-        "remaining": 2
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -56465,9 +56504,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 22,
         "actual": 20,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -60744,7 +60783,7 @@
           "to": "5:30 pm"
         },
         "days": "W",
-        "where": "FASS 2101",
+        "where": "FASS 2031",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -61713,8 +61752,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 87,
-        "remaining": 3
+        "actual": 90,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -61725,8 +61764,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 192,
-        "remaining": 9807
+        "actual": 198,
+        "remaining": 9801
       }
     ],
     "corequisites": [
@@ -65672,6 +65711,7 @@
           "Marloes Cornelissen Aydemir",
           "Gizem Damla Çakmak",
           "Elif Çam",
+          "Levent Çoban",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol"
         ]
@@ -65680,9 +65720,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 24,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -65693,8 +65733,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 143,
-        "remaining": 9856
+        "actual": 145,
+        "remaining": 9854
       }
     ],
     "corequisites": [
@@ -69809,16 +69849,17 @@
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Esra Kaliber",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Engin Onuk"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 24,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -69829,8 +69870,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 94,
-        "remaining": 9905
+        "actual": 97,
+        "remaining": 9902
       }
     ],
     "corequisites": [
@@ -69882,6 +69923,7 @@
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Melike Ayşe Kocacık Şenol",
+          "Kassandra Robertson",
           "Ulaş Yalvaç"
         ]
       }
@@ -69889,9 +69931,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 24,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -69902,8 +69944,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 143,
-        "remaining": 9856
+        "actual": 145,
+        "remaining": 9854
       }
     ],
     "corequisites": [
@@ -69952,6 +69994,7 @@
         "instructors": [
           "Emre Erol",
           "Marloes Cornelissen Aydemir",
+          "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
           "Esra Kaliber",
@@ -69962,9 +70005,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 24,
+        "capacity": 25,
         "actual": 24,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -69975,8 +70018,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 143,
-        "remaining": 9856
+        "actual": 145,
+        "remaining": 9854
       }
     ],
     "corequisites": [
@@ -70099,8 +70142,8 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
-        "actual": 22,
+        "capacity": 23,
+        "actual": 23,
         "remaining": 0
       },
       {
@@ -70112,8 +70155,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 88,
-        "remaining": 9911
+        "actual": 91,
+        "remaining": 9908
       }
     ]
   },
@@ -70166,9 +70209,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 23,
+        "capacity": 24,
         "actual": 23,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -73312,8 +73355,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 291,
-        "remaining": 9708
+        "actual": 292,
+        "remaining": 9707
       }
     ],
     "corequisites": [
@@ -73383,8 +73426,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 291,
-        "remaining": 9708
+        "actual": 292,
+        "remaining": 9707
       }
     ],
     "corequisites": [
@@ -73454,8 +73497,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 291,
-        "remaining": 9708
+        "actual": 292,
+        "remaining": 9707
       }
     ],
     "corequisites": [
@@ -73525,8 +73568,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 303,
-        "remaining": 9696
+        "actual": 307,
+        "remaining": 9692
       }
     ],
     "corequisites": [
@@ -73596,8 +73639,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 303,
-        "remaining": 9696
+        "actual": 307,
+        "remaining": 9692
       }
     ],
     "corequisites": [
@@ -73655,8 +73698,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 33,
-        "remaining": 7
+        "actual": 37,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -73667,8 +73710,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 303,
-        "remaining": 9696
+        "actual": 307,
+        "remaining": 9692
       }
     ],
     "corequisites": [
@@ -74424,9 +74467,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 85,
+        "capacity": 80,
         "actual": 9,
-        "remaining": 76
+        "remaining": 71
       },
       {
         "title": "Waitlist Seats",
@@ -78041,7 +78084,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Emre Erdem"
+          "Hasan Kurt"
         ]
       }
     ],
@@ -78114,7 +78157,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Emre Erdem"
+          "Hasan Kurt"
         ]
       }
     ],
@@ -78183,7 +78226,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Emre Erdem"
+          "Hasan Kurt"
         ]
       }
     ],
@@ -88531,11 +88574,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "11:40 am",
-          "to": "2:30 pm"
+          "from": "12:40 pm",
+          "to": "3:30 pm"
         },
         "days": "W",
-        "where": "FMAN G041",
+        "where": "FASS G056",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -92242,7 +92285,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Hüsnü Yenigün"
+          "Hasan Kurt"
         ]
       }
     ],
@@ -103277,9 +103320,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 22,
+        "capacity": 25,
         "actual": 22,
-        "remaining": 0
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -103344,9 +103387,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 20,
+        "capacity": 22,
         "actual": 20,
-        "remaining": 0
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -103401,7 +103444,8 @@
           "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Hale Överoğlu"
         ]
       }
     ],
@@ -103474,7 +103518,8 @@
           "Alper Çakmak",
           "Gizem Damla Çakmak",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Burçin Şenyurt"
         ]
       }
     ],
@@ -103549,7 +103594,8 @@
           "Gizem Damla Çakmak",
           "Levent Çoban",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Fatma Berna Uysal"
         ]
       }
     ],
@@ -103624,7 +103670,8 @@
           "Gizem Damla Çakmak",
           "Levent Çoban",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Ulaş Yalvaç"
         ]
       }
     ],
@@ -103699,16 +103746,17 @@
           "Gizem Damla Çakmak",
           "Levent Çoban",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Ozan Tekin"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 22,
         "actual": 21,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -103774,16 +103822,17 @@
           "Gizem Damla Çakmak",
           "Levent Çoban",
           "Burhan İzgin",
-          "Melike Ayşe Kocacık Şenol"
+          "Melike Ayşe Kocacık Şenol",
+          "Ulaş Yalvaç"
         ]
       }
     ],
     "availability": [
       {
         "title": "Seats",
-        "capacity": 21,
+        "capacity": 22,
         "actual": 21,
-        "remaining": 0
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -104980,7 +105029,7 @@
           "to": "4:30 pm"
         },
         "days": "S",
-        "where": "Altunizade Campus 112",
+        "where": "Altunizade Campus 105",
         "dateRange": {
           "from": "Sep 26, 2026",
           "to": "Nov 07, 2026"
@@ -104997,7 +105046,7 @@
           "to": "10:00 pm"
         },
         "days": "T",
-        "where": "Altunizade Campus 112",
+        "where": "Altunizade Campus 105",
         "dateRange": {
           "from": "Sep 29, 2026",
           "to": "Nov 10, 2026"
@@ -105062,7 +105111,7 @@
           "to": "12:30 pm"
         },
         "days": "S",
-        "where": "Altunizade Campus 112",
+        "where": "Altunizade Campus 105",
         "dateRange": {
           "from": "Sep 26, 2026",
           "to": "Nov 07, 2026"
@@ -105079,7 +105128,7 @@
           "to": "10:00 pm"
         },
         "days": "R",
-        "where": "Altunizade Campus 112",
+        "where": "Altunizade Campus 105",
         "dateRange": {
           "from": "Oct 01, 2026",
           "to": "Oct 22, 2026"
@@ -105096,7 +105145,7 @@
           "to": "10:00 pm"
         },
         "days": "R",
-        "where": "Altunizade Campus 112",
+        "where": "Altunizade Campus 105",
         "dateRange": {
           "from": "Nov 05, 2026",
           "to": "Nov 12, 2026"
@@ -105113,7 +105162,7 @@
           "to": "10:00 pm"
         },
         "days": "T",
-        "where": "Altunizade Campus 112",
+        "where": "Altunizade Campus 105",
         "dateRange": {
           "from": "Nov 17, 2026",
           "to": "Nov 17, 2026"
@@ -105178,7 +105227,7 @@
           "to": "10:00 pm"
         },
         "days": "T",
-        "where": "Altunizade Campus 112",
+        "where": "Altunizade Campus 105",
         "dateRange": {
           "from": "Nov 24, 2026",
           "to": "Jan 05, 2027"
@@ -105195,7 +105244,7 @@
           "to": "12:30 pm"
         },
         "days": "S",
-        "where": "Altunizade Campus 112",
+        "where": "Altunizade Campus 105",
         "dateRange": {
           "from": "Nov 28, 2026",
           "to": "Jan 09, 2027"
@@ -105260,7 +105309,7 @@
           "to": "10:00 pm"
         },
         "days": "R",
-        "where": "Altunizade Campus 112",
+        "where": "Altunizade Campus 105",
         "dateRange": {
           "from": "Nov 26, 2026",
           "to": "Dec 24, 2026"
@@ -105277,7 +105326,7 @@
           "to": "4:30 pm"
         },
         "days": "S",
-        "where": "Altunizade Campus 112",
+        "where": "Altunizade Campus 105",
         "dateRange": {
           "from": "Nov 28, 2026",
           "to": "Jan 16, 2027"
@@ -105294,7 +105343,7 @@
           "to": "10:00 pm"
         },
         "days": "R",
-        "where": "Altunizade Campus 112",
+        "where": "Altunizade Campus 105",
         "dateRange": {
           "from": "Jan 07, 2027",
           "to": "Jan 07, 2027"
