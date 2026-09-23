@@ -17,6 +17,7 @@
       "Special Student"
     ],
     "ects": 3,
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "method": "TR",
@@ -38,6 +39,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -71,7 +74,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -92,6 +95,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -125,7 +130,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -146,6 +151,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -179,7 +186,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -200,6 +207,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -233,7 +242,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -254,6 +263,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -287,7 +298,7 @@
       "Special Student"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -308,6 +319,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -336,7 +349,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -357,6 +370,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -385,7 +400,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -406,6 +421,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -434,7 +451,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -455,6 +472,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -483,7 +502,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -504,6 +523,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -532,7 +553,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -553,6 +574,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -581,7 +604,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -602,6 +625,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -630,7 +655,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -651,6 +676,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -679,7 +706,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -700,6 +727,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -728,7 +757,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -749,6 +778,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -777,7 +808,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -798,6 +829,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -826,7 +859,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -847,6 +880,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -875,7 +910,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -896,6 +931,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -924,7 +961,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -945,6 +982,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -973,7 +1012,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -994,6 +1033,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1022,7 +1063,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1043,6 +1084,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1071,7 +1114,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1092,6 +1135,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1120,7 +1165,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1141,6 +1186,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1169,7 +1216,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1190,6 +1237,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1218,7 +1267,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1239,6 +1288,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1267,7 +1318,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1288,6 +1339,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1316,7 +1369,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1337,6 +1390,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1365,7 +1420,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1386,6 +1441,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1414,7 +1471,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1435,6 +1492,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1463,7 +1522,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1484,6 +1543,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1512,7 +1573,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1533,6 +1594,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1561,7 +1624,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1582,6 +1645,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1610,7 +1675,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1631,6 +1696,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1659,7 +1726,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1680,6 +1747,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1708,7 +1777,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1729,6 +1798,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1757,7 +1828,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1778,6 +1849,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1806,7 +1879,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1827,6 +1900,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1855,7 +1930,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1876,6 +1951,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1904,7 +1981,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1925,6 +2002,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -1953,7 +2032,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -1974,6 +2053,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2002,7 +2083,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2023,6 +2104,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2051,7 +2134,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2072,6 +2155,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2100,7 +2185,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2121,6 +2206,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2149,7 +2236,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2170,6 +2257,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2198,7 +2287,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2219,6 +2308,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2247,7 +2338,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2268,6 +2359,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2296,7 +2389,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2317,6 +2410,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2345,7 +2440,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2366,6 +2461,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2394,7 +2491,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2415,6 +2512,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2443,7 +2542,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2464,6 +2563,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2492,7 +2593,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2513,6 +2614,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2541,7 +2644,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2562,6 +2665,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2590,7 +2695,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2611,6 +2716,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2639,7 +2746,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2660,6 +2767,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2688,7 +2797,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2709,6 +2818,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2737,7 +2848,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2758,6 +2869,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2786,7 +2899,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2807,6 +2920,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2835,7 +2950,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2856,6 +2971,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2884,7 +3001,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2905,6 +3022,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2933,7 +3052,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -2954,6 +3073,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -2982,7 +3103,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -3003,6 +3124,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -3031,7 +3154,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -3052,6 +3175,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -3080,7 +3205,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -3101,6 +3226,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -3129,7 +3256,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -3150,6 +3277,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -3178,7 +3307,7 @@
       "Undergraduate"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Internship",
     "credits": 0,
@@ -3199,6 +3328,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -3238,6 +3369,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 0,
+    "language": "Arabic",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -3312,6 +3444,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -3383,6 +3517,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -3431,6 +3567,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 0,
+    "language": "Arabic",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -3505,6 +3642,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -3576,6 +3715,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -3624,6 +3765,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 0,
+    "language": "Arabic",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -3702,6 +3844,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -3774,6 +3918,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -3870,6 +4016,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -3951,6 +4099,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -4016,6 +4166,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -4078,6 +4230,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -4140,6 +4294,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -4203,6 +4359,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -4266,6 +4424,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -4345,6 +4505,8 @@
         ]
       }
     ],
+    "ectsScience": 0,
+    "ectsEngineering": 3,
     "availability": [
       {
         "title": "Seats",
@@ -4406,6 +4568,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -4467,6 +4631,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -4546,6 +4712,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -4607,6 +4775,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -4668,6 +4838,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -4747,6 +4919,8 @@
         ]
       }
     ],
+    "ectsScience": 0,
+    "ectsEngineering": 3,
     "availability": [
       {
         "title": "Seats",
@@ -4808,6 +4982,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -4869,6 +5045,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -4906,7 +5084,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -4947,6 +5125,8 @@
         ]
       }
     ],
+    "ectsScience": 2,
+    "ectsEngineering": 3,
     "availability": [
       {
         "title": "Seats",
@@ -5017,6 +5197,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -5078,6 +5260,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -5159,6 +5343,8 @@
         ]
       }
     ],
+    "ectsScience": 2,
+    "ectsEngineering": 4,
     "availability": [
       {
         "title": "Seats",
@@ -5226,6 +5412,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -5307,6 +5495,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -5390,6 +5580,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -5472,6 +5664,8 @@
         ]
       }
     ],
+    "ectsScience": 1,
+    "ectsEngineering": 5,
     "availability": [
       {
         "title": "Seats",
@@ -5535,6 +5729,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -5598,6 +5794,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -5661,6 +5859,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -5724,6 +5924,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -5806,6 +6008,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -5887,6 +6091,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -5954,6 +6160,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -6038,6 +6246,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -6127,6 +6337,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -6213,6 +6425,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -6294,6 +6508,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -6375,6 +6591,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -6455,6 +6673,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -6535,6 +6755,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -6615,6 +6837,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -6695,6 +6919,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -6775,6 +7001,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -6855,6 +7083,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -6935,6 +7165,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -7015,6 +7247,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -7095,6 +7329,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -7180,6 +7416,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -7268,6 +7506,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -7351,6 +7591,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -7431,6 +7673,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -7511,6 +7755,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -7591,6 +7837,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -7633,6 +7881,8 @@
     "scheduleType": "Recitation",
     "credits": 0,
     "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=201203&one_subj=MATH&sel_crse_strt=203R&sel_crse_end=203R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -7716,6 +7966,8 @@
         ]
       }
     ],
+    "ectsScience": 2,
+    "ectsEngineering": 4,
     "availability": [
       {
         "title": "Seats",
@@ -7755,6 +8007,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -7795,6 +8048,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -7834,6 +8089,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -7874,6 +8130,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -7913,6 +8171,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -7953,6 +8212,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -7992,7 +8253,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -8012,7 +8273,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Erhun Kundakçıoğlu"
+          "Erhun Kundakcıoğlu"
         ]
       },
       {
@@ -8029,7 +8290,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Erhun Kundakçıoğlu"
+          "Erhun Kundakcıoğlu"
         ]
       },
       {
@@ -8046,10 +8307,12 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Erhun Kundakçıoğlu"
+          "Erhun Kundakcıoğlu"
         ]
       }
     ],
+    "ectsScience": 2,
+    "ectsEngineering": 6,
     "availability": [
       {
         "title": "Seats",
@@ -8110,7 +8373,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Erhun Kundakçıoğlu",
+          "Erhun Kundakcıoğlu",
           "Danial Esmaeili Aliabadi",
           "Fikri Küçüksayacıgil"
         ]
@@ -8129,12 +8392,14 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Erhun Kundakçıoğlu",
+          "Erhun Kundakcıoğlu",
           "Danial Esmaeili Aliabadi",
           "Fikri Küçüksayacıgil"
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -8174,7 +8439,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 7,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -8232,6 +8497,8 @@
         ]
       }
     ],
+    "ectsScience": 2,
+    "ectsEngineering": 6,
     "availability": [
       {
         "title": "Seats",
@@ -8315,6 +8582,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -8396,6 +8665,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -8459,6 +8730,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -8540,6 +8813,8 @@
         ]
       }
     ],
+    "ectsScience": 1,
+    "ectsEngineering": 5,
     "availability": [
       {
         "title": "Seats",
@@ -8623,6 +8898,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -8704,6 +8981,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -8787,6 +9066,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -8868,6 +9149,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -8936,6 +9219,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -8975,7 +9260,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -9020,6 +9305,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -9059,7 +9346,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -9104,6 +9391,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -9185,6 +9474,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -9250,6 +9541,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -9332,6 +9625,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -9411,6 +9706,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -9450,6 +9747,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 0,
+    "language": "Ottoman",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -9524,6 +9822,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -9595,6 +9895,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -9719,6 +10021,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -9790,6 +10094,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -9881,6 +10187,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -9964,6 +10272,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -10044,6 +10354,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -10124,6 +10436,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -10163,6 +10477,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -10205,6 +10520,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -10244,6 +10561,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -10286,6 +10604,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -10368,6 +10688,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -10407,7 +10729,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -10448,6 +10770,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -10531,6 +10855,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -10613,6 +10939,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -10652,7 +10980,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -10694,6 +11022,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -10733,7 +11063,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FENS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -10774,6 +11104,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -10857,6 +11189,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -10937,6 +11271,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -11017,6 +11353,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -11097,6 +11435,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -11177,6 +11517,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -11275,6 +11617,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -11374,6 +11718,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -11472,6 +11818,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -11511,7 +11859,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 6,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -11552,6 +11900,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -11635,6 +11985,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -11715,6 +12067,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -11795,6 +12149,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -11875,6 +12231,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -11914,7 +12272,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 5,
-    "faculty": "FASS",
+    "language": "English",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -11955,6 +12313,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -12018,6 +12378,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -12080,6 +12442,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -12161,6 +12525,8 @@
         ]
       }
     ],
+    "ectsScience": 3,
+    "ectsEngineering": 3,
     "availability": [
       {
         "title": "Seats",
@@ -12228,6 +12594,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -12487,6 +12855,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -12726,6 +13096,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -12965,6 +13337,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -13235,6 +13609,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -13516,6 +13892,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -13786,6 +14164,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -14045,6 +14425,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -14315,6 +14697,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -14564,6 +14948,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -14803,6 +15189,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -15052,6 +15440,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -15301,6 +15691,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -15550,6 +15942,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -15789,6 +16183,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -15863,6 +16259,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -15937,6 +16335,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -16011,6 +16411,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -16085,6 +16487,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -16159,6 +16563,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -16233,6 +16639,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -16307,6 +16715,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -16381,6 +16791,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -16420,7 +16832,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 2,
@@ -16463,6 +16875,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -16502,7 +16916,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 3,
-    "faculty": "FASS",
+    "language": "Turkish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 2,
@@ -16545,6 +16959,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -16620,6 +17036,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -16695,6 +17113,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -16753,6 +17173,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -16818,6 +17240,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -16909,6 +17333,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -16983,6 +17409,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -17062,6 +17490,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -17126,6 +17556,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -17201,6 +17633,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -17276,6 +17710,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -17388,6 +17824,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -17462,6 +17900,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -17554,6 +17994,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -17619,6 +18061,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -17681,6 +18125,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -17761,6 +18207,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -17825,6 +18273,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -17864,6 +18314,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 0,
+    "language": "Spanish",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 3,
@@ -17906,6 +18357,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -17987,6 +18440,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -18100,6 +18555,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -18179,6 +18636,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -18261,6 +18720,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -18300,6 +18761,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 0,
+    "language": "Latin",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -18375,6 +18837,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -18414,6 +18878,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 0,
+    "language": "Latin",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "method": "TR",
@@ -18489,6 +18954,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -18555,6 +19022,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -18617,6 +19086,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -18698,6 +19169,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -18788,6 +19261,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -18843,6 +19318,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -18927,6 +19404,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -18989,6 +19468,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -19069,6 +19550,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -19108,6 +19591,7 @@
       "Exchange - Erasmus Mundus UG"
     ],
     "ects": 0,
+    "language": "Arabic",
     "campus": "Sabancı University Campus",
     "scheduleType": "Lecture",
     "credits": 4,
@@ -19182,6 +19666,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -19253,6 +19739,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -19344,6 +19832,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -19412,6 +19902,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -19490,6 +19982,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -19570,6 +20064,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -19632,6 +20128,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -19692,6 +20190,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -19746,6 +20246,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -19801,6 +20303,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -19855,6 +20359,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -19910,6 +20416,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -19966,6 +20474,8 @@
         ]
       }
     ],
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
