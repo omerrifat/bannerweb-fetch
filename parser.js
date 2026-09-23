@@ -22,7 +22,11 @@ import * as cheerio from "cheerio";
  * @argument {string} relativePath
  */
 function getSuisURL(relativePath) {
-    return new URL(relativePath, "https://suis.sabanciuniv.edu");
+    const url = new URL(relativePath, "https://suis.sabanciuniv.edu");
+    if (url.hostname === "suis.sabanciuniv.edu" && url.protocol === "http:") {
+        url.protocol = "https:";
+    }
+    return url;
 }
 
 /**
@@ -331,6 +335,25 @@ export function parseCourses(html) {
     }
     courses.sort((a, b) => a.crn > b.crn ? 1 : -1);
     return courses;
+}
+
+/**
+ * The hweb schedule contains one term's courses instead of a term selector.
+ * @param {string} html
+ */
+export function parseHwebSchedule(html) {
+    const courses = parseCourses(html);
+    if (courses.length === 0) {
+        return null;
+    }
+    const term = new URL(courses[0].detailURL).searchParams.get("term_in");
+    const name = courses[0].term;
+    if (term == null || !/^[0-9]{6}$/.test(term) || !name || courses.some((course) =>
+        new URL(course.detailURL).searchParams.get("term_in") !== term))
+    {
+        throw new Error("Cannot determine a single term for the hweb schedule");
+    }
+    return { term: { name, term }, courses };
 }
 
 /**

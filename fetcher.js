@@ -16,12 +16,14 @@
 // along with this program.  If not, see <https://www.gnu.org/licenses/>.
 // 
 
-import { extractSubjects, extractTerms, parseCourseDetailsPage, parseCourses } from "./parser.js";
+import { extractSubjects, extractTerms, parseCourseDetailsPage, parseCourses, parseHwebSchedule } from "./parser.js";
 import crypto from "crypto";
 import { existsSync, mkdirSync } from "fs";
 import { writeFile, readFile, rename, mkdir } from "fs/promises";
 import path from "path";
 import async from 'async';
+
+let hwebSchedule = null;
 
 /**
  * @param {string} text
@@ -165,7 +167,7 @@ function *detailFetchersForCourses(courses) {
 /**
  * @argument {string} term
  */
-async function fetchCoursesForTerm(term) {
+async function fetchSuisCoursesForTerm(term) {
     let req = "sel_subj=dummy&sel_day=dummy" +
         "&sel_schd=dummy&sel_insm=dummy&sel_camp=dummy&sel_levl=dummy" +
         "&sel_sess=dummy&sel_instr=dummy&sel_instr=%25&sel_ptrm=dummy&sel_attr=dummy" +
@@ -180,7 +182,16 @@ async function fetchCoursesForTerm(term) {
         body: Buffer.from(req, 'utf-8'),
         headers: { "content-type": "application/x-www-form-urlencoded" },
         method: "POST" });
-    const courses = parseCourses(html);
+    return parseCourses(html);
+}
+
+/**
+ * @argument {string} term
+ */
+async function fetchCoursesForTerm(term) {
+    const courses = hwebSchedule?.term.term === term
+        ? hwebSchedule.courses
+        : await fetchSuisCoursesForTerm(term);
     await async.parallelLimit(detailFetchersForCourses(courses), 8)
     return courses;
 }
@@ -202,6 +213,14 @@ async function fetchTermList() {
     do {
         const termsHTML = await fetchText("https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_dyn_sched");
         terms = extractTerms(termsHTML);
+        if (terms.length === 0) {
+            // SUIS redirects to the full hweb listing during registration.
+            hwebSchedule = parseHwebSchedule(termsHTML)
+                ?? parseHwebSchedule(await fetchText("https://hweb.sabanciuniv.edu/schedule.html"));
+            if (hwebSchedule != null) {
+                terms = [hwebSchedule.term];
+            }
+        }
         if (terms.length > 0) {
             mkdirSync("out", { recursive: true });
             await writeFileAtomic(`out/terms.json`, JSON.stringify(terms));
