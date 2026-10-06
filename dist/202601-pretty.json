@@ -1780,9 +1780,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 75,
+        "capacity": 150,
         "actual": 38,
-        "remaining": 37
+        "remaining": 112
       },
       {
         "title": "Waitlist Seats",
@@ -2334,7 +2334,7 @@
     "subject": "CS",
     "code": 303,
     "type": "L",
-    "section": "C1",
+    "section": "C",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10122",
     "term": "Fall 2026-2027",
     "levels": [
@@ -2379,25 +2379,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 40,
+        "capacity": 80,
         "actual": 28,
-        "remaining": 12
+        "remaining": 52
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 28,
-        "remaining": 9971
       }
-    ],
-    "corequisites": [
-      "CS 303"
     ]
   },
   {
@@ -2406,7 +2397,7 @@
     "subject": "CS",
     "code": 303,
     "type": "L",
-    "section": "A1",
+    "section": "A",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10123",
     "term": "Fall 2026-2027",
     "levels": [
@@ -2451,97 +2442,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 40,
+        "capacity": 80,
         "actual": 37,
-        "remaining": 3
+        "remaining": 43
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 37,
-        "remaining": 9962
       }
-    ],
-    "corequisites": [
-      "CS 303"
-    ]
-  },
-  {
-    "name": "Logic and Digital System Design - Lab.",
-    "crn": 10127,
-    "subject": "CS",
-    "code": 303,
-    "type": "L",
-    "section": "D1",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10127",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CS&sel_crse_strt=303L&sel_crse_end=303L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "4:40 pm",
-          "to": "6:30 pm"
-        },
-        "days": "W",
-        "where": "FENS 1033",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Arsalan Javeed"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 40,
-        "actual": 0,
-        "remaining": 40
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 11,
-        "remaining": 9988
-      }
-    ],
-    "corequisites": [
-      "CS 303"
     ]
   },
   {
@@ -2550,7 +2460,7 @@
     "subject": "CS",
     "code": 303,
     "type": "L",
-    "section": "B1",
+    "section": "B",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10129",
     "term": "Fall 2026-2027",
     "levels": [
@@ -2595,97 +2505,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 40,
-        "actual": 55,
-        "remaining": -15
+        "capacity": 80,
+        "actual": 57,
+        "remaining": 23
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 57,
-        "remaining": 9942
       }
-    ],
-    "corequisites": [
-      "CS 303"
-    ]
-  },
-  {
-    "name": "Logic and Digital System Design - Lab.",
-    "crn": 10130,
-    "subject": "CS",
-    "code": 303,
-    "type": "L",
-    "section": "B2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10130",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CS&sel_crse_strt=303L&sel_crse_end=303L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "12:40 pm",
-          "to": "2:30 pm"
-        },
-        "days": "T",
-        "where": "FASS G052",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Arsalan Javeed"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 40,
-        "actual": 2,
-        "remaining": 38
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 57,
-        "remaining": 9942
-      }
-    ],
-    "corequisites": [
-      "CS 303"
     ]
   },
   {
@@ -2694,7 +2523,7 @@
     "subject": "CS",
     "code": 303,
     "type": "L",
-    "section": "E1",
+    "section": "E",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10131",
     "term": "Fall 2026-2027",
     "levels": [
@@ -2739,97 +2568,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 40,
+        "capacity": 80,
         "actual": 36,
-        "remaining": 4
+        "remaining": 44
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 36,
-        "remaining": 9963
       }
-    ],
-    "corequisites": [
-      "CS 303"
-    ]
-  },
-  {
-    "name": "Logic and Digital System Design - Lab.",
-    "crn": 10133,
-    "subject": "CS",
-    "code": 303,
-    "type": "L",
-    "section": "E2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10133",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CS&sel_crse_strt=303L&sel_crse_end=303L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "4:40 pm",
-          "to": "6:30 pm"
-        },
-        "days": "R",
-        "where": "FMAN L014",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Arsalan Javeed"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 40,
-        "actual": 0,
-        "remaining": 40
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 36,
-        "remaining": 9963
-      }
-    ],
-    "corequisites": [
-      "CS 303"
     ]
   },
   {
@@ -3617,8 +3365,8 @@
       {
         "title": "Seats",
         "capacity": 10,
-        "actual": 2,
-        "remaining": 8
+        "actual": 1,
+        "remaining": 9
       },
       {
         "title": "Waitlist Seats",
@@ -4548,8 +4296,8 @@
       {
         "title": "Seats",
         "capacity": 175,
-        "actual": 136,
-        "remaining": 39
+        "actual": 135,
+        "remaining": 40
       },
       {
         "title": "Waitlist Seats",
@@ -4792,9 +4540,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 39,
         "actual": 35,
-        "remaining": 0
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -4805,8 +4553,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 67,
-        "remaining": 9932
+        "actual": 66,
+        "remaining": 9933
       }
     ],
     "corequisites": [
@@ -4864,9 +4612,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
-        "actual": 32,
-        "remaining": 3
+        "capacity": 39,
+        "actual": 31,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -4877,8 +4625,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 67,
-        "remaining": 9932
+        "actual": 66,
+        "remaining": 9933
       }
     ],
     "corequisites": [
@@ -5026,9 +4774,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 39,
         "actual": 35,
-        "remaining": 0
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -5098,9 +4846,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 39,
         "actual": 33,
-        "remaining": 2
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -5170,9 +4918,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 39,
         "actual": 17,
-        "remaining": 18
+        "remaining": 22
       },
       {
         "title": "Waitlist Seats",
@@ -5242,9 +4990,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 39,
         "actual": 20,
-        "remaining": 15
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -5305,9 +5053,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 39,
         "actual": 16,
-        "remaining": 19
+        "remaining": 23
       },
       {
         "title": "Waitlist Seats",
@@ -5377,9 +5125,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 39,
         "actual": 21,
-        "remaining": 14
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -5532,9 +5280,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 38,
         "actual": 21,
-        "remaining": 14
+        "remaining": 17
       },
       {
         "title": "Waitlist Seats",
@@ -5690,9 +5438,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 36,
+        "capacity": 75,
         "actual": 21,
-        "remaining": 15
+        "remaining": 54
       },
       {
         "title": "Waitlist Seats",
@@ -5762,9 +5510,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 33,
+        "capacity": 75,
         "actual": 20,
-        "remaining": 13
+        "remaining": 55
       },
       {
         "title": "Waitlist Seats",
@@ -5789,7 +5537,7 @@
     "subject": "CS",
     "code": 204,
     "type": "L",
-    "section": "B1",
+    "section": "B",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10223",
     "term": "Fall 2026-2027",
     "levels": [
@@ -5818,7 +5566,7 @@
           "to": "10:30 am"
         },
         "days": "F",
-        "where": "FENS L067",
+        "where": "FASS G049",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -5834,97 +5582,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 33,
+        "capacity": 75,
         "actual": 33,
-        "remaining": 0
+        "remaining": 42
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 33,
-        "remaining": 9966
       }
-    ],
-    "corequisites": [
-      "CS 204"
-    ]
-  },
-  {
-    "name": "Advanced Programming Lab",
-    "crn": 10225,
-    "subject": "CS",
-    "code": 204,
-    "type": "L",
-    "section": "B2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10225",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CS&sel_crse_strt=204L&sel_crse_end=204L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "10:30 am"
-        },
-        "days": "F",
-        "where": "FMAN G060",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Kamer Kaya"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 33,
-        "actual": 0,
-        "remaining": 33
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 33,
-        "remaining": 9966
-      }
-    ],
-    "corequisites": [
-      "CS 204"
     ]
   },
   {
@@ -5933,80 +5600,8 @@
     "subject": "CS",
     "code": 204,
     "type": "L",
-    "section": "C1",
+    "section": "C",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10226",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CS&sel_crse_strt=204L&sel_crse_end=204L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
-        },
-        "days": "F",
-        "where": "FENS G032",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Kamer Kaya"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 33,
-        "actual": 19,
-        "remaining": 14
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 19,
-        "remaining": 9980
-      }
-    ],
-    "corequisites": [
-      "CS 204"
-    ]
-  },
-  {
-    "name": "Advanced Programming Lab",
-    "crn": 10227,
-    "subject": "CS",
-    "code": 204,
-    "type": "L",
-    "section": "C2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10227",
     "term": "Fall 2026-2027",
     "levels": [
       "Doctorate",
@@ -6050,25 +5645,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 33,
-        "actual": 0,
-        "remaining": 33
+        "capacity": 75,
+        "actual": 19,
+        "remaining": 56
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 19,
-        "remaining": 9980
       }
-    ],
-    "corequisites": [
-      "CS 204"
     ]
   },
   {
@@ -7422,8 +7008,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 63,
-        "remaining": 9936
+        "actual": 58,
+        "remaining": 9941
       }
     ]
   },
@@ -7670,8 +7256,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 15,
-        "remaining": 1
+        "actual": 12,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -7682,8 +7268,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 63,
-        "remaining": 9936
+        "actual": 58,
+        "remaining": 9941
       }
     ]
   },
@@ -7756,8 +7342,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 16,
-        "remaining": 0
+        "actual": 14,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -7768,8 +7354,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 63,
-        "remaining": 9936
+        "actual": 58,
+        "remaining": 9941
       }
     ]
   },
@@ -7854,8 +7440,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 63,
-        "remaining": 9936
+        "actual": 58,
+        "remaining": 9941
       }
     ]
   },
@@ -7940,8 +7526,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 54,
-        "remaining": 9945
+        "actual": 52,
+        "remaining": 9947
       }
     ]
   },
@@ -8026,8 +7612,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 54,
-        "remaining": 9945
+        "actual": 52,
+        "remaining": 9947
       }
     ]
   },
@@ -8100,8 +7686,8 @@
       {
         "title": "Seats",
         "capacity": 16,
-        "actual": 14,
-        "remaining": 2
+        "actual": 12,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -8112,8 +7698,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 54,
-        "remaining": 9945
+        "actual": 52,
+        "remaining": 9947
       }
     ]
   },
@@ -8198,8 +7784,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 54,
-        "remaining": 9945
+        "actual": 52,
+        "remaining": 9947
       }
     ]
   },
@@ -9685,8 +9271,8 @@
       {
         "title": "Seats",
         "capacity": 200,
-        "actual": 178,
-        "remaining": 22
+        "actual": 176,
+        "remaining": 24
       },
       {
         "title": "Waitlist Seats",
@@ -9740,8 +9326,8 @@
       {
         "title": "Seats",
         "capacity": 200,
-        "actual": 170,
-        "remaining": 30
+        "actual": 169,
+        "remaining": 31
       },
       {
         "title": "Waitlist Seats",
@@ -9795,8 +9381,8 @@
       {
         "title": "Seats",
         "capacity": 200,
-        "actual": 170,
-        "remaining": 30
+        "actual": 169,
+        "remaining": 31
       },
       {
         "title": "Waitlist Seats",
@@ -9850,8 +9436,8 @@
       {
         "title": "Seats",
         "capacity": 100,
-        "actual": 95,
-        "remaining": 5
+        "actual": 92,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -10818,8 +10404,8 @@
       {
         "title": "Seats",
         "capacity": 320,
-        "actual": 77,
-        "remaining": 243
+        "actual": 76,
+        "remaining": 244
       },
       {
         "title": "Waitlist Seats",
@@ -11032,7 +10618,7 @@
           "to": "2:30 pm"
         },
         "days": "T",
-        "where": "FASS 1101",
+        "where": "FENS G035",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -11165,78 +10751,6 @@
     ],
     "prerequisites": [
       "ENS 211"
-    ]
-  },
-  {
-    "name": "Introduction to Materials Science - Recitation",
-    "crn": 10351,
-    "subject": "ENS",
-    "code": 205,
-    "type": "R",
-    "section": "E1",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10351",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=205R&sel_crse_end=205R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "5:40 pm",
-          "to": "7:30 pm"
-        },
-        "days": "F",
-        "where": "FENS L035",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Özge Akbulut"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 32,
-        "actual": 0,
-        "remaining": 32
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 11,
-        "remaining": 9988
-      }
-    ],
-    "corequisites": [
-      "ENS 205"
     ]
   },
   {
@@ -13589,6 +13103,7 @@
       "Undergraduate",
       "Masters",
       "Special Student",
+      "Exchange - Socrates Erasmus MA",
       "Exchange - Socrates Erasmus DR",
       "Exchange - Erasmus Mundus MA",
       "Exchange - Erasmus Mundus DR",
@@ -17250,8 +16765,8 @@
       {
         "title": "Seats",
         "capacity": 340,
-        "actual": 329,
-        "remaining": 11
+        "actual": 326,
+        "remaining": 14
       },
       {
         "title": "Waitlist Seats",
@@ -17312,8 +16827,8 @@
       {
         "title": "Seats",
         "capacity": 320,
-        "actual": 310,
-        "remaining": 10
+        "actual": 306,
+        "remaining": 14
       },
       {
         "title": "Waitlist Seats",
@@ -17373,8 +16888,8 @@
       {
         "title": "Seats",
         "capacity": 150,
-        "actual": 110,
-        "remaining": 40
+        "actual": 111,
+        "remaining": 39
       },
       {
         "title": "Waitlist Seats",
@@ -17435,8 +16950,8 @@
       {
         "title": "Seats",
         "capacity": 370,
-        "actual": 304,
-        "remaining": 66
+        "actual": 298,
+        "remaining": 72
       },
       {
         "title": "Waitlist Seats",
@@ -20867,8 +20382,8 @@
       {
         "title": "Seats",
         "capacity": 330,
-        "actual": 312,
-        "remaining": 18
+        "actual": 311,
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -20997,8 +20512,8 @@
       {
         "title": "Seats",
         "capacity": 330,
-        "actual": 318,
-        "remaining": 12
+        "actual": 317,
+        "remaining": 13
       },
       {
         "title": "Waitlist Seats",
@@ -21125,8 +20640,8 @@
       {
         "title": "Seats",
         "capacity": 180,
-        "actual": 176,
-        "remaining": 4
+        "actual": 173,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -21468,8 +20983,8 @@
       {
         "title": "Seats",
         "capacity": 38,
-        "actual": 37,
-        "remaining": 1
+        "actual": 36,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -21480,8 +20995,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 69,
-        "remaining": 9930
+        "actual": 68,
+        "remaining": 9931
       }
     ],
     "corequisites": [
@@ -21554,8 +21069,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 69,
-        "remaining": 9930
+        "actual": 68,
+        "remaining": 9931
       }
     ],
     "corequisites": [
@@ -21616,8 +21131,8 @@
       {
         "title": "Seats",
         "capacity": 38,
-        "actual": 37,
-        "remaining": 1
+        "actual": 36,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -21628,8 +21143,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 68,
-        "remaining": 9931
+        "actual": 67,
+        "remaining": 9932
       }
     ],
     "corequisites": [
@@ -21702,8 +21217,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 68,
-        "remaining": 9931
+        "actual": 67,
+        "remaining": 9932
       }
     ],
     "corequisites": [
@@ -21833,8 +21348,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 70,
-        "remaining": 9929
+        "actual": 69,
+        "remaining": 9930
       }
     ],
     "corequisites": [
@@ -21895,8 +21410,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 32,
-        "remaining": 0
+        "actual": 31,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -21907,8 +21422,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 70,
-        "remaining": 9929
+        "actual": 69,
+        "remaining": 9930
       }
     ],
     "corequisites": [
@@ -21969,8 +21484,8 @@
       {
         "title": "Seats",
         "capacity": 38,
-        "actual": 38,
-        "remaining": 0
+        "actual": 37,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -21981,8 +21496,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 69,
-        "remaining": 9930
+        "actual": 68,
+        "remaining": 9931
       }
     ],
     "corequisites": [
@@ -22055,8 +21570,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 69,
-        "remaining": 9930
+        "actual": 68,
+        "remaining": 9931
       }
     ],
     "corequisites": [
@@ -22129,8 +21644,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 65,
-        "remaining": 9934
+        "actual": 64,
+        "remaining": 9935
       }
     ],
     "corequisites": [
@@ -22191,8 +21706,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 29,
-        "remaining": 3
+        "actual": 28,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -22203,8 +21718,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 65,
-        "remaining": 9934
+        "actual": 64,
+        "remaining": 9935
       }
     ],
     "corequisites": [
@@ -22322,8 +21837,8 @@
       {
         "title": "Seats",
         "capacity": 38,
-        "actual": 37,
-        "remaining": 1
+        "actual": 38,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -22334,8 +21849,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 66,
-        "remaining": 9933
+        "actual": 67,
+        "remaining": 9932
       }
     ],
     "corequisites": [
@@ -22408,8 +21923,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 66,
-        "remaining": 9933
+        "actual": 67,
+        "remaining": 9932
       }
     ],
     "corequisites": [
@@ -22835,8 +22350,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 66,
-        "remaining": 9933
+        "actual": 65,
+        "remaining": 9934
       }
     ],
     "corequisites": [
@@ -22897,8 +22412,8 @@
       {
         "title": "Seats",
         "capacity": 32,
-        "actual": 30,
-        "remaining": 2
+        "actual": 29,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -22909,8 +22424,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 66,
-        "remaining": 9933
+        "actual": 65,
+        "remaining": 9934
       }
     ],
     "corequisites": [
@@ -23194,8 +22709,8 @@
       {
         "title": "Seats",
         "capacity": 310,
-        "actual": 291,
-        "remaining": 19
+        "actual": 289,
+        "remaining": 21
       },
       {
         "title": "Waitlist Seats",
@@ -23279,8 +22794,8 @@
       {
         "title": "Seats",
         "capacity": 180,
-        "actual": 174,
-        "remaining": 6
+        "actual": 175,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -23362,8 +22877,8 @@
       {
         "title": "Seats",
         "capacity": 310,
-        "actual": 293,
-        "remaining": 17
+        "actual": 289,
+        "remaining": 21
       },
       {
         "title": "Waitlist Seats",
@@ -23438,8 +22953,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 290,
-        "remaining": 9709
+        "actual": 289,
+        "remaining": 9710
       }
     ],
     "corequisites": [
@@ -23511,8 +23026,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 290,
-        "remaining": 9709
+        "actual": 289,
+        "remaining": 9710
       }
     ],
     "corequisites": [
@@ -23584,8 +23099,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 290,
-        "remaining": 9709
+        "actual": 289,
+        "remaining": 9710
       }
     ],
     "corequisites": [
@@ -23657,8 +23172,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 290,
-        "remaining": 9709
+        "actual": 289,
+        "remaining": 9710
       }
     ],
     "corequisites": [
@@ -23730,8 +23245,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 290,
-        "remaining": 9709
+        "actual": 289,
+        "remaining": 9710
       }
     ],
     "corequisites": [
@@ -23791,8 +23306,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 31,
-        "remaining": 3
+        "actual": 30,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -23803,8 +23318,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 290,
-        "remaining": 9709
+        "actual": 289,
+        "remaining": 9710
       }
     ],
     "corequisites": [
@@ -23876,8 +23391,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 166,
-        "remaining": 9833
+        "actual": 163,
+        "remaining": 9836
       }
     ],
     "corequisites": [
@@ -23949,8 +23464,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 302,
-        "remaining": 9697
+        "actual": 301,
+        "remaining": 9698
       }
     ],
     "corequisites": [
@@ -24022,8 +23537,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 302,
-        "remaining": 9697
+        "actual": 301,
+        "remaining": 9698
       }
     ],
     "corequisites": [
@@ -24095,8 +23610,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 302,
-        "remaining": 9697
+        "actual": 301,
+        "remaining": 9698
       }
     ],
     "corequisites": [
@@ -24168,8 +23683,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 302,
-        "remaining": 9697
+        "actual": 301,
+        "remaining": 9698
       }
     ],
     "corequisites": [
@@ -24241,8 +23756,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 302,
-        "remaining": 9697
+        "actual": 301,
+        "remaining": 9698
       }
     ],
     "corequisites": [
@@ -24302,8 +23817,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 32,
-        "remaining": 2
+        "actual": 31,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -24314,8 +23829,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 302,
-        "remaining": 9697
+        "actual": 301,
+        "remaining": 9698
       }
     ],
     "corequisites": [
@@ -24394,8 +23909,8 @@
       {
         "title": "Seats",
         "capacity": 180,
-        "actual": 156,
-        "remaining": 24
+        "actual": 155,
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
@@ -24482,8 +23997,8 @@
       {
         "title": "Seats",
         "capacity": 180,
-        "actual": 169,
-        "remaining": 11
+        "actual": 165,
+        "remaining": 15
       },
       {
         "title": "Waitlist Seats",
@@ -24549,8 +24064,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 35,
-        "remaining": 0
+        "actual": 34,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -24561,8 +24076,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 125,
-        "remaining": 9874
+        "actual": 122,
+        "remaining": 9877
       }
     ],
     "corequisites": [
@@ -24622,8 +24137,8 @@
       {
         "title": "Seats",
         "capacity": 36,
-        "actual": 36,
-        "remaining": 0
+        "actual": 34,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -24634,8 +24149,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 125,
-        "remaining": 9874
+        "actual": 122,
+        "remaining": 9877
       }
     ],
     "corequisites": [
@@ -24707,8 +24222,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 125,
-        "remaining": 9874
+        "actual": 122,
+        "remaining": 9877
       }
     ],
     "corequisites": [
@@ -24780,8 +24295,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 102,
-        "remaining": 9897
+        "actual": 101,
+        "remaining": 9898
       }
     ],
     "corequisites": [
@@ -24841,8 +24356,8 @@
       {
         "title": "Seats",
         "capacity": 36,
-        "actual": 35,
-        "remaining": 1
+        "actual": 34,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -24853,8 +24368,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 102,
-        "remaining": 9897
+        "actual": 101,
+        "remaining": 9898
       }
     ],
     "corequisites": [
@@ -24926,8 +24441,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 102,
-        "remaining": 9897
+        "actual": 101,
+        "remaining": 9898
       }
     ],
     "corequisites": [
@@ -24987,8 +24502,8 @@
       {
         "title": "Seats",
         "capacity": 35,
-        "actual": 34,
-        "remaining": 1
+        "actual": 33,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -24999,8 +24514,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 98,
-        "remaining": 9901
+        "actual": 97,
+        "remaining": 9902
       }
     ],
     "corequisites": [
@@ -25079,8 +24594,8 @@
       {
         "title": "Seats",
         "capacity": 384,
-        "actual": 173,
-        "remaining": 211
+        "actual": 172,
+        "remaining": 212
       },
       {
         "title": "Waitlist Seats",
@@ -25141,9 +24656,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 32,
+        "capacity": 55,
         "actual": 32,
-        "remaining": 0
+        "remaining": 23
       },
       {
         "title": "Waitlist Seats",
@@ -25213,81 +24728,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 32,
+        "capacity": 55,
         "actual": 26,
-        "remaining": 6
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 58,
-        "remaining": 9941
-      }
-    ],
-    "corequisites": [
-      "MATH 201"
-    ]
-  },
-  {
-    "name": "Linear Algebra - Recitation",
-    "crn": 10847,
-    "subject": "MATH",
-    "code": 201,
-    "type": "R",
-    "section": "A3",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10847",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=MATH&sel_crse_strt=201R&sel_crse_end=201R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "10:40 am",
-          "to": "11:30 am"
-        },
-        "days": "F",
-        "where": "FASS G048",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Nurdagül Anbar Meidl"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 32,
-        "actual": 0,
-        "remaining": 32
+        "remaining": 29
       },
       {
         "title": "Waitlist Seats",
@@ -25357,9 +24800,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 32,
+        "capacity": 55,
         "actual": 32,
-        "remaining": 0
+        "remaining": 23
       },
       {
         "title": "Waitlist Seats",
@@ -25429,9 +24872,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 32,
+        "capacity": 55,
         "actual": 16,
-        "remaining": 16
+        "remaining": 39
       },
       {
         "title": "Waitlist Seats",
@@ -25501,9 +24944,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 32,
-        "actual": 29,
-        "remaining": 3
+        "capacity": 55,
+        "actual": 28,
+        "remaining": 27
       },
       {
         "title": "Waitlist Seats",
@@ -25514,8 +24957,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 50,
-        "remaining": 9949
+        "actual": 49,
+        "remaining": 9950
       }
     ],
     "corequisites": [
@@ -25573,9 +25016,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 32,
+        "capacity": 55,
         "actual": 21,
-        "remaining": 11
+        "remaining": 34
       },
       {
         "title": "Waitlist Seats",
@@ -25586,80 +25029,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 50,
-        "remaining": 9949
-      }
-    ],
-    "corequisites": [
-      "MATH 201"
-    ]
-  },
-  {
-    "name": "Linear Algebra - Recitation",
-    "crn": 10857,
-    "subject": "MATH",
-    "code": 201,
-    "type": "R",
-    "section": "C3",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=10857",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=MATH&sel_crse_strt=201R&sel_crse_end=201R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "3:30 pm"
-        },
-        "days": "F",
-        "where": "FENS L062",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Nurdagül Anbar Meidl"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 32,
-        "actual": 0,
-        "remaining": 32
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 50,
-        "remaining": 9949
+        "actual": 49,
+        "remaining": 9950
       }
     ],
     "corequisites": [
@@ -25717,9 +25088,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 54,
         "actual": 18,
-        "remaining": 17
+        "remaining": 36
       },
       {
         "title": "Waitlist Seats",
@@ -25944,9 +25315,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 240,
+        "capacity": 305,
         "actual": 184,
-        "remaining": 56
+        "remaining": 121
       },
       {
         "title": "Waitlist Seats",
@@ -26030,9 +25401,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 270,
+        "capacity": 305,
         "actual": 224,
-        "remaining": 46
+        "remaining": 81
       },
       {
         "title": "Waitlist Seats",
@@ -26096,9 +25467,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 61,
         "actual": 42,
-        "remaining": 8
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -26168,9 +25539,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 61,
         "actual": 42,
-        "remaining": 8
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -26240,9 +25611,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 61,
         "actual": 38,
-        "remaining": 12
+        "remaining": 23
       },
       {
         "title": "Waitlist Seats",
@@ -26303,9 +25674,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 55,
+        "capacity": 61,
         "actual": 39,
-        "remaining": 16
+        "remaining": 22
       },
       {
         "title": "Waitlist Seats",
@@ -26375,9 +25746,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 61,
         "actual": 42,
-        "remaining": 8
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -27492,8 +26863,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 84,
-        "remaining": 6
+        "actual": 83,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -27557,8 +26928,8 @@
       {
         "title": "Seats",
         "capacity": 110,
-        "actual": 109,
-        "remaining": 1
+        "actual": 106,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -27622,8 +26993,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 90,
-        "remaining": 0
+        "actual": 89,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -27687,8 +27058,8 @@
       {
         "title": "Seats",
         "capacity": 110,
-        "actual": 107,
-        "remaining": 3
+        "actual": 106,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -27752,8 +27123,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 82,
-        "remaining": 8
+        "actual": 83,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -27948,8 +27319,8 @@
       {
         "title": "Seats",
         "capacity": 110,
-        "actual": 107,
-        "remaining": 3
+        "actual": 105,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -27960,8 +27331,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 195,
-        "remaining": 9804
+        "actual": 191,
+        "remaining": 9808
       }
     ],
     "corequisites": [
@@ -28325,8 +27696,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 190,
-        "remaining": 9809
+        "actual": 189,
+        "remaining": 9810
       }
     ],
     "corequisites": [
@@ -28386,8 +27757,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 85,
-        "remaining": 5
+        "actual": 84,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -28398,8 +27769,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 190,
-        "remaining": 9809
+        "actual": 189,
+        "remaining": 9810
       }
     ],
     "corequisites": [
@@ -28784,8 +28155,8 @@
       {
         "title": "Seats",
         "capacity": 312,
-        "actual": 270,
-        "remaining": 42
+        "actual": 267,
+        "remaining": 45
       },
       {
         "title": "Waitlist Seats",
@@ -28851,8 +28222,8 @@
       {
         "title": "Seats",
         "capacity": 325,
-        "actual": 310,
-        "remaining": 15
+        "actual": 307,
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -28918,8 +28289,8 @@
       {
         "title": "Seats",
         "capacity": 200,
-        "actual": 189,
-        "remaining": 11
+        "actual": 188,
+        "remaining": 12
       },
       {
         "title": "Waitlist Seats",
@@ -28984,8 +28355,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 19,
-        "remaining": 5
+        "actual": 17,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -28996,8 +28367,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 150,
-        "remaining": 9849
+        "actual": 148,
+        "remaining": 9851
       }
     ],
     "corequisites": [
@@ -29071,8 +28442,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 150,
-        "remaining": 9849
+        "actual": 148,
+        "remaining": 9851
       }
     ],
     "corequisites": [
@@ -29146,8 +28517,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 150,
-        "remaining": 9849
+        "actual": 148,
+        "remaining": 9851
       }
     ],
     "corequisites": [
@@ -29221,8 +28592,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 150,
-        "remaining": 9849
+        "actual": 148,
+        "remaining": 9851
       }
     ],
     "corequisites": [
@@ -29296,8 +28667,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 150,
-        "remaining": 9849
+        "actual": 148,
+        "remaining": 9851
       }
     ],
     "corequisites": [
@@ -29371,8 +28742,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 150,
-        "remaining": 9849
+        "actual": 148,
+        "remaining": 9851
       }
     ],
     "corequisites": [
@@ -29446,8 +28817,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 150,
-        "remaining": 9849
+        "actual": 148,
+        "remaining": 9851
       }
     ],
     "corequisites": [
@@ -29521,8 +28892,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 135,
-        "remaining": 9864
+        "actual": 134,
+        "remaining": 9865
       }
     ],
     "corequisites": [
@@ -29596,8 +28967,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 135,
-        "remaining": 9864
+        "actual": 134,
+        "remaining": 9865
       }
     ],
     "corequisites": [
@@ -29671,8 +29042,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 135,
-        "remaining": 9864
+        "actual": 134,
+        "remaining": 9865
       }
     ],
     "corequisites": [
@@ -29734,8 +29105,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 24,
-        "remaining": 1
+        "actual": 25,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -29746,8 +29117,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 163,
-        "remaining": 9836
+        "actual": 162,
+        "remaining": 9837
       }
     ],
     "corequisites": [
@@ -29821,8 +29192,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 163,
-        "remaining": 9836
+        "actual": 162,
+        "remaining": 9837
       }
     ],
     "corequisites": [
@@ -29896,8 +29267,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 163,
-        "remaining": 9836
+        "actual": 162,
+        "remaining": 9837
       }
     ],
     "corequisites": [
@@ -29959,8 +29330,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 23,
-        "remaining": 2
+        "actual": 22,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -29971,8 +29342,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 163,
-        "remaining": 9836
+        "actual": 162,
+        "remaining": 9837
       }
     ],
     "corequisites": [
@@ -30046,8 +29417,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 163,
-        "remaining": 9836
+        "actual": 162,
+        "remaining": 9837
       }
     ],
     "corequisites": [
@@ -30109,8 +29480,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 24,
-        "remaining": 1
+        "actual": 23,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -30121,8 +29492,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 163,
-        "remaining": 9836
+        "actual": 162,
+        "remaining": 9837
       }
     ],
     "corequisites": [
@@ -30196,8 +29567,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 163,
-        "remaining": 9836
+        "actual": 162,
+        "remaining": 9837
       }
     ],
     "corequisites": [
@@ -30271,8 +29642,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 147,
-        "remaining": 9852
+        "actual": 145,
+        "remaining": 9854
       }
     ],
     "corequisites": [
@@ -30346,8 +29717,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 147,
-        "remaining": 9852
+        "actual": 145,
+        "remaining": 9854
       }
     ],
     "corequisites": [
@@ -30421,8 +29792,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 147,
-        "remaining": 9852
+        "actual": 145,
+        "remaining": 9854
       }
     ],
     "corequisites": [
@@ -30496,8 +29867,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 94,
-        "remaining": 9905
+        "actual": 93,
+        "remaining": 9906
       }
     ],
     "corequisites": [
@@ -30571,8 +29942,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 94,
-        "remaining": 9905
+        "actual": 93,
+        "remaining": 9906
       }
     ],
     "corequisites": [
@@ -30646,8 +30017,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 94,
-        "remaining": 9905
+        "actual": 93,
+        "remaining": 9906
       }
     ],
     "corequisites": [
@@ -30709,8 +30080,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 24,
-        "remaining": 1
+        "actual": 23,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -30721,8 +30092,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 94,
-        "remaining": 9905
+        "actual": 93,
+        "remaining": 9906
       }
     ],
     "corequisites": [
@@ -30855,8 +30226,8 @@
       {
         "title": "Seats",
         "capacity": 154,
-        "actual": 150,
-        "remaining": 4
+        "actual": 147,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -31326,8 +30697,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 150,
-        "remaining": 9849
+        "actual": 148,
+        "remaining": 9851
       }
     ],
     "corequisites": [
@@ -31557,8 +30928,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 85,
-        "remaining": 9914
+        "actual": 84,
+        "remaining": 9915
       }
     ],
     "corequisites": [
@@ -31634,8 +31005,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 85,
-        "remaining": 9914
+        "actual": 84,
+        "remaining": 9915
       }
     ],
     "corequisites": [
@@ -31699,8 +31070,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 22,
-        "remaining": 0
+        "actual": 21,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -31711,8 +31082,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 85,
-        "remaining": 9914
+        "actual": 84,
+        "remaining": 9915
       }
     ],
     "corequisites": [
@@ -31788,8 +31159,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 85,
-        "remaining": 9914
+        "actual": 84,
+        "remaining": 9915
       }
     ],
     "corequisites": [
@@ -31853,8 +31224,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 21,
-        "remaining": 1
+        "actual": 20,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -31865,8 +31236,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 65,
-        "remaining": 9934
+        "actual": 63,
+        "remaining": 9936
       }
     ],
     "corequisites": [
@@ -32727,83 +32098,11 @@
   },
   {
     "name": "Law and Ethics - Discussion",
-    "crn": 11042,
-    "subject": "SPS",
-    "code": 303,
-    "type": "D",
-    "section": "B5",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=11042",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "language": "English",
-    "faculty": "FASS",
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Discussion",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=SPS&sel_crse_strt=303D&sel_crse_end=303D&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "3:40 pm",
-          "to": "4:30 pm"
-        },
-        "days": "F",
-        "where": "FASS 1099",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Hüseyin Sungur Kuyumcuoğlu"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 25,
-        "actual": 0,
-        "remaining": 25
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 47,
-        "remaining": 9952
-      }
-    ],
-    "corequisites": [
-      "SPS 303"
-    ]
-  },
-  {
-    "name": "Law and Ethics - Discussion",
     "crn": 11043,
     "subject": "SPS",
     "code": 303,
     "type": "D",
-    "section": "B6",
+    "section": "B5",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=11043",
     "term": "Fall 2026-2027",
     "levels": [
@@ -33019,7 +32318,7 @@
     "subject": "SPS",
     "code": 303,
     "type": "D",
-    "section": "B8",
+    "section": "B7",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=11048",
     "term": "Fall 2026-2027",
     "levels": [
@@ -33137,8 +32436,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 21,
-        "remaining": 4
+        "actual": 22,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -33149,8 +32448,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 44,
-        "remaining": 9955
+        "actual": 45,
+        "remaining": 9954
       }
     ]
   },
@@ -33218,8 +32517,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 44,
-        "remaining": 9955
+        "actual": 45,
+        "remaining": 9954
       }
     ]
   },
@@ -33287,8 +32586,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 108,
-        "remaining": 9891
+        "actual": 107,
+        "remaining": 9892
       }
     ]
   },
@@ -33356,8 +32655,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 108,
-        "remaining": 9891
+        "actual": 107,
+        "remaining": 9892
       }
     ]
   },
@@ -33425,8 +32724,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 108,
-        "remaining": 9891
+        "actual": 107,
+        "remaining": 9892
       }
     ]
   },
@@ -33482,8 +32781,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 22,
-        "remaining": 1
+        "actual": 21,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -33494,8 +32793,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 108,
-        "remaining": 9891
+        "actual": 107,
+        "remaining": 9892
       }
     ]
   },
@@ -33563,8 +32862,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 106,
-        "remaining": 9893
+        "actual": 104,
+        "remaining": 9895
       }
     ]
   },
@@ -33632,8 +32931,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 106,
-        "remaining": 9893
+        "actual": 104,
+        "remaining": 9895
       }
     ]
   },
@@ -33689,8 +32988,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 22,
-        "remaining": 1
+        "actual": 21,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -33701,8 +33000,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 106,
-        "remaining": 9893
+        "actual": 104,
+        "remaining": 9895
       }
     ]
   },
@@ -33758,8 +33057,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 22,
-        "remaining": 1
+        "actual": 21,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -33770,8 +33069,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 106,
-        "remaining": 9893
+        "actual": 104,
+        "remaining": 9895
       }
     ]
   },
@@ -33839,8 +33138,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 88,
-        "remaining": 9911
+        "actual": 86,
+        "remaining": 9913
       }
     ]
   },
@@ -33896,8 +33195,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 22,
-        "remaining": 1
+        "actual": 21,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -33908,8 +33207,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 86,
-        "remaining": 9913
+        "actual": 85,
+        "remaining": 9914
       }
     ]
   },
@@ -33977,8 +33276,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 86,
-        "remaining": 9913
+        "actual": 85,
+        "remaining": 9914
       }
     ]
   },
@@ -34034,8 +33333,8 @@
       {
         "title": "Seats",
         "capacity": 23,
-        "actual": 22,
-        "remaining": 1
+        "actual": 21,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -34046,8 +33345,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 66,
-        "remaining": 9933
+        "actual": 65,
+        "remaining": 9934
       }
     ]
   },
@@ -34115,8 +33414,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 66,
-        "remaining": 9933
+        "actual": 65,
+        "remaining": 9934
       }
     ]
   },
@@ -34184,8 +33483,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 66,
-        "remaining": 9933
+        "actual": 65,
+        "remaining": 9934
       }
     ]
   },
@@ -34598,8 +33897,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 86,
-        "remaining": 9913
+        "actual": 85,
+        "remaining": 9914
       }
     ]
   },
@@ -34862,8 +34161,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 22,
-        "remaining": 3
+        "actual": 21,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -34874,8 +34173,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 40,
-        "remaining": 9959
+        "actual": 39,
+        "remaining": 9960
       }
     ],
     "prerequisites": [
@@ -34946,8 +34245,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 40,
-        "remaining": 9959
+        "actual": 39,
+        "remaining": 9960
       }
     ],
     "prerequisites": [
@@ -35306,8 +34605,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 65,
-        "remaining": 9934
+        "actual": 63,
+        "remaining": 9936
       }
     ],
     "prerequisites": [
@@ -35378,8 +34677,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 48,
-        "remaining": 9951
+        "actual": 47,
+        "remaining": 9952
       }
     ],
     "prerequisites": [
@@ -35438,8 +34737,8 @@
       {
         "title": "Seats",
         "capacity": 19,
-        "actual": 14,
-        "remaining": 5
+        "actual": 13,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -35450,8 +34749,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 48,
-        "remaining": 9951
+        "actual": 47,
+        "remaining": 9952
       }
     ],
     "prerequisites": [
@@ -35510,8 +34809,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 25,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -35522,8 +34821,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 65,
-        "remaining": 9934
+        "actual": 63,
+        "remaining": 9936
       }
     ],
     "prerequisites": [
@@ -36525,78 +35824,6 @@
     ]
   },
   {
-    "name": "Linear Algebra - Recitation",
-    "crn": 11161,
-    "subject": "MATH",
-    "code": 201,
-    "type": "R",
-    "section": "B3",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=11161",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=MATH&sel_crse_strt=201R&sel_crse_end=201R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "11:40 am",
-          "to": "12:30 pm"
-        },
-        "days": "F",
-        "where": "FASS G025",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Nurdagül Anbar Meidl"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 32,
-        "actual": 0,
-        "remaining": 32
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 48,
-        "remaining": 9951
-      }
-    ],
-    "corequisites": [
-      "MATH 201"
-    ]
-  },
-  {
     "name": "Autonomous Mobile Robotics Lab.",
     "crn": 11165,
     "subject": "ME",
@@ -36668,7 +35895,7 @@
     "subject": "SPS",
     "code": 303,
     "type": "D",
-    "section": "B7",
+    "section": "B6",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=11177",
     "term": "Fall 2026-2027",
     "levels": [
@@ -41168,8 +40395,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 86,
-        "remaining": 9913
+        "actual": 85,
+        "remaining": 9914
       }
     ]
   },
@@ -41300,8 +40527,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 88,
-        "remaining": 9911
+        "actual": 86,
+        "remaining": 9913
       }
     ]
   },
@@ -46646,9 +45873,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 60,
+        "capacity": 61,
         "actual": 39,
-        "remaining": 21
+        "remaining": 22
       },
       {
         "title": "Waitlist Seats",
@@ -46718,9 +45945,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 50,
+        "capacity": 61,
         "actual": 39,
-        "remaining": 11
+        "remaining": 22
       },
       {
         "title": "Waitlist Seats",
@@ -48172,8 +47399,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 42,
-        "remaining": 8
+        "actual": 43,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -48776,8 +48003,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 22,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -48788,8 +48015,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 88,
-        "remaining": 9911
+        "actual": 86,
+        "remaining": 9913
       }
     ]
   },
@@ -50061,8 +49288,8 @@
       {
         "title": "Seats",
         "capacity": 60,
-        "actual": 20,
-        "remaining": 40
+        "actual": 19,
+        "remaining": 41
       },
       {
         "title": "Waitlist Seats",
@@ -52583,9 +51810,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 225,
+        "capacity": 300,
         "actual": 186,
-        "remaining": 39
+        "remaining": 114
       },
       {
         "title": "Waitlist Seats",
@@ -52763,7 +51990,7 @@
     "subject": "CS",
     "code": 303,
     "type": "L",
-    "section": "D2",
+    "section": "D",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=12543",
     "term": "Fall 2026-2027",
     "levels": [
@@ -52792,7 +52019,7 @@
           "to": "6:30 pm"
         },
         "days": "W",
-        "where": "FENS 2019",
+        "where": "FENS 1033",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -52808,169 +52035,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 40,
+        "capacity": 80,
         "actual": 11,
-        "remaining": 29
+        "remaining": 69
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 11,
-        "remaining": 9988
       }
-    ],
-    "corequisites": [
-      "CS 303"
-    ]
-  },
-  {
-    "name": "Logic and Digital System Design - Lab.",
-    "crn": 12544,
-    "subject": "CS",
-    "code": 303,
-    "type": "L",
-    "section": "C2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=12544",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CS&sel_crse_strt=303L&sel_crse_end=303L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "10:40 am",
-          "to": "12:30 pm"
-        },
-        "days": "W",
-        "where": "FASS 1102",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Arsalan Javeed"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 40,
-        "actual": 0,
-        "remaining": 40
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 28,
-        "remaining": 9971
-      }
-    ],
-    "corequisites": [
-      "CS 303"
-    ]
-  },
-  {
-    "name": "Logic and Digital System Design - Lab.",
-    "crn": 12545,
-    "subject": "CS",
-    "code": 303,
-    "type": "L",
-    "section": "A2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=12545",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CS&sel_crse_strt=303L&sel_crse_end=303L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "1:40 pm",
-          "to": "3:30 pm"
-        },
-        "days": "M",
-        "where": "FENS 2019",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Arsalan Javeed"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 40,
-        "actual": 0,
-        "remaining": 40
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 37,
-        "remaining": 9962
-      }
-    ],
-    "corequisites": [
-      "CS 303"
     ]
   },
   {
@@ -53385,8 +52459,8 @@
       {
         "title": "Seats",
         "capacity": 40,
-        "actual": 35,
-        "remaining": 5
+        "actual": 36,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -53397,8 +52471,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 166,
-        "remaining": 9833
+        "actual": 163,
+        "remaining": 9836
       }
     ],
     "corequisites": [
@@ -55294,7 +54368,7 @@
           "to": "2:30 pm"
         },
         "days": "T",
-        "where": "FENS G035",
+        "where": "FENS G032",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -57309,8 +56383,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 22,
-        "remaining": 2
+        "actual": 21,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -57321,8 +56395,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 135,
-        "remaining": 9864
+        "actual": 134,
+        "remaining": 9865
       }
     ],
     "corequisites": [
@@ -57468,8 +56542,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 108,
-        "remaining": 9891
+        "actual": 107,
+        "remaining": 9892
       }
     ]
   },
@@ -57537,8 +56611,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 48,
-        "remaining": 9951
+        "actual": 47,
+        "remaining": 9952
       }
     ],
     "prerequisites": [
@@ -57609,8 +56683,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 65,
-        "remaining": 9934
+        "actual": 63,
+        "remaining": 9936
       }
     ],
     "prerequisites": [
@@ -63076,8 +62150,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 88,
-        "remaining": 2
+        "actual": 86,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -63088,8 +62162,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 195,
-        "remaining": 9804
+        "actual": 191,
+        "remaining": 9808
       }
     ],
     "corequisites": [
@@ -63754,7 +62828,7 @@
     "subject": "ENS",
     "code": 205,
     "type": "R",
-    "section": "D1",
+    "section": "D",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13042",
     "term": "Fall 2026-2027",
     "levels": [
@@ -63799,25 +62873,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 32,
+        "capacity": 64,
         "actual": 14,
-        "remaining": 18
+        "remaining": 50
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 14,
-        "remaining": 9985
       }
-    ],
-    "corequisites": [
-      "ENS 205"
     ]
   },
   {
@@ -63871,9 +62936,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 45,
+        "capacity": 61,
         "actual": 42,
-        "remaining": 3
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -63898,7 +62963,7 @@
     "subject": "ENS",
     "code": 205,
     "type": "R",
-    "section": "C1",
+    "section": "C",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13046",
     "term": "Fall 2026-2027",
     "levels": [
@@ -63943,25 +63008,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 32,
+        "capacity": 64,
         "actual": 10,
-        "remaining": 22
+        "remaining": 54
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 10,
-        "remaining": 9989
       }
-    ],
-    "corequisites": [
-      "ENS 205"
     ]
   },
   {
@@ -63970,7 +63026,7 @@
     "subject": "ENS",
     "code": 205,
     "type": "R",
-    "section": "B1",
+    "section": "B",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13049",
     "term": "Fall 2026-2027",
     "levels": [
@@ -64015,25 +63071,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 32,
+        "capacity": 64,
         "actual": 19,
-        "remaining": 13
+        "remaining": 45
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 19,
-        "remaining": 9980
       }
-    ],
-    "corequisites": [
-      "ENS 205"
     ]
   },
   {
@@ -64042,7 +63089,7 @@
     "subject": "ENS",
     "code": 205,
     "type": "R",
-    "section": "A1",
+    "section": "A",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13052",
     "term": "Fall 2026-2027",
     "levels": [
@@ -64087,25 +63134,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 32,
-        "actual": 23,
-        "remaining": 9
+        "capacity": 64,
+        "actual": 22,
+        "remaining": 42
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 23,
-        "remaining": 9976
       }
-    ],
-    "corequisites": [
-      "ENS 205"
     ]
   },
   {
@@ -64159,9 +63197,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 40,
+        "capacity": 61,
         "actual": 43,
-        "remaining": -3
+        "remaining": 18
       },
       {
         "title": "Waitlist Seats",
@@ -64231,9 +63269,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 60,
+        "capacity": 61,
         "actual": 42,
-        "remaining": 18
+        "remaining": 19
       },
       {
         "title": "Waitlist Seats",
@@ -64370,7 +63408,7 @@
           "to": "12:30 pm"
         },
         "days": "F",
-        "where": "FENS G035",
+        "where": "FASS G050",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -66816,8 +65854,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 147,
-        "remaining": 9852
+        "actual": 145,
+        "remaining": 9854
       }
     ],
     "corequisites": [
@@ -70453,8 +69491,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 86,
-        "remaining": 4
+        "actual": 84,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -70589,8 +69627,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 80,
-        "remaining": 10
+        "actual": 78,
+        "remaining": 12
       },
       {
         "title": "Waitlist Seats",
@@ -70657,8 +69695,8 @@
       {
         "title": "Seats",
         "capacity": 75,
-        "actual": 66,
-        "remaining": 9
+        "actual": 65,
+        "remaining": 10
       },
       {
         "title": "Waitlist Seats",
@@ -70788,8 +69826,8 @@
       {
         "title": "Seats",
         "capacity": 90,
-        "actual": 86,
-        "remaining": 4
+        "actual": 83,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -70800,8 +69838,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 140,
-        "remaining": 9859
+        "actual": 136,
+        "remaining": 9863
       }
     ],
     "corequisites": [
@@ -70861,8 +69899,8 @@
       {
         "title": "Seats",
         "capacity": 75,
-        "actual": 74,
-        "remaining": 1
+        "actual": 73,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -71002,8 +70040,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 25,
-        "remaining": 0
+        "actual": 24,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -71014,8 +70052,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 147,
-        "remaining": 9852
+        "actual": 145,
+        "remaining": 9854
       }
     ],
     "corequisites": [
@@ -71077,8 +70115,8 @@
       {
         "title": "Seats",
         "capacity": 25,
-        "actual": 24,
-        "remaining": 1
+        "actual": 23,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -71089,8 +70127,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 147,
-        "remaining": 9852
+        "actual": 145,
+        "remaining": 9854
       }
     ],
     "corequisites": [
@@ -71161,8 +70199,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 106,
-        "remaining": 9893
+        "actual": 104,
+        "remaining": 9895
       }
     ]
   },
@@ -71287,8 +70325,8 @@
       {
         "title": "Seats",
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 22,
+        "remaining": 2
       },
       {
         "title": "Waitlist Seats",
@@ -71299,8 +70337,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 88,
-        "remaining": 9911
+        "actual": 86,
+        "remaining": 9913
       }
     ]
   },
@@ -74396,8 +73434,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 290,
-        "remaining": 9709
+        "actual": 289,
+        "remaining": 9710
       }
     ],
     "corequisites": [
@@ -74469,8 +73507,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 290,
-        "remaining": 9709
+        "actual": 289,
+        "remaining": 9710
       }
     ],
     "corequisites": [
@@ -74542,8 +73580,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 290,
-        "remaining": 9709
+        "actual": 289,
+        "remaining": 9710
       }
     ],
     "corequisites": [
@@ -74615,8 +73653,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 302,
-        "remaining": 9697
+        "actual": 301,
+        "remaining": 9698
       }
     ],
     "corequisites": [
@@ -74688,8 +73726,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 302,
-        "remaining": 9697
+        "actual": 301,
+        "remaining": 9698
       }
     ],
     "corequisites": [
@@ -74761,8 +73799,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 302,
-        "remaining": 9697
+        "actual": 301,
+        "remaining": 9698
       }
     ],
     "corequisites": [
@@ -74822,8 +73860,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 34,
-        "remaining": 0
+        "actual": 33,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -74834,8 +73872,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 166,
-        "remaining": 9833
+        "actual": 163,
+        "remaining": 9836
       }
     ],
     "corequisites": [
@@ -74895,8 +73933,8 @@
       {
         "title": "Seats",
         "capacity": 34,
-        "actual": 33,
-        "remaining": 1
+        "actual": 30,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -74907,8 +73945,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 166,
-        "remaining": 9833
+        "actual": 163,
+        "remaining": 9836
       }
     ],
     "corequisites": [
@@ -74980,8 +74018,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 166,
-        "remaining": 9833
+        "actual": 163,
+        "remaining": 9836
       }
     ],
     "corequisites": [
@@ -75053,8 +74091,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 125,
-        "remaining": 9874
+        "actual": 122,
+        "remaining": 9877
       }
     ],
     "corequisites": [
@@ -75126,8 +74164,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 98,
-        "remaining": 9901
+        "actual": 97,
+        "remaining": 9902
       }
     ],
     "corequisites": [
@@ -75199,8 +74237,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 98,
-        "remaining": 9901
+        "actual": 97,
+        "remaining": 9902
       }
     ],
     "corequisites": [
@@ -79571,9 +78609,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 110,
+        "capacity": 150,
         "actual": 93,
-        "remaining": 17
+        "remaining": 57
       },
       {
         "title": "Waitlist Seats",
@@ -79642,7 +78680,7 @@
           "to": "4:30 pm"
         },
         "days": "R",
-        "where": "UC G030",
+        "where": "FASS 1098",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -79658,9 +78696,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 54,
+        "capacity": 150,
         "actual": 35,
-        "remaining": 19
+        "remaining": 115
       },
       {
         "title": "Waitlist Seats",
@@ -79745,9 +78783,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 110,
+        "capacity": 150,
         "actual": 94,
-        "remaining": 16
+        "remaining": 56
       },
       {
         "title": "Waitlist Seats",
@@ -79832,9 +78870,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 80,
+        "capacity": 150,
         "actual": 54,
-        "remaining": 26
+        "remaining": 96
       },
       {
         "title": "Waitlist Seats",
@@ -80643,11 +79681,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "8:40 am",
-          "to": "10:30 am"
+          "from": "5:40 pm",
+          "to": "7:30 pm"
         },
-        "days": "M",
-        "where": "FENS L027",
+        "days": "T",
+        "where": "FENS G025",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -80660,11 +79698,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "8:40 am",
-          "to": "9:30 am"
+          "from": "3:40 pm",
+          "to": "4:30 pm"
         },
-        "days": "T",
-        "where": "FENS G025",
+        "days": "W",
+        "where": "FENS G055",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -82003,222 +81041,6 @@
     ]
   },
   {
-    "name": "Advanced Programming Lab",
-    "crn": 13581,
-    "subject": "CS",
-    "code": 204,
-    "type": "L",
-    "section": "A3",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13581",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CS&sel_crse_strt=204L&sel_crse_end=204L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "10:40 am",
-          "to": "12:30 pm"
-        },
-        "days": "F",
-        "where": "FENS L029",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Kamer Kaya"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 33,
-        "actual": 0,
-        "remaining": 33
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 41,
-        "remaining": 9958
-      }
-    ],
-    "corequisites": [
-      "CS 204"
-    ]
-  },
-  {
-    "name": "Advanced Programming Lab",
-    "crn": 13582,
-    "subject": "CS",
-    "code": 204,
-    "type": "L",
-    "section": "B3",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13582",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CS&sel_crse_strt=204L&sel_crse_end=204L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "10:30 am"
-        },
-        "days": "F",
-        "where": "FASS G049",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Kamer Kaya"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 33,
-        "actual": 0,
-        "remaining": 33
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 33,
-        "remaining": 9966
-      }
-    ],
-    "corequisites": [
-      "CS 204"
-    ]
-  },
-  {
-    "name": "Advanced Programming Lab",
-    "crn": 13583,
-    "subject": "CS",
-    "code": 204,
-    "type": "L",
-    "section": "C3",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13583",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Lab",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CS&sel_crse_strt=204L&sel_crse_end=204L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
-        },
-        "days": "F",
-        "where": "FASS 1076",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Kamer Kaya"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 33,
-        "actual": 0,
-        "remaining": 33
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 19,
-        "remaining": 9980
-      }
-    ],
-    "corequisites": [
-      "CS 204"
-    ]
-  },
-  {
     "name": "Linear Algebra and Differential Equations Recitation",
     "crn": 13584,
     "subject": "MATH",
@@ -82269,9 +81091,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 39,
+        "capacity": 60,
         "actual": 38,
-        "remaining": 1
+        "remaining": 22
       },
       {
         "title": "Waitlist Seats",
@@ -82341,9 +81163,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 60,
         "actual": 28,
-        "remaining": 7
+        "remaining": 32
       },
       {
         "title": "Waitlist Seats",
@@ -82413,9 +81235,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 60,
         "actual": 20,
-        "remaining": 15
+        "remaining": 40
       },
       {
         "title": "Waitlist Seats",
@@ -82485,9 +81307,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 60,
         "actual": 21,
-        "remaining": 14
+        "remaining": 39
       },
       {
         "title": "Waitlist Seats",
@@ -82557,9 +81379,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 60,
         "actual": 28,
-        "remaining": 7
+        "remaining": 32
       },
       {
         "title": "Waitlist Seats",
@@ -82629,9 +81451,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 60,
         "actual": 33,
-        "remaining": 2
+        "remaining": 27
       },
       {
         "title": "Waitlist Seats",
@@ -82701,9 +81523,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 60,
         "actual": 32,
-        "remaining": 3
+        "remaining": 28
       },
       {
         "title": "Waitlist Seats",
@@ -82773,9 +81595,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 60,
         "actual": 25,
-        "remaining": 10
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -82845,9 +81667,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 60,
         "actual": 29,
-        "remaining": 6
+        "remaining": 31
       },
       {
         "title": "Waitlist Seats",
@@ -82917,9 +81739,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 35,
+        "capacity": 60,
         "actual": 22,
-        "remaining": 13
+        "remaining": 38
       },
       {
         "title": "Waitlist Seats",
@@ -83297,299 +82119,11 @@
   },
   {
     "name": "Introduction to Materials Science - Recitation",
-    "crn": 13607,
-    "subject": "ENS",
-    "code": 205,
-    "type": "R",
-    "section": "A2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13607",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=205R&sel_crse_end=205R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "10:40 am",
-          "to": "12:30 pm"
-        },
-        "days": "F",
-        "where": "FASS G050",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Özge Akbulut"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 32,
-        "actual": 0,
-        "remaining": 32
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 23,
-        "remaining": 9976
-      }
-    ],
-    "corequisites": [
-      "ENS 205"
-    ]
-  },
-  {
-    "name": "Introduction to Materials Science - Recitation",
-    "crn": 13608,
-    "subject": "ENS",
-    "code": 205,
-    "type": "R",
-    "section": "B2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13608",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=205R&sel_crse_end=205R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
-        },
-        "days": "F",
-        "where": "FENS 2019",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Özge Akbulut"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 32,
-        "actual": 0,
-        "remaining": 32
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 19,
-        "remaining": 9980
-      }
-    ],
-    "corequisites": [
-      "ENS 205"
-    ]
-  },
-  {
-    "name": "Introduction to Materials Science - Recitation",
-    "crn": 13609,
-    "subject": "ENS",
-    "code": 205,
-    "type": "R",
-    "section": "C2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13609",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=205R&sel_crse_end=205R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "3:40 pm",
-          "to": "5:30 pm"
-        },
-        "days": "F",
-        "where": "FASS 1081",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Özge Akbulut"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 32,
-        "actual": 0,
-        "remaining": 32
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 10,
-        "remaining": 9989
-      }
-    ],
-    "corequisites": [
-      "ENS 205"
-    ]
-  },
-  {
-    "name": "Introduction to Materials Science - Recitation",
-    "crn": 13610,
-    "subject": "ENS",
-    "code": 205,
-    "type": "R",
-    "section": "D2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13610",
-    "term": "Fall 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=ENS&sel_crse_strt=205R&sel_crse_end=205R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "4:40 pm",
-          "to": "6:30 pm"
-        },
-        "days": "F",
-        "where": "FENS L048",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Özge Akbulut"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 32,
-        "actual": 0,
-        "remaining": 32
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 14,
-        "remaining": 9985
-      }
-    ],
-    "corequisites": [
-      "ENS 205"
-    ]
-  },
-  {
-    "name": "Introduction to Materials Science - Recitation",
     "crn": 13611,
     "subject": "ENS",
     "code": 205,
     "type": "R",
-    "section": "E2",
+    "section": "E",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=13611",
     "term": "Fall 2026-2027",
     "levels": [
@@ -83618,7 +82152,7 @@
           "to": "7:30 pm"
         },
         "days": "F",
-        "where": "FASS G043",
+        "where": "FENS L035",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -83634,25 +82168,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 32,
+        "capacity": 64,
         "actual": 11,
-        "remaining": 21
+        "remaining": 53
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 11,
-        "remaining": 9988
       }
-    ],
-    "corequisites": [
-      "ENS 205"
     ]
   },
   {
@@ -99829,8 +98354,8 @@
       {
         "title": "Seats",
         "capacity": 75,
-        "actual": 54,
-        "remaining": 21
+        "actual": 53,
+        "remaining": 22
       },
       {
         "title": "Waitlist Seats",
@@ -99841,8 +98366,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 140,
-        "remaining": 9859
+        "actual": 136,
+        "remaining": 9863
       }
     ],
     "corequisites": [
@@ -104020,8 +102545,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 135,
-        "remaining": 9864
+        "actual": 134,
+        "remaining": 9865
       }
     ],
     "corequisites": [
@@ -104095,8 +102620,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 135,
-        "remaining": 9864
+        "actual": 134,
+        "remaining": 9865
       }
     ],
     "corequisites": [
@@ -104314,8 +102839,8 @@
       {
         "title": "Seats",
         "capacity": 22,
-        "actual": 22,
-        "remaining": 0
+        "actual": 21,
+        "remaining": 1
       },
       {
         "title": "Waitlist Seats",
@@ -104326,8 +102851,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 65,
-        "remaining": 9934
+        "actual": 63,
+        "remaining": 9936
       }
     ],
     "corequisites": [
@@ -104403,8 +102928,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 65,
-        "remaining": 9934
+        "actual": 63,
+        "remaining": 9936
       }
     ],
     "corequisites": [
@@ -110160,8 +108685,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 18,
-        "remaining": 2
+        "actual": 17,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -111088,8 +109613,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 15,
-        "remaining": 5
+        "actual": 16,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -116172,8 +114697,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 12,
-        "remaining": 8
+        "actual": 13,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -119255,7 +117780,7 @@
     "subject": "SPS",
     "code": 303,
     "type": "D",
-    "section": "B9",
+    "section": "B8",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14044",
     "term": "Fall 2026-2027",
     "levels": [
