@@ -100584,5 +100584,65 @@
         "remaining": 0
       }
     ]
+  },
+  {
+    "name": "Special Topics in Marketing I",
+    "crn": 24006,
+    "subject": "MKTG",
+    "code": 631,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=24006",
+    "term": "Spring 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student"
+    ],
+    "ects": 10,
+    "language": "English",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202602&one_subj=MKTG&sel_crse_strt=631&sel_crse_end=631&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "10:40 am",
+          "to": "1:30 pm"
+        },
+        "days": "W",
+        "where": "FMAN G045",
+        "dateRange": {
+          "from": "Feb 15, 2027",
+          "to": "May 28, 2027"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Attila Yaprak"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 15,
+        "actual": 0,
+        "remaining": 15
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
   }
 ]
