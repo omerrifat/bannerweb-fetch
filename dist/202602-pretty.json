@@ -989,7 +989,7 @@
           "from": "12:40 pm",
           "to": "2:30 pm"
         },
-        "days": "T",
+        "days": "W",
         "where": "FASS G025",
         "dateRange": {
           "from": "Feb 15, 2027",
@@ -1003,11 +1003,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "12:40 pm",
-          "to": "1:30 pm"
+          "from": "10:40 am",
+          "to": "11:30 am"
         },
-        "days": "W",
-        "where": "FENS L030",
+        "days": "R",
+        "where": "FASS G025",
         "dateRange": {
           "from": "Feb 15, 2027",
           "to": "May 28, 2027"
@@ -1069,8 +1069,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "11:40 am",
-          "to": "12:30 pm"
+          "from": "10:40 am",
+          "to": "11:30 am"
         },
         "days": "W",
         "where": "FASS 1098",
