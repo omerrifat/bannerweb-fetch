@@ -40126,8 +40126,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 20,
-        "remaining": 30
+        "actual": 21,
+        "remaining": 29
       },
       {
         "title": "Waitlist Seats",
@@ -76960,8 +76960,8 @@
       {
         "type": "Class",
         "time": {
-          "from": "2:40 pm",
-          "to": "5:30 pm"
+          "from": "1:40 pm",
+          "to": "4:30 pm"
         },
         "days": "R",
         "where": "FMAN G062",
@@ -79186,7 +79186,7 @@
           "to": "5:30 pm"
         },
         "days": "M",
-        "where": "FENS L067",
+        "where": "FENS L058",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -88251,8 +88251,8 @@
       {
         "title": "Seats",
         "capacity": 200,
-        "actual": 200,
-        "remaining": 0
+        "actual": 201,
+        "remaining": -1
       },
       {
         "title": "Waitlist Seats",
