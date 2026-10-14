@@ -72336,11 +72336,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "10:40 am",
-          "to": "12:30 pm"
+          "from": "9:40 am",
+          "to": "11:30 am"
         },
         "days": "M",
-        "where": "FASS 1010",
+        "where": "FENS L045",
         "dateRange": {
           "from": "Feb 15, 2027",
           "to": "May 28, 2027"
@@ -97949,69 +97949,6 @@
     ]
   },
   {
-    "name": "VLSI Systems Design II - Recitation",
-    "crn": 23971,
-    "subject": "EE",
-    "code": 402,
-    "type": "R",
-    "section": "0",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=23971",
-    "term": "Spring 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202602&one_subj=EE&sel_crse_strt=402R&sel_crse_end=402R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "4:40 pm",
-          "to": "5:30 pm"
-        },
-        "days": "M",
-        "where": "FENS G025",
-        "dateRange": {
-          "from": "Feb 15, 2027",
-          "to": "May 28, 2027"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Ömer Ceylan"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 20,
-        "actual": 0,
-        "remaining": 20
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      }
-    ]
-  },
-  {
     "name": "Empirical Corporate Finance",
     "crn": 23972,
     "subject": "FIN",
@@ -100650,6 +100587,72 @@
         "capacity": 10,
         "actual": 0,
         "remaining": 10
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "VLSI II: System-on-Chip (SoC) Application Specific Integrated Circuits (ASIC) built on RISC-V Architecture Laboratuary",
+    "crn": 24009,
+    "subject": "EE",
+    "code": 402,
+    "type": "L",
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=24009",
+    "term": "Spring 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lab",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202602&one_subj=EE&sel_crse_strt=402L&sel_crse_end=402L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "4:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "M",
+        "where": "FENS G025",
+        "dateRange": {
+          "from": "Feb 15, 2027",
+          "to": "May 28, 2027"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Ömer Ceylan"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
       },
       {
         "title": "Waitlist Seats",
