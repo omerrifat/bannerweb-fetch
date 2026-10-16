@@ -6184,8 +6184,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 6,
+    "ectsScience": 1,
+    "ectsEngineering": 5,
     "availability": [
       {
         "title": "Seats",
@@ -88997,11 +88997,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "10:40 am",
+          "from": "11:40 am",
           "to": "12:30 pm"
         },
         "days": "M",
-        "where": "FMAN G041",
+        "where": "FASS 1079",
         "dateRange": {
           "from": "Feb 15, 2027",
           "to": "May 28, 2027"
@@ -89014,11 +89014,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "8:40 am",
-          "to": "9:30 am"
+          "from": "9:40 am",
+          "to": "11:30 am"
         },
-        "days": "T",
-        "where": "FASS 1080",
+        "days": "W",
+        "where": "FASS 1011",
         "dateRange": {
           "from": "Feb 15, 2027",
           "to": "May 28, 2027"
@@ -99303,6 +99303,9 @@
         "actual": 0,
         "remaining": 0
       }
+    ],
+    "prerequisites": [
+      "EE 310"
     ]
   },
   {
@@ -100656,6 +100659,72 @@
         "capacity": 20,
         "actual": 0,
         "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Heterogeneous Computing and System-on-Chip Design Lab.",
+    "crn": 24010,
+    "subject": "EE",
+    "code": 426,
+    "type": "L",
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=24010",
+    "term": "Spring 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "language": "English",
+    "faculty": "FENS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lab",
+    "method": "TR",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202602&one_subj=EE&sel_crse_strt=426L&sel_crse_end=426L&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "3:40 pm",
+          "to": "5:30 pm"
+        },
+        "days": "M",
+        "where": "FENS 1033",
+        "dateRange": {
+          "from": "Feb 15, 2027",
+          "to": "May 28, 2027"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Özcan Öztürk"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 25,
+        "actual": 0,
+        "remaining": 25
       },
       {
         "title": "Waitlist Seats",
