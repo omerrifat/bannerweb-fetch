@@ -11514,8 +11514,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 29,
-        "remaining": 9970
+        "actual": 30,
+        "remaining": 9969
       }
     ],
     "corequisites": [
@@ -12547,8 +12547,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -12630,8 +12630,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -12713,8 +12713,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -16318,8 +16318,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -16466,8 +16466,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -16616,8 +16616,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -26494,8 +26494,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -26643,8 +26643,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -30534,8 +30534,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -42884,8 +42884,8 @@
       {
         "title": "Seats",
         "capacity": 14,
-        "actual": 2,
-        "remaining": 12
+        "actual": 3,
+        "remaining": 11
       },
       {
         "title": "Waitlist Seats",
@@ -44590,8 +44590,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 15,
-        "remaining": 5
+        "actual": 16,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -44602,8 +44602,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 29,
-        "remaining": 9970
+        "actual": 30,
+        "remaining": 9969
       }
     ]
   },
@@ -45892,8 +45892,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -48759,8 +48759,8 @@
       {
         "title": "Seats",
         "capacity": 60,
-        "actual": 24,
-        "remaining": 36
+        "actual": 25,
+        "remaining": 35
       },
       {
         "title": "Waitlist Seats",
@@ -56177,8 +56177,8 @@
       {
         "title": "Seats",
         "capacity": 999,
-        "actual": 482,
-        "remaining": 517
+        "actual": 484,
+        "remaining": 515
       },
       {
         "title": "Waitlist Seats",
@@ -60593,8 +60593,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 15,
-        "remaining": 5
+        "actual": 16,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -60733,8 +60733,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 15,
-        "remaining": 5
+        "actual": 16,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -63427,8 +63427,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -63735,8 +63735,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 23,
-        "remaining": 7
+        "actual": 22,
+        "remaining": 8
       },
       {
         "title": "Waitlist Seats",
@@ -67492,8 +67492,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -71177,8 +71177,8 @@
       {
         "title": "Seats",
         "capacity": 6,
-        "actual": 6,
-        "remaining": 0
+        "actual": 7,
+        "remaining": -1
       },
       {
         "title": "Waitlist Seats",
@@ -71810,8 +71810,8 @@
       {
         "title": "Seats",
         "capacity": 5,
-        "actual": 3,
-        "remaining": 2
+        "actual": 1,
+        "remaining": 4
       },
       {
         "title": "Waitlist Seats",
@@ -74291,8 +74291,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -74360,8 +74360,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -74514,8 +74514,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -74658,8 +74658,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -74794,8 +74794,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -75183,8 +75183,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -76033,8 +76033,8 @@
       {
         "title": "Seats",
         "capacity": 33,
-        "actual": 28,
-        "remaining": 5
+        "actual": 27,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -76045,8 +76045,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 140,
-        "remaining": 9859
+        "actual": 139,
+        "remaining": 9860
       }
     ]
   },
@@ -76135,8 +76135,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 140,
-        "remaining": 9859
+        "actual": 139,
+        "remaining": 9860
       }
     ]
   },
@@ -77773,8 +77773,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 24,
-        "remaining": 9975
+        "actual": 25,
+        "remaining": 9974
       }
     ],
     "corequisites": [
@@ -77836,8 +77836,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 7,
-        "remaining": 13
+        "actual": 8,
+        "remaining": 12
       },
       {
         "title": "Waitlist Seats",
@@ -77848,8 +77848,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 24,
-        "remaining": 9975
+        "actual": 25,
+        "remaining": 9974
       }
     ]
   },
@@ -82553,8 +82553,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -82898,8 +82898,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -86226,8 +86226,8 @@
         ]
       }
     ],
-    "ectsScience": 0,
-    "ectsEngineering": 0,
+    "ectsScience": null,
+    "ectsEngineering": null,
     "availability": [
       {
         "title": "Seats",
@@ -90707,8 +90707,8 @@
       {
         "title": "Seats",
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 1,
+        "remaining": 49
       },
       {
         "title": "Waitlist Seats",
@@ -96537,8 +96537,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 14,
-        "remaining": 9985
+        "actual": 13,
+        "remaining": 9986
       }
     ],
     "prerequisites": [
@@ -96620,8 +96620,8 @@
       {
         "title": "Seats",
         "capacity": 15,
-        "actual": 11,
-        "remaining": 4
+        "actual": 10,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
@@ -96632,8 +96632,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 14,
-        "remaining": 9985
+        "actual": 13,
+        "remaining": 9986
       }
     ]
   },
@@ -99802,8 +99802,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 12,
-        "remaining": 8
+        "actual": 13,
+        "remaining": 7
       },
       {
         "title": "Waitlist Seats",
@@ -106988,8 +106988,8 @@
       {
         "title": "Seats",
         "capacity": 5,
-        "actual": 1,
-        "remaining": 4
+        "actual": 0,
+        "remaining": 5
       },
       {
         "title": "Waitlist Seats",
