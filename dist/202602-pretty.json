@@ -100735,5 +100735,88 @@
         "remaining": 0
       }
     ]
+  },
+  {
+    "name": "Major Works of Literature: The World Before Modernity",
+    "crn": 24011,
+    "subject": "HUM",
+    "code": 311,
+    "type": null,
+    "section": "0",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=24011",
+    "term": "Spring 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "ects": 5,
+    "faculty": "FASS",
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Lecture",
+    "method": "TR",
+    "credits": 3,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202602&one_subj=HUM&sel_crse_strt=311&sel_crse_end=311&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "2:30 pm"
+        },
+        "days": "T",
+        "where": "FASS 1099",
+        "dateRange": {
+          "from": "Feb 15, 2027",
+          "to": "May 28, 2027"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kenan Sharpe"
+        ]
+      },
+      {
+        "type": "Class",
+        "time": {
+          "from": "9:40 am",
+          "to": "10:30 am"
+        },
+        "days": "F",
+        "where": "FASS G050",
+        "dateRange": {
+          "from": "Feb 15, 2027",
+          "to": "May 28, 2027"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Kenan Sharpe"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 20,
+        "actual": 0,
+        "remaining": 20
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
   }
 ]
