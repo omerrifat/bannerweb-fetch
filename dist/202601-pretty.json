@@ -8868,8 +8868,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 18,
-        "remaining": 12
+        "actual": 17,
+        "remaining": 13
       },
       {
         "title": "Waitlist Seats",
@@ -8931,8 +8931,8 @@
       {
         "title": "Seats",
         "capacity": 30,
-        "actual": 18,
-        "remaining": 12
+        "actual": 17,
+        "remaining": 13
       },
       {
         "title": "Waitlist Seats",
@@ -56175,8 +56175,8 @@
       {
         "title": "Seats",
         "capacity": 999,
-        "actual": 484,
-        "remaining": 515
+        "actual": 485,
+        "remaining": 514
       },
       {
         "title": "Waitlist Seats",
@@ -74724,8 +74724,8 @@
       {
         "title": "Seats",
         "capacity": 63,
-        "actual": 56,
-        "remaining": 7
+        "actual": 57,
+        "remaining": 6
       },
       {
         "title": "Waitlist Seats",
@@ -103364,8 +103364,8 @@
       {
         "title": "Seats",
         "capacity": 20,
-        "actual": 16,
-        "remaining": 4
+        "actual": 17,
+        "remaining": 3
       },
       {
         "title": "Waitlist Seats",
@@ -103376,8 +103376,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 35,
-        "remaining": 9964
+        "actual": 36,
+        "remaining": 9963
       }
     ]
   },
@@ -104974,8 +104974,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 35,
-        "remaining": 9964
+        "actual": 36,
+        "remaining": 9963
       }
     ]
   },
@@ -116977,28 +116977,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "9:40 am",
-          "to": "11:30 am"
+          "from": "12:40 pm",
+          "to": "3:30 pm"
         },
         "days": "W",
-        "where": "FMAN G050",
-        "dateRange": {
-          "from": "Sep 28, 2026",
-          "to": "Dec 31, 2026"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Muhammed Fatih Büyükkörükcü"
-        ]
-      },
-      {
-        "type": "Class",
-        "time": {
-          "from": "9:40 am",
-          "to": "10:30 am"
-        },
-        "days": "R",
-        "where": "FASS G050",
+        "where": "FASS 1076",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -117062,11 +117045,11 @@
       {
         "type": "Class",
         "time": {
-          "from": "10:40 am",
-          "to": "12:30 pm"
+          "from": "3:40 pm",
+          "to": "5:30 pm"
         },
-        "days": "R",
-        "where": "FASS G050",
+        "days": "W",
+        "where": "FASS 1076",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
