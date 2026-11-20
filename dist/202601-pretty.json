@@ -1781,8 +1781,8 @@
       {
         "title": "Seats",
         "capacity": 150,
-        "actual": 41,
-        "remaining": 109
+        "actual": 40,
+        "remaining": 110
       },
       {
         "title": "Waitlist Seats",
@@ -1844,8 +1844,8 @@
       {
         "title": "Seats",
         "capacity": 75,
-        "actual": 74,
-        "remaining": 1
+        "actual": 75,
+        "remaining": 0
       },
       {
         "title": "Waitlist Seats",
@@ -1856,8 +1856,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 149,
-        "remaining": 9850
+        "actual": 150,
+        "remaining": 9849
       }
     ],
     "corequisites": [
@@ -1928,8 +1928,8 @@
       {
         "title": "Cross List Seats",
         "capacity": 9999,
-        "actual": 149,
-        "remaining": 9850
+        "actual": 150,
+        "remaining": 9849
       }
     ],
     "corequisites": [
@@ -76250,7 +76250,7 @@
           "to": "6:30 pm"
         },
         "days": "W",
-        "where": "FENS L030",
+        "where": "FENS L027",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -76326,7 +76326,7 @@
           "to": "6:30 pm"
         },
         "days": "W",
-        "where": "FENS L030",
+        "where": "FENS L027",
         "dateRange": {
           "from": "Sep 28, 2026",
           "to": "Dec 31, 2026"
@@ -118860,6 +118860,1243 @@
     "scheduleType": "Recitation",
     "credits": 0,
     "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( Huzurevi Ziyaretleri Projesi ) ",
+    "crn": 14069,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P02",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14069",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( İnsan Hakları Projesi ) ",
+    "crn": 14070,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P03",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14070",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( Toplumsal Cinsiyet ve Cinsel S ) ",
+    "crn": 14071,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P05",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14071",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( İşaret Dili Projesi ) ",
+    "crn": 14072,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P06",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14072",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( Sağlık Projesi ) ",
+    "crn": 14073,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P07",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14073",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( CIP101 Project ) ",
+    "crn": 14074,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P09",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14074",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "M",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( İlkokullarda Gerçekleşen Proje ) ",
+    "crn": 14075,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P10",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14075",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "T",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( TOM@University Projesi ) ",
+    "crn": 14076,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P13",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14076",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "T",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( CIP101 Project ) ",
+    "crn": 14077,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P17",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14077",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "T",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( İlkokullarda Gerçekleşen Proje ) ",
+    "crn": 14078,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P18",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14078",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( Toplumsal Cinsiyet ve Cinsel S ) ",
+    "crn": 14079,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P21",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14079",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( Sağlık Projesi ) ",
+    "crn": 14080,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P23",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14080",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( Dijital Yurttaşlık Projesi ) ",
+    "crn": 14081,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P25",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14081",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( CIP101 Project ) ",
+    "crn": 14082,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P26",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14082",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( CIP101 Project ) ",
+    "crn": 14083,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P27",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14083",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "W",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( İlkokullarda Gerçekleşen Proje ) ",
+    "crn": 14084,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P28",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14084",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( Huzurevi Ziyaretleri Projesi ) ",
+    "crn": 14085,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P29",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14085",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( İnsan Hakları Projesi ) ",
+    "crn": 14086,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P30",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14086",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( Afet Farkındalığı Projesi ) ",
+    "crn": 14087,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P31",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14087",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( Toplumsal Cinsiyet ve Cinsel S ) ",
+    "crn": 14088,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P32",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14088",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
+    "ectsScience": null,
+    "ectsEngineering": null,
+    "availability": [
+      {
+        "title": "Seats",
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      {
+        "title": "Waitlist Seats",
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      }
+    ]
+  },
+  {
+    "name": "Civic Involvement Projects  ( Tüketici Bilinci Projesi ) ",
+    "crn": 14089,
+    "subject": "CIP",
+    "code": 101,
+    "type": "P",
+    "section": "P34",
+    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202601&crn_in=14089",
+    "term": "Fall 2026-2027",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Foundation Development Year",
+      "Masters",
+      "Special Student"
+    ],
+    "campus": "Sabancı University Campus",
+    "scheduleType": "Recitation",
+    "credits": 0,
+    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202601&one_subj=CIP&sel_crse_strt=101P&sel_crse_end=101P&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
+    "schedule": [
+      {
+        "type": "Class",
+        "time": {
+          "from": "12:40 pm",
+          "to": "3:30 pm"
+        },
+        "days": "R",
+        "where": null,
+        "dateRange": {
+          "from": "Sep 28, 2026",
+          "to": "Dec 31, 2026"
+        },
+        "scheduleType": null,
+        "instructors": [
+          "Zeynep Bahar"
+        ]
+      }
+    ],
     "ectsScience": null,
     "ectsEngineering": null,
     "availability": [
