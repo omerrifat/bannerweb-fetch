@@ -23129,7 +23129,7 @@
           "to": "4:30 pm"
         },
         "days": "T",
-        "where": "FMAN G071",
+        "where": "FENS G035",
         "dateRange": {
           "from": "Feb 15, 2027",
           "to": "May 28, 2027"
@@ -23146,7 +23146,7 @@
           "to": "5:30 pm"
         },
         "days": "R",
-        "where": "FMAN G071",
+        "where": "FENS G035",
         "dateRange": {
           "from": "Feb 15, 2027",
           "to": "May 28, 2027"
@@ -87428,7 +87428,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ayşe Berrin Yanıkoğlu"
+          "Nasim Tavakkoli"
         ]
       },
       {
@@ -87445,7 +87445,7 @@
         },
         "scheduleType": null,
         "instructors": [
-          "Ayşe Berrin Yanıkoğlu"
+          "Nasim Tavakkoli"
         ]
       }
     ],
@@ -87510,32 +87510,36 @@
       {
         "type": "Class",
         "time": {
-          "from": "4:40 pm",
-          "to": "5:30 pm"
+          "from": "2:40 pm",
+          "to": "4:30 pm"
         },
-        "days": "W",
+        "days": "M",
         "where": "UC G030",
         "dateRange": {
           "from": "Feb 15, 2027",
           "to": "May 28, 2027"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ayşe Berrin Yanıkoğlu"
+        ]
       },
       {
         "type": "Class",
         "time": {
-          "from": "10:40 am",
-          "to": "12:30 pm"
+          "from": "2:40 pm",
+          "to": "4:30 pm"
         },
-        "days": "R",
-        "where": "FENS L045",
+        "days": "T",
+        "where": "FMAN G071",
         "dateRange": {
           "from": "Feb 15, 2027",
           "to": "May 28, 2027"
         },
         "scheduleType": null,
-        "instructors": null
+        "instructors": [
+          "Ayşe Berrin Yanıkoğlu"
+        ]
       }
     ],
     "ectsScience": 2,
