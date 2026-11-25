@@ -23162,9 +23162,9 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 320,
+        "capacity": 80,
         "actual": 0,
-        "remaining": 320
+        "remaining": 80
       },
       {
         "title": "Waitlist Seats",
@@ -23259,7 +23259,7 @@
     "subject": "ENS",
     "code": 205,
     "type": "R",
-    "section": "A1",
+    "section": "A",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=20718",
     "term": "Spring 2026-2027",
     "levels": [
@@ -23304,25 +23304,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 32,
+        "capacity": 16,
         "actual": 0,
-        "remaining": 32
+        "remaining": 16
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
       }
-    ],
-    "corequisites": [
-      "ENS 205"
     ]
   },
   {
@@ -23706,7 +23697,7 @@
     "subject": "ENS",
     "code": 205,
     "type": "R",
-    "section": "B1",
+    "section": "B",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=20725",
     "term": "Spring 2026-2027",
     "levels": [
@@ -23751,25 +23742,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 32,
+        "capacity": 16,
         "actual": 0,
-        "remaining": 32
+        "remaining": 16
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
       }
-    ],
-    "corequisites": [
-      "ENS 205"
     ]
   },
   {
@@ -23928,7 +23910,7 @@
     "subject": "ENS",
     "code": 205,
     "type": "R",
-    "section": "C1",
+    "section": "C",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=20730",
     "term": "Spring 2026-2027",
     "levels": [
@@ -23973,25 +23955,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 32,
+        "capacity": 16,
         "actual": 0,
-        "remaining": 32
+        "remaining": 16
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
       }
-    ],
-    "corequisites": [
-      "ENS 205"
     ]
   },
   {
@@ -43591,7 +43564,7 @@
     "subject": "ENS",
     "code": 205,
     "type": "R",
-    "section": "D1",
+    "section": "D",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=21664",
     "term": "Spring 2026-2027",
     "levels": [
@@ -43636,25 +43609,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 32,
+        "capacity": 16,
         "actual": 0,
-        "remaining": 32
+        "remaining": 16
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
       }
-    ],
-    "corequisites": [
-      "ENS 205"
     ]
   },
   {
@@ -48355,7 +48319,7 @@
     "subject": "ENS",
     "code": 205,
     "type": "R",
-    "section": "E1",
+    "section": "E",
     "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=22157",
     "term": "Spring 2026-2027",
     "levels": [
@@ -48400,25 +48364,16 @@
     "availability": [
       {
         "title": "Seats",
-        "capacity": 32,
+        "capacity": 16,
         "actual": 0,
-        "remaining": 32
+        "remaining": 16
       },
       {
         "title": "Waitlist Seats",
         "capacity": 0,
         "actual": 0,
         "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
       }
-    ],
-    "corequisites": [
-      "ENS 205"
     ]
   },
   {
@@ -94354,366 +94309,6 @@
     ],
     "corequisites": [
       "ENRG 426"
-    ]
-  },
-  {
-    "name": "Introduction to Materials Science - Recitation",
-    "crn": 23917,
-    "subject": "ENS",
-    "code": 205,
-    "type": "R",
-    "section": "A2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=23917",
-    "term": "Spring 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202602&one_subj=ENS&sel_crse_strt=205R&sel_crse_end=205R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "8:40 am",
-          "to": "10:30 am"
-        },
-        "days": "F",
-        "where": "FASS G043",
-        "dateRange": {
-          "from": "Feb 15, 2027",
-          "to": "May 28, 2027"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Özge Akbulut"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 32,
-        "actual": 0,
-        "remaining": 32
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
-      }
-    ],
-    "corequisites": [
-      "ENS 205"
-    ]
-  },
-  {
-    "name": "Introduction to Materials Science - Recitation",
-    "crn": 23918,
-    "subject": "ENS",
-    "code": 205,
-    "type": "R",
-    "section": "B2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=23918",
-    "term": "Spring 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202602&one_subj=ENS&sel_crse_strt=205R&sel_crse_end=205R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "10:40 am",
-          "to": "12:30 pm"
-        },
-        "days": "F",
-        "where": "FASS G043",
-        "dateRange": {
-          "from": "Feb 15, 2027",
-          "to": "May 28, 2027"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Özge Akbulut"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 32,
-        "actual": 0,
-        "remaining": 32
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
-      }
-    ],
-    "corequisites": [
-      "ENS 205"
-    ]
-  },
-  {
-    "name": "Introduction to Materials Science - Recitation",
-    "crn": 23919,
-    "subject": "ENS",
-    "code": 205,
-    "type": "R",
-    "section": "C2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=23919",
-    "term": "Spring 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202602&one_subj=ENS&sel_crse_strt=205R&sel_crse_end=205R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "11:40 am",
-          "to": "1:30 pm"
-        },
-        "days": "W",
-        "where": "FENS L065",
-        "dateRange": {
-          "from": "Feb 15, 2027",
-          "to": "May 28, 2027"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Özge Akbulut"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 32,
-        "actual": 0,
-        "remaining": 32
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
-      }
-    ],
-    "corequisites": [
-      "ENS 205"
-    ]
-  },
-  {
-    "name": "Introduction to Materials Science - Recitation",
-    "crn": 23920,
-    "subject": "ENS",
-    "code": 205,
-    "type": "R",
-    "section": "D2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=23920",
-    "term": "Spring 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202602&one_subj=ENS&sel_crse_strt=205R&sel_crse_end=205R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "2:40 pm",
-          "to": "4:30 pm"
-        },
-        "days": "F",
-        "where": "FASS G043",
-        "dateRange": {
-          "from": "Feb 15, 2027",
-          "to": "May 28, 2027"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Özge Akbulut"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 32,
-        "actual": 0,
-        "remaining": 32
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
-      }
-    ],
-    "corequisites": [
-      "ENS 205"
-    ]
-  },
-  {
-    "name": "Introduction to Materials Science - Recitation",
-    "crn": 23921,
-    "subject": "ENS",
-    "code": 205,
-    "type": "R",
-    "section": "E2",
-    "detailURL": "https://suis.sabanciuniv.edu/prod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=23921",
-    "term": "Spring 2026-2027",
-    "levels": [
-      "Doctorate",
-      "Undeclared",
-      "Scientific Preparatory",
-      "Undergraduate",
-      "Masters",
-      "Special Student",
-      "Exchange - Socrates Erasmus UG",
-      "Exchange - Socrates Erasmus MA",
-      "Exchange - Socrates Erasmus DR",
-      "Exchange - Erasmus Mundus MA",
-      "Exchange - Erasmus Mundus DR",
-      "Exchange - Erasmus Mundus UG"
-    ],
-    "campus": "Sabancı University Campus",
-    "scheduleType": "Recitation",
-    "credits": 0,
-    "catalogEntryURL": "https://suis.sabanciuniv.edu/prod/bwckctlg.p_display_courses?term_in=202602&one_subj=ENS&sel_crse_strt=205R&sel_crse_end=205R&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=",
-    "schedule": [
-      {
-        "type": "Class",
-        "time": {
-          "from": "4:40 pm",
-          "to": "6:30 pm"
-        },
-        "days": "F",
-        "where": "FASS G043",
-        "dateRange": {
-          "from": "Feb 15, 2027",
-          "to": "May 28, 2027"
-        },
-        "scheduleType": null,
-        "instructors": [
-          "Özge Akbulut"
-        ]
-      }
-    ],
-    "ectsScience": null,
-    "ectsEngineering": null,
-    "availability": [
-      {
-        "title": "Seats",
-        "capacity": 32,
-        "actual": 0,
-        "remaining": 32
-      },
-      {
-        "title": "Waitlist Seats",
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      {
-        "title": "Cross List Seats",
-        "capacity": 9999,
-        "actual": 0,
-        "remaining": 9999
-      }
-    ],
-    "corequisites": [
-      "ENS 205"
     ]
   },
   {
